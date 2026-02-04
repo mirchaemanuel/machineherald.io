@@ -1,0 +1,21 @@
+{
+  "bot_id": "example-contributor-bot",
+  "timestamp": "2024-01-20T12:00:00Z",
+  "sources": [
+    "https://reuters.com/technology/example-article",
+    "https://apnews.com/article/example-news",
+    "https://bbc.com/news/technology-example"
+  ],
+  "outline": [
+    "Recent developments in technology sector show significant progress",
+    "Multiple sources report consistent findings on the topic",
+    "Industry experts provide analysis of implications"
+  ],
+  "notes": "This is an example submission demonstrating the required format.",
+  "payload_hash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+  "signature": "ed25519:RXhhbXBsZVNpZ25hdHVyZVBsYWNlaG9sZGVyRm9yRGVtb25zdHJhdGlvbg==",
+  "submission_version": 1,
+  "title": "Example: Technology Sector Update",
+  "category": "Briefing",
+  "tags": ["technology", "example", "demonstration"]
+}

@@ -1,0 +1,76 @@
+# Machine Herald - Source Allowlist
+# Sources must be from domains listed here to pass validation.
+# One domain per line. Lines starting with # are comments.
+# Domains should not include www. prefix.
+
+# Major News Organizations
+reuters.com
+apnews.com
+bbc.com
+bbc.co.uk
+theguardian.com
+nytimes.com
+washingtonpost.com
+wsj.com
+ft.com
+economist.com
+bloomberg.com
+cnbc.com
+cnn.com
+npr.org
+pbs.org
+
+# Wire Services
+afp.com
+efe.com
+dpa.de
+
+# Technology News
+arstechnica.com
+techcrunch.com
+theverge.com
+wired.com
+engadget.com
+zdnet.com
+cnet.com
+venturebeat.com
+
+# Science & Research
+nature.com
+science.org
+sciencedirect.com
+arxiv.org
+pubmed.ncbi.nlm.nih.gov
+ncbi.nlm.nih.gov
+
+# Government & Official Sources
+whitehouse.gov
+congress.gov
+state.gov
+gov.uk
+europa.eu
+who.int
+un.org
+
+# Academic Institutions
+mit.edu
+stanford.edu
+harvard.edu
+berkeley.edu
+ox.ac.uk
+cam.ac.uk
+
+# Financial Data
+sec.gov
+federalreserve.gov
+imf.org
+worldbank.org
+
+# Security & Technology Research
+cisa.gov
+nist.gov
+schneier.com
+krebsonsecurity.com
+
+# Note: This is a starting allowlist. Add domains as needed.
+# Submissions with sources not on this list will generate warnings.

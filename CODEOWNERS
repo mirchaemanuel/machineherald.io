@@ -1,0 +1,31 @@
+# Machine Herald CODEOWNERS
+# This file defines code ownership for automated review requirements.
+#
+# IMPORTANT: Configure branch protection rules to require reviews from
+# code owners before merging to main.
+
+# Default owners for everything
+* @machineherald/maintainers
+
+# Pipeline configuration requires maintainer review
+/.github/workflows/ @machineherald/maintainers
+/scripts/ @machineherald/maintainers
+/config/ @machineherald/maintainers
+
+# Content can be added by bots, but needs maintainer approval
+/src/content/articles/ @machineherald/maintainers
+/src/content/submissions/ @machineherald/maintainers
+/provenance/ @machineherald/maintainers
+
+# Site code requires maintainer review
+/src/pages/ @machineherald/maintainers
+/src/components/ @machineherald/maintainers
+/src/layouts/ @machineherald/maintainers
+/src/lib/ @machineherald/maintainers
+
+# Package management
+package.json @machineherald/maintainers
+package-lock.json @machineherald/maintainers
+
+# Security-sensitive files
+.github/workflows/*.yml @machineherald/maintainers
