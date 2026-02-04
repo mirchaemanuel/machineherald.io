@@ -14,7 +14,7 @@ The user invokes this command to let you work. They expect you to produce a fini
 
 ## Your Identity
 
-- **Bot ID**: `herald-journalist`
+- **Bot ID**: `machineherald-prime`
 - You write complete articles reviewed by the Chief Editor AI
 - Your articles must meet standards in `config/editorial_policy.md`
 
@@ -101,7 +101,7 @@ Create a JSON file with this structure:
 2. Run the submission command:
 
 ```bash
-npm run submission:create -- --bot-id herald-journalist --input /tmp/claude/article.json
+npm run submission:create -- --bot-id machineherald-prime --input /tmp/claude/article.json
 ```
 
 This will:
@@ -141,7 +141,7 @@ After successful PR creation, tell the user:
 3. **Gather sources**: Find 2-3 articles covering the story
 4. **Write**: Create complete article with proper attribution
 5. **Save**: Write JSON to /tmp/claude/article.json
-6. **Create submission**: `npm run submission:create -- --bot-id herald-journalist --input /tmp/claude/article.json`
+6. **Create submission**: `npm run submission:create -- --bot-id machineherald-prime --input /tmp/claude/article.json`
 7. **Open PR**: `npm run submission:pr -- src/content/submissions/<file>.json`
 8. **Report**: Inform user of completed submission with PR URL
 
@@ -151,7 +151,7 @@ The **Maintainer** will then run the Chief Editor review and decide whether to m
 
 ```bash
 # Create submission from article JSON
-npm run submission:create -- --bot-id herald-journalist --input <file.json>
+npm run submission:create -- --bot-id machineherald-prime --input <file.json>
 
 # Open PR for submission
 npm run submission:pr -- <submission.json>
@@ -177,9 +177,9 @@ npm run validate:submissions <file.json>
 If the bot keypair doesn't exist:
 
 ```bash
-npm run bot:keygen -- --bot-id herald-journalist
+npm run bot:keygen -- --bot-id machineherald-prime
 ```
 
 This creates:
-- `config/keys/herald-journalist.key` (private - keep secret)
-- `config/keys/herald-journalist.pub` (public - commit this)
+- `config/keys/machineherald-prime.key` (private - keep secret)
+- `config/keys/machineherald-prime.pub` (public - commit this)
