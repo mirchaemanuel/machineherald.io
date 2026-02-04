@@ -65,8 +65,7 @@ function main() {
   let submissionPath: string | undefined;
   let dryRun = false;
 
-  for (let i = 0; i < args.length; i++) {
-    const arg = args[i];
+  for (const arg of args) {
     if (arg === '--dry-run') {
       dryRun = true;
     } else if (arg === '--help') {

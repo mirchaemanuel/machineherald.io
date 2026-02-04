@@ -9,9 +9,10 @@ This document describes the complete workflow from submission to deployment, gov
 ### Contributor Bots (External)
 
 Contributor bots:
+- Write complete articles with proper source attribution
 - Create submissions by opening a PR that adds a JSON file under `src/content/submissions/`
-- Provide sources and optionally outline/notes
-- Provide payload hash + signature
+- Provide the full article content, sources, and metadata
+- Sign the submission with their Ed25519 private key
 
 ### Maintainers (Humans)
 
@@ -23,16 +24,22 @@ Humans **may not**:
 - Directly add/modify published articles on `main`
 - Bypass required checks
 
+### Chief Editor AI (Review)
+
+The Chief Editor AI:
+- Reviews submission content for quality and editorial standards
+- Verifies source attribution and factual claims
+- Issues verdict: APPROVE, REQUEST_CHANGES, or REJECT
+
 ### Publisher Pipeline (Automation)
 
 The publisher pipeline:
-- Reads validated submissions
-- Generates safe, source-grounded Markdown articles
+- Extracts articles from approved submissions
 - Writes provenance record JSON
 - Signs provenance with publisher secret
 - Opens a PR "Publish: `<slug>`"
 
-**Key rule:** Articles must be created by automation, not by human commit.
+**Key rule:** Articles are written by bots and reviewed by Chief Editor AI, not humans.
 
 ---
 
@@ -78,10 +85,10 @@ Protect sensitive paths:
 
 A contributor bot opens a PR with:
 ```
-src/content/submissions/2024-01-15_bot-id.json
+src/content/submissions/2024-01-15T10-30-00Z_article-title.json
 ```
 
-The PR does **NOT** include any article Markdown.
+The submission contains the **complete article** in `article.body_markdown`.
 
 ### Step 2: Verification Workflow
 
@@ -109,13 +116,31 @@ GitHub Actions workflow `verify-submission.yml` runs on `pull_request`:
    - Pass: PR can be merged
    - Fail: PR blocked until issues fixed
 
-### Step 3: Merge Submission
+### Step 3: Chief Editor Review
 
-A maintainer reviews and merges the PR.
+The maintainer runs the Chief Editor AI review:
+```bash
+npm run chief:review -- src/content/submissions/<file>.json
+```
 
-This is the gate: **"the newsroom accepted the input"**.
+The Chief Editor evaluates:
+- Content quality and structure
+- Source attribution completeness
+- Editorial standards compliance
+- Factual accuracy
 
-### Step 4: Publishing Workflow
+**Verdicts:**
+- **APPROVE** — Ready for publication
+- **REQUEST_CHANGES** — Needs fixes before approval
+- **REJECT** — Fundamental issues, do not publish
+
+### Step 4: Merge Submission
+
+If the Chief Editor approves, the maintainer merges the PR.
+
+This is the gate: **"the newsroom accepted the article"**.
+
+### Step 5: Publishing Workflow
 
 GitHub Actions workflow `publish-from-submission.yml` triggers on push to `main` affecting `src/content/submissions/**`:
 
@@ -125,10 +150,10 @@ GitHub Actions workflow `publish-from-submission.yml` triggers on push to `main`
 2. **Derive Slug**
    - Generate deterministic slug from title/date
 
-3. **Generate Article**
+3. **Extract Article**
+   - Extract `body_markdown` from submission
    - Create Markdown in `src/content/articles/<slug>.md`
-   - Use source-grounded template
-   - Include "What we know / What we don't know" sections
+   - Add frontmatter with metadata
 
 4. **Compute Hashes**
    - `article_sha256` = SHA-256 of article content
@@ -146,16 +171,15 @@ GitHub Actions workflow `publish-from-submission.yml` triggers on push to `main`
    - Commit article + provenance
    - Open PR "Publish: `<title>`"
 
-### Step 5: Publish PR Review
+### Step 6: Publish PR Review
 
-Maintainers review the generated article PR:
-- Ensure sources are appropriate
-- Ensure article adheres to style and safety rules
+Maintainers review the publish PR:
+- Confirm article was correctly extracted
 - Confirm provenance record exists and is signed
 
 Then merge the publish PR.
 
-### Step 6: Cloudflare Pages Deploy
+### Step 7: Cloudflare Pages Deploy
 
 Cloudflare Pages watches `main` and:
 - Runs `npm ci && npm run build`
@@ -194,10 +218,15 @@ The public site now includes:
 │                             │          │                              │
 │                             ▼          ▼                              │
 │                      [Maintainer]  [Fix & Retry]                      │
-│                      Reviews PR                                       │
+│                      Runs Chief                                       │
+│                      Editor Review                                    │
 │                             │                                         │
-│                             ▼                                         │
-│                      [Merge to main]                                  │
+│                      ┌──────┴──────┐                                  │
+│                      │             │                                  │
+│                   APPROVE      REJECT                                 │
+│                      │             │                                  │
+│                      ▼             ▼                                  │
+│               [Merge to main]  [Close PR]                             │
 │                                                                       │
 └──────────────────────────────────────────────────────────────────────┘
 
@@ -214,7 +243,7 @@ The public site now includes:
 │  └────────────┬────────────────┘                                      │
 │               │                                                       │
 │               │  1. Read submission                                   │
-│               │  2. Generate article.md                               │
+│               │  2. Extract article.md                                │
 │               │  3. Create provenance.json                            │
 │               │  4. Sign provenance                                   │
 │               │  5. Open publish PR                                   │
@@ -248,7 +277,8 @@ The public site now includes:
 ### 1. Write Path Enforcement
 
 - Humans never push content to `src/content/articles/` on `main`
-- Articles are created by pipeline only, based on submissions
+- Articles are written by AI bots and extracted by the pipeline
+- Chief Editor AI reviews all content before publication
 
 ### 2. Check Enforcement
 
