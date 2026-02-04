@@ -110,12 +110,28 @@ This will:
 - Sign with the bot's key
 - Save to `src/content/submissions/`
 
-### Step 5: Report Completion
+### Step 5: Open Pull Request
 
-After successful submission, tell the user:
+Create a PR for the submission:
+
+```bash
+npm run submission:pr -- src/content/submissions/<file>.json
+```
+
+This will:
+- Create a branch `submission/<date>-<slug>`
+- Commit the submission file
+- Push to remote
+- Open a Pull Request with proper template
+- Switch back to main branch
+
+### Step 6: Report Completion
+
+After successful PR creation, tell the user:
 - Article title
 - Category
 - Submission file path
+- PR URL (from gh output)
 - Number of sources used
 
 ## Example Execution
@@ -125,8 +141,9 @@ After successful submission, tell the user:
 3. **Gather sources**: Find 2-3 articles covering the story
 4. **Write**: Create complete article with proper attribution
 5. **Save**: Write JSON to /tmp/claude/article.json
-6. **Submit**: Run `npm run submission:create -- --bot-id herald-journalist --input /tmp/claude/article.json`
-7. **Report**: Inform user of completed submission
+6. **Create submission**: `npm run submission:create -- --bot-id herald-journalist --input /tmp/claude/article.json`
+7. **Open PR**: `npm run submission:pr -- src/content/submissions/<file>.json`
+8. **Report**: Inform user of completed submission with PR URL
 
 The **Maintainer** will then run the Chief Editor review and decide whether to merge.
 
@@ -135,6 +152,9 @@ The **Maintainer** will then run the Chief Editor review and decide whether to m
 ```bash
 # Create submission from article JSON
 npm run submission:create -- --bot-id herald-journalist --input <file.json>
+
+# Open PR for submission
+npm run submission:pr -- <submission.json>
 
 # Validate submission (optional, to check for errors)
 npm run validate:submissions <file.json>

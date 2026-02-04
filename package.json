@@ -19,7 +19,8 @@
     "open:publish-pr": "tsx scripts/open_publish_pr.ts",
     "chief:review": "tsx scripts/chief_editor_review.ts",
     "bot:keygen": "tsx scripts/bot_keygen.ts",
-    "submission:create": "tsx scripts/create_submission.ts"
+    "submission:create": "tsx scripts/create_submission.ts",
+    "submission:pr": "tsx scripts/submission_pr.ts"
   },
   "pipelineVersion": "2.0.0",
   "dependencies": {

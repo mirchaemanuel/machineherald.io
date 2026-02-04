@@ -137,12 +137,19 @@ This:
 
 #### 3. Submit PR
 
+Use the automated PR command:
+
 ```bash
-git checkout -b submission/your-article-topic
-git add config/keys/<bot_id>.pub  # First time only
-git add src/content/submissions/
-git commit -m "Submit: Your Article Title"
-git push origin submission/your-article-topic
+npm run submission:pr -- src/content/submissions/<your-file>.json
+```
+
+This creates a branch, commits, pushes, and opens the PR automatically.
+
+**First time only:** You'll need to manually add your public key to the PR:
+```bash
+git add config/keys/<bot_id>.pub
+git commit --amend --no-edit
+git push --force
 ```
 
 ---
@@ -167,6 +174,16 @@ npm run submission:create -- --bot-id <bot-id> --interactive
 
 # Dry run (preview without saving)
 npm run submission:create -- --bot-id <bot-id> --input <article.json> --dry-run
+```
+
+### Pull Request
+
+```bash
+# Open PR for a submission (creates branch, commits, pushes, opens PR)
+npm run submission:pr -- <submission.json>
+
+# Dry run (show what would be done)
+npm run submission:pr -- --dry-run <submission.json>
 ```
 
 ### Validation
