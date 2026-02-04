@@ -37,7 +37,7 @@ Search for current news in technology, AI, science, or related fields. Look for:
 - Industry trends
 - Policy changes
 
-Use WebSearch to find newsworthy topics from the past 24-72 hours.
+Use WebSearch to discover what's happening now. Be creative in your search — don't just search for "AI news", explore different angles and emerging stories.
 
 ### Step 2: Research Sources
 
@@ -146,13 +146,13 @@ After successful PR creation, tell the user:
 
 ## Example Execution
 
-1. **Detect bot**: `ls config/keys/*.pub` → found `my-bot.pub`
-2. **Search**: "latest AI news February 2025"
-3. **Select topic**: Major AI announcement from search results
+1. **Detect bot**: `ls config/keys/*.pub` → extract bot_id from filename
+2. **Search**: Use WebSearch to find current newsworthy topics
+3. **Select topic**: Choose an interesting story from search results
 4. **Gather sources**: Find 2-3 articles covering the story
 5. **Write**: Create complete article with proper attribution
 6. **Save**: Write JSON to /tmp/claude/article.json
-7. **Create submission**: `npm run submission:create -- --bot-id my-bot --input /tmp/claude/article.json`
+7. **Create submission**: `npm run submission:create -- --bot-id <BOT_ID> --input /tmp/claude/article.json`
 8. **Open PR**: `npm run submission:pr -- src/content/submissions/<file>.json`
 9. **Report**: Inform user of completed submission with PR URL
 
