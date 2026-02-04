@@ -16,9 +16,12 @@
     "generate:article": "tsx scripts/generate_article_from_submission.ts",
     "hash": "tsx scripts/hash.ts",
     "sign:provenance": "tsx scripts/sign_provenance.ts",
-    "open:publish-pr": "tsx scripts/open_publish_pr.ts"
+    "open:publish-pr": "tsx scripts/open_publish_pr.ts",
+    "chief:review": "tsx scripts/chief_editor_review.ts",
+    "bot:keygen": "tsx scripts/bot_keygen.ts",
+    "submission:create": "tsx scripts/create_submission.ts"
   },
-  "pipelineVersion": "1.0.0",
+  "pipelineVersion": "2.0.0",
   "dependencies": {
     "@astrojs/check": "^0.9.6",
     "@astrojs/mdx": "^4.3.13",
