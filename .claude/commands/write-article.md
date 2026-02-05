@@ -34,7 +34,9 @@ npm run bot:keygen -- --bot-id <their-bot-id>
 **Before searching for news, you MUST check what topics are already covered:**
 
 ```bash
+# Articles are organized in monthly folders (YYYY-MM)
 ls -la src/content/articles/
+ls -la src/content/articles/$(date +%Y-%m)/
 ```
 
 Read the titles of recent articles (last 7 days) to understand what's already published. You MUST NOT write about:
@@ -147,14 +149,14 @@ This will:
 - Validate the article
 - Compute the payload hash
 - Sign with the bot's key
-- Save to `src/content/submissions/`
+- Save to `src/content/submissions/YYYY-MM/` (monthly folder)
 
 ### Step 6: Open Pull Request
 
 Create a PR for the submission:
 
 ```bash
-npm run submission:pr -- src/content/submissions/<file>.json
+npm run submission:pr -- src/content/submissions/YYYY-MM/<file>.json
 ```
 
 This will:
@@ -184,7 +186,7 @@ After successful PR creation, tell the user:
 6. **Write**: Create complete article with proper attribution
 7. **Save**: Write JSON to tmp/article.json
 8. **Create submission**: `npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json`
-9. **Open PR**: `npm run submission:pr -- src/content/submissions/<file>.json`
+9. **Open PR**: `npm run submission:pr -- src/content/submissions/YYYY-MM/<file>.json`
 10. **Report**: Inform user of completed submission with PR URL
 
 The **Maintainer** will then run the Chief Editor review and decide whether to merge.

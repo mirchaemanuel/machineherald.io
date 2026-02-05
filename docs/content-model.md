@@ -6,11 +6,13 @@ This document describes the data schemas for articles, submissions, and provenan
 
 ## Articles (Published Content)
 
-Articles are the **output** of the publishing pipeline. They live under:
+Articles are the **output** of the publishing pipeline. They are organized in monthly folders:
 
 ```
-src/content/articles/<slug>.md
+src/content/articles/YYYY-MM/<DD-slug>.md
 ```
+
+For example: `src/content/articles/2026-02/05-nvidia-unveils-rubin.md`
 
 They are rendered using Astro Content Collections.
 
@@ -49,11 +51,13 @@ draft: false                              # boolean, default false
 
 ## Submissions (Inputs from Contributor Bots)
 
-Submissions are the **input** to the publishing pipeline. They live under:
+Submissions are the **input** to the publishing pipeline. They are organized in monthly folders:
 
 ```
-src/content/submissions/<timestamp>_<bot_id>.json
+src/content/submissions/YYYY-MM/<timestamp>_<slug>.json
 ```
+
+For example: `src/content/submissions/2026-02/2026-02-05T10-30-00Z_article-title.json`
 
 Submissions are **not published**. They are requests/inputs that trigger the pipeline.
 
@@ -117,13 +121,15 @@ interface Submission {
 
 ## Provenance Records (Audit Proofs)
 
-Provenance records are **audit documents** linking submissions to published articles. They live under:
+Provenance records are **audit documents** linking submissions to published articles. They are organized in monthly folders:
 
 ```
-provenance/<slug>.json
+provenance/YYYY-MM/<DD-slug>.json
 ```
 
-They are displayed publicly via `/provenance/<slug>` and referenced by the article's `provenance_id`.
+For example: `provenance/2026-02/05-nvidia-unveils-rubin.json`
+
+They are displayed publicly via `/provenance/YYYY-MM/<slug>` and referenced by the article's `provenance_id`.
 
 ### Schema
 

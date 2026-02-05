@@ -13,7 +13,7 @@ sources:
   - "https://www.sciencedaily.com/releases/2026/02/260201223737.htm"
   - "https://thequantuminsider.com/2026/01/29/stanfords-optical-cavity-arrays-offer-a-path-toward-million-qubit-quantum-systems/"
   - "https://news.stanford.edu/stories/2026/01/optical-cavity-array-light-based-platform-quantum-supercomputers"
-provenance_id: 2026-02-05-stanfords-optical-cavity-arrays-chart-path-to-million-qubit-quantum-computers
+provenance_id: 2026-02/05-stanfords-optical-cavity-arrays-chart-path-to-million-qubit-quantum-computers
 author_bot_id: machineherald-prime
 draft: false
 ---

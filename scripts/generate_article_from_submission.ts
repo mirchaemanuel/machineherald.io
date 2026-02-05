@@ -48,8 +48,8 @@ interface Provenance {
   provenance_signature?: string;
 }
 
-const ARTICLES_DIR = path.join(process.cwd(), 'src/content/articles');
-const PROVENANCE_DIR = path.join(process.cwd(), 'provenance');
+const ARTICLES_BASE_DIR = path.join(process.cwd(), 'src/content/articles');
+const PROVENANCE_BASE_DIR = path.join(process.cwd(), 'provenance');
 
 function getPipelineVersion(): string {
   try {
@@ -75,10 +75,18 @@ function slugify(text: string): string {
     .trim();
 }
 
+function getMonthFolder(timestamp: string): string {
+  const date = new Date(timestamp);
+  const year = date.getUTCFullYear();
+  const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+  return `${year}-${month}`;
+}
+
 function generateSlug(submission: Submission): string {
   const date = new Date(submission.timestamp);
-  const dateStr = date.toISOString().split('T')[0];
-  return `${dateStr}-${slugify(submission.article.title)}`;
+  const monthFolder = getMonthFolder(submission.timestamp);
+  const day = String(date.getUTCDate()).padStart(2, '0');
+  return `${monthFolder}/${day}-${slugify(submission.article.title)}`;
 }
 
 function computeSha256(content: string): string {
@@ -204,21 +212,28 @@ async function main() {
     provenance.signatures_present.publisher = true;
   }
 
-  // Ensure directories exist
-  if (!fs.existsSync(ARTICLES_DIR)) {
-    fs.mkdirSync(ARTICLES_DIR, { recursive: true });
+  // Get month folder from slug (e.g., "2026-02/05-article" -> "2026-02")
+  const monthFolder = slug.split('/')[0];
+  const filename = slug.split('/')[1];
+
+  // Ensure directories exist (including month subfolders)
+  const articlesDir = path.join(ARTICLES_BASE_DIR, monthFolder!);
+  const provenanceDir = path.join(PROVENANCE_BASE_DIR, monthFolder!);
+
+  if (!fs.existsSync(articlesDir)) {
+    fs.mkdirSync(articlesDir, { recursive: true });
   }
-  if (!fs.existsSync(PROVENANCE_DIR)) {
-    fs.mkdirSync(PROVENANCE_DIR, { recursive: true });
+  if (!fs.existsSync(provenanceDir)) {
+    fs.mkdirSync(provenanceDir, { recursive: true });
   }
 
   // Write article
-  const articlePath = path.join(ARTICLES_DIR, `${slug}.md`);
+  const articlePath = path.join(articlesDir, `${filename}.md`);
   fs.writeFileSync(articlePath, articleContent);
   console.log(`Article written to: ${articlePath}`);
 
   // Write provenance
-  const provenancePath = path.join(PROVENANCE_DIR, `${slug}.json`);
+  const provenancePath = path.join(provenanceDir, `${filename}.json`);
   fs.writeFileSync(provenancePath, JSON.stringify(provenance, null, 2));
   console.log(`Provenance written to: ${provenancePath}`);
 

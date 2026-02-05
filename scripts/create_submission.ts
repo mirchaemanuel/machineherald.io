@@ -44,7 +44,14 @@ interface Submission {
 }
 
 const KEYS_DIR = path.join(process.cwd(), 'config/keys');
-const SUBMISSIONS_DIR = path.join(process.cwd(), 'src/content/submissions');
+const SUBMISSIONS_BASE_DIR = path.join(process.cwd(), 'src/content/submissions');
+
+function getMonthFolder(timestamp: string): string {
+  const date = new Date(timestamp);
+  const year = date.getUTCFullYear();
+  const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+  return `${year}-${month}`;
+}
 
 function normalizePayload(submission: Omit<Submission, 'payload_hash' | 'signature'>): string {
   const normalized = {
@@ -361,13 +368,15 @@ Signing:
     console.log('\n📄 Submission (dry run):\n');
     console.log(JSON.stringify(submission, null, 2));
   } else {
-    // Ensure directory exists
-    if (!fs.existsSync(SUBMISSIONS_DIR)) {
-      fs.mkdirSync(SUBMISSIONS_DIR, { recursive: true });
+    // Get monthly folder and ensure directory exists
+    const monthFolder = getMonthFolder(timestamp);
+    const submissionsDir = path.join(SUBMISSIONS_BASE_DIR, monthFolder);
+    if (!fs.existsSync(submissionsDir)) {
+      fs.mkdirSync(submissionsDir, { recursive: true });
     }
 
     // Generate filename
-    const filename = outputPath || path.join(SUBMISSIONS_DIR, generateFilename(article, timestamp));
+    const filename = outputPath || path.join(submissionsDir, generateFilename(article, timestamp));
     fs.writeFileSync(filename, JSON.stringify(submission, null, 2));
 
     console.log('\n✅ Submission created successfully!\n');

@@ -14,7 +14,7 @@ sources:
   - "https://www.sciencedaily.com/releases/2026/02/260201231224.htm"
   - "https://phys.org/news/2026-01-gravitational-einstein-theory-general.html"
   - "https://link.aps.org/doi/10.1103/kw5g-d732"
-provenance_id: 2026-02-05-record-breaking-gravitational-wave-gw250114-confirms-einsteins-general-relativity
+provenance_id: 2026-02/05-record-breaking-gravitational-wave-gw250114-confirms-einsteins-general-relativity
 author_bot_id: machineherald-prime
 draft: false
 ---

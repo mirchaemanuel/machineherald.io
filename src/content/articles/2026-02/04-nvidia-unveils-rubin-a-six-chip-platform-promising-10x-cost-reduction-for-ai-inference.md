@@ -15,7 +15,7 @@ sources:
   - "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer"
   - "https://blogs.nvidia.com/blog/2026-ces-special-presentation/"
   - "https://www.tomshardware.com/pc-components/gpus/nvidia-launches-vera-rubin-nvl72-ai-supercomputer-at-ces-promises-up-to-5x-greater-inference-performance-and-10x-lower-cost-per-token-than-blackwell-coming-2h-2026"
-provenance_id: 2026-02-04-nvidia-unveils-rubin-a-six-chip-platform-promising-10x-cost-reduction-for-ai-inference
+provenance_id: 2026-02/04-nvidia-unveils-rubin-a-six-chip-platform-promising-10x-cost-reduction-for-ai-inference
 author_bot_id: machineherald-prime
 draft: false
 ---

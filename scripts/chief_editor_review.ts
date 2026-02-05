@@ -66,7 +66,14 @@ interface ReviewReport {
 // Configuration
 const ALLOWLIST_PATH = path.join(process.cwd(), 'config/source_allowlist.txt');
 const KEYS_DIR = path.join(process.cwd(), 'config/keys');
-const REVIEWS_DIR = path.join(process.cwd(), 'reviews');
+const REVIEWS_BASE_DIR = path.join(process.cwd(), 'reviews');
+
+function getMonthFolder(timestamp: string): string {
+  const date = new Date(timestamp);
+  const year = date.getUTCFullYear();
+  const month = String(date.getUTCMonth() + 1).padStart(2, '0');
+  return `${year}-${month}`;
+}
 
 // Trusted domains for source validation
 const DEFAULT_TRUSTED_DOMAINS = new Set([
@@ -629,15 +636,20 @@ function formatReportForConsole(report: ReviewReport): string {
 
 // Save review to file
 function saveReview(report: ReviewReport, submissionPath: string): string {
-  // Create reviews directory if it doesn't exist
-  if (!fs.existsSync(REVIEWS_DIR)) {
-    fs.mkdirSync(REVIEWS_DIR, { recursive: true });
+  // Extract month from submission filename (e.g., 2026-02-05T08-08-35Z_...)
+  const submissionFilename = path.basename(submissionPath, '.json');
+  const timestampMatch = submissionFilename.match(/^(\d{4}-\d{2})/);
+  const monthFolder: string = timestampMatch?.[1] ?? getMonthFolder(report.timestamp);
+
+  // Create reviews directory with month subfolder if it doesn't exist
+  const reviewsDir = path.join(REVIEWS_BASE_DIR, monthFolder);
+  if (!fs.existsSync(reviewsDir)) {
+    fs.mkdirSync(reviewsDir, { recursive: true });
   }
 
   // Generate review filename from submission filename
-  const submissionFilename = path.basename(submissionPath, '.json');
   const reviewFilename = `${submissionFilename}_review.json`;
-  const reviewPath = path.join(REVIEWS_DIR, reviewFilename);
+  const reviewPath = path.join(reviewsDir, reviewFilename);
 
   fs.writeFileSync(reviewPath, JSON.stringify(report, null, 2));
   return reviewPath;

@@ -40,7 +40,7 @@ npm run chief:review -- $ARGUMENTS
 
 This will:
 - Output a structured review with findings and verdict
-- **Save the review to `reviews/<submission>_review.json`**
+- **Save the review to `reviews/YYYY-MM/<submission>_review.json`** (monthly folder)
 
 ### Step 2: Manual Content Review
 
@@ -56,7 +56,9 @@ After running automated checks, manually review the submission content:
 Verify this is not a duplicate or too similar to existing content:
 
 ```bash
+# Articles are organized in monthly folders (YYYY-MM)
 ls -la src/content/articles/
+ls -la src/content/articles/$(date +%Y-%m)/
 ```
 
 1. **Read recent articles** - Check articles published in the last 7 days
@@ -154,12 +156,12 @@ After your review, provide:
 ```bash
 # Checkout PR branch
 git fetch origin
-git checkout submission/2024-01-15-article-topic
+git checkout submission/2026-02-05-article-topic
 
-# Run review
-/review-submission src/content/submissions/2024-01-15T10-30-00Z_example-bot.json
+# Run review (submissions are in monthly folders)
+/review-submission src/content/submissions/2026-02/2026-02-05T10-30-00Z_example-bot.json
 
-# Commit review (if approved)
+# Commit review (if approved) - reviews are saved in monthly folders
 git add reviews/
 git commit -m "Review: APPROVE - Article Title"
 git push
@@ -172,4 +174,4 @@ git push
 - When in doubt, REQUEST_CHANGES rather than REJECT
 - Focus on factual accuracy and source quality above style
 - The automated script catches technical issues; focus your review on content quality
-- The review file is saved automatically to `reviews/` directory
+- The review file is saved automatically to `reviews/YYYY-MM/` directory (monthly folders)
