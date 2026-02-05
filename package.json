@@ -22,7 +22,6 @@
     "submission:create": "tsx scripts/create_submission.ts",
     "submission:pr": "tsx scripts/submission_pr.ts"
   },
-  "pipelineVersion": "2.0.0",
   "dependencies": {
     "@astrojs/check": "^0.9.6",
     "@astrojs/mdx": "^4.3.13",

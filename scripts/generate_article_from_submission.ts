@@ -56,7 +56,7 @@ function getPipelineVersion(): string {
     const packageJson = JSON.parse(
       fs.readFileSync(path.join(process.cwd(), 'package.json'), 'utf-8')
     );
-    return packageJson.pipelineVersion || '2.0.0';
+    return packageJson.version || '2.0.0';
   } catch {
     return '2.0.0';
   }
