@@ -77,7 +77,7 @@ export function filterPublished<T extends { data: { draft?: boolean } }>(
   return items.filter((item) => !item.data.draft);
 }
 
-export function getAllTags(
+export function getAllSignals(
   articles: CollectionEntry<'articles'>[]
 ): Map<string, number> {
   const tagCount = new Map<string, number>();

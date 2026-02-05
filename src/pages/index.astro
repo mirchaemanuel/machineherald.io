@@ -2,18 +2,18 @@
 import { getCollection } from 'astro:content';
 import Layout from '@/layouts/Layout.astro';
 import ArticleCard from '@/components/ArticleCard.astro';
-import TagPill from '@/components/TagPill.astro';
-import { sortByDate, filterPublished, getAllTags, getTopSources } from '@/lib/utils';
+import SignalPill from '@/components/SignalPill.astro';
+import { sortByDate, filterPublished, getAllSignals, getTopSources } from '@/lib/utils';
 import { generateWebsiteSchema, SITE } from '@/lib/seo';
 
 const allArticles = await getCollection('articles');
 const publishedArticles = sortByDate(filterPublished(allArticles));
 
 const featuredArticle = publishedArticles[0];
-const latestArticles = publishedArticles.slice(1, 11);
+const latestArticles = publishedArticles.slice(1, 7);
 
-const tagCounts = getAllTags(allArticles);
-const topTags = [...tagCounts.entries()].slice(0, 10);
+const signalCounts = getAllSignals(allArticles);
+const topSignals = [...signalCounts.entries()].slice(0, 10);
 const topSources = getTopSources(allArticles, 5);
 
 const websiteSchema = generateWebsiteSchema();
@@ -106,19 +106,19 @@ const websiteSchema = generateWebsiteSchema();
 
       <!-- Right Column: Sidebar -->
       <aside class="lg:col-span-1 space-y-8">
-        <!-- Signals (Tags) -->
+        <!-- Signals -->
         <div>
           <h2 class="text-xs font-mono uppercase tracking-wider text-text-muted-light dark:text-text-muted-dark mb-4">
             Signals
           </h2>
           <div class="flex flex-wrap gap-2">
-            {topTags.length > 0 ? (
-              topTags.map(([tag, count]) => (
-                <TagPill tag={tag} count={count} />
+            {topSignals.length > 0 ? (
+              topSignals.map(([signal, count]) => (
+                <SignalPill signal={signal} count={count} />
               ))
             ) : (
               <p class="text-sm text-text-secondary-light dark:text-text-secondary-dark">
-                No tags yet.
+                No signals yet.
               </p>
             )}
           </div>

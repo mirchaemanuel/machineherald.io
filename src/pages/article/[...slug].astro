@@ -2,7 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Layout from '@/layouts/Layout.astro';
 import ProvenanceBadge from '@/components/ProvenanceBadge.astro';
-import TagPill from '@/components/TagPill.astro';
+import SignalPill from '@/components/SignalPill.astro';
 import { formatDate, getReadingTime, extractDomain } from '@/lib/utils';
 import { loadProvenanceSync } from '@/lib/provenance';
 import { generateNewsArticleSchema, SITE } from '@/lib/seo';
@@ -81,11 +81,11 @@ const articleSchema = generateNewsArticleSchema({
         {summary}
       </p>
 
-      <!-- Tags -->
+      <!-- Signals -->
       {tags.length > 0 && (
         <div class="flex flex-wrap gap-2 mb-6">
           {tags.map((tag) => (
-            <TagPill tag={tag} />
+            <SignalPill signal={tag} />
           ))}
         </div>
       )}

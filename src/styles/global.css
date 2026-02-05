@@ -65,7 +65,7 @@
     @apply hover:shadow-md dark:hover:shadow-black/20;
   }
 
-  .tag-pill {
+  .signal-pill {
     @apply inline-flex items-center rounded-full px-2.5 py-0.5;
     @apply text-xs font-medium;
     @apply bg-zinc-100 text-zinc-700;
