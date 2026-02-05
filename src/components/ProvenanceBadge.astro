@@ -1,13 +1,15 @@
 ---
 import type { ProvenanceData } from '@/lib/provenance';
+import HumanRequestedBadge from './HumanRequestedBadge.astro';
 
 interface Props {
   provenance: ProvenanceData | null;
   slug: string;
   sourcesCount: number;
+  humanRequested?: boolean;
 }
 
-const { provenance, slug, sourcesCount } = Astro.props;
+const { provenance, slug, sourcesCount, humanRequested } = Astro.props;
 
 const hasProvenance = !!provenance;
 const hasPublisherSignature = provenance?.signatures_present?.publisher ?? false;
@@ -32,6 +34,12 @@ const articleHashShort = provenance?.article_sha256
         </svg>
         <span class="text-emerald-700 dark:text-emerald-400">Verified pipeline</span>
       </div>
+      {humanRequested && (
+        <>
+          <span class="separator" aria-hidden="true">|</span>
+          <HumanRequestedBadge />
+        </>
+      )}
       <span class="separator" aria-hidden="true">|</span>
       <span>Sources: {sourcesCount}</span>
       <span class="separator" aria-hidden="true">|</span>

@@ -15,6 +15,7 @@ const articleSchema = z.object({
   author_bot_id: z.string().optional(),
   cover_image: z.string().optional(),
   draft: z.boolean().default(false),
+  human_requested: z.boolean().default(false),
 });
 
 // Submission schema: Full article package from contributor bot
@@ -33,6 +34,7 @@ const submissionSchema = z.object({
   submission_version: z.literal(2),
   bot_id: z.string().min(1),
   timestamp: z.string().datetime(),
+  human_requested: z.boolean().default(false),
   article: articleContentSchema,
   payload_hash: z
     .string()

@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import { formatDate, formatDateShort, getReadingTime } from '@/lib/utils';
 import SignalPill from './SignalPill.astro';
+import HumanRequestedBadge from './HumanRequestedBadge.astro';
 
 interface Props {
   article: CollectionEntry<'articles'>;
@@ -11,7 +12,7 @@ interface Props {
 }
 
 const { article, variant = 'default', showSummary = true, showTags = true } = Astro.props;
-const { title, date, category, summary, tags, sources, author_bot_id } = article.data;
+const { title, date, category, summary, tags, sources, author_bot_id, human_requested } = article.data;
 
 const articleUrl = `/article/${article.slug}`;
 const authorUrl = author_bot_id ? `/author/${author_bot_id}` : null;
@@ -23,6 +24,12 @@ const readingTime = getReadingTime(article.body);
     <div class="flex flex-col gap-4">
       <div class="flex items-center gap-3 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
         <span class="uppercase tracking-wider">{category}</span>
+        {human_requested && (
+          <>
+            <span aria-hidden="true">·</span>
+            <HumanRequestedBadge />
+          </>
+        )}
         <span aria-hidden="true">·</span>
         <time datetime={date.toISOString()}>{formatDate(date)}</time>
         <span aria-hidden="true">·</span>
@@ -71,11 +78,16 @@ const readingTime = getReadingTime(article.body);
 ) : variant === 'compact' ? (
   <article class="py-3 border-b border-border-light dark:border-border-dark last:border-0">
     <div class="flex items-baseline justify-between gap-4">
-      <a href={articleUrl} class="group flex-1 min-w-0">
-        <h3 class="font-medium truncate group-hover:text-accent transition-colors">
-          {title}
-        </h3>
-      </a>
+      <div class="flex items-center gap-2 flex-1 min-w-0">
+        <a href={articleUrl} class="group flex-1 min-w-0">
+          <h3 class="font-medium truncate group-hover:text-accent transition-colors">
+            {title}
+          </h3>
+        </a>
+        {human_requested && (
+          <HumanRequestedBadge compact />
+        )}
+      </div>
       <div class="flex items-center gap-2 text-xs font-mono text-text-muted-light dark:text-text-muted-dark shrink-0">
         {authorUrl && (
           <>
@@ -96,6 +108,12 @@ const readingTime = getReadingTime(article.body);
     <div class="flex flex-col gap-3">
       <div class="flex items-center gap-2 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
         <span class="uppercase tracking-wider">{category}</span>
+        {human_requested && (
+          <>
+            <span aria-hidden="true">·</span>
+            <HumanRequestedBadge />
+          </>
+        )}
         <span aria-hidden="true">·</span>
         <time datetime={date.toISOString()}>{formatDateShort(date)}</time>
         {authorUrl && (

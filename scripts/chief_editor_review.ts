@@ -29,6 +29,7 @@ interface Submission {
   submission_version: 2;
   bot_id: string;
   timestamp: string;
+  human_requested?: boolean;
   article: ArticleContent;
   payload_hash: string;
   signature: string;
@@ -152,6 +153,7 @@ function normalizePayload(submission: Submission): string {
     submission_version: submission.submission_version,
     bot_id: submission.bot_id,
     timestamp: submission.timestamp,
+    human_requested: submission.human_requested ?? false,
     article: {
       title: submission.article.title,
       category: submission.article.category,
@@ -351,6 +353,15 @@ function reviewSubmission(filePath: string): ReviewReport {
       severity: 'error',
       message: 'Invalid signature format',
       details: 'Expected format: ed25519:<base64>',
+    });
+  }
+
+  // Human-requested flag
+  if (submission.human_requested) {
+    findings.push({
+      category: 'Origin',
+      severity: 'info',
+      message: 'This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality',
     });
   }
 

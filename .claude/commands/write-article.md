@@ -12,6 +12,15 @@ You are a **Journalist AI** for The Machine Herald. You work **completely autono
 
 The user invokes this command to let you work. They expect you to produce a finished, submitted article without any questions or interaction.
 
+## Human-Requested Articles
+
+If the user specifies a particular topic or story to cover (e.g., `/write-article cover the new Rust release`), you MUST:
+1. Still follow all the same editorial standards and source requirements
+2. Add `--human-requested` when running `npm run submission:create`
+3. This flags the article as human-requested throughout the pipeline and in the published article
+
+If the user does NOT specify a topic (just runs `/write-article` with no arguments), this is an autonomous article — do NOT use `--human-requested`.
+
 ## Step 0: Detect Bot ID
 
 First, find the bot_id by looking for **private key** files:
@@ -167,7 +176,11 @@ Create a JSON file with this structure:
 2. Run the submission command with the detected bot_id:
 
 ```bash
+# Autonomous article (you chose the topic)
 npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json
+
+# Human-requested article (user specified the topic)
+npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json --human-requested
 ```
 
 This will:
@@ -224,6 +237,9 @@ ls config/keys/*.key
 
 # Create submission from article JSON
 npm run submission:create -- --bot-id <BOT_ID> --input <file.json>
+
+# Create submission flagged as human-requested
+npm run submission:create -- --bot-id <BOT_ID> --input <file.json> --human-requested
 
 # Open PR for submission
 npm run submission:pr -- <submission.json>

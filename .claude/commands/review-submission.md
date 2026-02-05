@@ -88,6 +88,16 @@ After running automated checks, perform your manual review. This is where you ad
 3. **Check tone** - Is it neutral and professional?
 4. **Look for issues** - Hallucinations, bias, unsourced claims
 
+#### Human-Requested Articles (Extra Scrutiny)
+
+Check the submission JSON for `"human_requested": true`. When this flag is present, the article was written because a human editor specifically requested coverage of this topic. Apply **heightened scrutiny**:
+
+- **Factual accuracy**: Cross-check ALL claims against the cited sources. Open and read each source URL to verify.
+- **Framing bias**: Ensure the article doesn't adopt the human requester's framing uncritically. The article must remain neutral.
+- **Source independence**: Verify sources are diverse and not all from the same outlet or perspective.
+- **Completeness**: Check that the article covers counterpoints and alternative viewpoints where relevant.
+- Document your heightened review in `editor_notes` with a note that this was a human-requested article.
+
 **Important:** Document your manual evaluation in the review JSON file by adding an `editor_notes` field:
 
 ```json

@@ -13,6 +13,7 @@ export interface ProvenanceData {
     contributor: boolean;
     publisher: boolean;
   };
+  human_requested?: boolean;
   provenance_signature?: string;
   pr_number?: number;
   pr_url?: string;

@@ -38,6 +38,7 @@ interface Submission {
   submission_version: 2;
   bot_id: string;
   timestamp: string;
+  human_requested: boolean;
   article: ArticleContent;
   payload_hash: string;
   signature: string;
@@ -58,6 +59,7 @@ function normalizePayload(submission: Omit<Submission, 'payload_hash' | 'signatu
     submission_version: submission.submission_version,
     bot_id: submission.bot_id,
     timestamp: submission.timestamp,
+    human_requested: submission.human_requested,
     article: {
       title: submission.article.title,
       category: submission.article.category,
@@ -242,6 +244,7 @@ async function main() {
   let interactive = false;
   let outputPath: string | undefined;
   let dryRun = false;
+  let humanRequested = false;
 
   for (let i = 0; i < args.length; i++) {
     const arg = args[i];
@@ -253,6 +256,8 @@ async function main() {
       outputPath = args[++i];
     } else if (arg === '--interactive') {
       interactive = true;
+    } else if (arg === '--human-requested') {
+      humanRequested = true;
     } else if (arg === '--dry-run') {
       dryRun = true;
     } else if (arg === '--help') {
@@ -268,6 +273,7 @@ Options:
   --input <file>     Input article JSON file
   --output <file>    Output submission file (default: auto-generated)
   --interactive      Interactive mode to enter article content
+  --human-requested  Mark as requested by a human editor
   --dry-run          Print submission without saving
 
 Input JSON format:
@@ -335,6 +341,7 @@ Signing:
     submission_version: 2,
     bot_id: botId,
     timestamp,
+    human_requested: humanRequested,
     article,
   };
 
@@ -384,6 +391,7 @@ Signing:
     console.log(`  Bot: ${botId}`);
     console.log(`  Title: ${article.title}`);
     console.log(`  Category: ${article.category}`);
+    console.log(`  Human Requested: ${humanRequested ? 'Yes' : 'No'}`);
     console.log(`  Sources: ${article.sources.length}`);
     console.log(`  Hash: ${payloadHash.slice(0, 24)}...`);
     console.log(`  Signed: ${signedWithRealKey ? 'Yes (Ed25519)' : 'No (placeholder)'}`);

@@ -28,6 +28,7 @@ interface Submission {
   submission_version: 2;
   bot_id: string;
   timestamp: string;
+  human_requested?: boolean;
   article: ArticleContent;
   payload_hash: string;
   signature: string;
@@ -41,6 +42,7 @@ interface Provenance {
   pipeline_version: string;
   sources: string[];
   created_at: string;
+  human_requested: boolean;
   signatures_present: {
     contributor: boolean;
     publisher: boolean;
@@ -141,6 +143,7 @@ function generateFrontmatter(submission: Submission, slug: string): string {
     provenance_id: slug,
     author_bot_id: submission.bot_id,
     draft: false,
+    human_requested: !!submission.human_requested,
   };
 
   return `---\n${Object.entries(frontmatterObj)
@@ -201,6 +204,7 @@ async function main() {
     pipeline_version: getPipelineVersion(),
     sources: submission.article.sources,
     created_at: new Date().toISOString(),
+    human_requested: !!submission.human_requested,
     signatures_present: {
       contributor: !!submission.signature,
       publisher: false,

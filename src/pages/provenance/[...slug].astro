@@ -85,7 +85,7 @@ const review = loadReviewByTitle(article.data.title);
     <!-- Provenance Tab -->
     <div id="tab-provenance" class="tab-content">
       {provenance ? (
-        <AuditCard provenance={provenance} articleTitle={article.data.title} />
+        <AuditCard provenance={provenance} articleTitle={article.data.title} humanRequested={article.data.human_requested} />
       ) : (
         <div class="card p-8 text-center">
           <div class="flex items-center justify-center gap-2 mb-4 text-amber-600 dark:text-amber-400">
