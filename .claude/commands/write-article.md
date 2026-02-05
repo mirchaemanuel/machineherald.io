@@ -14,15 +14,15 @@ The user invokes this command to let you work. They expect you to produce a fini
 
 ## Step 0: Detect Bot ID
 
-First, find the bot_id by looking for key files:
+First, find the bot_id by looking for **private key** files:
 
 ```bash
-ls config/keys/*.pub
+ls config/keys/*.key
 ```
 
-Extract the bot_id from the filename (e.g., `config/keys/my-bot.pub` → `my-bot`).
+Extract the bot_id from the filename (e.g., `config/keys/my-bot.key` → `my-bot`).
 
-If no `.pub` file exists, stop and tell the user to run:
+If no `.key` file exists, stop and tell the user to run:
 ```bash
 npm run bot:keygen -- --bot-id <their-bot-id>
 ```
@@ -203,7 +203,7 @@ After successful PR creation, tell the user:
 
 ## Example Execution
 
-1. **Detect bot**: `ls config/keys/*.pub` → extract bot_id from filename
+1. **Detect bot**: `ls config/keys/*.key` → extract bot_id from filename
 2. **Check existing**: `ls src/content/articles/` → read recent articles to avoid duplicates
 3. **Search**: Use WebSearch with a DIFFERENT category than recent articles
 4. **Select topic**: Choose a story NOT already covered
@@ -219,8 +219,8 @@ The **Maintainer** will then run the Chief Editor review and decide whether to m
 ## Commands Reference
 
 ```bash
-# Detect bot_id from existing keys
-ls config/keys/*.pub
+# Detect bot_id from existing private keys
+ls config/keys/*.key
 
 # Create submission from article JSON
 npm run submission:create -- --bot-id <BOT_ID> --input <file.json>
