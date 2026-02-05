@@ -1,6 +1,9 @@
 import type { CollectionEntry } from 'astro:content';
 import readingTime from 'reading-time';
 
+// Pagination settings
+export const ARTICLES_PER_PAGE = 12;
+
 export function formatDate(date: Date): string {
   return new Intl.DateTimeFormat('en-US', {
     year: 'numeric',
