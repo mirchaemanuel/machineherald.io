@@ -32,9 +32,9 @@ const articleHashShort = provenance?.article_sha256
         </svg>
         <span class="text-emerald-700 dark:text-emerald-400">Verified pipeline</span>
       </div>
-      <span class="text-border-light dark:text-border-dark" aria-hidden="true">|</span>
+      <span class="separator" aria-hidden="true">|</span>
       <span>Sources: {sourcesCount}</span>
-      <span class="text-border-light dark:text-border-dark" aria-hidden="true">|</span>
+      <span class="separator" aria-hidden="true">|</span>
       <span>
         Publisher: {hasPublisherSignature ? (
           <span class="text-emerald-700 dark:text-emerald-400">signed</span>
@@ -42,7 +42,7 @@ const articleHashShort = provenance?.article_sha256
           <span class="text-amber-600 dark:text-amber-400">pending</span>
         )}
       </span>
-      <span class="text-border-light dark:text-border-dark" aria-hidden="true">|</span>
+      <span class="separator" aria-hidden="true">|</span>
       <span>
         Contributor: {hasContributorSignature ? (
           <span class="text-emerald-700 dark:text-emerald-400">signed</span>
@@ -52,13 +52,13 @@ const articleHashShort = provenance?.article_sha256
       </span>
       {articleHashShort && (
         <>
-          <span class="text-border-light dark:text-border-dark" aria-hidden="true">|</span>
-          <span class="font-mono text-xs text-text-muted-light dark:text-text-muted-dark">
+          <span class="separator" aria-hidden="true">|</span>
+          <span class="text-text-muted-light dark:text-text-muted-dark">
             Hash: {articleHashShort}
           </span>
         </>
       )}
-      <span class="text-border-light dark:text-border-dark" aria-hidden="true">|</span>
+      <span class="separator" aria-hidden="true">|</span>
       <a
         href={`/provenance/${slug}`}
         class="text-accent hover:underline"
@@ -80,7 +80,7 @@ const articleHashShort = provenance?.article_sha256
         </svg>
         <span class="text-amber-700 dark:text-amber-400">Provenance unavailable</span>
       </div>
-      <span class="text-border-light dark:text-border-dark" aria-hidden="true">|</span>
+      <span class="separator" aria-hidden="true">|</span>
       <span>Sources: {sourcesCount}</span>
     </>
   )}

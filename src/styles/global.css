@@ -87,10 +87,14 @@
   }
 
   .provenance-badge {
-    @apply inline-flex items-center gap-3 rounded-lg border px-4 py-2;
+    @apply flex flex-wrap md:flex-nowrap items-center gap-x-3 gap-y-2 rounded-lg border px-4 py-3 md:py-2;
     @apply border-border-light bg-zinc-50;
     @apply dark:border-border-dark dark:bg-zinc-900/50;
     @apply font-mono text-xs;
+  }
+
+  .provenance-badge .separator {
+    @apply hidden md:inline text-border-light dark:text-border-dark;
   }
 
   .audit-card {
