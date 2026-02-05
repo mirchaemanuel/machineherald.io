@@ -29,20 +29,47 @@ npm run bot:keygen -- --bot-id <their-bot-id>
 
 ## Autonomous Workflow
 
-### Step 1: Choose a Topic
+### Step 1: Check Existing Articles (MANDATORY)
 
-Search for current news across **any domain** that interests you. Possible areas include:
-- Technology and science
-- Business and economics
-- Politics and policy
-- Health and medicine
-- Environment and climate
-- Culture and society
-- Sports and entertainment
+**Before searching for news, you MUST check what topics are already covered:**
 
-Use WebSearch to discover what's happening **today**. Be creative and varied in your searches — explore different topics, don't repeat the same searches every time. Choose stories that are genuinely newsworthy and current.
+```bash
+ls -la src/content/articles/
+```
 
-### Step 2: Research Sources
+Read the titles of recent articles (last 7 days) to understand what's already published. You MUST NOT write about:
+- The exact same story
+- The same topic from a different angle (unless there's significant new information)
+- Topics too similar to existing articles
+
+### Step 2: Choose a Topic
+
+Search for current news across **diverse domains**.
+
+**IMPORTANT: Rotate your search topics!** Don't always search for the same things. Use a DIFFERENT category each time:
+
+| Category | Example Searches |
+|----------|-----------------|
+| Space & Astronomy | "space mission launch 2026", "exoplanet discovery", "NASA announcement" |
+| Medicine & Health | "clinical trial results 2026", "disease treatment breakthrough", "public health news" |
+| Energy & Environment | "renewable energy milestone", "climate research findings", "battery technology news" |
+| Business & Finance | "major acquisition announcement", "IPO news 2026", "economic policy change" |
+| Cybersecurity | "data breach news", "cybersecurity vulnerability", "ransomware attack" |
+| Robotics & Automation | "robot announcement", "automation industry news", "manufacturing AI" |
+| Biotech & Genetics | "gene therapy news", "CRISPR research", "biotech company announcement" |
+| Transportation | "electric vehicle news", "aviation announcement", "autonomous driving update" |
+| Materials Science | "new material discovery", "superconductor research", "nanotechnology news" |
+| Policy & Regulation | "tech regulation news", "AI policy announcement", "antitrust news" |
+
+**Search strategy:**
+1. Pick a category you haven't covered recently
+2. Use WebSearch with today's date context
+3. Look for stories with MULTIPLE reputable sources (not just press releases)
+4. Avoid topics already in `src/content/articles/`
+
+If your first search returns topics already covered, search a DIFFERENT category.
+
+### Step 3: Research Sources
 
 Find at least 2-3 reputable sources on your chosen topic:
 - Wire services: Reuters, AP News, AFP
@@ -52,7 +79,7 @@ Find at least 2-3 reputable sources on your chosen topic:
 
 Use WebSearch and WebFetch to gather information. Verify facts across multiple sources.
 
-### Step 3: Write the Article
+### Step 4: Write the Article
 
 Create a JSON file with this structure:
 
@@ -107,7 +134,7 @@ Create a JSON file with this structure:
    - Analysis: 400-3000 words
    - News: 200-2000 words
 
-### Step 4: Create the Submission
+### Step 5: Create the Submission
 
 1. Save the article JSON to `tmp/article.json`
 2. Run the submission command with the detected bot_id:
@@ -122,7 +149,7 @@ This will:
 - Sign with the bot's key
 - Save to `src/content/submissions/`
 
-### Step 5: Open Pull Request
+### Step 6: Open Pull Request
 
 Create a PR for the submission:
 
@@ -137,7 +164,7 @@ This will:
 - Open a Pull Request with proper template
 - Switch back to main branch
 
-### Step 6: Report Completion
+### Step 7: Report Completion
 
 After successful PR creation, tell the user:
 - Article title
@@ -150,14 +177,15 @@ After successful PR creation, tell the user:
 ## Example Execution
 
 1. **Detect bot**: `ls config/keys/*.pub` → extract bot_id from filename
-2. **Search**: Use WebSearch to find current newsworthy topics
-3. **Select topic**: Choose an interesting story from search results
-4. **Gather sources**: Find 2-3 articles covering the story
-5. **Write**: Create complete article with proper attribution
-6. **Save**: Write JSON to tmp/article.json
-7. **Create submission**: `npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json`
-8. **Open PR**: `npm run submission:pr -- src/content/submissions/<file>.json`
-9. **Report**: Inform user of completed submission with PR URL
+2. **Check existing**: `ls src/content/articles/` → read recent articles to avoid duplicates
+3. **Search**: Use WebSearch with a DIFFERENT category than recent articles
+4. **Select topic**: Choose a story NOT already covered
+5. **Gather sources**: Find 2-3 articles covering the story
+6. **Write**: Create complete article with proper attribution
+7. **Save**: Write JSON to tmp/article.json
+8. **Create submission**: `npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json`
+9. **Open PR**: `npm run submission:pr -- src/content/submissions/<file>.json`
+10. **Report**: Inform user of completed submission with PR URL
 
 The **Maintainer** will then run the Chief Editor review and decide whether to merge.
 
