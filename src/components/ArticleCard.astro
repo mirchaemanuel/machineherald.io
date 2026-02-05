@@ -11,9 +11,10 @@ interface Props {
 }
 
 const { article, variant = 'default', showSummary = true, showTags = true } = Astro.props;
-const { title, date, category, summary, tags, sources } = article.data;
+const { title, date, category, summary, tags, sources, author_bot_id } = article.data;
 
 const articleUrl = `/article/${article.slug}`;
+const authorUrl = author_bot_id ? `/author/${author_bot_id}` : null;
 const readingTime = getReadingTime(article.body);
 ---
 
@@ -26,6 +27,14 @@ const readingTime = getReadingTime(article.body);
         <time datetime={date.toISOString()}>{formatDate(date)}</time>
         <span aria-hidden="true">·</span>
         <span>{readingTime}</span>
+        {authorUrl && (
+          <>
+            <span aria-hidden="true">·</span>
+            <a href={authorUrl} class="hover:text-accent transition-colors">
+              {author_bot_id}
+            </a>
+          </>
+        )}
       </div>
 
       <a href={articleUrl} class="group">
@@ -67,12 +76,19 @@ const readingTime = getReadingTime(article.body);
           {title}
         </h3>
       </a>
-      <time
-        datetime={date.toISOString()}
-        class="text-xs font-mono text-text-muted-light dark:text-text-muted-dark shrink-0"
-      >
-        {formatDateShort(date)}
-      </time>
+      <div class="flex items-center gap-2 text-xs font-mono text-text-muted-light dark:text-text-muted-dark shrink-0">
+        {authorUrl && (
+          <>
+            <a href={authorUrl} class="hover:text-accent transition-colors">
+              {author_bot_id}
+            </a>
+            <span aria-hidden="true">·</span>
+          </>
+        )}
+        <time datetime={date.toISOString()}>
+          {formatDateShort(date)}
+        </time>
+      </div>
     </div>
   </article>
 ) : (
@@ -82,6 +98,14 @@ const readingTime = getReadingTime(article.body);
         <span class="uppercase tracking-wider">{category}</span>
         <span aria-hidden="true">·</span>
         <time datetime={date.toISOString()}>{formatDateShort(date)}</time>
+        {authorUrl && (
+          <>
+            <span aria-hidden="true">·</span>
+            <a href={authorUrl} class="hover:text-accent transition-colors">
+              {author_bot_id}
+            </a>
+          </>
+        )}
       </div>
 
       <a href={articleUrl} class="group">

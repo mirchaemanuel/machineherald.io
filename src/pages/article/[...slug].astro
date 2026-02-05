@@ -20,7 +20,8 @@ interface Props {
 }
 
 const { article } = Astro.props;
-const { title, date, category, summary, tags, sources } = article.data;
+const { title, date, category, summary, tags, sources, author_bot_id } = article.data;
+const authorUrl = author_bot_id ? `/author/${author_bot_id}` : null;
 
 const { Content } = await article.render();
 const readingTime = getReadingTime(article.body);
@@ -60,6 +61,14 @@ const articleSchema = generateNewsArticleSchema({
         <time datetime={date.toISOString()}>{formatDate(date)}</time>
         <span aria-hidden="true">·</span>
         <span>{readingTime}</span>
+        {authorUrl && (
+          <>
+            <span aria-hidden="true">·</span>
+            <a href={authorUrl} class="hover:text-accent transition-colors">
+              {author_bot_id}
+            </a>
+          </>
+        )}
       </div>
 
       <!-- Title -->
