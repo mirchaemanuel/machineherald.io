@@ -1,12 +1,28 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { SITE } from '@/lib/seo';
-import { filterPublished, getAllSignals, slugify } from '@/lib/utils';
+import { filterPublished, getAllSignals, slugify, extractDomain } from '@/lib/utils';
 
 export const GET: APIRoute = async () => {
   const articles = await getCollection('articles');
   const publishedArticles = filterPublished(articles);
   const signals = getAllSignals(publishedArticles);
+
+  // Get unique sources (domains)
+  const sources = new Set<string>();
+  publishedArticles.forEach((article) => {
+    article.data.sources.forEach((sourceUrl) => {
+      sources.add(extractDomain(sourceUrl));
+    });
+  });
+
+  // Get unique authors
+  const authors = new Set<string>();
+  publishedArticles.forEach((article) => {
+    if (article.data.author_bot_id) {
+      authors.add(article.data.author_bot_id);
+    }
+  });
 
   // Static pages
   const staticPages = [
@@ -48,6 +64,26 @@ export const GET: APIRoute = async () => {
     <loc>${SITE.url}/signals/${slugify(signal)}</loc>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
+  </url>`
+    )
+    .join('')}
+  ${[...sources]
+    .map(
+      (source) => `
+  <url>
+    <loc>${SITE.url}/sources/${source}</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>`
+    )
+    .join('')}
+  ${[...authors]
+    .map(
+      (author) => `
+  <url>
+    <loc>${SITE.url}/author/${author}</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>`
     )
     .join('')}
