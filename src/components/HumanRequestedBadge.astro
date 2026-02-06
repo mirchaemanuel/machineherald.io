@@ -1,9 +1,10 @@
 ---
 interface Props {
   compact?: boolean;
+  small?: boolean;
 }
 
-const { compact = false } = Astro.props;
+const { compact = false, small = false } = Astro.props;
 ---
 
 {compact ? (
@@ -13,6 +14,14 @@ const { compact = false } = Astro.props;
     aria-label="What does Human Requested mean?"
   >
     HR
+  </button>
+) : small ? (
+  <button
+    type="button"
+    class="text-[10px] font-mono uppercase tracking-wider text-violet-700 dark:text-violet-400 hover:text-violet-900 dark:hover:text-violet-300 cursor-pointer transition-colors human-requested-trigger"
+    aria-label="What does Human Requested mean?"
+  >
+    Human Requested
   </button>
 ) : (
   <button

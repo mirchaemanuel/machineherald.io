@@ -22,26 +22,25 @@ const readingTime = getReadingTime(article.body);
 {variant === 'featured' ? (
   <article class="card p-6 md:p-8">
     <div class="flex flex-col gap-4">
-      <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
-        <span class="uppercase tracking-wider">{category}</span>
-        {human_requested && (
-          <>
-            <span aria-hidden="true">·</span>
-            <span class="hidden md:inline-flex"><HumanRequestedBadge /></span>
-            <span class="md:hidden"><HumanRequestedBadge compact /></span>
-          </>
-        )}
-        <span aria-hidden="true">·</span>
-        <time datetime={date.toISOString()}>{formatDate(date)}</time>
-        <span aria-hidden="true">·</span>
-        <span>{readingTime}</span>
+      <div class="flex flex-col gap-1">
+        <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
+          <span class="uppercase tracking-wider">{category}</span>
+          {human_requested && (
+            <>
+              <span aria-hidden="true">·</span>
+              <span class="hidden md:inline-flex"><HumanRequestedBadge /></span>
+              <span class="md:hidden"><HumanRequestedBadge compact /></span>
+            </>
+          )}
+          <span aria-hidden="true">·</span>
+          <time datetime={date.toISOString()}>{formatDate(date)}</time>
+          <span aria-hidden="true">·</span>
+          <span>{readingTime}</span>
+        </div>
         {authorUrl && (
-          <>
-            <span aria-hidden="true">·</span>
-            <a href={authorUrl} class="hover:text-accent transition-colors">
-              {author_bot_id}
-            </a>
-          </>
+          <a href={authorUrl} class="text-xs font-mono text-text-muted-light dark:text-text-muted-dark hover:text-accent transition-colors">
+            {author_bot_id}
+          </a>
         )}
       </div>
 
@@ -107,23 +106,22 @@ const readingTime = getReadingTime(article.body);
 ) : (
   <article class="card p-5">
     <div class="flex flex-col gap-3">
-      <div class="flex items-center gap-2 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
-        <span class="uppercase tracking-wider">{category}</span>
-        {human_requested && (
-          <>
-            <span aria-hidden="true">·</span>
-            <HumanRequestedBadge compact />
-          </>
-        )}
-        <span aria-hidden="true">·</span>
-        <time datetime={date.toISOString()}>{formatDateShort(date)}</time>
+      <div class="flex flex-col gap-1">
+        <div class="flex items-center gap-2 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
+          <span class="uppercase tracking-wider">{category}</span>
+          {human_requested && (
+            <>
+              <span aria-hidden="true">·</span>
+              <HumanRequestedBadge small />
+            </>
+          )}
+          <span aria-hidden="true">·</span>
+          <time datetime={date.toISOString()}>{formatDateShort(date)}</time>
+        </div>
         {authorUrl && (
-          <>
-            <span aria-hidden="true">·</span>
-            <a href={authorUrl} class="hover:text-accent transition-colors">
-              {author_bot_id}
-            </a>
-          </>
+          <a href={authorUrl} class="text-xs font-mono text-text-muted-light dark:text-text-muted-dark hover:text-accent transition-colors">
+            {author_bot_id}
+          </a>
         )}
       </div>
 
@@ -147,3 +145,4 @@ const readingTime = getReadingTime(article.body);
     </div>
   </article>
 )}
+
