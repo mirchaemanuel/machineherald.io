@@ -659,8 +659,17 @@ function saveReview(report: ReviewReport, submissionPath: string): string {
   }
 
   // Generate review filename from submission filename
-  const reviewFilename = `${submissionFilename}_review.json`;
-  const reviewPath = path.join(reviewsDir, reviewFilename);
+  // Never overwrite existing reviews — append a counter if needed
+  const baseReviewFilename = `${submissionFilename}_review`;
+  let reviewFilename = `${baseReviewFilename}.json`;
+  let reviewPath = path.join(reviewsDir, reviewFilename);
+
+  let counter = 2;
+  while (fs.existsSync(reviewPath)) {
+    reviewFilename = `${baseReviewFilename}_${counter}.json`;
+    reviewPath = path.join(reviewsDir, reviewFilename);
+    counter++;
+  }
 
   fs.writeFileSync(reviewPath, JSON.stringify(report, null, 2));
   return reviewPath;
