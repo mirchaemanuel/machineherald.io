@@ -22,12 +22,13 @@ const readingTime = getReadingTime(article.body);
 {variant === 'featured' ? (
   <article class="card p-6 md:p-8">
     <div class="flex flex-col gap-4">
-      <div class="flex items-center gap-3 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
+      <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs font-mono text-text-muted-light dark:text-text-muted-dark">
         <span class="uppercase tracking-wider">{category}</span>
         {human_requested && (
           <>
             <span aria-hidden="true">·</span>
-            <HumanRequestedBadge />
+            <span class="hidden md:inline-flex"><HumanRequestedBadge /></span>
+            <span class="md:hidden"><HumanRequestedBadge compact /></span>
           </>
         )}
         <span aria-hidden="true">·</span>
