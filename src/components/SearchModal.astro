@@ -103,16 +103,52 @@
 </style>
 
 <script>
+  // Shared across re-inits: AbortController for listener cleanup, CSS/pagefind load flags
+  let searchAbort: AbortController | null = null;
+  let pagefindCssLoaded = false;
+  let pagefindLoaded = false;
+
   function initSearch() {
     const el = document.getElementById('search-modal');
     if (!el) return;
     const modal = el as HTMLElement;
 
-    let pagefindLoaded = false;
+    // BUG 1 fix: abort previous listeners before re-registering
+    searchAbort?.abort();
+    searchAbort = new AbortController();
+    const { signal } = searchAbort;
+
+    let closeTimer: ReturnType<typeof setTimeout> | null = null;
+    let triggerElement: HTMLElement | null = null;
+
+    function focusInput() {
+      const input = modal.querySelector('.pagefind-ui__search-input') as HTMLInputElement | null;
+      if (input) {
+        input.focus();
+        return true;
+      }
+      return false;
+    }
+
+    // BUG 2 fix: retry focus until Pagefind renders the input
+    function focusInputWithRetry(attempts = 10) {
+      if (focusInput()) return;
+      if (attempts > 0) {
+        requestAnimationFrame(() => focusInputWithRetry(attempts - 1));
+      }
+    }
 
     function openSearch() {
+      // BUG 5 fix: cancel pending close timer
+      if (closeTimer) {
+        clearTimeout(closeTimer);
+        closeTimer = null;
+      }
+
+      // A11Y 2: remember trigger for focus restore
+      triggerElement = document.activeElement as HTMLElement | null;
+
       modal.hidden = false;
-      // Force reflow before adding data-open for animation
       void modal.offsetHeight;
       modal.setAttribute('data-open', '');
       document.body.style.overflow = 'hidden';
@@ -121,30 +157,55 @@
         loadPagefind();
       }
 
-      // Focus the search input after Pagefind loads
-      requestAnimationFrame(() => {
-        const input = modal.querySelector('.pagefind-ui__search-input') as HTMLInputElement | null;
-        input?.focus();
-      });
+      focusInputWithRetry();
     }
 
     function closeSearch() {
       modal.removeAttribute('data-open');
       document.body.style.overflow = '';
-      setTimeout(() => {
+      closeTimer = setTimeout(() => {
         modal.hidden = true;
+        closeTimer = null;
       }, 150);
+
+      // A11Y 2: restore focus to trigger element
+      triggerElement?.focus();
+      triggerElement = null;
+    }
+
+    // A11Y 1: trap focus inside modal
+    function handleFocusTrap(e: KeyboardEvent) {
+      if (e.key !== 'Tab' || modal.hidden) return;
+
+      const focusable = modal.querySelectorAll<HTMLElement>(
+        'input, button, [tabindex]:not([tabindex="-1"]), a[href]'
+      );
+      if (focusable.length === 0) return;
+
+      const first = focusable[0]!;
+      const last = focusable[focusable.length - 1]!;
+
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      }
     }
 
     async function loadPagefind() {
       try {
-        // Load Pagefind UI CSS
-        const link = document.createElement('link');
-        link.rel = 'stylesheet';
-        link.href = '/pagefind/pagefind-ui.css';
-        document.head.appendChild(link);
+        // BUG 4 fix: only inject CSS once
+        if (!pagefindCssLoaded) {
+          const link = document.createElement('link');
+          link.rel = 'stylesheet';
+          link.href = '/pagefind/pagefind-ui.css';
+          document.head.appendChild(link);
+          pagefindCssLoaded = true;
+        }
 
-        // Use Function constructor to prevent Vite from resolving this at build time
+        // Use Function constructor to prevent Vite from resolving at build time
         const importPagefind = new Function('return import("/pagefind/pagefind-ui.js")');
         await importPagefind();
         new (window as any).PagefindUI({
@@ -155,13 +216,8 @@
         });
         pagefindLoaded = true;
 
-        // Focus input after UI is ready
-        requestAnimationFrame(() => {
-          const input = modal.querySelector('.pagefind-ui__search-input') as HTMLInputElement | null;
-          input?.focus();
-        });
+        focusInputWithRetry();
       } catch {
-        // Pagefind index not available (dev mode) - show message
         const container = document.getElementById('pagefind-container');
         if (container) {
           container.innerHTML = '<p style="text-align:center;padding:2rem;color:#71717A;font-size:0.875rem;">Search is available after building the site.<br><code style="font-size:0.75rem;">npm run build && npm run preview</code></p>';
@@ -170,34 +226,34 @@
     }
 
     // Open triggers
-    document.querySelectorAll('[data-search-open]').forEach(el => {
-      el.addEventListener('click', openSearch);
+    document.querySelectorAll('[data-search-open]').forEach(btn => {
+      btn.addEventListener('click', openSearch, { signal });
     });
 
     // Close triggers
-    modal.querySelectorAll('[data-search-close]').forEach(el => {
-      el.addEventListener('click', closeSearch);
+    modal.querySelectorAll('[data-search-close]').forEach(btn => {
+      btn.addEventListener('click', closeSearch, { signal });
     });
 
-    // Keyboard shortcuts
+    // Keyboard: Cmd+K toggle, Escape close, focus trap
     document.addEventListener('keydown', (e) => {
-      // Cmd+K / Ctrl+K to open
       if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
         e.preventDefault();
-        if (modal.hidden) {
-          openSearch();
-        } else {
-          closeSearch();
-        }
+        modal.hidden ? openSearch() : closeSearch();
+        return;
       }
-      // Escape to close
       if (e.key === 'Escape' && !modal.hidden) {
         e.preventDefault();
         closeSearch();
+        return;
       }
-    });
+      handleFocusTrap(e);
+    }, { signal });
   }
 
   initSearch();
-  document.addEventListener('astro:after-swap', initSearch);
+  document.addEventListener('astro:after-swap', () => {
+    pagefindLoaded = false;
+    initSearch();
+  });
 </script>
