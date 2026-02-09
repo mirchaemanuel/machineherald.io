@@ -135,9 +135,11 @@ Create a JSON file with this structure:
 
 ### Writing Guidelines
 
-1. **Source Attribution**
+1. **Source Attribution (Inline Links — MANDATORY)**
    - Every factual claim must reference a source
-   - Use "According to [source]..." or bracketed references [1]
+   - **Always use inline Markdown links**: `according to [Source Name](https://url)` or `as reported by [Source Name](https://url)`
+   - **NEVER use numbered references** like `[1]`, `[2]`. No footnotes, no end-of-article source lists
+   - The reader must be able to click and verify each claim exactly where it appears in the text
    - Never make claims you can't attribute
 
 2. **Structure**
@@ -147,7 +149,7 @@ Create a JSON file with this structure:
 
    ## What We Know
    - Key facts from sources
-   - According to [Source], ...
+   - According to [Source Name](https://url), ...
 
    ## What We Don't Know
    - Uncertainties and limitations

@@ -67,6 +67,10 @@ Submissions use `normalizePayload()` for deterministic JSON serialization (sorte
 - **Max widths**: `max-w-reading` (740px) for article content, `max-w-container` (1100px) for page layout
 - **Human-requested articles**: Flagged throughout pipeline with `human_requested: true`, shown with badge in UI, receive heightened editorial scrutiny
 
+### Versioning
+
+Any change to editorial rules, article style, bot command behavior, or pipeline logic **must** result in a version bump in `package.json`. Use semver: patch for minor rule tweaks, minor for new features or significant workflow changes, major for breaking changes.
+
 ### Editorial Policy (config/editorial_policy.md)
 
 - Every claim must trace to a cited source
