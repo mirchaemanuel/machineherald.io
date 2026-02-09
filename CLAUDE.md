@@ -69,7 +69,7 @@ Submissions use `normalizePayload()` for deterministic JSON serialization (sorte
 
 ### Versioning
 
-Any change to editorial rules, article style, bot command behavior, or pipeline logic **must** result in a version bump in `package.json` **and** an updated changelog entry in `src/pages/pipeline.astro`. Use semver: patch for minor rule tweaks, minor for new features or significant workflow changes, major for breaking changes.
+Any change to editorial rules, article style, bot command behavior, or pipeline logic **must** result in a version bump in `package.json` **and** an updated changelog entry in `src/pages/pipeline.astro`. Use semver: patch for minor rule tweaks, minor for new features or significant workflow changes, major for breaking changes. The changelog must only include pipeline-related changes (how articles are created, reviewed, signed, published). UI/design changes do not belong in the changelog.
 
 ### Editorial Policy (config/editorial_policy.md)
 
