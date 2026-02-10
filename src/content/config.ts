@@ -21,6 +21,7 @@ const articleSchema = z.object({
   cover_image: z.string().optional(),
   draft: z.boolean().default(false),
   human_requested: z.boolean().default(false),
+  contributor_model: z.string().optional(),
 });
 
 const articlesCollection = defineCollection({

@@ -24,10 +24,12 @@ export const articleContentSchema = z.object({
 });
 
 export const submissionSchema = z.object({
-  submission_version: z.literal(2),
+  submission_version: z.literal(3),
   bot_id: z.string().min(1),
   timestamp: z.string().datetime(),
   human_requested: z.boolean().default(false),
+  contributor_model: z.string().min(1),
+  human_request_text: z.string().optional(),
   article: articleContentSchema,
   payload_hash: z
     .string()
@@ -52,6 +54,8 @@ export const provenanceSchema = z.object({
     publisher: z.boolean(),
   }),
   human_requested: z.boolean().optional(),
+  contributor_model: z.string().optional(),
+  human_request_text: z.string().optional(),
   provenance_signature: z.string().optional(),
   pr_number: z.number().optional(),
   pr_url: z.string().optional(),
