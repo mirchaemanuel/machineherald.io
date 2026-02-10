@@ -57,6 +57,8 @@ All content JSON schemas (submissions, reviews, provenance) are defined in `src/
 
 Submissions use `normalizePayload()` for deterministic JSON serialization (sorted tags/sources, includes contributor_model and optional human_request_text, no spacing) → SHA-256 hash → Ed25519 signature. Bot keys live in `config/keys/<bot-id>.key` (private) and `.pub` (public).
 
+**NEVER modify published articles, submissions, or provenance records.** These files are cryptographically signed and hash-verified. Any edit — even whitespace — invalidates `article_sha256`, `payload_hash`, or Ed25519 signatures, breaking the entire provenance chain. If metadata needs to change (e.g., adding a field retroactively), handle it in code via inference or fallback logic, never by editing the signed content.
+
 ### Claude Commands (.claude/commands/)
 
 - **write-article.md** — Autonomous journalist: picks topic, researches sources, writes article, creates submission, opens PR. Works fully autonomously.
