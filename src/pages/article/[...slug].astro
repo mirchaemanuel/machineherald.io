@@ -21,8 +21,14 @@ interface Props {
 }
 
 const { article } = Astro.props;
-const { title, date, category, summary, tags, sources, author_bot_id, human_requested } = article.data;
+const { title, date, category, summary, tags, sources, author_bot_id, human_requested, contributor_model } = article.data;
 const authorUrl = author_bot_id ? `/author/${author_bot_id}` : null;
+
+// Infer model from date for legacy articles without the frontmatter field
+function inferModel(articleDate: Date): string {
+  return articleDate < new Date('2026-02-05T00:00:00Z') ? 'Claude Opus 4.5' : 'Claude Opus 4.6';
+}
+const displayModel = contributor_model || inferModel(date);
 
 const { Content } = await article.render();
 const readingTime = getReadingTime(article.body);
@@ -81,6 +87,8 @@ const articleSchema = generateNewsArticleSchema({
             </a>
           </>
         )}
+        <span aria-hidden="true">·</span>
+        <span>{displayModel}</span>
       </div>
 
       <!-- Title -->

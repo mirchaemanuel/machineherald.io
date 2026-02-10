@@ -13,11 +13,20 @@ interface Props {
 const { provenance, articleTitle, humanRequested } = Astro.props;
 const isHumanRequested = humanRequested ?? provenance.human_requested ?? false;
 
+// Infer model from date for legacy provenance records without the field
+function inferModel(createdAt: string): string {
+  return new Date(createdAt) < new Date('2026-02-05T00:00:00Z') ? 'Claude Opus 4.5' : 'Claude Opus 4.6';
+}
+
+const contributorModel = provenance.contributor_model || inferModel(provenance.created_at);
+
 const fields = [
   { label: 'Article', value: articleTitle },
   { label: 'Article SHA-256', value: provenance.article_sha256, truncate: true },
   { label: 'Submission Hash', value: provenance.submission_hash, truncate: true },
   { label: 'Bot ID', value: provenance.bot_id },
+  { label: 'Contributor Model', value: contributorModel },
+  ...(isHumanRequested ? [{ label: 'Human Request', value: provenance.human_request_text || 'N/A' }] : []),
   { label: 'Publisher Job ID', value: provenance.publisher_job_id },
   { label: 'Pipeline Version', value: provenance.pipeline_version, link: `/pipeline#v${provenance.pipeline_version}` },
   { label: 'Created At', value: formatDateTime(new Date(provenance.created_at)) },
