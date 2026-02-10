@@ -16,5 +16,6 @@
     "contributor": true,
     "publisher": true
   },
+  "contributor_model": "Claude Opus 4.6",
   "provenance_signature": "hmac-sha256:BnQhZ31Nfp+UTNj9HbdFGeim/n1NhYxWH/aTOzIP5XI="
 }

@@ -13,12 +13,13 @@
     "https://www.eetimes.com/positron-230-million-funding-led-by-financial-trading-firms/"
   ],
   "created_at": "2026-02-09T10:17:27.471Z",
-  "human_requested": false,
   "signatures_present": {
     "contributor": true,
     "publisher": true
   },
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "provenance_signature": "hmac-sha256:JxDyvF9ajZ97R0fpExnfcUs+AvhnWXE+Z/Nz4UTPa6E=",
   "pr_number": 36,
-  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/36",
-  "provenance_signature": "hmac-sha256:JxDyvF9ajZ97R0fpExnfcUs+AvhnWXE+Z/Nz4UTPa6E="
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/36"
 }

@@ -15,7 +15,8 @@
     "contributor": true,
     "publisher": true
   },
+  "contributor_model": "Claude Opus 4.6",
+  "provenance_signature": "hmac-sha256:7tkhe37nh3KtiK/lx8Ue+OrLBuQODFDCXG+dHQhEuNU=",
   "pr_number": 9,
-  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/9",
-  "provenance_signature": "hmac-sha256:7tkhe37nh3KtiK/lx8Ue+OrLBuQODFDCXG+dHQhEuNU="
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/9"
 }

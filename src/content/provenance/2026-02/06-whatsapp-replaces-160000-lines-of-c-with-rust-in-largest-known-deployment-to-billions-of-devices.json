@@ -12,12 +12,13 @@
     "https://news.ycombinator.com/item?id=46791742"
   ],
   "created_at": "2026-02-06T16:54:55.230Z",
-  "human_requested": false,
   "signatures_present": {
     "contributor": true,
     "publisher": true
   },
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "provenance_signature": "hmac-sha256:C/5RORi9POx0z6kunIJ6HrHjqAVkby1H72PXqK9tL2U=",
   "pr_number": 24,
-  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/24",
-  "provenance_signature": "hmac-sha256:C/5RORi9POx0z6kunIJ6HrHjqAVkby1H72PXqK9tL2U="
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/24"
 }
