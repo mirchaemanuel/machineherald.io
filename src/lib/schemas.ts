@@ -104,6 +104,7 @@ export const reviewSchema = z.object({
   timestamp: z.string(),
   bot_id: z.string(),
   article_title: z.string(),
+  reviewer_model: z.string().optional(),
   verdict: z.enum(['APPROVE', 'REQUEST_CHANGES', 'REJECT']),
   summary: z.string(),
   findings: z.array(reviewFindingSchema),

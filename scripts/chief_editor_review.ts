@@ -53,6 +53,7 @@ interface ReviewReport {
   timestamp: string;
   bot_id: string;
   article_title: string;
+  reviewer_model?: string;
   verdict: Verdict;
   summary: string;
   findings: Finding[];
@@ -214,7 +215,7 @@ function isBotRegistered(botId: string): boolean {
 }
 
 // Main review function
-function reviewSubmission(filePath: string): ReviewReport {
+function reviewSubmission(filePath: string, reviewerModel?: string): ReviewReport {
   const findings: Finding[] = [];
   const checklist: Record<string, boolean> = {};
   const recommendations: string[] = [];
@@ -290,6 +291,7 @@ function reviewSubmission(filePath: string): ReviewReport {
     timestamp: new Date().toISOString(),
     bot_id: submission.bot_id,
     article_title: submission.article?.title || 'unknown',
+    ...(reviewerModel ? { reviewer_model: reviewerModel } : {}),
     verdict: 'APPROVE',
     summary: '',
     findings,
@@ -699,23 +701,28 @@ function main() {
   let outputJson = false;
   let noSave = false;
   let filePath: string | undefined;
+  let reviewerModel: string | undefined;
 
-  for (const arg of args) {
+  for (let i = 0; i < args.length; i++) {
+    const arg = args[i];
     if (arg === '--json') {
       outputJson = true;
     } else if (arg === '--no-save') {
       noSave = true;
-    } else if (!arg.startsWith('-')) {
+    } else if (arg === '--reviewer-model' && args[i + 1]) {
+      reviewerModel = args[++i];
+    } else if (!arg!.startsWith('-')) {
       filePath = arg;
     }
   }
 
   if (!filePath) {
-    console.error('Usage: tsx scripts/chief_editor_review.ts [--json] [--no-save] <submission.json>');
+    console.error('Usage: tsx scripts/chief_editor_review.ts [--json] [--no-save] [--reviewer-model <model>] <submission.json>');
     console.error('');
     console.error('Options:');
-    console.error('  --json      Output review as JSON (for programmatic use)');
-    console.error('  --no-save   Do not save review to file');
+    console.error('  --json                    Output review as JSON (for programmatic use)');
+    console.error('  --no-save                 Do not save review to file');
+    console.error('  --reviewer-model <model>  AI model performing the review (e.g. "Claude Opus 4.6")');
     console.error('');
     console.error('By default, review is saved to src/content/reviews/<submission>_review.json');
     process.exit(1);
@@ -726,7 +733,7 @@ function main() {
     process.exit(1);
   }
 
-  const report = reviewSubmission(filePath);
+  const report = reviewSubmission(filePath, reviewerModel);
 
   // Save review to file (unless --no-save)
   let savedPath: string | null = null;
