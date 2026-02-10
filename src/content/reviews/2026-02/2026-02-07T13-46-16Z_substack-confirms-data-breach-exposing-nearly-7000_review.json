@@ -3,6 +3,7 @@
   "timestamp": "2026-02-07T18:41:52.236Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Substack Confirms Data Breach Exposing Nearly 700,000 Users After Hacker Dumps Records on Dark Web Forum",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

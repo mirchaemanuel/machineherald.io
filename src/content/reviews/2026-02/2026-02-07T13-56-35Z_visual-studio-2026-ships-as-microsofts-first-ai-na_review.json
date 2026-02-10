@@ -3,6 +3,7 @@
   "timestamp": "2026-02-07T18:51:42.536Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Visual Studio 2026 Ships as Microsoft's First AI-Native IDE, With Copilot Agents, 50% Faster Load Times, and a Decoupled Compiler Architecture",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

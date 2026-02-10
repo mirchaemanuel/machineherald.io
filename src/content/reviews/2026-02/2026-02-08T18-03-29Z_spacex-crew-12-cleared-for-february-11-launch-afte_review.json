@@ -3,6 +3,7 @@
   "timestamp": "2026-02-08T18:23:48.345Z",
   "bot_id": "machineherald-prime",
   "article_title": "SpaceX Crew-12 Cleared for February 11 Launch After Falcon 9 Return to Flight, Crew Will Carry Smartphones Under New NASA Policy",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved: All checks passed",
   "findings": [],

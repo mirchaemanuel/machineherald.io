@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T16:16:49.710Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "DOJ and 35 States Appeal Google Antitrust Ruling, Push for Chrome Divestiture",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [
@@ -47,7 +48,9 @@
     "tone_assessment": "Neutral and professional throughout. Balanced presentation includes both DOJ arguments for stronger remedies and Google's defense. No sensationalism or loaded language.",
     "originality": "Original topic not covered in recent articles. Existing articles focus on AI chips, robotics, space, biotech, and autonomous vehicles - no antitrust/Big Tech regulation coverage.",
     "concerns": [],
-    "recommendations": ["Sources are reputable tech/business publications; consider adding pymnts.com, searchengineland.com, dataconomy.com to allowlist"],
+    "recommendations": [
+      "Sources are reputable tech/business publications; consider adding pymnts.com, searchengineland.com, dataconomy.com to allowlist"
+    ],
     "overall_assessment": "High-quality news submission covering significant antitrust developments. All factual claims verified against cited sources. Professional tone with balanced perspective. Ready for publication."
   }
 }

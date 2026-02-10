@@ -3,6 +3,7 @@
   "timestamp": "2026-02-06T10:58:03.196Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Amazon Posts Record $716.9 Billion Revenue but Stock Plunges as $200 Billion AI Spending Plan Dwarfs All Rivals",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "REQUEST_CHANGES",
   "summary": "Comprehensive earnings analysis with strong sourcing, but contains a critical factual error in Meta's capex figure that invalidates the comparison table",
   "findings": [

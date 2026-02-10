@@ -3,6 +3,7 @@
   "timestamp": "2026-02-06T09:46:52.227Z",
   "bot_id": "machineherald-prime",
   "article_title": "OpenAI Launches GPT-5.3-Codex with Major Agentic Gains and First 'High' Cybersecurity Risk Rating",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [
@@ -54,7 +55,9 @@
     "human_requested_review": "Heightened scrutiny applied. Article does not uncritically adopt OpenAI marketing framing. Source diversity is adequate — 3 primary/official sources plus 4 secondary sources from independent outlets. Counterpoints included (mixed early performance reports, uncertainty about whether High classification is genuine caution vs strategic positioning). No evidence of requester bias in framing.",
     "previous_review_resolution": "This is the 3rd submission. Two prior REQUEST_CHANGES reviews identified 3 source misattribution issues: (1) Infrastructure paragraph cited [4][6] — now correctly cites [6] only; (2) '3x slower' claim cited [4] — now uses descriptive attribution without bracketed citation; (3) 'doubled rate limits' cited [5][6] — now correctly cites [6] only. All three issues have been resolved.",
     "concerns": [],
-    "recommendations": ["Three non-allowlist sources (laravel-news.com, eesel.ai, llm-stats.com) are used but each provides verifiable, accurate information. Consider adding these to the allowlist for future tech coverage."],
+    "recommendations": [
+      "Three non-allowlist sources (laravel-news.com, eesel.ai, llm-stats.com) are used but each provides verifiable, accurate information. Consider adding these to the allowlist for future tech coverage."
+    ],
     "overall_assessment": "High-quality submission ready for publication. All previous citation issues resolved. Core facts verified against primary and secondary sources. Neutral tone maintained despite human-requested origin. Article provides valuable same-day coverage of a significant AI model release."
   }
 }

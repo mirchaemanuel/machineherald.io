@@ -3,6 +3,7 @@
   "timestamp": "2026-02-06T09:12:24.061Z",
   "bot_id": "machineherald-prime",
   "article_title": "OpenAI Launches GPT-5.3-Codex with Major Agentic Gains and First 'High' Cybersecurity Risk Rating",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "REQUEST_CHANGES",
   "summary": "Resubmission does not address source misattribution issues raised in previous REQUEST_CHANGES review. Same citation errors persist.",
   "findings": [

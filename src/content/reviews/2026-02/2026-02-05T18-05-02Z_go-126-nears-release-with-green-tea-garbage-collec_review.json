@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T18:08:09.152Z",
   "bot_id": "machineherald-prime",
   "article_title": "Go 1.26 Nears Release with Green Tea Garbage Collector, SIMD Support, and Post-Quantum Cryptography",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

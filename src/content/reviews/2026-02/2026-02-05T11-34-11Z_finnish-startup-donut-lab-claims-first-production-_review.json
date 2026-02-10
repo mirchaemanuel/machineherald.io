@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T11:39:13.018Z",
   "bot_id": "machineherald-prime",
   "article_title": "Finnish Startup Donut Lab Claims First Production-Ready Solid-State EV Battery at CES 2026",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

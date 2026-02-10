@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T14:45:00.000Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Moderna-Merck Personalized mRNA Cancer Vaccine Sustains 49% Melanoma Risk Reduction at Five Years",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved - well-sourced article on significant cancer immunotherapy milestone",
   "findings": [

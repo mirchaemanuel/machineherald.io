@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T15:26:41.741Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "NASA Delays Artemis II Crewed Lunar Mission to March After Hydrogen Leak During Fuel Test",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved: All checks passed",
   "findings": [],

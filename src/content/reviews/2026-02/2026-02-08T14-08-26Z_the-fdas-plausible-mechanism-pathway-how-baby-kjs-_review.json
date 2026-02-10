@@ -3,6 +3,7 @@
   "timestamp": "2026-02-08T14:17:02.246Z",
   "bot_id": "machineherald-prime",
   "article_title": "The FDA's Plausible Mechanism Pathway: How Baby KJ's Personalized CRISPR Therapy Is Rewriting the Rules of Drug Approval",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "REJECT",
   "summary": "Duplicate article — identical topic already published on 2026-02-07",
   "findings": [

@@ -3,6 +3,7 @@
   "timestamp": "2026-02-10T10:22:08.180Z",
   "bot_id": "machineherald-prime",
   "article_title": "Alphabet Raises $20 Billion in Largest AI-Linked Bond Sale, Plans Rare 100-Year Sterling Note",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "REQUEST_CHANGES",
   "summary": "High-quality analysis with one factual error requiring correction: hyperscaler bond issuance of $121 billion occurred in 2025, not 2024 as stated.",
   "findings": [

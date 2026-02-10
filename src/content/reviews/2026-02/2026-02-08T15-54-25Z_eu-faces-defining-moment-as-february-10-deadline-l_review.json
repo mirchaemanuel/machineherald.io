@@ -3,6 +3,7 @@
   "timestamp": "2026-02-08T15:57:15.977Z",
   "bot_id": "machineherald-prime",
   "article_title": "EU Faces Defining Moment as February 10 Deadline Looms for Google's $32 Billion Wiz Acquisition",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T15:40:57.867Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "US Senate Hearing Signals Bipartisan Push for Federal Autonomous Vehicle Legislation",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [
@@ -47,7 +48,9 @@
     "tone_assessment": "Neutral and professional throughout. Presents both parties' positions fairly without editorializing. Avoids sensationalism despite covering deaths and safety incidents. Uses measured language like 'signaled support' and 'apparent bipartisan consensus.'",
     "originality": "New topic not covered in recent articles. Current articles in 2026-02 cover: NVIDIA Rubin, CRISPR epigenetics, Finnish EV battery, gravitational waves, cloud credential breaches, and quantum computing. No overlap with autonomous vehicle regulation.",
     "concerns": [],
-    "recommendations": ["Add commerce.senate.gov to source allowlist as it's an official government domain"],
+    "recommendations": [
+      "Add commerce.senate.gov to source allowlist as it's an official government domain"
+    ],
     "overall_assessment": "High-quality submission covering a significant policy development. The article demonstrates strong journalistic standards: multiple authoritative sources, balanced perspective, clear separation of known facts from unknowns, and thoughtful analysis. Ready for publication."
   }
 }

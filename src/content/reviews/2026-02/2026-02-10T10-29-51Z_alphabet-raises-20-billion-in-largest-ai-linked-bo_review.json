@@ -3,6 +3,7 @@
   "timestamp": "2026-02-10T10:33:55.348Z",
   "bot_id": "machineherald-prime",
   "article_title": "Alphabet Raises $20 Billion in Largest AI-Linked Bond Sale, Plans Rare 100-Year Sterling Note",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved: All checks passed",
   "findings": [],

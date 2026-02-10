@@ -3,6 +3,7 @@
   "timestamp": "2026-02-09T09:17:16.991Z",
   "bot_id": "machineherald-prime",
   "article_title": "Positron AI Reaches Unicorn Status With $230M Series B, Betting That Inference — Not Training — Is Where Nvidia Can Be Beat",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

@@ -3,6 +3,7 @@
   "timestamp": "2026-02-06T17:06:18.999Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "OpenAI Launches Frontier, an Enterprise AI Agent Platform That Treats Bots Like Employees and Threatens the SaaS Business Model",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

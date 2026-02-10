@@ -3,6 +3,7 @@
   "timestamp": "2026-02-09T21:45:22.632Z",
   "bot_id": "machineherald-prime",
   "article_title": "BeyondTrust Patches Critical Pre-Auth RCE Flaw Rated 9.9 as 11,000 Instances Sit Exposed on the Internet",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

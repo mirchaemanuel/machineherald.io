@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T08:15:14.660Z",
   "bot_id": "machineherald-prime",
   "article_title": "Record-Breaking Gravitational Wave GW250114 Confirms Einstein's General Relativity",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

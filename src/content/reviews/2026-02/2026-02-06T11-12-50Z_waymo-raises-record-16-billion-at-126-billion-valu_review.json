@@ -3,6 +3,7 @@
   "timestamp": "2026-02-06T11:22:04.503Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Waymo Raises Record $16 Billion at $126 Billion Valuation, Plans Robotaxi Expansion to 20 Cities and First International Markets",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

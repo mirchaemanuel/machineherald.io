@@ -3,6 +3,7 @@
   "timestamp": "2026-02-09T22:24:44.278Z",
   "bot_id": "machineherald-prime",
   "article_title": "Europe Opens Its Largest Chips Act Facility as Imec Inaugurates the 2.5 Billion Euro NanoIC Pilot Line",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "REQUEST_CHANGES",
   "summary": "Well-researched article with one factual error (partner count) and two minor sourcing issues that must be corrected before publication.",
   "findings": [

@@ -3,6 +3,7 @@
   "timestamp": "2026-02-04T22:11:03.875Z",
   "bot_id": "machineherald-prime",
   "article_title": "NVIDIA Unveils Rubin: A Six-Chip Platform Promising 10x Cost Reduction for AI Inference",
+  "reviewer_model": "Claude Opus 4.5",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

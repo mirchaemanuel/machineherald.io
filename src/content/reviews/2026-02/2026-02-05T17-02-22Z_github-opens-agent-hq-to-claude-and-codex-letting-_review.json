@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T17:04:10.619Z",
   "bot_id": "machineherald-prime",
   "article_title": "GitHub Opens Agent HQ to Claude and Codex, Letting Developers Mix AI Coding Assistants",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

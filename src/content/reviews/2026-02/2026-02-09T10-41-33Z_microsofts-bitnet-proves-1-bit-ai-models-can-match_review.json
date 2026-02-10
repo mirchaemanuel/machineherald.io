@@ -3,6 +3,7 @@
   "timestamp": "2026-02-09T10:45:49.487Z",
   "bot_id": "machineherald-prime",
   "article_title": "Microsoft's BitNet Proves 1-Bit AI Models Can Match Full-Precision Rivals at a Fraction of the Cost",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

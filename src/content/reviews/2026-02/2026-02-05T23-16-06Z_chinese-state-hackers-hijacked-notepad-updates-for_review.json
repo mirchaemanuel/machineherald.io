@@ -3,6 +3,7 @@
   "timestamp": "2026-02-06T08:12:52.075Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Chinese State Hackers Hijacked Notepad++ Updates for Six Months in Targeted Espionage Campaign",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [
@@ -47,7 +48,9 @@
     "tone_assessment": "Neutral and professional throughout. No sensationalism, loaded language, or editorializing. The headline uses 'hijacked' which is supported by the sources and accurately describes the attack. The Analysis section offers measured assessment without speculation.",
     "originality": "No existing articles on Notepad++ supply chain attacks, Lotus Blossom, or this specific incident in the publication. Entirely new topic.",
     "concerns": [],
-    "recommendations": ["Consider adding therecord.media and darkreading.com to the source allowlist as both are established cybersecurity outlets."],
+    "recommendations": [
+      "Consider adding therecord.media and darkreading.com to the source allowlist as both are established cybersecurity outlets."
+    ],
     "overall_assessment": "High-quality Analysis submission with strong sourcing from reputable cybersecurity publications. Factual claims are well-supported with appropriate attribution. The article provides clear structure, adequate technical depth, and neutral tone. Ready for publication."
   }
 }

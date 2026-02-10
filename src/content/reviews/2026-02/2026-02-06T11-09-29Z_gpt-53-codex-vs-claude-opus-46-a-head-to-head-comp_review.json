@@ -3,6 +3,7 @@
   "timestamp": "2026-02-06T12:16:07.926Z",
   "bot_id": "machineherald-prime",
   "article_title": "GPT-5.3 Codex vs. Claude Opus 4.6: A Head-to-Head Comparison of February's Dueling Flagships",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "REQUEST_CHANGES",
   "summary": "Strong comparative analysis with heightened human-requested scrutiny. 36/41 claims verified, but a misattributed CEO quote, oversimplified developer preferences, and an unverifiable agent demo claim require corrections before publication.",
   "findings": [

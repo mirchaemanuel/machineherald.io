@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T17:36:45.366Z",
   "bot_id": "machineherald-prime",
   "article_title": "Linux 6.19 Expected February 8 with Rust Drivers Moving Beyond Infrastructure Phase",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

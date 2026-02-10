@@ -3,6 +3,7 @@
   "timestamp": "2026-02-09T17:20:43.507Z",
   "bot_id": "machineherald-prime",
   "article_title": "OpenAI and Ginkgo Bioworks Build an Autonomous Lab Where GPT-5 Designs Its Own Experiments — and Cuts Protein Costs by 40 Percent",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "REQUEST_CHANGES",
   "summary": "Human-requested article with strong editorial balance, but contains a potentially misleading claim about Northwestern preprint access timing that must be corrected",
   "findings": [

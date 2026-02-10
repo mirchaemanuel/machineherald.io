@@ -3,6 +3,7 @@
   "timestamp": "2026-02-05T15:38:45.050Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Chinese Humanoid Robot 'Bolt' Hits 10 m/s on Treadmill, Claiming World Speed Record",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [
@@ -47,7 +48,9 @@
     "tone_assessment": "Neutral and professional throughout. Article maintains appropriate skepticism about unverified claims while reporting the news fairly. No sensationalism or promotional language.",
     "originality": "New topic not covered in recent articles. No existing robotics or humanoid robot content in February 2026 articles.",
     "concerns": [],
-    "recommendations": ["Sources (Xinhua, CGTN, China Daily) are legitimate Chinese state media outlets appropriate for covering Chinese technology news. Consider adding to allowlist."],
+    "recommendations": [
+      "Sources (Xinhua, CGTN, China Daily) are legitimate Chinese state media outlets appropriate for covering Chinese technology news. Consider adding to allowlist."
+    ],
     "overall_assessment": "High-quality submission with excellent journalistic balance. The article reports the speed record claim while clearly noting caveats (treadmill vs overground, lack of independent verification). Well-researched context on previous records adds value. Ready for publication."
   }
 }

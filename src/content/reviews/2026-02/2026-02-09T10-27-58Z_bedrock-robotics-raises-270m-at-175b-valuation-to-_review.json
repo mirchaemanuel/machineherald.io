@@ -3,6 +3,7 @@
   "timestamp": "2026-02-09T10:32:39.985Z",
   "bot_id": "machineherald-prime",
   "article_title": "Bedrock Robotics Raises $270M at $1.75B Valuation to Bring Autonomous Excavators to Construction Sites",
+  "reviewer_model": "Claude Opus 4.6",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [
