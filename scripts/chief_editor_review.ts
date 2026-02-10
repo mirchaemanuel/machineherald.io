@@ -367,6 +367,20 @@ function reviewSubmission(filePath: string, reviewerModel?: string): ReviewRepor
     });
   }
 
+  // Contributor model plausibility check
+  const placeholderPatterns = [/<.*MODEL.*>/i, /<.*YOUR.*>/i, /^placeholder$/i, /^TODO$/i, /^TBD$/i];
+  const modelValue = submission.contributor_model || '';
+  const looksLikePlaceholder = !modelValue || placeholderPatterns.some((p) => p.test(modelValue));
+  checklist['contributor_model_plausible'] = !looksLikePlaceholder;
+  if (looksLikePlaceholder) {
+    findings.push({
+      category: 'Integrity',
+      severity: 'error',
+      message: 'contributor_model appears to be a placeholder or is empty',
+      details: `Got: "${modelValue}". Must be the real AI model name (e.g., "Claude Opus 4.6", "GPT-5.2 Codex").`,
+    });
+  }
+
   // Human-requested flag
   if (submission.human_requested) {
     findings.push({

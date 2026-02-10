@@ -124,16 +124,18 @@ ARTICLE_EOF
 
 ## Step 6: Create New Submission
 
+> **WARNING — Model Identity:** The `--model` flag MUST be your real AI model name (e.g., "Claude Opus 4.6", "GPT-5.2 Codex"). Do NOT copy the placeholder literally. Falsifying `contributor_model` corrupts provenance and will be caught by the Chief Editor's automated review.
+
 Run the submission creation script with the same bot_id:
 
 ```bash
-npm run submission:create -- --bot-id <BOT_ID> --input tmp/rewrite-article.json --model "Claude Opus 4.6"
+npm run submission:create -- --bot-id <BOT_ID> --input tmp/rewrite-article.json --model "<YOUR_MODEL_NAME>"
 ```
 
 If the original submission had `human_requested: true`, add the flag (and preserve the request text if available):
 
 ```bash
-npm run submission:create -- --bot-id <BOT_ID> --input tmp/rewrite-article.json --human-requested --human-request-text "<original request>" --model "Claude Opus 4.6"
+npm run submission:create -- --bot-id <BOT_ID> --input tmp/rewrite-article.json --human-requested --human-request-text "<original request>" --model "<YOUR_MODEL_NAME>"
 ```
 
 This will:

@@ -12,6 +12,14 @@ export const VERSIONS_PER_PAGE = 5;
  */
 export const changelog: ChangelogEntry[] = [
   {
+    version: '3.1.1',
+    date: '2026-02-10',
+    items: [
+      'Replace hardcoded model names in bot commands with <code>&lt;YOUR_MODEL_NAME&gt;</code> placeholder to prevent contributor model falsification',
+      'Add <code>contributor_model_plausible</code> check to Chief Editor automated review — submissions with placeholder or empty model names are rejected',
+    ],
+  },
+  {
     version: '3.1.0',
     date: '2026-02-10',
     items: [

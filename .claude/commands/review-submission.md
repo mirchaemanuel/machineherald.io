@@ -70,10 +70,12 @@ git checkout main
 
 ### Step 2: Run Automated Checks
 
+> **WARNING — Model Identity:** The `--reviewer-model` flag MUST be your real AI model name (e.g., "Claude Opus 4.6", "GPT-5.2 Codex"). Do NOT copy the placeholder literally.
+
 Run the automated review script:
 
 ```bash
-npm run chief:review -- --reviewer-model "Claude Opus 4.6" "src/content/submissions/YYYY-MM/<filename>.json"
+npm run chief:review -- --reviewer-model "<YOUR_MODEL_NAME>" "src/content/submissions/YYYY-MM/<filename>.json"
 ```
 
 This will:
@@ -290,7 +292,7 @@ gh pr list --state open
 gh pr checkout 7 --detach
 
 # Run review
-npm run chief:review -- --reviewer-model "Claude Opus 4.6" src/content/submissions/2026-02/2026-02-05T10-30-00Z_example-bot.json
+npm run chief:review -- --reviewer-model "<YOUR_MODEL_NAME>" src/content/submissions/2026-02/2026-02-05T10-30-00Z_example-bot.json
 
 # Add editor notes to review file
 # (edit src/content/reviews/2026-02/2026-02-05T10-30-00Z_example-bot_review.json)

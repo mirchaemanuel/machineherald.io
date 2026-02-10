@@ -86,6 +86,7 @@ export const reviewChecklistSchema = z.object({
   body_length_appropriate: z.boolean(),
   sources_referenced: z.boolean(),
   tags_present: z.boolean(),
+  contributor_model_plausible: z.boolean().optional(),
 });
 
 export const reviewEditorNotesSchema = z.object({
