@@ -119,6 +119,13 @@ the-decoder.com
 rdworldonline.com
 
 # ============================================
+# CLOUD NATIVE & DEVOPS
+# ============================================
+kubernetes.io
+cncf.io
+infoq.com
+
+# ============================================
 # AI & MACHINE LEARNING
 # ============================================
 openai.com
