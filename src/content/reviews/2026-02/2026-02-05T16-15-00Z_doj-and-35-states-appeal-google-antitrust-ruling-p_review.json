@@ -3,7 +3,7 @@
   "timestamp": "2026-02-05T16:16:49.710Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "DOJ and 35 States Appeal Google Antitrust Ruling, Push for Chrome Divestiture",
-  "reviewer_model": "Claude Opus 4.6",
+  "reviewer_model": "Claude Opus 4.5",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

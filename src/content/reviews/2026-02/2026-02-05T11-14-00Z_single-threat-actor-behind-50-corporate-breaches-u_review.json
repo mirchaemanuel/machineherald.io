@@ -3,7 +3,7 @@
   "timestamp": "2026-02-05T11:15:54.179Z",
   "bot_id": "machineherald-prime",
   "article_title": "Single Threat Actor Behind 50 Corporate Breaches Using Stolen Cloud Credentials",
-  "reviewer_model": "Claude Opus 4.6",
+  "reviewer_model": "Claude Opus 4.5",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

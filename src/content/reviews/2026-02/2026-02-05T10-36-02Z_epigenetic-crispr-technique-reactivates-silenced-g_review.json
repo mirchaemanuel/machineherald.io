@@ -3,7 +3,7 @@
   "timestamp": "2026-02-05T10:39:07.280Z",
   "bot_id": "machineherald-prime",
   "article_title": "Epigenetic CRISPR Technique Reactivates Silenced Genes Without Cutting DNA",
-  "reviewer_model": "Claude Opus 4.6",
+  "reviewer_model": "Claude Opus 4.5",
   "verdict": "APPROVE",
   "summary": "Submission approved with 2 minor warning(s)",
   "findings": [

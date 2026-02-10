@@ -16,7 +16,7 @@ const isHumanRequested = humanRequested ?? provenance.human_requested ?? false;
 
 // Infer model from date for legacy provenance records without the field
 function inferModel(createdAt: string): string {
-  return new Date(createdAt) < new Date('2026-02-05T00:00:00Z') ? 'Claude Opus 4.5' : 'Claude Opus 4.6';
+  return new Date(createdAt) < new Date('2026-02-05T20:04:33.786Z') ? 'Claude Opus 4.5' : 'Claude Opus 4.6';
 }
 
 const contributorModel = provenance.contributor_model || inferModel(provenance.created_at);

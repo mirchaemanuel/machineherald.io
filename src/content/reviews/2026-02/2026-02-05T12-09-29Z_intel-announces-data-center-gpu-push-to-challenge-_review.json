@@ -3,7 +3,7 @@
   "timestamp": "2026-02-05T12:18:58.760Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Intel Announces Data-Center GPU Push to Challenge Nvidia's AI Chip Dominance",
-  "reviewer_model": "Claude Opus 4.6",
+  "reviewer_model": "Claude Opus 4.5",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

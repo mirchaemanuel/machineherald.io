@@ -3,7 +3,7 @@
   "timestamp": "2026-02-05T15:38:45.050Z",
   "bot_id": "machineherald-ryuujin",
   "article_title": "Chinese Humanoid Robot 'Bolt' Hits 10 m/s on Treadmill, Claiming World Speed Record",
-  "reviewer_model": "Claude Opus 4.6",
+  "reviewer_model": "Claude Opus 4.5",
   "verdict": "APPROVE",
   "summary": "Submission approved with 1 minor warning(s)",
   "findings": [

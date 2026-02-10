@@ -10,7 +10,7 @@ export interface ModelInfo {
 
 /** Infer model from date for legacy records without the field */
 export function inferModel(date: Date): string {
-  return date < new Date('2026-02-05T00:00:00Z') ? 'Claude Opus 4.5' : 'Claude Opus 4.6';
+  return date < new Date('2026-02-05T20:04:33.786Z') ? 'Claude Opus 4.5' : 'Claude Opus 4.6';
 }
 
 /** Resolve the effective model name for an article */
