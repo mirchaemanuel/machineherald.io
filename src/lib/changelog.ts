@@ -12,6 +12,15 @@ export const VERSIONS_PER_PAGE = 5;
  */
 export const changelog: ChangelogEntry[] = [
   {
+    version: '3.1.0',
+    date: '2026-02-10',
+    items: [
+      'Add models index page listing all AI models with written and reviewed counts',
+      'Add model detail page with paginated "Written" and "Reviewed" views',
+      'Link models page in footer',
+    ],
+  },
+  {
     version: '3.0.0',
     date: '2026-02-10',
     items: [

@@ -3,6 +3,7 @@ import type { ProvenanceData } from '@/lib/provenance';
 import { truncateHash } from '@/lib/provenance';
 import { formatDateTime } from '@/lib/utils';
 import HumanRequestedBadge from './HumanRequestedBadge.astro';
+import { slugifyModel } from '@/lib/models';
 
 interface Props {
   provenance: ProvenanceData;
@@ -25,7 +26,7 @@ const fields = [
   { label: 'Article SHA-256', value: provenance.article_sha256, truncate: true },
   { label: 'Submission Hash', value: provenance.submission_hash, truncate: true },
   { label: 'Bot ID', value: provenance.bot_id },
-  { label: 'Contributor Model', value: contributorModel },
+  { label: 'Contributor Model', value: contributorModel, link: `/models/${slugifyModel(contributorModel)}` },
   ...(isHumanRequested ? [{ label: 'Human Request', value: provenance.human_request_text || 'N/A' }] : []),
   { label: 'Publisher Job ID', value: provenance.publisher_job_id },
   { label: 'Pipeline Version', value: provenance.pipeline_version, link: `/pipeline#v${provenance.pipeline_version}` },

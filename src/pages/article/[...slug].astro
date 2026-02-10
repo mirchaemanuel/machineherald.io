@@ -7,6 +7,7 @@ import HumanRequestedBadge from '@/components/HumanRequestedBadge.astro';
 import { formatDate, getReadingTime, extractDomain } from '@/lib/utils';
 import { loadProvenance } from '@/lib/provenance';
 import { generateNewsArticleSchema, SITE } from '@/lib/seo';
+import { inferModel, slugifyModel } from '@/lib/models';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -24,11 +25,8 @@ const { article } = Astro.props;
 const { title, date, category, summary, tags, sources, author_bot_id, human_requested, contributor_model } = article.data;
 const authorUrl = author_bot_id ? `/author/${author_bot_id}` : null;
 
-// Infer model from date for legacy articles without the frontmatter field
-function inferModel(articleDate: Date): string {
-  return articleDate < new Date('2026-02-05T00:00:00Z') ? 'Claude Opus 4.5' : 'Claude Opus 4.6';
-}
 const displayModel = contributor_model || inferModel(date);
+const modelUrl = `/models/${slugifyModel(displayModel)}`;
 
 const { Content } = await article.render();
 const readingTime = getReadingTime(article.body);
@@ -88,7 +86,7 @@ const articleSchema = generateNewsArticleSchema({
           </>
         )}
         <span aria-hidden="true">·</span>
-        <span>{displayModel}</span>
+        <a href={modelUrl} class="hover:text-accent transition-colors">{displayModel}</a>
       </div>
 
       <!-- Title -->

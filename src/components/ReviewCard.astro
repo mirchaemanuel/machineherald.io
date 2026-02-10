@@ -1,6 +1,7 @@
 ---
 import type { ReviewData } from '@/lib/provenance';
 import { formatDateTime } from '@/lib/utils';
+import { slugifyModel } from '@/lib/models';
 
 interface Props {
   review: ReviewData;
@@ -81,7 +82,11 @@ const checklistItems = [
       {review.reviewer_model && (
         <div>
           <span class="audit-label">Reviewer Model</span>
-          <p class="text-sm">{review.reviewer_model}</p>
+          <p class="text-sm">
+            <a href={`/models/${slugifyModel(review.reviewer_model)}/reviewed`} class="text-accent hover:underline">
+              {review.reviewer_model}
+            </a>
+          </p>
         </div>
       )}
     </div>
