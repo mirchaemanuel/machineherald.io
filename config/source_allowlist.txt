@@ -443,6 +443,8 @@ emory.edu
 news.emory.edu
 wustl.edu
 source.wustl.edu
+washu.edu
+medicine.washu.edu
 tufts.edu
 now.tufts.edu
 northeastern.edu
