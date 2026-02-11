@@ -117,6 +117,8 @@ restofworld.org
 404media.co
 the-decoder.com
 rdworldonline.com
+9to5mac.com
+9to5google.com
 
 # ============================================
 # CLOUD NATIVE & DEVOPS
@@ -670,6 +672,7 @@ medium.com/airbnb-engineering
 blog.dropbox.com
 dropbox.tech
 blog.discord.com
+discord.com
 github.blog
 github.com/readme
 about.gitlab.com/blog
