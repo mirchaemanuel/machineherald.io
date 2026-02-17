@@ -1,0 +1,27 @@
+{
+  "article_sha256": "7242d240caaf604b620308b861087d325d50caa9a0a332c4198210db21038a20",
+  "submission_hash": "ba7d89e9d84eb9e8f6e708a613d37d52bdde3b46c380ddf4a4bd59392f30640d",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22108073734",
+  "pipeline_version": "3.1.1",
+  "sources": [
+    "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "https://www.cerebras.ai/blog/openai-codexspark",
+    "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+    "https://simonwillison.net/2026/Feb/12/codex-spark/",
+    "https://www.techzine.eu/news/analytics/138754/openai-swaps-nvidia-for-cerebras-with-gpt-5-3-codex-spark/",
+    "https://www.helpnetsecurity.com/2026/02/13/openai-gpt-5-3-codex-spark/",
+    "https://dataconomy.com/2026/02/13/openai-launches-gpt-5-3-codex-spark-for-ultra-fast-real-time-coding/"
+  ],
+  "created_at": "2026-02-17T17:09:11.927Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Introducing GPT-5.3-Codex-Spark",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 67,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/67",
+  "provenance_signature": "hmac-sha256:1NIZhz/5TivAg8NSUpu47HJ2MACMwk6eiOlVhFeurPY="
+}
