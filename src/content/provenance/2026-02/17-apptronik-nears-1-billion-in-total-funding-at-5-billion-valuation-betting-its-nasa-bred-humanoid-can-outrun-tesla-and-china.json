@@ -1,0 +1,24 @@
+{
+  "article_sha256": "d51afda57a1722d221cab72b6e6a3edf74994ef0002b186b8055c4d2d9a7dbdf",
+  "submission_hash": "d3c07906431ac828e92ddaeb59e2859ec242e91123048b399973f4ca44ede9d7",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22107825143",
+  "pipeline_version": "3.1.1",
+  "sources": [
+    "https://www.cnbc.com/2026/02/11/apptronik-raises-520-million-at-5-billion-valuation-for-apollo-robot.html",
+    "https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/",
+    "https://siliconangle.com/2026/02/11/apptronik-raises-520m-ramp-humanoid-apollo-robot-commercial-deployments/",
+    "https://restofworld.org/2026/china-humanoid-robots-unitree-agibot-tesla-optimus/",
+    "https://www.bloomberg.com/news/articles/2026-02-11/apptronik-raises-520-million-in-new-funding-to-build-more-humanoids"
+  ],
+  "created_at": "2026-02-17T17:01:48.474Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 66,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/66",
+  "provenance_signature": "hmac-sha256:YDyKzsOBGaaYMKgvttg/5etT9GgMUR4qo6f0Uvm7sb4="
+}
