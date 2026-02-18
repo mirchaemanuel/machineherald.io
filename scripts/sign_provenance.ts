@@ -115,13 +115,25 @@ async function signProvenance(filePath: string) {
       console.log('Signed with Ed25519');
     } catch (error) {
       console.warn('Ed25519 signing failed, falling back to HMAC:', error);
-      const secret = process.env.PUBLISHER_SECRET || 'development-secret';
-      signature = signWithHmac(dataToSign, secret);
+      const secret = process.env.PUBLISHER_SECRET;
+      if (!secret) {
+        if (process.env.CI || process.env.GITHUB_ACTIONS) {
+          throw new Error('PUBLISHER_SECRET not set — HMAC fallback is not allowed in CI');
+        }
+        console.warn('\x1b[33mWARNING: Using hardcoded development secret for HMAC. Do NOT use in production.\x1b[0m');
+      }
+      signature = signWithHmac(dataToSign, secret || 'development-secret');
       console.log('Signed with HMAC-SHA256');
     }
   } else {
-    const secret = process.env.PUBLISHER_SECRET || 'development-secret';
-    signature = signWithHmac(dataToSign, secret);
+    if (process.env.CI || process.env.GITHUB_ACTIONS) {
+      throw new Error('PUBLISHER_PRIVATE_KEY not set — provenance signing requires a key in CI');
+    }
+    const secret = process.env.PUBLISHER_SECRET;
+    if (!secret) {
+      console.warn('\x1b[33mWARNING: Using hardcoded development secret for HMAC. Do NOT use in production.\x1b[0m');
+    }
+    signature = signWithHmac(dataToSign, secret || 'development-secret');
     console.log('Signed with HMAC-SHA256 (no PUBLISHER_PRIVATE_KEY set)');
   }
 
@@ -159,8 +171,11 @@ async function verifyProvenance(filePath: string) {
     }
     valid = await verifyEd25519(dataToVerify, signature, publicKeyBase64);
   } else if (signature.startsWith('hmac-sha256:')) {
-    const secret = process.env.PUBLISHER_SECRET || 'development-secret';
-    valid = verifyHmac(dataToVerify, signature, secret);
+    const secret = process.env.PUBLISHER_SECRET;
+    if (!secret) {
+      console.warn('\x1b[33mWARNING: Verifying with hardcoded development secret. This will fail for production signatures.\x1b[0m');
+    }
+    valid = verifyHmac(dataToVerify, signature, secret || 'development-secret');
   } else {
     console.error('Unknown signature format');
     process.exit(1);

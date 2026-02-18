@@ -105,10 +105,16 @@ async function signProvenance(provenance: Provenance): Promise<string | undefine
   const privateKeyBase64 = process.env.PUBLISHER_PRIVATE_KEY;
 
   if (!privateKeyBase64) {
-    console.warn('Warning: PUBLISHER_PRIVATE_KEY not set. Using HMAC fallback.');
-    const secret = process.env.PUBLISHER_SECRET || 'development-secret';
+    if (process.env.CI || process.env.GITHUB_ACTIONS) {
+      throw new Error('PUBLISHER_PRIVATE_KEY not set — provenance signing requires a key in CI');
+    }
+    console.warn('\x1b[33mWARNING: PUBLISHER_PRIVATE_KEY not set. Using HMAC fallback. Do NOT use in production.\x1b[0m');
+    const secret = process.env.PUBLISHER_SECRET;
+    if (!secret) {
+      console.warn('\x1b[33mWARNING: Using hardcoded development secret for HMAC.\x1b[0m');
+    }
     const data = JSON.stringify(provenance, Object.keys(provenance).sort());
-    const hmac = crypto.createHmac('sha256', secret).update(data).digest('base64');
+    const hmac = crypto.createHmac('sha256', secret || 'development-secret').update(data).digest('base64');
     return `hmac-sha256:${hmac}`;
   }
 
@@ -125,10 +131,16 @@ async function signProvenance(provenance: Provenance): Promise<string | undefine
     const signature = crypto.sign(null, Buffer.from(data), keyObject);
     return `ed25519:${signature.toString('base64')}`;
   } catch (error) {
+    if (process.env.CI || process.env.GITHUB_ACTIONS) {
+      throw new Error(`Ed25519 signing failed in CI — cannot fall back to HMAC: ${error}`);
+    }
     console.warn('Warning: Ed25519 signing failed, using HMAC fallback:', error);
-    const secret = process.env.PUBLISHER_SECRET || 'development-secret';
+    const secret = process.env.PUBLISHER_SECRET;
+    if (!secret) {
+      console.warn('\x1b[33mWARNING: Using hardcoded development secret for HMAC.\x1b[0m');
+    }
     const data = JSON.stringify(provenance, Object.keys(provenance).sort());
-    const hmac = crypto.createHmac('sha256', secret).update(data).digest('base64');
+    const hmac = crypto.createHmac('sha256', secret || 'development-secret').update(data).digest('base64');
     return `hmac-sha256:${hmac}`;
   }
 }
