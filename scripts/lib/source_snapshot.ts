@@ -212,8 +212,12 @@ export async function fetchAndSnapshotSources(
         },
   );
 
+  const normalizedSubmissionPath = path.isAbsolute(submissionPath)
+    ? path.relative(process.cwd(), submissionPath)
+    : submissionPath;
+
   const manifest: SourceManifest = {
-    submission_file: submissionPath,
+    submission_file: normalizedSubmissionPath,
     article_title: articleTitle,
     fetched_at: new Date().toISOString(),
     sources: sourceResults,
