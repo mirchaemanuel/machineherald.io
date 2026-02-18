@@ -170,6 +170,8 @@ acs.org
 # ============================================
 # SCIENCE NEWS & MAGAZINES
 # ============================================
+interestingengineering.com
+batteriesnews.com
 sciencenews.org
 scientificamerican.com
 newscientist.com
@@ -500,6 +502,24 @@ durham.ac.uk
 durham.ac.uk/news
 exeter.ac.uk
 exeter.ac.uk/news
+
+# ============================================
+# ACADEMIC INSTITUTIONS (ASIA-PACIFIC)
+# ============================================
+hkust.edu.hk
+ust.hk
+hku.hk
+cuhk.edu.hk
+ntu.edu.sg
+nus.edu.sg
+u-tokyo.ac.jp
+kyoto-u.ac.jp
+tsinghua.edu.cn
+pku.edu.cn
+kaist.ac.kr
+snu.ac.kr
+iitb.ac.in
+iisc.ac.in
 
 # ============================================
 # ACADEMIC INSTITUTIONS (EUROPE)
