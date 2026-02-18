@@ -58,4 +58,8 @@ async function main() {
   console.log('\nAll sources reachable.');
 }
 
-main();
+main().catch((err) => {
+  console.error('Unexpected error while creating source snapshots:');
+  console.error(err instanceof Error ? err.stack ?? err.message : String(err));
+  process.exit(1);
+});
