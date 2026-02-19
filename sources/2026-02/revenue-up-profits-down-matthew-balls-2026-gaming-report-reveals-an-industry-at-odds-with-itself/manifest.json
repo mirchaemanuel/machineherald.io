@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-19T08-42-23Z_revenue-up-profits-down-matthew-balls-2026-gaming-.json",
+  "article_title": "Revenue Up, Profits Down: Matthew Ball's 2026 Gaming Report Reveals an Industry at Odds With Itself",
+  "fetched_at": "2026-02-19T09:06:06.549Z",
+  "sources": [
+    {
+      "url": "https://www.pocketgamer.biz/matthew-balls-state-of-video-gaming-in-2026-china-is-eating-the-video-games-industry/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 101257,
+      "sha256": "1a60d93f4e37dff61ee7c4fb2824971608a0c9a700bd9e09fa85c0f18444b5f9",
+      "error": null,
+      "fetched_at": "2026-02-19T09:06:05.525Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://wccftech.com/global-video-game-content-sales-grew-to-195-6b-in-2025-while-private-funding-took-a-massive-dip/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 140185,
+      "sha256": "9787e96207a295b11aeaf281df689b638766c59f8d5754c5d0996d6d51fee527",
+      "error": null,
+      "fetched_at": "2026-02-19T09:06:05.548Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gamigion.com/my-5-takeaways-from-the-state-of-video-gaming-report/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 176519,
+      "sha256": "626608646eb411a4fca462c9129f9382dd4ed52a960a4e1c8967e1d40c23650d",
+      "error": null,
+      "fetched_at": "2026-02-19T09:06:05.548Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/the-nintendo-switch-2-has-topped-17-million-sales-worldwide",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 425285,
+      "sha256": "b4c22f9fe68d6bc069079657bcc5a72a7be5da226bed505d3409653b4edcb12f",
+      "error": null,
+      "fetched_at": "2026-02-19T09:06:05.549Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://variety.com/2026/gaming/news/nintendo-switch-2-sales-17-million-1236650699/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 563170,
+      "sha256": "97d798e5b7383e6f882ed89a055b40779a2f4f4ffd0032c1d96b1225c680f565",
+      "error": null,
+      "fetched_at": "2026-02-19T09:06:05.549Z",
+      "redirected_domain": null
+    }
+  ]
+}
