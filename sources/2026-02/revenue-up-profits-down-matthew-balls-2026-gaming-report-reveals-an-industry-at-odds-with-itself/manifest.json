@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-02/2026-02-19T08-42-23Z_revenue-up-profits-down-matthew-balls-2026-gaming-.json",
+  "submission_file": "src/content/submissions/2026-02/2026-02-19T09-40-48Z_revenue-up-profits-down-matthew-balls-2026-gaming-.json",
   "article_title": "Revenue Up, Profits Down: Matthew Ball's 2026 Gaming Report Reveals an Industry at Odds With Itself",
-  "fetched_at": "2026-02-19T09:06:06.549Z",
+  "fetched_at": "2026-02-19T09:47:47.419Z",
   "sources": [
     {
       "url": "https://www.pocketgamer.biz/matthew-balls-state-of-video-gaming-in-2026-china-is-eating-the-video-games-industry/",
@@ -11,7 +11,7 @@
       "content_length": 101257,
       "sha256": "1a60d93f4e37dff61ee7c4fb2824971608a0c9a700bd9e09fa85c0f18444b5f9",
       "error": null,
-      "fetched_at": "2026-02-19T09:06:05.525Z",
+      "fetched_at": "2026-02-19T09:47:47.023Z",
       "redirected_domain": null
     },
     {
@@ -19,43 +19,43 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 140185,
-      "sha256": "9787e96207a295b11aeaf281df689b638766c59f8d5754c5d0996d6d51fee527",
+      "content_length": 140239,
+      "sha256": "956b0635a0d1fa28c8f2901b8656958c3c151908fed848d984b9ca7513cac578",
       "error": null,
-      "fetched_at": "2026-02-19T09:06:05.548Z",
-      "redirected_domain": null
-    },
-    {
-      "url": "https://www.gamigion.com/my-5-takeaways-from-the-state-of-video-gaming-report/",
-      "file": "source-2.html",
-      "status_code": 200,
-      "content_type": "text/html; charset=UTF-8",
-      "content_length": 176519,
-      "sha256": "626608646eb411a4fca462c9129f9382dd4ed52a960a4e1c8967e1d40c23650d",
-      "error": null,
-      "fetched_at": "2026-02-19T09:06:05.548Z",
+      "fetched_at": "2026-02-19T09:47:47.043Z",
       "redirected_domain": null
     },
     {
       "url": "https://www.gamedeveloper.com/business/the-nintendo-switch-2-has-topped-17-million-sales-worldwide",
-      "file": "source-3.html",
+      "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
       "content_length": 425285,
       "sha256": "b4c22f9fe68d6bc069079657bcc5a72a7be5da226bed505d3409653b4edcb12f",
       "error": null,
-      "fetched_at": "2026-02-19T09:06:05.549Z",
+      "fetched_at": "2026-02-19T09:47:47.043Z",
       "redirected_domain": null
     },
     {
       "url": "https://variety.com/2026/gaming/news/nintendo-switch-2-sales-17-million-1236650699/",
-      "file": "source-4.html",
+      "file": "source-3.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 563170,
       "sha256": "97d798e5b7383e6f882ed89a055b40779a2f4f4ffd0032c1d96b1225c680f565",
       "error": null,
-      "fetched_at": "2026-02-19T09:06:05.549Z",
+      "fetched_at": "2026-02-19T09:47:47.044Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.notebookcheck.net/Strong-December-Switch-2-sales-keep-console-on-record-pace-topping-PS4-s-1st-7-months-by-35.1210156.0.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 120096,
+      "sha256": "1c9c381d83b845d285f039226a75f4fc0f7e887ffa9e62a1b2585f9afff4aaf6",
+      "error": null,
+      "fetched_at": "2026-02-19T09:47:47.044Z",
       "redirected_domain": null
     }
   ]
