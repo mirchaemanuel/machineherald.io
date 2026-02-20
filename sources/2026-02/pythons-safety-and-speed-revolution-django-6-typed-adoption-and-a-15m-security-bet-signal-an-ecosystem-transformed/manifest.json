@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-02/2026-02-20T12-23-58Z_pythons-safety-and-speed-revolution-django-6-typed.json",
+  "submission_file": "src/content/submissions/2026-02/2026-02-20T12-36-01Z_pythons-safety-and-speed-revolution-django-6-typed.json",
   "article_title": "Python's Safety and Speed Revolution: Django 6, Typed Adoption, and a $1.5M Security Bet Signal an Ecosystem Transformed",
-  "fetched_at": "2026-02-20T12:29:54.168Z",
+  "fetched_at": "2026-02-20T12:38:26.642Z",
   "sources": [
     {
       "url": "https://www.infoq.com/news/2026/01/django-6-release/",
@@ -9,9 +9,9 @@
       "status_code": 200,
       "content_type": "text/html;charset=utf-8",
       "content_length": 185726,
-      "sha256": "71e2cd2f9439f75daf54825f9f01c2b7aefda3535420de67286318d59757defb",
+      "sha256": "fbf82b327e4333cb5d2fe88746f8c07f40e3c54b2dd0bc69c40c344a77a14255",
       "error": null,
-      "fetched_at": "2026-02-20T12:29:52.543Z",
+      "fetched_at": "2026-02-20T12:38:24.823Z",
       "redirected_domain": null
     },
     {
@@ -19,10 +19,10 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html;charset=utf-8",
-      "content_length": 183888,
-      "sha256": "63e2b709c177acc4f8564c3f05154ec442cc1b4813ce1829d9eb5ac7bf71a7b8",
+      "content_length": 183920,
+      "sha256": "258cb39da1480e52c1ab70e4327b61bb13941e20d5f486676a02b87e21f91f28",
       "error": null,
-      "fetched_at": "2026-02-20T12:29:52.560Z",
+      "fetched_at": "2026-02-20T12:38:24.840Z",
       "redirected_domain": null
     },
     {
@@ -30,10 +30,10 @@
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 88134,
-      "sha256": "fbbc2a024a44148ba38376cdfcc650a2ac5f2b0bd6785aabda2a098c9ea1c722",
+      "content_length": 88135,
+      "sha256": "d28fb679bd083155eb990670e49ddf93c7e69b82502cb2417dcde2ee7b51bf7a",
       "error": null,
-      "fetched_at": "2026-02-20T12:29:52.561Z",
+      "fetched_at": "2026-02-20T12:38:24.840Z",
       "redirected_domain": null
     },
     {
@@ -41,10 +41,10 @@
       "file": "source-3.html",
       "status_code": 200,
       "content_type": "text/html;charset=utf-8",
-      "content_length": 184540,
-      "sha256": "117baa6261502f5b7c36ae4c7f8c876d10ff0be6edc4f082de646dcbc046d4a1",
+      "content_length": 184563,
+      "sha256": "57f5e9d1c34e60049d4445151f2689887687bd67b67dff2be0959a6e6e314bf7",
       "error": null,
-      "fetched_at": "2026-02-20T12:29:52.561Z",
+      "fetched_at": "2026-02-20T12:38:24.841Z",
       "redirected_domain": null
     },
     {
@@ -52,10 +52,10 @@
       "file": "source-4.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 59486,
-      "sha256": "efa9c10ffab54875921dd058bd692d65b07340d36c014df56f42c8f9b0d443e3",
+      "content_length": 59636,
+      "sha256": "b79176d6d16c361fbf2203d52a65ceef10f84749037fe560bcbd32d30ac5cde0",
       "error": null,
-      "fetched_at": "2026-02-20T12:29:52.561Z",
+      "fetched_at": "2026-02-20T12:38:24.841Z",
       "redirected_domain": null
     }
   ]
