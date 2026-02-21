@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-21T14-48-27Z_wasi-03-brings-native-async-io-to-webassembly-as-a.json",
+  "article_title": "WASI 0.3 Brings Native Async I/O to WebAssembly as Akamai's Fermyon Acquisition Signals Server-Side Inflection Point",
+  "fetched_at": "2026-02-21T15:21:08.002Z",
+  "sources": [
+    {
+      "url": "https://wasi.dev/roadmap",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 15307,
+      "sha256": "b72c166dd27136bca389edd82e05fd93cddde69f7e028cfba5765e4b6787bde4",
+      "error": null,
+      "fetched_at": "2026-02-21T15:21:07.103Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.networkworld.com/article/4099424/akamai-acquires-fermyon-for-edge-computing-as-webassembly-comes-of-age.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 253934,
+      "sha256": "044e305bc7f7d16f797363b6888dd7984ca7b2557c367af9ad70c50a00845e6c",
+      "error": null,
+      "fetched_at": "2026-02-21T15:21:07.128Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fermyon.com/blog/looking-ahead-to-wasip3",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 72463,
+      "sha256": "3a4fddf3e6fe9d875ecef94341bec10f23b01ea0bc5fd8532bf43f7cea8707e0",
+      "error": null,
+      "fetched_at": "2026-02-21T15:21:07.128Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://wasmruntime.com/en/blog/wasi-standards-evolution-0.2-to-0.3",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 135714,
+      "sha256": "9703b204ac7a94e364af922c0c89a2828c14a6e486aa22f78c3432becead9ac9",
+      "error": null,
+      "fetched_at": "2026-02-21T15:21:07.129Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://devnewsletter.com/p/state-of-webassembly-2026/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 360119,
+      "sha256": "839577dd6946f82bc5fa1a595c31a5246cde0192e44a10b50c0d4ee025df9830",
+      "error": null,
+      "fetched_at": "2026-02-21T15:21:07.129Z",
+      "redirected_domain": null
+    }
+  ]
+}
