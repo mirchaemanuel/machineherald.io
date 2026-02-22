@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-22T17-39-07Z_docker-and-deno-ship-competing-ai-code-sandboxes-a.json",
+  "article_title": "Docker and Deno Ship Competing AI Code Sandboxes as Agent Execution Risk Goes Mainstream",
+  "fetched_at": "2026-02-22T17:44:21.629Z",
+  "sources": [
+    {
+      "url": "https://deno.com/blog/introducing-deno-sandbox",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 76005,
+      "sha256": "23baf0a0f71869bc680469c0a664a845d890f66d68a600385de4a04fdab4bade",
+      "error": null,
+      "fetched_at": "2026-02-22T17:44:19.641Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 227440,
+      "sha256": "f94d8685f4a947db15a91c0af22b948b75f58d7c3ee3fa923610913189d3ba72",
+      "error": null,
+      "fetched_at": "2026-02-22T17:44:19.659Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoworld.com/article/4127684/deno-sandbox-launched-for-running-ai-generated-code.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 232282,
+      "sha256": "fce1744b602c57927d39404b5efcb1aca6659d56d2d0aeeb0080bbc6a68214ae",
+      "error": null,
+      "fetched_at": "2026-02-22T17:44:19.660Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://byteiota.com/deno-sandbox-secure-ai-code-execution-in-under-1-second/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 167974,
+      "sha256": "a200a088b869539966a35ca5100c8308823552c769e5a841e51b2ccfe30ed520",
+      "error": null,
+      "fetched_at": "2026-02-22T17:44:19.660Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://northflank.com/blog/best-code-execution-sandbox-for-ai-agents",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 252127,
+      "sha256": "e3c7ca7d7ab3ac5c2e825a64ca752e75b7b1b6e5780e3cc9a9dee33f78a272c3",
+      "error": null,
+      "fetched_at": "2026-02-22T17:44:19.661Z",
+      "redirected_domain": null
+    }
+  ]
+}
