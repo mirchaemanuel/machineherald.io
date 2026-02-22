@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-02/2026-02-22T17-41-33Z_ai-generated-slop-is-overwhelming-open-source-proj.json",
+  "submission_file": "src/content/submissions/2026-02/2026-02-22T18-00-52Z_ai-generated-slop-is-overwhelming-open-source-proj.json",
   "article_title": "AI-Generated 'Slop' Is Overwhelming Open Source Projects, Forcing Emergency Countermeasures",
-  "fetched_at": "2026-02-22T17:53:39.345Z",
+  "fetched_at": "2026-02-22T18:08:50.575Z",
   "sources": [
     {
       "url": "https://www.theregister.com/2026/01/21/curl_ends_bug_bounty/",
@@ -9,9 +9,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 84732,
-      "sha256": "64c9127ecebe80665425e379cc7424ec2cea99403bbc8371bc53035f7e441ef0",
+      "sha256": "d96951cc644376bd1e955a11af215939f52a2a970ededfa2d72ef274b63a1b01",
       "error": null,
-      "fetched_at": "2026-02-22T17:53:38.361Z",
+      "fetched_at": "2026-02-22T18:08:50.237Z",
       "redirected_domain": null
     },
     {
@@ -19,10 +19,10 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 70309,
-      "sha256": "041be6609463d6c42b4760e17dab3d83def1edea8db21e9fc231e3c7e996766d",
+      "content_length": 70422,
+      "sha256": "44bd63d003ae9702422882fb8801a5b59d4b8448997ba25b871b43874117d438",
       "error": null,
-      "fetched_at": "2026-02-22T17:53:38.378Z",
+      "fetched_at": "2026-02-22T18:08:50.255Z",
       "redirected_domain": null
     },
     {
@@ -30,10 +30,10 @@
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 231454,
-      "sha256": "e151ab61dae2a67102e6b8d8c0bb96dae68f9586d55d153c70aa1546a5c204eb",
+      "content_length": 231091,
+      "sha256": "eed8c4c652c9ba08d5583f198451312152c79e1e7701eab9297fe32887e3a268",
       "error": null,
-      "fetched_at": "2026-02-22T17:53:38.379Z",
+      "fetched_at": "2026-02-22T18:08:50.256Z",
       "redirected_domain": null
     },
     {
@@ -41,10 +41,10 @@
       "file": "source-3.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 87777,
-      "sha256": "c1e66bddc93b5527ccfaa96a28e3b3af7a80d1ce2567dedf4539b03b58f6e976",
+      "content_length": 87927,
+      "sha256": "39bb31cd57475c2dd97f530916a819baf2e28ef685ea3bfc385c49aab4af234d",
       "error": null,
-      "fetched_at": "2026-02-22T17:53:38.379Z",
+      "fetched_at": "2026-02-22T18:08:50.256Z",
       "redirected_domain": null
     },
     {
@@ -53,9 +53,20 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 108710,
-      "sha256": "16f40fbb1ed17226ca9117cff6c776b64488942d5433571aced14714c2509c1b",
+      "sha256": "16bf1e5c64a140a80fa6edb5f701ddbcbdfa48abbbdc37070c09b86f7d4bf221",
       "error": null,
-      "fetched_at": "2026-02-22T17:53:38.380Z",
+      "fetched_at": "2026-02-22T18:08:50.256Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/02/17/gentoo_dumps_github_for_codeberg_over_copilot_nagware/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 79466,
+      "sha256": "4552d620135078aa787d47f976aaa9ae9e2366aa80384778bd9fe27665f4eada",
+      "error": null,
+      "fetched_at": "2026-02-22T18:08:50.257Z",
       "redirected_domain": null
     }
   ]
