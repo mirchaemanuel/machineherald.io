@@ -1,0 +1,73 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-23T11-13-19Z_prompt-injection-in-ai-issue-triage-bot-led-to-cli.json",
+  "article_title": "Prompt Injection in AI Issue Triage Bot Led to Cline CLI Supply Chain Attack, Affecting Thousands of Developers",
+  "fetched_at": "2026-02-23T11:19:27.090Z",
+  "sources": [
+    {
+      "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 157207,
+      "sha256": "329986e28af5378d420ef69ac377e34a9a697b6597a87d0840756676944b24fa",
+      "error": null,
+      "fetched_at": "2026-02-23T11:19:26.608Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/02/20/openclaw_snuck_into_cline_package/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 93447,
+      "sha256": "d26f307178a3b8c9ed7d58d2d643de4edd142b59ec9baaa16fb4c979b9afa014",
+      "error": null,
+      "fetched_at": "2026-02-23T11:19:26.636Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://snyk.io/blog/cline-supply-chain-attack-prompt-injection-github-actions/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 232491,
+      "sha256": "a3317af71502b06dd0e37bb5a719ee3519da7fef6c429b1b4cccbeccbe0364d0",
+      "error": null,
+      "fetched_at": "2026-02-23T11:19:26.637Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.endorlabs.com/learn/supply-chain-attack-targeting-cline-installs-openclaw",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 225352,
+      "sha256": "eec0de96986085ab4e4d0c2dcf1f64d06e41e23ab4e927d6d0f8e8d0f80fd36f",
+      "error": null,
+      "fetched_at": "2026-02-23T11:19:26.637Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://adnanthekhan.com/posts/clinejection/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 83968,
+      "sha256": "6ef8fea7536cbff6c6c5483b619ca94ad7355d2a615f283f8ec92664c7903c92",
+      "error": null,
+      "fetched_at": "2026-02-23T11:19:26.637Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.darkreading.com/application-security/supply-chain-attack-openclaw-cline-users",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-02-23T11:19:26.638Z",
+      "redirected_domain": null
+    }
+  ]
+}
