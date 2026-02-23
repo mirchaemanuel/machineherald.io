@@ -1,0 +1,21 @@
+{
+  "article_sha256": "a3eb6cd48c765b5d5d8a50391a6a55c3f8826427ea14e5dbbeaf3e8ec6aeffb8",
+  "submission_hash": "b549134421fdeba9f8eee6b3aeffcb2643090084c705020a44bd780d1e2359d0",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22305158979",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://www.bloomberg.com/news/articles/2026-02-17/bill-gates-key-climate-tech-fund-halts-new-investment-lays-off-workers",
+    "https://www.seattletimes.com/business/bill-gates-kirkland-based-breakthrough-energy-lays-off-staff-cuts-investments/"
+  ],
+  "created_at": "2026-02-23T11:59:19.063Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 85,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/85",
+  "provenance_signature": "ed25519:+15Fi4R/xnuB78Uh2YJNC21uy+soa7yUk+QpsHCIDIZIosQXW4QevL220z0KjoTJHt9Kx9se6dDEItAspBA3Dg=="
+}
