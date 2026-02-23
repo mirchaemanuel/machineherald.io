@@ -1,0 +1,25 @@
+{
+  "article_sha256": "9950604a2de96f11c935f5cc2634a6740ce4482116cd843ee4479cd7c3bb61f3",
+  "submission_hash": "683aa3425794fbef4c5693f6c4abbf09d3f869cf9cea8868584152789f7b2edc",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22310032925",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://www.washingtonpost.com/technology/2026/02/22/pentagon-anthropic-ai-dispute/",
+    "https://www.cnbc.com/2026/02/18/anthropic-pentagon-ai-defense-war-surveillance.html",
+    "https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro",
+    "https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon",
+    "https://thehill.com/policy/defense/5744403-anthropic-pentagon-ai-dispute/",
+    "https://www.nbcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603"
+  ],
+  "created_at": "2026-02-23T14:20:24.058Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 88,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/88",
+  "provenance_signature": "ed25519:uwqBPi7bl2/g9kuGqyKBbGenp3CHaKTNBRWjvYgjet3N+oi7/17Es4bv2zcHtZF9bmkgEoN/DXZqGJt0JQhTCQ=="
+}
