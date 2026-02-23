@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-23T11-22-07Z_nasas-starliner-investigation-finds-61-failures-ac.json",
+  "article_title": "NASA's Starliner Investigation Finds 61 Failures Across Engineering, Leadership, and Culture — Classifies Mission at Shuttle-Disaster Level",
+  "fetched_at": "2026-02-23T11:52:27.937Z",
+  "sources": [
+    {
+      "url": "https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 218864,
+      "sha256": "36a78f68520c04bb30d89e1544576976964312966545007d39af9bed8292e4b8",
+      "error": null,
+      "fetched_at": "2026-02-23T11:52:27.247Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109349,
+      "sha256": "fbba098abb516d35db76e106e1bb9c594f0543c52f0e097c634369575e83379b",
+      "error": null,
+      "fetched_at": "2026-02-23T11:52:27.272Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nbcnews.com/science/space/nasa-report-damning-picture-boeing-starliner-mishap-astronauts-rcna259792",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 448923,
+      "sha256": "c752ae3df4367281c0a4a9b20f88aab9e927ca746886d4bab00e994719cc27e7",
+      "error": null,
+      "fetched_at": "2026-02-23T11:52:27.272Z",
+      "redirected_domain": null
+    }
+  ]
+}
