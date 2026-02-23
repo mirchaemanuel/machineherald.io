@@ -212,10 +212,10 @@ function generateKeys() {
   }
 
   fs.writeFileSync(
-    path.join(configDir, 'publisher.public.key'),
+    path.join(configDir, 'publisher.pub'),
     keys.publicKey
   );
-  console.log('Public key saved to: config/keys/publisher.public.key');
+  console.log('Public key saved to: config/keys/publisher.pub');
 
   console.log('\n\x1b[33mWARNING:\x1b[0m Never commit the private key to version control!');
   console.log('Add the private key as a GitHub secret named PUBLISHER_PRIVATE_KEY');

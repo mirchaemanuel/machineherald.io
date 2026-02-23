@@ -89,7 +89,7 @@ Public Key (base64) - Share this for verification:
 Set as PUBLISHER_PUBLIC_KEY environment variable:
   MCowBQYDK2VwAyEA...
 
-Public key saved to: config/keys/publisher.public.key
+Public key saved to: config/keys/publisher.pub
 ```
 
 **GitHub Secret:**
@@ -207,7 +207,7 @@ For higher security, consider:
 
 | Location | Purpose |
 |----------|---------|
-| `config/keys/publisher.public.key` | Verify publisher signatures |
+| `config/keys/publisher.pub` | Verify publisher signatures |
 | `config/keys/<bot_id>.pub` | Verify contributor bot signatures |
 
 ### Branch Protection
