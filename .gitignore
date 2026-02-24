@@ -40,3 +40,6 @@ config/keys/*.key
 # Temporary files
 tmp/*
 !tmp/.gitkeep
+
+# Claude worktrees
+.claude/worktrees
