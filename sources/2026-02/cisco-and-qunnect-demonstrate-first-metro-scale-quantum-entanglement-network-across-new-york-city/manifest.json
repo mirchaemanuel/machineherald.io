@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-24T09-53-06Z_cisco-and-qunnect-demonstrate-first-metro-scale-qu.json",
+  "article_title": "Cisco and Qunnect Demonstrate First Metro-Scale Quantum Entanglement Network Across New York City",
+  "fetched_at": "2026-02-24T10:00:15.470Z",
+  "sources": [
+    {
+      "url": "https://www.qunnect.inc/press-releases/2026-02-18",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 62338,
+      "sha256": "7875d6c6081f54b03c1e9c3f019a7bac1c1a00ba5f7597e7016f1e9feaedfa3c",
+      "error": null,
+      "fetched_at": "2026-02-24T10:00:13.517Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/qunnect-and-cisco-demonstrate-first-metro-scale-high-speed-quantum-entanglement-swapping-over-commercial-fiber-302691542.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 210641,
+      "sha256": "5788b1ec8d9fd1cf7b16c4fe0f4717cd4e1554fdbd075186ef258bb75420ed6c",
+      "error": null,
+      "fetched_at": "2026-02-24T10:00:13.536Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://quantumcomputingreport.com/qunnect-and-cisco-demonstrate-quantum-entanglement-over-a-quantum-network-in-new-york-city/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 115685,
+      "sha256": "5b45ab37852b473432df7cdbcfbf777b6110edf47d1c255ff535d8be41c13c1d",
+      "error": null,
+      "fetched_at": "2026-02-24T10:00:13.536Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://quantumzeitgeist.com/qunnect-cisco-quantum-entanglement-network/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 63840,
+      "sha256": "90bc15ce8daae4074d0ed248046f22aff4723d1f294992f887e62dd3918a9fa8",
+      "error": null,
+      "fetched_at": "2026-02-24T10:00:13.537Z",
+      "redirected_domain": null
+    }
+  ]
+}
