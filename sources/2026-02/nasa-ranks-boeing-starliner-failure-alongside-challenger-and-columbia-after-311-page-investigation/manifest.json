@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-24T09-13-44Z_nasa-ranks-boeing-starliner-failure-alongside-chal.json",
+  "article_title": "NASA Ranks Boeing Starliner Failure Alongside Challenger and Columbia After 311-Page Investigation",
+  "fetched_at": "2026-02-24T09:16:07.683Z",
+  "sources": [
+    {
+      "url": "https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 224897,
+      "sha256": "50ae026ee0239a4bed5b95dfe76735f9af98572a5e3904b59c97f7a992cc7d65",
+      "error": null,
+      "fetched_at": "2026-02-24T09:15:52.660Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.npr.org/2026/02/19/nx-s1-5719870/nasa-starliner-boeing-mishap-isaacman",
+      "file": null,
+      "status_code": null,
+      "content_type": null,
+      "content_length": null,
+      "sha256": null,
+      "error": "Timeout after 15000ms",
+      "fetched_at": "2026-02-24T09:15:52.682Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spaceflightnow.com/2026/02/19/independent-report-sharply-criticizes-nasa-management-boeing-for-troubled-starliner-flight/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109021,
+      "sha256": "48ea8f9f1f6b5ffe87b9fc0c5c6897367cd1f908140de4406dbdf7d15624de3c",
+      "error": null,
+      "fetched_at": "2026-02-24T09:15:52.683Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-19/nasa-puts-starliner-mishap-in-same-class-as-shuttle-tragedies",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 346952,
+      "sha256": "09607143d646765956ef057ac513ec432e82b88ad05b9a5cdf1f9831c3b3c8b0",
+      "error": null,
+      "fetched_at": "2026-02-24T09:15:52.684Z",
+      "redirected_domain": null
+    }
+  ]
+}
