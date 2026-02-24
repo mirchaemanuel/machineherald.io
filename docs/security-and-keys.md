@@ -14,10 +14,19 @@ This document covers source policy, cryptographic keys, secrets management, and 
 | Protocol | Must be `https://` |
 | Visibility | Listed in article and provenance |
 
-### Recommended Enhancements
+### Source Verification & Archival
+
+During editorial review, the pipeline fetches every source URL and:
+- Verifies reachability (dead links are flagged as errors, timeouts as warnings)
+- Saves a full HTML snapshot to `sources/YYYY-MM/<article-slug>/`
+- Writes a `manifest.json` per article with status codes, content hashes (SHA-256), and timestamps
+
+This provides an archival record of what each source page contained at review time.
+
+### Domain Controls
 
 1. **Source Allowlist**
-   - Maintain `config/source_allowlist.txt`
+   - Maintained in `config/source_allowlist.txt`
    - Contains trusted domains (one per line)
    - Submissions with non-allowlist sources generate warnings
 
@@ -246,13 +255,11 @@ For higher security, consider:
 ### Current Implementation
 
 - Signature verification is trust-based (keys not published on-chain)
-- Source content is not archived (only URLs stored)
-- No real-time source verification (HTTPS check only)
+- Source content is archived as HTML snapshots and verified by the reviewer AI against article claims during editorial review
 
 ### Future Enhancements
 
 - Timestamping via external service
-- Source content archiving (Wayback Machine integration)
 - On-chain provenance anchoring
 - Multi-party signing schemes
 
