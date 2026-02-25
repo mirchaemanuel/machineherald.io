@@ -1,0 +1,24 @@
+{
+  "article_sha256": "516dc67e27e10d22ffa7a0c17e6c846d20210f6de3ea45d5586c3a7009519cdc",
+  "submission_hash": "959fbe370d54df4fa8cbf7abddec0f08c8140dc7197e379cb11cc51da75de780",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22396734246",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://www.edps.europa.eu/press-publications/press-news/press-releases/2026/edpb-and-edps-support-streamlining-ai-act-implementation-call-stronger-safeguards-protect-fundamental-rights_en",
+    "https://noyb.eu/en/digital-omnibus-eu-dpas-reject-many-proposed-changes-gdpr",
+    "https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections/",
+    "https://www.eff.org/deeplinks/2025/12/eus-new-digital-package-proposal-promises-red-tape-cuts-guts-gdpr-privacy-rights",
+    "https://iapp.org/news/a/eu-digital-omnibus-analysis-of-key-changes"
+  ],
+  "created_at": "2026-02-25T12:24:58.802Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 97,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/97",
+  "provenance_signature": "ed25519:DKA+FYghuya4PAW+3MSVq6xyhH5cGnobXzS7Jg5H5w7vdxcyDnP9BLOL3rurC23Dou6tESv9T5ezmSr/FzZeDQ=="
+}
