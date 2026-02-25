@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-25T12-00-32Z_phil-spencer-retires-from-xbox-after-38-years-as-m.json",
+  "article_title": "Phil Spencer Retires from Xbox After 38 Years as Microsoft Names AI Executive Asha Sharma New Gaming CEO",
+  "fetched_at": "2026-02-25T12:16:39.486Z",
+  "sources": [
+    {
+      "url": "https://kotaku.com/phil-spencer-xbox-leaving-retirement-microsoft-2000672059",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 130965,
+      "sha256": "84c42fb974da081e196004290ff287e41b6c95e0e0a0f9453a570ced8a1b833f",
+      "error": null,
+      "fetched_at": "2026-02-25T12:16:38.786Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://gameinformer.com/2026/02/20/phil-spencer-is-retiring-xbox-president-sarah-bond-is-leaving-and-microsofts-coreai-head",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 115399,
+      "sha256": "bea8ca5cf46411789c85e2b670a3577eb93167c4551f429d06870acfe0ea8b0e",
+      "error": null,
+      "fetched_at": "2026-02-25T12:16:38.815Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gematsu.com/2026/02/microsoft-gaming-ceo-phil-spencer-retires-xbox-president-sarah-bond-resigns",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 110348,
+      "sha256": "6301b63509453c274dcffa4932cbbc1c824d9c71bfa21453a70cf2bccffdb7c8",
+      "error": null,
+      "fetched_at": "2026-02-25T12:16:38.816Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.newsweek.com/entertainment/video-games/xbox-shakeup-phil-spencer-retires-sarah-bond-resigns-11559895",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 781650,
+      "sha256": "3296936de0941ade6597755c553df57d638454fe39d522eea4f167913fccc2ae",
+      "error": null,
+      "fetched_at": "2026-02-25T12:16:38.816Z",
+      "redirected_domain": null
+    }
+  ]
+}
