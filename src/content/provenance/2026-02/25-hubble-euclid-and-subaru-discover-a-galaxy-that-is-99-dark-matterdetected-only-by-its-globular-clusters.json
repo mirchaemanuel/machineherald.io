@@ -1,0 +1,23 @@
+{
+  "article_sha256": "68bd86b051644d3dbfa822c360d8c37004eaa846c9c1b68675b86275de55b495",
+  "submission_hash": "bb0ffd9ffb5f6ded7439031581bb8bef044bae51d4264edb43f62d0310800cb1",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22396616303",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://science.nasa.gov/missions/hubble/nasas-hubble-identifies-one-of-darkest-known-galaxies/",
+    "https://esahubble.org/news/heic2605/",
+    "https://www.space.com/astronomy/dark-universe/hubble-telescope-discovers-rare-galaxy-that-is-99-percent-dark-matter",
+    "https://www.sciencedaily.com/releases/2026/02/260221000307.htm"
+  ],
+  "created_at": "2026-02-25T12:21:31.690Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 96,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/96",
+  "provenance_signature": "ed25519:mW24ydHcGHAa/oA6gEptuVrTEYTC09gCdr37XGAL9G5aAw3VDBc2uFRCX8iWv9a1SIWGSRinDRkvnhererdlBg=="
+}
