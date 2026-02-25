@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-25T12-09-20Z_eu-privacy-regulators-and-civil-society-push-back-.json",
+  "article_title": "EU Privacy Regulators and Civil Society Push Back as Digital Omnibus Moves to Weaken GDPR and Delay AI Act Protections",
+  "fetched_at": "2026-02-25T12:22:18.157Z",
+  "sources": [
+    {
+      "url": "https://www.edps.europa.eu/press-publications/press-news/press-releases/2026/edpb-and-edps-support-streamlining-ai-act-implementation-call-stronger-safeguards-protect-fundamental-rights_en",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 58373,
+      "sha256": "f52dcae1ce23170b317c3c19b464dcf2e8885a91a8aa312604567328cf8ffaec",
+      "error": null,
+      "fetched_at": "2026-02-25T12:22:17.126Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://noyb.eu/en/digital-omnibus-eu-dpas-reject-many-proposed-changes-gdpr",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 41320,
+      "sha256": "9eaee11275dfe19ef92a9c6ded99eead385e9af180bab3fbbab2bf0234979eb3",
+      "error": null,
+      "fetched_at": "2026-02-25T12:22:17.144Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 86659,
+      "sha256": "3e5bc04db6d5056e78dc69c22e03af49c39fc42de4c9f02d631f1879bc07e4ec",
+      "error": null,
+      "fetched_at": "2026-02-25T12:22:17.145Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2025/12/eus-new-digital-package-proposal-promises-red-tape-cuts-guts-gdpr-privacy-rights",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 68251,
+      "sha256": "530b7c8b5c9d3fcd0aa14bfa571e019217e2a484d396e51544a816912d9969ec",
+      "error": null,
+      "fetched_at": "2026-02-25T12:22:17.145Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://iapp.org/news/a/eu-digital-omnibus-analysis-of-key-changes",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 507180,
+      "sha256": "f3017d44fce20bd6f27a752e17218a09aec62e7d917034ec61c56910f07d1eb3",
+      "error": null,
+      "fetched_at": "2026-02-25T12:22:17.146Z",
+      "redirected_domain": null
+    }
+  ]
+}
