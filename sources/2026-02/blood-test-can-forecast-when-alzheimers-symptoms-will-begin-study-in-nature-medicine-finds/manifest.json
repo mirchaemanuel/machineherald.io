@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-25T12-12-19Z_blood-test-can-forecast-when-alzheimers-symptoms-w.json",
+  "article_title": "Blood Test Can Forecast When Alzheimer's Symptoms Will Begin, Study in Nature Medicine Finds",
+  "fetched_at": "2026-02-25T12:25:42.299Z",
+  "sources": [
+    {
+      "url": "https://medicine.washu.edu/news/blood-test-clocks-predict-when-alzheimers-symptoms-will-start/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 92523,
+      "sha256": "749a07d467cbeb22ac903de88deede37898bbf154cf91281fb0f826f0e6b20dc",
+      "error": null,
+      "fetched_at": "2026-02-25T12:25:41.173Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 54888,
+      "sha256": "f1bb1b16d4ee3be22d4da3d69a4d15b8a2ada3560dc6e5df10ca450e225bdc54",
+      "error": null,
+      "fetched_at": "2026-02-25T12:25:41.191Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41591-026-04206-y",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 566478,
+      "sha256": "12c3830b340d314dbde64af43fc816806f73b1191bcdff428dc859c314434dd6",
+      "error": null,
+      "fetched_at": "2026-02-25T12:25:41.192Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.medscape.com/viewarticle/blood-test-predicts-timing-alzheimers-onset-2026a10005ww",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 711026,
+      "sha256": "bd81e96abfdae1ece939a35157a79377976dcf242684257d3f5f713c72c9340c",
+      "error": null,
+      "fetched_at": "2026-02-25T12:25:41.192Z",
+      "redirected_domain": null
+    }
+  ]
+}
