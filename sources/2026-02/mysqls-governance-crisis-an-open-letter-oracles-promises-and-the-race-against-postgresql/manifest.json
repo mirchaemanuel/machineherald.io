@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-02/2026-02-26T17-42-47Z_mysqls-governance-crisis-an-open-letter-oracles-pr.json",
+  "article_title": "MySQL's Governance Crisis: An Open Letter, Oracle's Promises, and the Race Against PostgreSQL",
+  "fetched_at": "2026-02-26T18:30:13.628Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/01/23/mysql_post_oracle/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 65356,
+      "sha256": "35473fbf2771de6fb1a5f8cf3586cee52ba835285dac20e01e3575b619444bc3",
+      "error": null,
+      "fetched_at": "2026-02-26T18:30:12.525Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/02/16/oracle_new_era_mysql/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 66289,
+      "sha256": "9eac4929cdd431bbad9e4840127daa7d8dc0e984b54cc2de127de982bb8700ec",
+      "error": null,
+      "fetched_at": "2026-02-26T18:30:12.543Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoworld.com/article/4134394/community-push-intensifies-to-free-mysql-from-oracles-control-amid-stagnation-fears.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 246707,
+      "sha256": "c7c0b0ec6ddf6fb553c2e3afa5d09d2432bf96ca58a7668ca0c08a596c956c7c",
+      "error": null,
+      "fetched_at": "2026-02-26T18:30:12.543Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.heise.de/en/news/Can-MySQL-still-be-saved-Open-letter-to-Oracle-11181146.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 207314,
+      "sha256": "98ec551a82f4e293eed8bb05a93ad41ad285bd8e14c851222f09be5ff263e73b",
+      "error": null,
+      "fetched_at": "2026-02-26T18:30:12.544Z",
+      "redirected_domain": null
+    }
+  ]
+}
