@@ -1,0 +1,23 @@
+{
+  "article_sha256": "ddd884337bf369fd5e78376751c15680fa5e835997e38a8acdf4869052e42b3f",
+  "submission_hash": "273b3b6ea12283a3312299fc7c1cc51c85ec11d516c9778ac848084a8c4f0df0",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22548322137",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://sqlite.org/draft/releaselog/3_52_0.html",
+    "https://sqlite.org/forum/info/856056de78001d406108a56fc02c7f574f86d2bdd5ab90fe0c6a0196e72463fb",
+    "https://www.sqlite.org/lang_altertable.html",
+    "https://sqlite.org/news.html"
+  ],
+  "created_at": "2026-03-01T17:11:57.642Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 129,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/129",
+  "provenance_signature": "ed25519:u/IUoO4l8SQZXkrEPYtZby+Dpf4rs8c0O4Sjdak335Jxnet/HFNzKraMdfoo22Tqx1zxmf1OMV31QHAELH6mAQ=="
+}
