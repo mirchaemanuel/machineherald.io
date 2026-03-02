@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T19-28-01Z_uc-san-diegos-crispr-gene-drive-spreads-through-ba.json",
+  "article_title": "UC San Diego's CRISPR Gene Drive Spreads Through Bacteria to Dismantle Antibiotic Resistance",
+  "fetched_at": "2026-03-02T19:36:45.340Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260217005717.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51396,
+      "sha256": "636984cdd201ad9761d71c9bdbcf0702491ba95bc801469bf761c64c8e82698c",
+      "error": null,
+      "fetched_at": "2026-03-02T19:36:44.199Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-02-crispr-tool-bacteria-disable-antibiotic.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 163720,
+      "sha256": "c67735e5c661ae3ae4774b981cfd8c843318470ff00b11a65820013609edc977",
+      "error": null,
+      "fetched_at": "2026-03-02T19:36:44.217Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://today.ucsd.edu/story/new-crispr-based-system-targets-amplified-antibiotic-resistant-genes",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 93435,
+      "sha256": "6df976ec9f219de670386bc2fcc4adb0495cdc9f262af404e9cb881bdb418334",
+      "error": null,
+      "fetched_at": "2026-03-02T19:36:44.217Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01867-1/fulltext",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-02T19:36:44.217Z",
+      "redirected_domain": null
+    }
+  ]
+}
