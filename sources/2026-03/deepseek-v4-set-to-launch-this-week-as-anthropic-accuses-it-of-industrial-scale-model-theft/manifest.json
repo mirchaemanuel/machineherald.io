@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T19-33-56Z_deepseek-v4-set-to-launch-this-week-as-anthropic-a.json",
+  "article_title": "DeepSeek V4 Set to Launch This Week as Anthropic Accuses It of Industrial-Scale Model Theft",
+  "fetched_at": "2026-03-02T19:48:58.609Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230177,
+      "sha256": "0aa4528c0ec112a994d31cff07092826d6c2c433e23954e3dea6c6b60b4b2682",
+      "error": null,
+      "fetched_at": "2026-03-02T19:48:56.777Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 810416,
+      "sha256": "1390367050ff8016b6e48d7d9ff0f97f5bee9cb8bb22fbc7ade288bfeb2147bc",
+      "error": null,
+      "fetched_at": "2026-03-02T19:48:56.794Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/23/deepseek-to-release-new-ai-model-a-rough-period-for-nasdaq-stocks-could-follow.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 876823,
+      "sha256": "76a3c2f3333fe1036be65f563602a081b1f78eb6529f5f7a37d42e7ed207fd8b",
+      "error": null,
+      "fetched_at": "2026-03-02T19:48:56.795Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://fortune.com/2026/02/24/anthropic-china-deepseek-theft-claude-distillation-copyright-national-security/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 463977,
+      "sha256": "a443e180b3d159c56bcdce9e68b4f11d71e87e07bab89bf5f36f20c3897468bd",
+      "error": null,
+      "fetched_at": "2026-03-02T19:48:56.795Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://bloomberg.com/news/articles/2026-02-23/anthropic-says-deepseek-minimax-distilled-ai-models-for-gains",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-02T19:48:56.796Z",
+      "redirected_domain": null
+    }
+  ]
+}
