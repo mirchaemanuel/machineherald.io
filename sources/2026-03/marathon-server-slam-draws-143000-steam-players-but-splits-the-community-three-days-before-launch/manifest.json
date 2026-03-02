@@ -1,0 +1,95 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T21-21-18Z_marathon-server-slam-draws-143000-steam-players-bu.json",
+  "article_title": "Marathon Server Slam Draws 143,000 Steam Players but Splits the Community Three Days Before Launch",
+  "fetched_at": "2026-03-02T22:05:09.630Z",
+  "sources": [
+    {
+      "url": "https://www.notebookcheck.net/Marathon-Server-Slam-Beta-hits-143-000-Steam-players-gunplay-praised-UI-criticism-mounts.1238128.0.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 100448,
+      "sha256": "1b9174eff531c88c3a708493b30f7dde561014c7d5907b3d5e61ddf278ab44ac",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.796Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://opencritic.com/news/27227/marathon-server-slam-lost-half-its-concurrent-peak-player-count-in-just-two-days-but-its-still-ahead-of-battlefield-6-and-call-of-duty",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 94732,
+      "sha256": "081b4257480a040394ee21e02a068abf712baeff1ee37a6638da88588720b889",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.814Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://kotaku.com/marathon-ammo-pvp-ui-bungie-feedback-server-slam-2000674385",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 131155,
+      "sha256": "8eb5bcd1b9573e9193bda59c1a900f30ccecb049acedacfe408238071136a5c3",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.815Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://insider-gaming.com/marathon-server-slam-traction-top-titans/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 339765,
+      "sha256": "7f0e453635d7b7ad7f9907e837576ea99f1ca54e526008deffdd50fe9fc7b215",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.815Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://gameinformer.com/2026/03/02/marathon-heres-what-we-learned-from-bungies-post-server-slam-feedback",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 96451,
+      "sha256": "fd4a89ddb909c2c6e0c0d39847b952dc523c81f86cb552b65388bff9feb4a71d",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.816Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://kotaku.com/marathon-onboarding-update-ammo-meds-2000674872",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 128425,
+      "sha256": "70b7fe458a2aa72fc68f911bdb50479d0d2f701a5e4673d8fd5c76cbd877953a",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.816Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gamesradar.com/games/fps/marathon-server-slam-hits-143-000-concurrent-steam-players-on-day-one-approaching-arc-raiders-peak-of-189-000-and-suggesting-a-big-launch-for-bungie/",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1478740,
+      "sha256": "e0edc70c9ca9694eab23d490a41b078aa85600ec500ad7700fe163a03d7c3d75",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.816Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/bungie-delays-marathon-after-tumultuous-early-reception-and-discovery-of-plagiarized-assets",
+      "file": "source-7.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 446350,
+      "sha256": "7b3de6196a4f1c590d13a1acb520d78256bc15b2be2b883cc5c774d41556dfef",
+      "error": null,
+      "fetched_at": "2026-03-02T22:05:07.816Z",
+      "redirected_domain": null
+    }
+  ]
+}
