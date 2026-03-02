@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T19-30-27Z_typescript-60-beta-ships-as-the-last-javascript-ba.json",
+  "article_title": "TypeScript 6.0 Beta Ships as the Last JavaScript-Based Release Before the Go Rewrite",
+  "fetched_at": "2026-03-02T19:46:35.365Z",
+  "sources": [
+    {
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 313928,
+      "sha256": "ff954795b91ec246ecf2948e91ab020621127833ee4916fc9d25ba9872d5cbd1",
+      "error": null,
+      "fetched_at": "2026-03-02T19:46:33.906Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/02/typescript-6-released-beta/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 184358,
+      "sha256": "2e9bc8a8fc7f1efb984d1fdeb10209fc6dfb07497e229d69a187027a4ebd2fd8",
+      "error": null,
+      "fetched_at": "2026-03-02T19:46:33.925Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 325618,
+      "sha256": "ce8787ed983658b26f2d65a31825815319cfa55041bf37565639732f287bcde5",
+      "error": null,
+      "fetched_at": "2026-03-02T19:46:33.925Z",
+      "redirected_domain": null
+    }
+  ]
+}
