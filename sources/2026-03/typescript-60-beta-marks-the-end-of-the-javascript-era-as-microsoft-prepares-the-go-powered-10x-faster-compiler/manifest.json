@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T08-48-12Z_typescript-60-beta-marks-the-end-of-the-javascript.json",
+  "article_title": "TypeScript 6.0 Beta Marks the End of the JavaScript Era as Microsoft Prepares the Go-Powered 10x Faster Compiler",
+  "fetched_at": "2026-03-02T08:57:16.427Z",
+  "sources": [
+    {
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-beta/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 313928,
+      "sha256": "ff954795b91ec246ecf2948e91ab020621127833ee4916fc9d25ba9872d5cbd1",
+      "error": null,
+      "fetched_at": "2026-03-02T08:57:14.950Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://devblogs.microsoft.com/typescript/typescript-native-port/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 312091,
+      "sha256": "431fdf269780bc6f2b6468f6229122c1e45cb22ba8dec3132f535dda4055a715",
+      "error": null,
+      "fetched_at": "2026-03-02T08:57:14.968Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/02/typescript-6-released-beta/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 185067,
+      "sha256": "12c8f162d9bee2d91756627e0aa4d02509d1c2c61fdecbbb165bac47320bee78",
+      "error": null,
+      "fetched_at": "2026-03-02T08:57:14.969Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techzine.eu/news/devops/138778/typescript-6-0-beta-announced-its-last-javascript-based-release/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 105148,
+      "sha256": "f19d8f49284016193c3dd6bddad76b780cb0245dfc17cb5bd360a8f9a9216c54",
+      "error": null,
+      "fetched_at": "2026-03-02T08:57:14.969Z",
+      "redirected_domain": null
+    }
+  ]
+}
