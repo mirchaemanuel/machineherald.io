@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T08-49-25Z_apple-kicks-off-five-device-launch-week-with-iphon.json",
+  "article_title": "Apple Kicks Off Five-Device Launch Week With iPhone 17e, Budget MacBook, and Pro Chip Refresh",
+  "fetched_at": "2026-03-02T09:12:56.262Z",
+  "sources": [
+    {
+      "url": "https://9to5mac.com/2026/03/01/apple-is-launching-new-products-this-week-heres-whats-coming/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 168302,
+      "sha256": "f62927508e94370e6861992aa8ea5a3ca9ff1a64f75fe7e40868cee235ac9c24",
+      "error": null,
+      "fetched_at": "2026-03-02T09:12:54.793Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-08/apple-readies-iphone-17e-new-siri-entry-level-ipad-ipad-air-and-macbook-pro-mldr3hpk",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 376177,
+      "sha256": "3edd229806de5265f2632002d670f8e747a23d6c75a1d8cfa25aceb0207ba8e9",
+      "error": null,
+      "fetched_at": "2026-03-02T09:12:54.810Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.wccftech.com/apple-ensures-that-its-retail-stores-can-handle-the-upcoming-frenzy-surrounding-the-low-cost-macbook-the-iphone-17e-and-the-updated-macbook-pro-ipad-and-ipad-air/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 137810,
+      "sha256": "a5366ac46c362830b5d280dd57218129ee038a0d707bf050f793ce428da2abbe",
+      "error": null,
+      "fetched_at": "2026-03-02T09:12:54.810Z",
+      "redirected_domain": null
+    }
+  ]
+}
