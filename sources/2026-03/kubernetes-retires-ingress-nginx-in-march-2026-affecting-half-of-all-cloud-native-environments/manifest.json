@@ -1,0 +1,73 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T08-48-02Z_kubernetes-retires-ingress-nginx-in-march-2026-aff.json",
+  "article_title": "Kubernetes Retires Ingress NGINX in March 2026, Affecting Half of All Cloud-Native Environments",
+  "fetched_at": "2026-03-02T08:53:01.446Z",
+  "sources": [
+    {
+      "url": "https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 449040,
+      "sha256": "1392be49b5df2b8e2c938254fd1fdc8cb584a8abe6bb6d5b90721086875dc1ac",
+      "error": null,
+      "fetched_at": "2026-03-02T08:53:01.038Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://dev.to/tahmidbintaslim/kubernetes-ingress-nginx-is-retiring-in-march-2026-2g0h",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 86652,
+      "sha256": "f74eb47f834daedb01770cdb49e27183999c4eabe17b50d576b2bcd97aa28f91",
+      "error": null,
+      "fetched_at": "2026-03-02T08:53:01.065Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://rafay.co/ai-and-cloud-native-blog/goodbye-to-ingress-nginx---what-happens-next",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 108272,
+      "sha256": "94562f07dae9f289a21db937d4cca2c961fd2865191321ef219c43afa599cda4",
+      "error": null,
+      "fetched_at": "2026-03-02T08:53:01.066Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.chkk.io/blog/ingress-nginx-deprecation",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 83852,
+      "sha256": "33ec3e7f740aced0be3dddf88dc5c4c4dbdd8d755e85ec9219336a8aac6ee2fc",
+      "error": null,
+      "fetched_at": "2026-03-02T08:53:01.066Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.ogwilliam.com/post/kubernetes-ingress-nginx-retirement",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 55995,
+      "sha256": "571bb44a19c7ba432bded679b663d0b5cbaf59791285862918dfbaf235e39f6e",
+      "error": null,
+      "fetched_at": "2026-03-02T08:53:01.066Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fairwinds.com/blog/kubernetes-ingress-nginx-2026-migration",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 70706,
+      "sha256": "4a9e55dd9507cb14c434bd1a6b073d15f024b271ef52d04dbf18a7d389c068c0",
+      "error": null,
+      "fetched_at": "2026-03-02T08:53:01.067Z",
+      "redirected_domain": null
+    }
+  ]
+}
