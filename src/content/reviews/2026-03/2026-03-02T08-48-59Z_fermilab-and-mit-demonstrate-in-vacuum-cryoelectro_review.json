@@ -1,0 +1,62 @@
+{
+  "file": "src/content/submissions/2026-03/2026-03-02T08-48-59Z_fermilab-and-mit-demonstrate-in-vacuum-cryoelectro.json",
+  "timestamp": "2026-03-02T09:06:34.306Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Fermilab and MIT Demonstrate In-Vacuum Cryoelectronics for Ion-Trap Quantum Computing, Clearing a Key Scalability Barrier",
+  "reviewer_model": "Claude Sonnet 4.6",
+  "verdict": "REJECT",
+  "summary": "Rejected: duplicate of already-published article from PR #133 (merged 2026-03-02T09:02:16Z), covering the exact same event with the same three sources.",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "news.fnal.gov: https://news.fnal.gov/2026/02/doe-national-quantum-research-centers-reach-milestone-breakthrough-towards-building-scalable-quantum-computers/"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Fermilab and MIT Demonstrate In-Vacuum Cryoelectronics for Ion-Trap Quantum Computing, Clearing a Key Scalability Barrier",
+    "summary": "A DOE-backed collaboration between Fermilab and MIT Lincoln Laboratory has shown that cryoelectronics can reliably control ion-trap qubits from inside the cryogenic chamber, a proof-of-principle step toward systems with tens of thousands of electrodes.",
+    "body_excerpt": "## Overview\n\nResearchers at Fermi National Accelerator Laboratory and MIT's Lincoln Laboratory have demonstrated that ultra-low-power cryoelectronics — circuits designed to operate at the extreme cold temperatures required for quantum hardware — can reliably trap and manipulate individual ions from inside a cryogenic vacuum chamber. The proof-of-principle result, announced in February 2026 and supported by two U.S. Department of Energy quantum research centers, addresses one of the most persiste...",
+    "word_count": 667,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "The article is well-written, technically accurate, and appropriately scoped as a Briefing. Word count (667) is within the 300-800 range for the category. Structure is clear with Overview, What We Know, What We Don't Know, and Analysis sections.",
+    "source_verification": "All three sources are the same as the already-published article from PR #133: news.fnal.gov/2026/02/..., interestingengineering.com/science/..., and news.mit.edu/2026/.... No new sources were introduced.",
+    "factual_accuracy": "Claims are consistent with cited sources. No hallucinations detected. The article correctly characterizes the milestone as a proof-of-principle and accurately notes remaining engineering gaps (milliseconds-to-minutes voltage holding, physical chip integration).",
+    "tone_assessment": "Neutral and professional throughout. No sensationalism or editorializing.",
+    "originality": "DUPLICATE. This submission covers the identical story as PR #133 (merged 2026-03-02T09:02:16Z), which published the article 'Fermilab and MIT Lincoln Lab Demonstrate In-Vacuum Cryoelectronics for Ion-Trap Quantum Computers, Opening Path to Tens of Thousands of Qubits'. Both submissions use the same three sources (Fermilab announcement, Interesting Engineering, MIT News January 2026 cooling piece), describe the same February 2026 proof-of-principle event, and cite the same quotes from Farah Fahim and Travis Humble. The PR #135 submission was created 20 seconds after PR #133 (08:48:39Z vs 08:48:59Z), suggesting a race condition during autonomous article generation. Publishing this would result in two articles covering the same news story with no new information, angle, or sources.",
+    "concerns": [
+      "This is a direct duplicate of the article published via PR #133. The same Fermilab/MIT cryoelectronics milestone is covered using the identical three sources. No new information, updated findings, or different analytical angle is present.",
+      "The submission was created only 20 seconds after the already-approved submission (2026-03-02T08:48:39Z vs 08:48:59Z), indicating a likely race condition in the autonomous publishing pipeline where two bots independently selected the same story simultaneously."
+    ],
+    "recommendations": [
+      "Close this PR without merging. The story has already been published.",
+      "Investigate the pipeline to understand how two submissions for the same story were created within 20 seconds of each other and add deduplication logic to prevent future occurrences."
+    ],
+    "overall_assessment": "The submission is technically sound and editorially competent, but it is a duplicate of content already published today. Rejection is required by editorial policy: the exact same story was already published via PR #133, and this submission adds no new information or perspective."
+  }
+}
