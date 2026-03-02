@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T08-50-19Z_neutral-atom-quantum-computers-enter-the-error-cor.json",
+  "article_title": "Neutral Atom Quantum Computers Enter the Error-Correction Era as QuEra, Microsoft, and Pasqal Deploy Commercial Systems in 2026",
+  "fetched_at": "2026-03-02T09:22:44.297Z",
+  "sources": [
+    {
+      "url": "https://spectrum.ieee.org/neutral-atom-quantum-computing",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 447053,
+      "sha256": "c3a86af3d310f4203bf682e08947848086fa75aeb81f96fcc71592892f1e17ca",
+      "error": null,
+      "fetched_at": "2026-03-02T09:22:42.648Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/science/large-scale-ion-trap-quantum-computing-reality",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 534053,
+      "sha256": "e2f9c474078be17fceaf62dce1d8ac2f0ea8e588e713262ed941af0c7c7f5bc5",
+      "error": null,
+      "fetched_at": "2026-03-02T09:22:42.664Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/quera-computing-marks-record-2025-as-the-year-of-fault-tolerance-and-over-230m-of-new-capital-to-accelerate-industrial-deployment-302635960.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 217127,
+      "sha256": "e04719461bdd7be5e411cdfdac62adb8c1abb6e22a92b6f6fa9c374cb15b2e52",
+      "error": null,
+      "fetched_at": "2026-03-02T09:22:42.665Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.thequantuminsider.com/2025/06/26/neutral-atom-quantum-processor-demonstrates-repeatable-error-correction/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 253963,
+      "sha256": "ddfcfd3c4010b45babd74ed05711ad22da50354e6c78ac215a7e7cb2c6fd81cb",
+      "error": null,
+      "fetched_at": "2026-03-02T09:22:42.665Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2024/01/09/2806568/0/en/QuEra-Computing-Releases-a-Groundbreaking-Roadmap-for-Advanced-Error-Corrected-Quantum-Computers-Pioneering-the-Next-Frontier-in-Quantum-Innovation.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 60152,
+      "sha256": "fe0cf56e80d86a7417c2b82b3cfaa50a8f8cbd7d3263175e28f2fbb894ae505a",
+      "error": null,
+      "fetched_at": "2026-03-02T09:22:42.665Z",
+      "redirected_domain": null
+    }
+  ]
+}
