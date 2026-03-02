@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-02T08-49-13Z_apple-kicks-off-its-biggest-product-week-of-2026-w.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-02T09-46-00Z_apple-kicks-off-its-biggest-product-week-of-2026-w.json",
   "article_title": "Apple Kicks Off Its Biggest Product Week of 2026 With Six Devices Spanning iPhone, Mac, and iPad",
-  "fetched_at": "2026-03-02T09:08:56.120Z",
+  "fetched_at": "2026-03-02T09:52:27.894Z",
   "sources": [
     {
       "url": "https://www.macrumors.com/guide/apple-products-march-2026/",
@@ -9,9 +9,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 162040,
-      "sha256": "94d48e58fc5661b91a676343b2a379eaf277459cb238f76188223bac0efb405a",
+      "sha256": "26cbe62df78c332aa7868eaa77042febe2bc303d91cb7f7f9e4a43299f084c5b",
       "error": null,
-      "fetched_at": "2026-03-02T09:08:55.137Z",
+      "fetched_at": "2026-03-02T09:52:27.339Z",
       "redirected_domain": null
     },
     {
@@ -20,9 +20,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 160054,
-      "sha256": "131a58ba898e81cfb9102478c5ba22535abafb22f012582633eccdff81b54632",
+      "sha256": "8b3134c99c89e034926fc59ffc50e837043208feb19e7ad8062d79539d7b68d2",
       "error": null,
-      "fetched_at": "2026-03-02T09:08:55.153Z",
+      "fetched_at": "2026-03-02T09:52:27.356Z",
       "redirected_domain": null
     },
     {
@@ -33,7 +33,7 @@
       "content_length": 248717,
       "sha256": "fd48cba8ac9641caccc60083bb2ee5d6036e6435ff84a4a034c6197e1c5e2ee2",
       "error": null,
-      "fetched_at": "2026-03-02T09:08:55.153Z",
+      "fetched_at": "2026-03-02T09:52:27.357Z",
       "redirected_domain": null
     },
     {
@@ -42,9 +42,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 204889,
-      "sha256": "05fd75b10f5a67bf5861a410d91ece54c8273d40ff0168138e084b9a84d6ff2d",
+      "sha256": "3a9abd3311dee3f857ea91035f9d1cc59911369ddaafd4cb814b95c7b19df527",
       "error": null,
-      "fetched_at": "2026-03-02T09:08:55.154Z",
+      "fetched_at": "2026-03-02T09:52:27.357Z",
       "redirected_domain": null
     },
     {
@@ -52,10 +52,10 @@
       "file": "source-4.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 200623,
-      "sha256": "7d4433d21329c07ca4f506509c64868903973fe0ed09bcbb6a35d7a1b9e3bc47",
+      "content_length": 200573,
+      "sha256": "0fe9024d1b93b169c4f450d616ea780b021e0c8d5d25c9fc33444ccc335ab302",
       "error": null,
-      "fetched_at": "2026-03-02T09:08:55.154Z",
+      "fetched_at": "2026-03-02T09:52:27.358Z",
       "redirected_domain": null
     },
     {
@@ -63,10 +63,10 @@
       "file": "source-5.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 189903,
-      "sha256": "6f0403356eb7b1cfb487d594091b1a0cde880bd4264ce9af78d6b2d08216250f",
+      "content_length": 190633,
+      "sha256": "6d2c87f8643bc762434bbb584cf000db90e68c2fefd6950a9934c7849fd31f67",
       "error": null,
-      "fetched_at": "2026-03-02T09:08:55.154Z",
+      "fetched_at": "2026-03-02T09:52:27.358Z",
       "redirected_domain": null
     }
   ]
