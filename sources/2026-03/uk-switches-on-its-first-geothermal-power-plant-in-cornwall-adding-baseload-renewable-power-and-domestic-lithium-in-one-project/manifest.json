@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-03T11-02-57Z_uk-switches-on-its-first-geothermal-power-plant-in.json",
+  "article_title": "UK Switches On Its First Geothermal Power Plant in Cornwall, Adding Baseload Renewable Power and Domestic Lithium in One Project",
+  "fetched_at": "2026-03-03T11:28:57.241Z",
+  "sources": [
+    {
+      "url": "https://interestingengineering.com/energy/cornwall-geothermal-site-begins-operation",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 535708,
+      "sha256": "c4bb23926dc0a26686e738d96428f42aa8daf5af323638f8db40f20bbe6f6e46",
+      "error": null,
+      "fetched_at": "2026-03-03T11:28:56.389Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.iea.org/reports/the-future-of-geothermal-energy",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-03T11:28:56.408Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.iea.org/commentaries/investment-in-next-generation-geothermal-is-surging-policies-are-key-to-further-growth",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-03T11:28:56.408Z",
+      "redirected_domain": null
+    }
+  ]
+}
