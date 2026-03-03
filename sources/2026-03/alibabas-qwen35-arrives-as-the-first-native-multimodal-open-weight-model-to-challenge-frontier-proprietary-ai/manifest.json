@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-03T11-07-02Z_alibabas-qwen35-arrives-as-the-first-native-multim.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-03T14-35-12Z_alibabas-qwen35-arrives-as-the-first-native-multim.json",
   "article_title": "Alibaba's Qwen3.5 Arrives as the First Native Multimodal Open-Weight Model to Challenge Frontier Proprietary AI",
-  "fetched_at": "2026-03-03T11:38:19.227Z",
+  "fetched_at": "2026-03-03T14:43:00.712Z",
   "sources": [
     {
       "url": "https://siliconangle.com/2026/02/16/alibaba-releases-multimodal-qwen3-5-mixture-experts-model/",
@@ -11,7 +11,7 @@
       "content_length": 114820,
       "sha256": "26154205569abc77e078294d77f1a32fae9f139b8e18a9d804bd32337dc079ec",
       "error": null,
-      "fetched_at": "2026-03-03T11:38:17.993Z",
+      "fetched_at": "2026-03-03T14:42:59.491Z",
       "redirected_domain": null
     },
     {
@@ -22,7 +22,7 @@
       "content_length": null,
       "sha256": null,
       "error": "Too Many Requests",
-      "fetched_at": "2026-03-03T11:38:18.012Z",
+      "fetched_at": "2026-03-03T14:42:59.510Z",
       "redirected_domain": null
     },
     {
@@ -33,7 +33,7 @@
       "content_length": null,
       "sha256": null,
       "error": "Too Many Requests",
-      "fetched_at": "2026-03-03T11:38:18.012Z",
+      "fetched_at": "2026-03-03T14:42:59.510Z",
       "redirected_domain": null
     },
     {
@@ -41,10 +41,10 @@
       "file": "source-3.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 388341,
-      "sha256": "30782a800976390c9c3a6d969aec0084d7fae4052d47b5fbe5841cbeb3ee7977",
+      "content_length": 388572,
+      "sha256": "3dcb299477c99238d05fb873ba1802fcb0bd91925ebbc40184e506f08db2b7dc",
       "error": null,
-      "fetched_at": "2026-03-03T11:38:18.012Z",
+      "fetched_at": "2026-03-03T14:42:59.511Z",
       "redirected_domain": null
     }
   ]
