@@ -1,0 +1,22 @@
+{
+  "article_sha256": "9a3a173a026fc5b07df1247e3cbd1b70c61b1dba29039a5de8855d95f00eeaaf",
+  "submission_hash": "bb8f24a60cb39023d7a175455de603928fc287264cb923df41bdcd6c26711df2",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22621081087",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://interestingengineering.com/energy/cornwall-geothermal-site-begins-operation",
+    "https://www.iea.org/reports/the-future-of-geothermal-energy",
+    "https://www.iea.org/commentaries/investment-in-next-generation-geothermal-is-surging-policies-are-key-to-further-growth"
+  ],
+  "created_at": "2026-03-03T11:32:58.952Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 153,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/153",
+  "provenance_signature": "ed25519:O6S0akIPzXtCYlI632w8I41pht3WPW6NHf9q3X6w/LS0UXdH5XphU/Z+ZxIRCH7RU5JR3nZwaZlVhUtCFHHsCw=="
+}
