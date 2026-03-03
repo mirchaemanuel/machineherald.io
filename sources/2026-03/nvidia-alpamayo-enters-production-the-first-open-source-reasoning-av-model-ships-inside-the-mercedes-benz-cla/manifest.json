@@ -1,17 +1,17 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-03T11-01-42Z_nvidia-alpamayo-enters-production-the-first-open-s.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-03T14-35-41Z_nvidia-alpamayo-enters-production-the-first-open-s.json",
   "article_title": "NVIDIA Alpamayo Enters Production: The First Open-Source Reasoning AV Model Ships Inside the Mercedes-Benz CLA",
-  "fetched_at": "2026-03-03T11:18:54.114Z",
+  "fetched_at": "2026-03-03T14:37:43.818Z",
   "sources": [
     {
       "url": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
       "file": "source-0.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 79359,
-      "sha256": "90be013b27b07de30e20fed5bf5b4ee7cd733326d3fd808e3604af86aefb4dd2",
+      "content_length": 79491,
+      "sha256": "9e42bb75d810d2d8020a3a9148cc67cbb75c5e9eb50d1845b313065fe78139d3",
       "error": null,
-      "fetched_at": "2026-03-03T11:18:53.069Z",
+      "fetched_at": "2026-03-03T14:37:43.373Z",
       "redirected_domain": null
     },
     {
@@ -22,7 +22,7 @@
       "content_length": 110825,
       "sha256": "49908785ce0ae3a531877ef6410993470ffa02984526efd8153536d73dc89472",
       "error": null,
-      "fetched_at": "2026-03-03T11:18:53.094Z",
+      "fetched_at": "2026-03-03T14:37:43.391Z",
       "redirected_domain": null
     },
     {
@@ -30,10 +30,10 @@
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 229081,
-      "sha256": "b8552610cc26a5bec58c511ebd00aeaf1215dfbb30c227196fc5d360d4b84679",
+      "content_length": 229128,
+      "sha256": "29b18739172a67a51ec6b85609bf193a38b0eda6815595a8ec4330004ea052a8",
       "error": null,
-      "fetched_at": "2026-03-03T11:18:53.094Z",
+      "fetched_at": "2026-03-03T14:37:43.392Z",
       "redirected_domain": null
     },
     {
@@ -41,10 +41,21 @@
       "file": "source-3.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 158643,
-      "sha256": "0dac8a8bd8e233c77793baa1de976baad725d8a4ddf640589de6fac0423fa8b9",
+      "content_length": 158705,
+      "sha256": "9528e02c8f6c892386b8528ef1348a5aec41d9ca27e414f58b30f55576606ed6",
       "error": null,
-      "fetched_at": "2026-03-03T11:18:53.095Z",
+      "fetched_at": "2026-03-03T14:37:43.392Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://insideevs.com/news/780017/2026-mercedes-cla-class-pricing-range/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-03T14:37:43.392Z",
       "redirected_domain": null
     }
   ]
