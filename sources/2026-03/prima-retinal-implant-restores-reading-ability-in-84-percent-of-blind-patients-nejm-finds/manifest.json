@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-04T16-19-02Z_prima-retinal-implant-restores-reading-ability-in-.json",
+  "article_title": "PRIMA Retinal Implant Restores Reading Ability in 84 Percent of Blind Patients, NEJM Finds",
+  "fetched_at": "2026-03-04T16:21:22.740Z",
+  "sources": [
+    {
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2501396",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-04T16:21:22.253Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030640.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 50042,
+      "sha256": "422a056e00c527337e048746cbc7aed1c87f09dfb9b1eabab9339a942d887231",
+      "error": null,
+      "fetched_at": "2026-03-04T16:21:22.270Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.stanford.edu/stories/2025/10/eye-prosthesis-device-macular-degeneration-retinol-prosthesis",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-04T16:21:22.271Z",
+      "redirected_domain": null
+    }
+  ]
+}
