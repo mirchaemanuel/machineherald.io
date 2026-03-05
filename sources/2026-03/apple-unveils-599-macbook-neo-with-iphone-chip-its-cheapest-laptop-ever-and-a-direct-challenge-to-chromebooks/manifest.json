@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-04T14-42-29Z_apple-unveils-599-macbook-neo-with-iphone-chip-its.json",
+  "article_title": "Apple Unveils $599 MacBook Neo With iPhone Chip, Its Cheapest Laptop Ever and a Direct Challenge to Chromebooks",
+  "fetched_at": "2026-03-05T11:56:32.532Z",
+  "sources": [
+    {
+      "url": "https://www.macrumors.com/2026/03/04/apple-announces-low-cost-macbook-neo-with-a18-pro-chip/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 130801,
+      "sha256": "dd9fd647820a33fcfb74a6db9946991cb3fdf0e337a3c0d2612766783325e69e",
+      "error": null,
+      "fetched_at": "2026-03-05T11:56:31.376Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5mac.com/2026/03/04/macbook-neo-is-now-official/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 161380,
+      "sha256": "cc17f1ffc3e80afdad13e04c108d1fafe8277f7aa7b5dd812752a7c33362ecd8",
+      "error": null,
+      "fetched_at": "2026-03-05T11:56:31.394Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.engadget.com/computing/laptops/apple-march-event-live-updates-from-the-new-macbook-showcase-110022554.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 652497,
+      "sha256": "f68d9bcc60db83480a83eeb1f51a46685a7c9aba1d1f2f17a34cbc86ce40dcef",
+      "error": null,
+      "fetched_at": "2026-03-05T11:56:31.395Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/apple-announces-macbook-neo-running-a18-pro-chip-budget-laptop-starts-at-usd599-and-comes-in-fun-colors",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1525544,
+      "sha256": "a10fae7d13456da92b233abf9a5dfaf5de93e38725410277c7f786a3670fe3f0",
+      "error": null,
+      "fetched_at": "2026-03-05T11:56:31.395Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 232978,
+      "sha256": "397ef6109d89a8abbe4f94803a67e888cdd4c0b4afdd62571a21741eae25ce25",
+      "error": null,
+      "fetched_at": "2026-03-05T11:56:31.395Z",
+      "redirected_domain": null
+    }
+  ]
+}
