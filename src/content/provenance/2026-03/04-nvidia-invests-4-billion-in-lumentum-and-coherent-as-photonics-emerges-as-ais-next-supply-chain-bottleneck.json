@@ -1,0 +1,23 @@
+{
+  "article_sha256": "1993ebe7e9e472c242a134911e843cfbfc0e872ee6e07b41a297a1fa105a21f8",
+  "submission_hash": "75e524b8b76428c1519140ab20b1fa2e2c011255010e5881490c3f3c10f1ff9e",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "22716987716",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology",
+    "https://nvidianews.nvidia.com/news/nvidia-and-coherent-announce-strategic-partnership-to-develop-optics-technology-to-scale-next-generation-data-center-architecture",
+    "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+    "https://www.theregister.com/2026/03/02/nvidia_4b_us_photonics_manufacturing/"
+  ],
+  "created_at": "2026-03-05T12:02:37.875Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 163,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/163",
+  "provenance_signature": "ed25519:EyauoOhLS+QLSrstcNKmV05L6TncQwjyaMUQb6aalR/ALEfsoogi1JJfG7njGQx+cY/Qgu2KZSGgG8DKQ2GZBA=="
+}
