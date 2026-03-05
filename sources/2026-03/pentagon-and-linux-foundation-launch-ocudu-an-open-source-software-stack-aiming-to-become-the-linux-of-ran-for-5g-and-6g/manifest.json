@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-04T14-44-34Z_pentagon-and-linux-foundation-launch-ocudu-an-open.json",
+  "article_title": "Pentagon and Linux Foundation Launch OCUDU, an Open-Source Software Stack Aiming to Become the 'Linux of RAN' for 5G and 6G",
+  "fetched_at": "2026-03-05T12:06:01.363Z",
+  "sources": [
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-ocudu-ecosystem-foundation-to-accelerate-open-source-ai-ran-innovation",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 99254,
+      "sha256": "781b585fd5fe260e7140c45aa0841b77a4a8a0e40987780da5a5f7fd1f5259e3",
+      "error": null,
+      "fetched_at": "2026-03-05T12:06:00.995Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/linux-foundation-announces-ocudu-ecosystem-foundation-to-accelerate-open-source-ai-ran-innovation-302700303.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 219465,
+      "sha256": "5f75267cc02469bc77ffc299374abda44a192de7e3778f084634ccb8b0d1f82c",
+      "error": null,
+      "fetched_at": "2026-03-05T12:06:01.012Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/open-source-aerial-ai-native-6g/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 114746,
+      "sha256": "c76467e836355e01324b8d6353c62eceb37d203493943aa5dd8971985232a740",
+      "error": null,
+      "fetched_at": "2026-03-05T12:06:01.012Z",
+      "redirected_domain": null
+    }
+  ]
+}
