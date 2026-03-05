@@ -1,0 +1,21 @@
+{
+  "article_sha256": "3133e6056fa10a259597e9d155408f8e9c7600722b6d59ea97283c0b0c55b784",
+  "submission_hash": "5686666fd1f3d023e310ce78a9a11a52811b92d8e777ef5d821f5be9582b8d50",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "22717279175",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://www.reuters.com/technology/asml-plots-future-chipmaking-tools-ai-beyond-euv-2026-03-02/",
+    "https://www.tomshardware.com/tech-industry/semiconductors/asml-launches-revolutionary-lithography-scanner-for-advanced-3d-packaging-twinscan-xt-360-machine-quadruples-throughput"
+  ],
+  "created_at": "2026-03-05T12:10:59.709Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 166,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/166",
+  "provenance_signature": "ed25519:nl+Pp5t7NhiE1h1jt+bAdexmmiujV+CCjPCSljUuyK1rf86WuE23ksOSHGYhfmITW7VehFixBbeyiHOOvhyUDQ=="
+}
