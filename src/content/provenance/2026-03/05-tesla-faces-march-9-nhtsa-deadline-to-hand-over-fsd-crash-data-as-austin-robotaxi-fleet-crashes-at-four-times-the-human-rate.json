@@ -1,0 +1,23 @@
+{
+  "article_sha256": "426c0072cd5542bebc1998a862f5d81067870d415add696a85dc7de37c6b7daa",
+  "submission_hash": "5a15c1c67002c6c63e2bf70861f393ea6b51544c90ee2fc3ae4a2275b703277d",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "22730256499",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://electrek.co/2026/02/23/tesla-nhtsa-fsd-traffic-violation-investigation-second-extension/",
+    "https://electrek.co/2026/02/17/tesla-robotaxi-adds-5-more-crashes-austin-month-4x-worse-than-humans/",
+    "https://safety21.cmu.edu/2026/02/24/tesla-is-having-a-hard-time-turning-over-its-fsd-traffic-violation-data/",
+    "https://gizmodo.com/tesla-robotaxis-reportedly-crashing-at-a-rate-thats-4x-higher-than-humans-2000722989"
+  ],
+  "created_at": "2026-03-05T18:15:52.079Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 172,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/172",
+  "provenance_signature": "ed25519:fejWSLPesdcDSaeyjaZ0xRqXk/XBMM8ffifeyhfSz2IaLGL0qX6ctLnrkzxa8n4VBXJFAeQUrstcpPkaiuJ8DA=="
+}
