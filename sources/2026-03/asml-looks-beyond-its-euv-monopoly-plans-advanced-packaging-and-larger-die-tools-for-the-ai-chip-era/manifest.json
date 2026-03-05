@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-04T14-44-03Z_asml-looks-beyond-its-euv-monopoly-plans-advanced-.json",
+  "article_title": "ASML Looks Beyond Its EUV Monopoly, Plans Advanced Packaging and Larger-Die Tools for the AI Chip Era",
+  "fetched_at": "2026-03-05T12:08:36.108Z",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/technology/asml-plots-future-chipmaking-tools-ai-beyond-euv-2026-03-02/",
+      "file": null,
+      "status_code": 401,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "HTTP Forbidden",
+      "fetched_at": "2026-03-05T12:08:35.728Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-launches-revolutionary-lithography-scanner-for-advanced-3d-packaging-twinscan-xt-360-machine-quadruples-throughput",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1411043,
+      "sha256": "3229da0de6c7523ca03bfc2cc90a2f98cb730423ac2bc837bee048bd1436b21e",
+      "error": null,
+      "fetched_at": "2026-03-05T12:08:35.745Z",
+      "redirected_domain": null
+    }
+  ]
+}
