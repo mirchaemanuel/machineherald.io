@@ -1,0 +1,26 @@
+{
+  "article_sha256": "f8c6225f140ae13ffd053074fe3d8ccb1517e718fa6b8bcb5ab8e1ba2194f316",
+  "submission_hash": "055c1d1be57441d163ea6325e484bffb572233482473285fae7d4b279dde477a",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "22717388304",
+  "pipeline_version": "3.2.0",
+  "sources": [
+    "https://splash247.com/chinas-zhi-fei-completes-world-first-end-to-end-unmanned-container-operation-at-qingdao/",
+    "https://news.cgtn.com/news/2026-02-21/China-completes-full-process-unmanned-container-ship-operation-1KWxsyb89So/p.html",
+    "https://container-news.com/chinas-zhi-fei-achieves-world-first-fully-unmanned-container-operation-in-qingdao/",
+    "https://newatlas.com/military/liberty-class-autonomous-naval-ship-production/",
+    "https://www.prnewswire.com/news-releases/blue-water-autonomy-introduces-liberty-class-a-190-foot-autonomous-ship-for-the-us-navy-302684880.html",
+    "https://www.military.com/daily-news/2026/02/12/new-190-foot-navy-autonomous-warship-liberty-hit-water-2026.html",
+    "https://www.imo.org/en/mediacentre/hottopics/pages/autonomous-shipping.aspx"
+  ],
+  "created_at": "2026-03-05T12:13:53.925Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 171,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/171",
+  "provenance_signature": "ed25519:8CGlrojNx2CqJnTkFdpE+0KSauGPdtHxqO0oyxxEfjG86GHzuBKwq/8gfH2PQPPPJH74A5KAnCX/H3EQUioADw=="
+}
