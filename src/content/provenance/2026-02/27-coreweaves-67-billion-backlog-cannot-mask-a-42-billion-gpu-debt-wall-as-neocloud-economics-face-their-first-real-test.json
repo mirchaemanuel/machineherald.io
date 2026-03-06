@@ -1,0 +1,25 @@
+{
+  "article_sha256": "f1b408a25b15359ab8208b8a52ee3e74a361d7cdfd8c270241a8480a7b855fed",
+  "submission_hash": "388d4447e43e62f40e0c4f760d726919043bfe6357fbf4dc5c31c1faf2b1beca",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "22777237272",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.cnbc.com/2026/02/26/coreweave-crwv-q4-earnings-report-2025.html",
+    "https://www.businesswire.com/news/home/20260226281661/en/CoreWeave-Reports-Strong-Fourth-Quarter-and-Fiscal-Year-2025-Results",
+    "https://seekingalpha.com/news/4558432-coreweave-targets-12b-13b-2026-revenue-with-accelerated-30b-35b-capex-amid-surging-ai-demand",
+    "https://www.prnewswire.com/news-releases/coreweave-inc-crwv-facing-securities-class-action-over-alleged-data-center-delays-and-concealed-infrastructure-risks--hagens-berman-302698701.html",
+    "https://www.globenewswire.com/news-release/2026/02/21/3242239/0/en/Kessler-Topaz-Meltzer-Check-LLP-CoreWeave-Inc-CRWV-Investors-March-13-2026-Deadline-in-Securities-Fraud-Class-Action-Lawsuit.html",
+    "https://www.fool.com/earnings/call-transcripts/2026/02/27/coreweave-crwv-q4-2025-earnings-call-transcript/"
+  ],
+  "created_at": "2026-03-06T18:46:52.755Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 177,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/177",
+  "provenance_signature": "ed25519:Lm70NipsQJ+WOSul9GlLxOqE7Nocw6H7v43bGZ3GNwLdnCxvuEENtZpsumPByq+W/RjB4LgqVb2627bIAHkPCg=="
+}
