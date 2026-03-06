@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-03T13-41-49Z_caterpillar-demonstrates-first-autonomous-construc.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-06T08-18-10Z_caterpillar-demonstrates-first-autonomous-construc.json",
   "article_title": "Caterpillar Demonstrates First Autonomous Construction Compactor at CONEXPO as It Pivots a Century-Old Equipment Empire Toward AI",
-  "fetched_at": "2026-03-05T11:50:23.568Z",
+  "fetched_at": "2026-03-06T18:48:22.110Z",
   "sources": [
     {
       "url": "https://www.prnewswire.com/news-releases/caterpillar-transforms-the-construction-worksite-with-advanced-technology-services-and-solutions-at-conexpo-conagg-2026-302701038.html",
@@ -9,9 +9,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 219019,
-      "sha256": "90ba2ec042c947f1581a3d87c50d6215cabe78b0dfc5993011149aae707a93b1",
+      "sha256": "a9fd43424a6efd4e195d69759ac5ba6919b20b479424f9ef67af2738f2b1f00b",
       "error": null,
-      "fetched_at": "2026-03-05T11:50:23.294Z",
+      "fetched_at": "2026-03-06T18:48:15.534Z",
       "redirected_domain": null
     },
     {
@@ -19,10 +19,43 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 476370,
-      "sha256": "14a3fe72d6ee5196cdb43df80c65cbd6de0a12e2a2923d2636ff9db96b5c8141",
+      "content_length": 477295,
+      "sha256": "f999506968cbdc1bf7e3815032d6ef40bca309ba96c8d8b7db9f764aa9c07a54",
       "error": null,
-      "fetched_at": "2026-03-05T11:50:23.312Z",
+      "fetched_at": "2026-03-06T18:48:15.555Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.caterpillar.com/en/news/caterpillarNews/2026/scaling-autonomy-system.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 246714,
+      "sha256": "9a22c3be6f2c9929aa9935646f85818b21a4eed5d4e847962d26030612c59036",
+      "error": null,
+      "fetched_at": "2026-03-06T18:48:15.556Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.caterpillar.com/en/news/corporate-press-releases/h/cat-nvidia-collab.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 237703,
+      "sha256": "22fc305c5eb90afada50b00a70e7446d805312fecfc30e881cd4cbaaf64d4766",
+      "error": null,
+      "fetched_at": "2026-03-06T18:48:15.556Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://au.investing.com/news/stock-market-news/caterpillar-flags-26-billion-tariff-hit-in-2026-data-center-demand-powers-quarter-4229632",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-06T18:48:15.557Z",
       "redirected_domain": null
     }
   ]
