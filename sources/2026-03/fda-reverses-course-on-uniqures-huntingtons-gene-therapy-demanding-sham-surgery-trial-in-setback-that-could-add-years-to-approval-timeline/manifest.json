@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-06T08-15-30Z_fda-reverses-course-on-uniqures-huntingtons-gene-t.json",
+  "article_title": "FDA Reverses Course on UniQure's Huntington's Gene Therapy, Demanding Sham Surgery Trial in Setback That Could Add Years to Approval Timeline",
+  "fetched_at": "2026-03-06T18:46:56.587Z",
+  "sources": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/02/3247236/0/en/uniQure-Provides-Regulatory-Update-on-AMT-130-for-Huntington-s-Disease.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 64506,
+      "sha256": "56e0172cfef6fc7a2f81480741423c31c1ae70febc5f16117781ac7609bcf774",
+      "error": null,
+      "fetched_at": "2026-03-06T18:46:55.308Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/09/24/3155348/0/en/uniQure-Announces-Positive-Topline-Results-from-Pivotal-Phase-I-II-Study-of-AMT-130-in-Patients-with-Huntington-s-Disease.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 77550,
+      "sha256": "944005116e2597cfa0c59b6d0034990190722a5119bce591f1554727c432725a",
+      "error": null,
+      "fetched_at": "2026-03-06T18:46:55.328Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2026/03/02/uniqure-huntingtons-disease-fda-blocked/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 179614,
+      "sha256": "abefbf69e4f0cebdc48abc4c0d2c3a8a35c2d99d42d5a416958705bded76952a",
+      "error": null,
+      "fetched_at": "2026-03-06T18:46:55.329Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biospace.com/fda/uniqure-eyes-phase-3-for-huntingtons-gene-therapy-despite-makarys-apparent-criticism",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 215115,
+      "sha256": "fc493fce0751bb79066317e14342562d1f30ff368ecdeebd10b8b7d57ce3fd1b",
+      "error": null,
+      "fetched_at": "2026-03-06T18:46:55.329Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biopharmadive.com/news/uniqure-fda-meeting-trial-requirement-huntingtons-gene-therapy/813488/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 273597,
+      "sha256": "99b3b91a433438ed1e257f2f6ba4dd5b206ed0c9166c565e7db0019a67a03b87",
+      "error": null,
+      "fetched_at": "2026-03-06T18:46:55.330Z",
+      "redirected_domain": null
+    }
+  ]
+}
