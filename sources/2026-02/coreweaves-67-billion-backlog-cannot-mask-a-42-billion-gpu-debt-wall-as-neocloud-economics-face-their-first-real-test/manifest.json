@@ -1,40 +1,44 @@
 {
   "submission_file": "src/content/submissions/2026-02/2026-02-27T21-17-52Z_coreweaves-67-billion-backlog-cannot-mask-a-42-bil.json",
   "article_title": "CoreWeave's $67 Billion Backlog Cannot Mask a $4.2 Billion GPU Debt Wall as Neocloud Economics Face Their First Real Test",
-  "fetched_at": "2026-02-28T08:32:59.240Z",
+  "fetched_at": "2026-03-06T18:45:31.585Z",
   "sources": [
     {
       "url": "https://www.cnbc.com/2026/02/26/coreweave-crwv-q4-earnings-report-2025.html",
       "file": "source-0.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 826572,
-      "sha256": "d375e25ecf45af56ad3975bc95202af68b95fd3adf157d826ccd53fc81e83c3d",
+      "content_length": 826667,
+      "sha256": "944b9c02d209cc94971886c280d270af6e2d2bc6867905d713c5dd4828525331",
       "error": null,
-      "fetched_at": "2026-02-28T08:32:48.373Z",
+      "fetched_at": "2026-03-06T18:45:22.045Z",
       "redirected_domain": null
     },
     {
       "url": "https://www.businesswire.com/news/home/20260226281661/en/CoreWeave-Reports-Strong-Fourth-Quarter-and-Fiscal-Year-2025-Results",
-      "file": null,
-      "status_code": 403,
-      "content_type": "text/html",
-      "content_length": null,
-      "sha256": null,
-      "error": "Forbidden",
-      "fetched_at": "2026-02-28T08:32:48.391Z",
-      "redirected_domain": null
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1259339,
+      "sha256": "56a283bdf5ebf4e87e924125b4ce78a1d44c2e00e45303549958c42907db5fa5",
+      "error": null,
+      "fetched_at": "2026-03-06T18:45:22.066Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20260226281661/en/CoreWeave-Reports-Strong-Fourth-Quarter-and-Fiscal-Year-2025-Results"
     },
     {
       "url": "https://seekingalpha.com/news/4558432-coreweave-targets-12b-13b-2026-revenue-with-accelerated-30b-35b-capex-amid-surging-ai-demand",
-      "file": null,
-      "status_code": 403,
+      "file": "source-2.html",
+      "status_code": 200,
       "content_type": "text/html",
-      "content_length": null,
-      "sha256": null,
-      "error": "Forbidden",
-      "fetched_at": "2026-02-28T08:32:48.392Z",
-      "redirected_domain": null
+      "content_length": 561159,
+      "sha256": "4f2896ae6c2ee4c961b5abd6e8750d37c9e766e03457a928eaa1b162db0ab482",
+      "error": null,
+      "fetched_at": "2026-03-06T18:45:22.067Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://seekingalpha.com/news/4558432-coreweave-targets-12b-13b-2026-revenue-with-accelerated-30b-35b-capex-amid-surging-ai-demand"
     },
     {
       "url": "https://www.prnewswire.com/news-releases/coreweave-inc-crwv-facing-securities-class-action-over-alleged-data-center-delays-and-concealed-infrastructure-risks--hagens-berman-302698701.html",
@@ -42,9 +46,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 208087,
-      "sha256": "58e178636f461fa420754ae10c532a9fc88dbd23c7c5738be966c601d9469779",
+      "sha256": "42932f86151dc7fe6e3c889064fb7ea2aa26c1108aa8f28c3653dbeee1ed3d9a",
       "error": null,
-      "fetched_at": "2026-02-28T08:32:48.392Z",
+      "fetched_at": "2026-03-06T18:45:22.067Z",
       "redirected_domain": null
     },
     {
@@ -52,10 +56,10 @@
       "file": "source-4.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 73042,
-      "sha256": "ae990a2753f0e490f9821ab8f23326b9b9471c421559d3aa13691d60653e6f69",
+      "content_length": 73461,
+      "sha256": "e70a8157cf780d0cad738d092f0f60e858789b663334071d09d748bf3326c341",
       "error": null,
-      "fetched_at": "2026-02-28T08:32:48.393Z",
+      "fetched_at": "2026-03-06T18:45:22.068Z",
       "redirected_domain": null
     },
     {
@@ -63,10 +67,10 @@
       "file": "source-5.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 522060,
-      "sha256": "ef559069640ac1ce80765a710d8566587e9a18ebd46ab7e252728482f0c3c289",
+      "content_length": 512258,
+      "sha256": "f39592843accc2ce5f68d5c62c9e5d14062efc567b13fcdf1187e4f8b5f2f521",
       "error": null,
-      "fetched_at": "2026-02-28T08:32:48.393Z",
+      "fetched_at": "2026-03-06T18:45:22.068Z",
       "redirected_domain": null
     }
   ]
