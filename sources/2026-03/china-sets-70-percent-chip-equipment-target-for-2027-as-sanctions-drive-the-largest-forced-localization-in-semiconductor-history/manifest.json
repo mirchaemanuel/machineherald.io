@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-06T08-11-52Z_china-sets-70-percent-chip-equipment-target-for-20.json",
+  "article_title": "China Sets 70 Percent Chip Equipment Target for 2027 as Sanctions Drive the Largest Forced Localization in Semiconductor History",
+  "fetched_at": "2026-03-06T18:43:56.135Z",
+  "sources": [
+    {
+      "url": "https://www.trendforce.com/news/2026/02/20/news-china-reportedly-ramps-up-chip-tool-push-sets-70-target-by-2027-smee-naura-at-forefront/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 70794,
+      "sha256": "78990a0f6120808b9408d1cc9593fb0465e95a91e09a7a216c1158df0b51d1a5",
+      "error": null,
+      "fetched_at": "2026-03-06T18:43:54.764Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://americanaffairsjournal.org/2026/02/innovation-under-pressure-chinas-semiconductor-industry-at-a-crossroads/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 180373,
+      "sha256": "f60f43585a4e4de10019d93b10ec7d0a0e4cd16bca31a36e6d372648bd05049a",
+      "error": null,
+      "fetched_at": "2026-03-06T18:43:54.794Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.koreatimes.co.kr/business/20260221/where-has-chinas-push-for-chip-self-reliance-taken-it",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 163385,
+      "sha256": "65df252e93349c0dae17ad7f1ea425cd6a478c10ac07fd630fb25460be383d7e",
+      "error": null,
+      "fetched_at": "2026-03-06T18:43:54.795Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.digitimes.com/news/a20260202VL203/equipment-supply-chain-asml-amec-demand.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 151892,
+      "sha256": "58268ce72c5b92e4bdd27a8d877da951eb11ecdb68c10000a55d10847fe4b5e4",
+      "error": null,
+      "fetched_at": "2026-03-06T18:43:54.796Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scmp.com/tech/big-tech/article/3302104/chinas-naura-climbs-ranks-worlds-top-chipmaking-equipment-suppliers",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 718445,
+      "sha256": "1118d0de7b3aefd06c56f4d398e98722762c97f261b1e8b55e288a246732bbd4",
+      "error": null,
+      "fetched_at": "2026-03-06T18:43:54.796Z",
+      "redirected_domain": null
+    }
+  ]
+}
