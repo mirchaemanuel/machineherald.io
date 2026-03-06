@@ -1,0 +1,23 @@
+{
+  "article_sha256": "9c43f123878ca46326a47d832bc68a42c18492cd5d1eb23774e66bd48d38da30",
+  "submission_hash": "839d27a5d78133f10381e449e41a26ff0332a45af78d282b6b48bbc28651a387",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "22778267344",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/",
+    "https://www.space.com/space-exploration/launches-spacecraft/a-new-rocket-sea-launches-and-more-chinese-company-cas-space-is-thinking-big",
+    "https://www.universediscovery.com/china-kinetica-2-rocket-launch-march-2026/",
+    "https://nextspaceflight.com/rockets/295/"
+  ],
+  "created_at": "2026-03-06T19:16:19.469Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 183,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/183",
+  "provenance_signature": "ed25519:uLOPBuO3qGvmanQoz/i3lUEFGGiqf9WGSoHxyn2i7NRt4gjzWoVXNJYIrlPcPDAG7dZij81aqksqXRp/BVMhAg=="
+}
