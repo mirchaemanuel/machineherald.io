@@ -1,0 +1,64 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-06T08-25-55Z_openai-raises-110-billion-in-largest-private-fundi.json",
+  "article_title": "OpenAI Raises $110 Billion in Largest Private Funding Round in History, Valued at $840 Billion as Amazon Becomes Its Second Cloud Partner",
+  "fetched_at": "2026-03-06T18:49:43.575Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 985650,
+      "sha256": "cc521db3a91b73e3e04d5e2de8cbca855d972a4a4baef55f00dff924ad17f9e7",
+      "error": null,
+      "fetched_at": "2026-03-06T18:49:37.426Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 226517,
+      "sha256": "eeaab0e16d71408577f253e50097f5d953a3b2fb4e73ee2b7aaf4c94f28416ba",
+      "error": null,
+      "fetched_at": "2026-03-06T18:49:37.446Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.axios.com/2026/02/27/openai-funding-nvidia-amazon",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 196079,
+      "sha256": "67a5c75b931d76c83e08b9babff8589613ac111477a86ea8937ecdc5a848b0ec",
+      "error": null,
+      "fetched_at": "2026-03-06T18:49:37.447Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.axios.com/2026/02/27/openai-funding-nvidia-amazon"
+    },
+    {
+      "url": "https://openai.com/index/scaling-ai-for-everyone/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 364281,
+      "sha256": "ea2283add25770748ac168aa081b83d63c284a4ed9ae36435b3ca69e0e55fc11",
+      "error": null,
+      "fetched_at": "2026-03-06T18:49:37.447Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-raises-110-billion-in-largest-ever-private-tech-funding-round",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1473007,
+      "sha256": "27919deb4188b49378cf0f423651196ced3e99833f836e990a906838e9575e86",
+      "error": null,
+      "fetched_at": "2026-03-06T18:49:37.448Z",
+      "redirected_domain": null
+    }
+  ]
+}
