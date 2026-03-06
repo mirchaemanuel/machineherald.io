@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-06T08-29-52Z_cas-space-targets-late-march-for-kinetica-2-maiden.json",
+  "article_title": "CAS Space Targets Late March for Kinetica-2 Maiden Flight, China's Latest Bid for a Reusable Medium-Lift Rocket",
+  "fetched_at": "2026-03-06T19:13:37.650Z",
+  "sources": [
+    {
+      "url": "https://spacenews.com/cas-space-to-launch-kinetica-2-in-late-march-carrying-prototype-cargo-spacecraft/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 261809,
+      "sha256": "b24db131ea6c5c2078060bcf8909f9ca3dcf12f9e76ec65e5829a854ce0cd270",
+      "error": null,
+      "fetched_at": "2026-03-06T19:13:36.616Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/a-new-rocket-sea-launches-and-more-chinese-company-cas-space-is-thinking-big",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1419596,
+      "sha256": "af2a3ee5dd369010bd34a1c37807964d36186b7eed2f304dc530a695124be867",
+      "error": null,
+      "fetched_at": "2026-03-06T19:13:36.639Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.universediscovery.com/china-kinetica-2-rocket-launch-march-2026/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 183657,
+      "sha256": "374c978810105cc2ea22f394988c5d3660cf0381759a588c882ee6c313f79704",
+      "error": null,
+      "fetched_at": "2026-03-06T19:13:36.640Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://nextspaceflight.com/rockets/295/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 73290,
+      "sha256": "95e0dee22bb971656fb8d8fc2ee54b27789a59f009ee25522847bb63145ccb51",
+      "error": null,
+      "fetched_at": "2026-03-06T19:13:36.640Z",
+      "redirected_domain": null
+    }
+  ]
+}
