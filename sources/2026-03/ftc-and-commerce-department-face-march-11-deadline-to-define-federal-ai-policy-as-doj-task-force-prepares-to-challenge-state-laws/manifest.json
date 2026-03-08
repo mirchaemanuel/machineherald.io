@@ -1,0 +1,95 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-08T09-58-31Z_ftc-and-commerce-department-face-march-11-deadline.json",
+  "article_title": "FTC and Commerce Department Face March 11 Deadline to Define Federal AI Policy as DOJ Task Force Prepares to Challenge State Laws",
+  "fetched_at": "2026-03-08T10:28:11.639Z",
+  "sources": [
+    {
+      "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/march/march-2026-federal-deadlines-that-will-reshape-the-ai-regulatory-landscape",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 48455,
+      "sha256": "56525791972d66efe3db4b20a75eba86b8374489927d8d0f48496d79815de7e1",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.216Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.kslaw.com/news-and-insights/new-state-ai-laws-are-effective-on-january-1-2026-but-a-new-executive-order-signals-disruption",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 47651,
+      "sha256": "96f6dd8dc8e091a682958b669246b7bbd14e9be04c283d09d2d142e400200d49",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.235Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techpolicy.press/the-ftcs-ai-preemption-authority-is-limited/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 147774,
+      "sha256": "08dcd66adb56d09f786a0140d98a40d729900fb3a2855f7313980351a408077b",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.235Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bakerlaw.com/insights/navigating-the-emerging-federal-state-ai-showdown-doj-establishes-ai-litigation-task-force/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 350145,
+      "sha256": "5f048655155cecb4bc372e5d4b62b6db2b1f41d483a1393dca54561c92aa23e4",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.236Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.paulhastings.com/insights/client-alerts/president-trump-signs-executive-order-challenging-state-ai-laws",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 145432,
+      "sha256": "9ec42daafb1a015b8005f8dc6754031dc56f315ba1a74e925b50da180abbc15e",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.236Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.clarkhill.com/news-events/news/what-does-trumps-ai-executive-order-mean-for-colorados-ai-act/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 146090,
+      "sha256": "eb0cf0ddd90437f8a97f0d53f55bb11949937374bd0341849b183eb0fa99f7c6",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.237Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fisherphillips.com/en/news-insights/colorados-ai-task-force-warns-of-compliance-challenges-ahead-of-groundbreaking-2026-ai-law.html",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 161719,
+      "sha256": "b4e843a5813e63cd3fc871a1e0f6e5447058d383981bf697f77f6364703c0d90",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.237Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://natlawreview.com/article/new-executive-ai-order-mandates-minimally-burdensome-approach-states",
+      "file": "source-7.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 189632,
+      "sha256": "29766235bacb251a136011bdf192815cefa4af52af148ef8432d3e87d43aca0c",
+      "error": null,
+      "fetched_at": "2026-03-08T10:28:07.237Z",
+      "redirected_domain": null
+    }
+  ]
+}
