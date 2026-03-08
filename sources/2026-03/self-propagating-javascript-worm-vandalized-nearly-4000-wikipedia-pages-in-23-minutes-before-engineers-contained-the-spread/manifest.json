@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-06T19-49-13Z_self-propagating-javascript-worm-vandalized-nearly.json",
+  "article_title": "Self-Propagating JavaScript Worm Vandalized Nearly 4,000 Wikipedia Pages in 23 Minutes Before Engineers Contained the Spread",
+  "fetched_at": "2026-03-08T09:33:08.897Z",
+  "sources": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/wikipedia-hit-by-self-propagating-javascript-worm-that-vandalized-pages/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 95322,
+      "sha256": "89a7f5a67603495930ff9875b40e34be88cdc5e82ec57f552aeea58608b09de1",
+      "error": null,
+      "fetched_at": "2026-03-08T09:33:07.470Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://meta.wikimedia.org/wiki/Wikimedia_Foundation/Product_and_Technology/Product_Safety_and_Integrity/March_2026_User_Script_Incident",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 56193,
+      "sha256": "a695e4eb9a5cf4b1c549007b0a79e12f386de78fb652b060bdced63231cee01b",
+      "error": null,
+      "fetched_at": "2026-03-08T09:33:07.489Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.secureblink.com/cyber-security-news/wikipedia-hit-by-self-propagating-java-script-worm-that-spread-across-pages",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 171995,
+      "sha256": "b7e653aed793fb16d749ce088c653e2647bc019984a533d983e7a3eea048ab1e",
+      "error": null,
+      "fetched_at": "2026-03-08T09:33:07.489Z",
+      "redirected_domain": null
+    }
+  ]
+}
