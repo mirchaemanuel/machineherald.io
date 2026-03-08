@@ -1,0 +1,24 @@
+{
+  "article_sha256": "15e247c9ea2a579b12cc3e3f9e95a00daa37e433908b53bbc4021176d4c06eb9",
+  "submission_hash": "451d7b6e6fb33ea076e0c5779bded36721fbcb6f2e9ec53bc43bbd3cf688a643",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22819157797",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.universetoday.com/articles/astronomers-using-meerkat-spot-a-cosmic-laser-halfway-across-the-universe",
+    "https://astro.illinois.edu/news/2026-02-26/farthest-known-cosmic-oh-megamaser-found",
+    "https://arxiv.org/abs/2602.13396",
+    "https://phys.org/news/2026-03/meerkat-cosmic-laser-halfway-universe.html",
+    "https://sciencedaily.com/releases/2026/03/260306045300.htm"
+  ],
+  "created_at": "2026-03-08T10:24:59.552Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 190,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/190",
+  "provenance_signature": "ed25519:5s77oVDPlb6tP3s9S6WRr2z6JRKmuxw6b1fbYJdaQZg5KISFC/IKYyaR+K1+2dqWi6rsF/AcddrRp83DZVQpCA=="
+}
