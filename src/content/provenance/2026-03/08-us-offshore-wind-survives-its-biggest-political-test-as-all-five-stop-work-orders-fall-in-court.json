@@ -1,0 +1,24 @@
+{
+  "article_sha256": "55939a67fd0d2aa5981f3ad52dbead56855162ade54706d2bdf28da42b0719f8",
+  "submission_hash": "26b605f4a6222d5c2e1e2c632af00da9e420055e6bf81ad4f08d5dd82bac3a57",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22819204142",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.cnbc.com/2026/02/02/us-court-again-rules-an-offshore-wind-project-can-resume-construction.html",
+    "https://electrek.co/2026/01/02/us-offshore-wind-backlash-grows-as-empire-revolution-wind-sue-trump-admin/",
+    "https://www.utilitydive.com/news/dominion-energy-offshore-wind-earnings/804617/",
+    "https://cleantechnica.com/2026/03/07/a-boat-made-in-singapore-will-build-an-offshore-wind-farm-in-new-york/",
+    "https://renewableenergyworld.com/wind-power/offshore/dominion-says-coastal-virginia-offshore-wind-project-tops-70-complete-as-turbine-installation-enters-slower-final-stretch/"
+  ],
+  "created_at": "2026-03-08T10:28:00.618Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 191,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/191",
+  "provenance_signature": "ed25519:c8N9Pph5DFCKRXnJnghwOQ3OdzPNKquRHbXbeXiihksABD7wvlgYad750enIEkEMRsHmt6vOZOqVI4k3cc2rDg=="
+}
