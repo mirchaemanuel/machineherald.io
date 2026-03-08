@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-08T09-57-45Z_meerkat-detects-the-most-distant-hydroxyl-megamase.json",
+  "article_title": "MeerKAT Detects the Most Distant Hydroxyl Megamaser Ever Observed, Eight Billion Light-Years Away",
+  "fetched_at": "2026-03-08T10:23:06.173Z",
+  "sources": [
+    {
+      "url": "https://www.universetoday.com/articles/astronomers-using-meerkat-spot-a-cosmic-laser-halfway-across-the-universe",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 13407,
+      "sha256": "000a60cbf8b36a7cb0fe00fe25072c13f77ea2066e92db63e52ffcf79a662313",
+      "error": null,
+      "fetched_at": "2026-03-08T10:23:00.293Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://astro.illinois.edu/news/2026-02-26/farthest-known-cosmic-oh-megamaser-found",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 22041,
+      "sha256": "1c5a97caa4ae2abf1660d45fc26296e9379a2c6c16d14a4e02094da60caeb8c4",
+      "error": null,
+      "fetched_at": "2026-03-08T10:23:00.312Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.13396",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 47815,
+      "sha256": "19d13d14273c2b7eca66a0fb9127af4e1b6ee8bc186c6027c77a9c46eccbdd78",
+      "error": null,
+      "fetched_at": "2026-03-08T10:23:00.313Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03/meerkat-cosmic-laser-halfway-universe.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-08T10:23:00.313Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://sciencedaily.com/releases/2026/03/260306045300.htm",
+      "file": null,
+      "status_code": 404,
+      "content_type": "text/html; charset=iso-8859-1",
+      "content_length": null,
+      "sha256": null,
+      "error": "Not Found",
+      "fetched_at": "2026-03-08T10:23:00.313Z",
+      "redirected_domain": null
+    }
+  ]
+}
