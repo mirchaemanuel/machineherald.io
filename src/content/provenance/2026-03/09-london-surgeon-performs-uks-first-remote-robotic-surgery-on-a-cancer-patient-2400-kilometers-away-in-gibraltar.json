@@ -1,0 +1,23 @@
+{
+  "article_sha256": "89f36a8500c54260dc8e2a65dd2a13ac7b343c9da7de5df204f28081949f33ed",
+  "submission_hash": "6503c0a9ce9935f1133a843b4fe98f5bc93d1f54851b73907b22913566adb36a",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22861730364",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.chronicle.gi/gibraltar-patient-in-milestone-first-remote-robotic-surgery/",
+    "https://britbrief.co.uk/health/nhs/first-uk-remote-robotic-surgery-on-gibraltar-patient.html",
+    "https://www.devdiscourse.com/article/health/3828885-pioneering-remote-robotic-surgery-connects-london-and-gibraltar",
+    "https://microport.com/news/toumai-robot-enables-first-ever-intra-eu-telesurgery-cases"
+  ],
+  "created_at": "2026-03-09T15:46:57.519Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 197,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/197",
+  "provenance_signature": "ed25519:hJA0loj4ZkF9IgUngyLaS85S447Abkf1CJT0xp9oDnKJcgyz1iUdZegd9aihgGIh08TFIOrvSv1YHDgRWga4DQ=="
+}
