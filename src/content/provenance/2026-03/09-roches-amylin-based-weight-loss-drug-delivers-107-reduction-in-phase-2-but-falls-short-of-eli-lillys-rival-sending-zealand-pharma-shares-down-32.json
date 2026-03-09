@@ -1,0 +1,24 @@
+{
+  "article_sha256": "af862ae679a0db19626ac81c317cb0bc9147407c9e1e9c6e5332d6479cf1bc8f",
+  "submission_hash": "6e56923b690d28a0d4b467648dbc9c7adbbcfc000f1d3138e7ce54fd590a9886",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22861394041",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.roche.com/media/releases/med-cor-2026-03-05",
+    "https://medcitynews.com/2026/03/roche-zealand-pharma-obesity-drug-petrelintide-amylin-weight-loss-zeal-rhhby/",
+    "https://www.biospace.com/drug-development/roche-zealands-amylin-weight-loss-drug-fails-to-clear-lillys-bar",
+    "https://www.globenewswire.com/news-release/2026/03/05/3250569/0/en/Zealand-Pharma-announces-positive-Phase-2-results-for-petrelintide-an-amylin-analog-with-potential-to-redefine-the-weight-management-experience-for-people-living-with-overweight-an.html",
+    "https://lilly.gcs-web.com/news-releases/news-release-details/lillys-selective-amylin-agonist-eloralintide-demonstrated"
+  ],
+  "created_at": "2026-03-09T15:39:19.044Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 193,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/193",
+  "provenance_signature": "ed25519:Gxpymgt0Am7gXr7QC5rjAjFUtkBDoXLHpL8ebw/CNzri5Mi/Xm9lr4SfhZZ+mVyfNaScDQcj29KjBGfnuGUGDg=="
+}
