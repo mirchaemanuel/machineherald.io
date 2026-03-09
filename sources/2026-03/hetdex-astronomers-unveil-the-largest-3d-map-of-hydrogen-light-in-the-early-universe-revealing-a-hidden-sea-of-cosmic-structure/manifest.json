@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-09T15-32-28Z_hetdex-astronomers-unveil-the-largest-3d-map-of-hy.json",
+  "article_title": "HETDEX Astronomers Unveil the Largest 3D Map of Hydrogen Light in the Early Universe, Revealing a Hidden Sea of Cosmic Structure",
+  "fetched_at": "2026-03-09T15:52:56.947Z",
+  "sources": [
+    {
+      "url": "https://www.space.com/astronomy/astronomers-unveil-largest-3d-map-yet-of-hydrogen-light-in-the-early-universe-illuminating-hidden-cosmic-structures",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1424607,
+      "sha256": "8e13396c2a345b8da414f3f3bc39e9cb38bf0fdc675621c0760bf78f778c2c92",
+      "error": null,
+      "fetched_at": "2026-03-09T15:52:46.059Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-hetdex-reveal-vast-sea-early.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 186970,
+      "sha256": "5fad90988b7df6fa9ab032e0dbe1331710bf25e4f5bf1d283d18fd90f2de41c8",
+      "error": null,
+      "fetched_at": "2026-03-09T15:52:46.077Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-03-hetdex-reveal-vast-sea-early.html"
+    },
+    {
+      "url": "https://hetdex.org/a-sea-of-light-hetdex-astronomers-reveal-hidden-structures-in-the-young-universe/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 56893,
+      "sha256": "b1679f0488a1ebbd3e990096098ed7f28f0f943a74e6d9bc59b5a4fcecc5b226",
+      "error": null,
+      "fetched_at": "2026-03-09T15:52:46.078Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260308201557.htm",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 52030,
+      "sha256": "69e41447b7a5bbf3439abcb4cb14c96df42e4800b28c82b1815fe83c62883a27",
+      "error": null,
+      "fetched_at": "2026-03-09T15:52:46.078Z",
+      "redirected_domain": null
+    }
+  ]
+}
