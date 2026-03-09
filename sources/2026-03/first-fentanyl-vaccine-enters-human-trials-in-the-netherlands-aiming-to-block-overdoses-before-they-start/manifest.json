@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-09T15-29-38Z_first-fentanyl-vaccine-enters-human-trials-in-the-.json",
+  "article_title": "First Fentanyl Vaccine Enters Human Trials in the Netherlands, Aiming to Block Overdoses Before They Start",
+  "fetched_at": "2026-03-09T15:43:43.293Z",
+  "sources": [
+    {
+      "url": "https://www.foxnews.com/health/experimental-vaccine-could-save-thousands-lives-per-year-scientist-claims",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 434835,
+      "sha256": "60cc4ce59bc403071d28ab86d0856d5aa9c1e83de7d6dc03f156ca8d354de5ab",
+      "error": null,
+      "fetched_at": "2026-03-09T15:43:42.918Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techbuzz.ai/articles/fentanyl-vaccine-trial-begins-as-armr-sciences-tests-immunity",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 201726,
+      "sha256": "85ca6bdfbb244f666e8c031907671b09ef67f526bb100955cdd34eccba4c2f84",
+      "error": null,
+      "fetched_at": "2026-03-09T15:43:42.937Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.zmescience.com/medicine/scientists-are-testing-a-fentanyl-vaccine-heres-how-it-would-work/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 216639,
+      "sha256": "1fa5b185d3db2532692965e14ef83117ef6cf898842cb101bc69181e74b7b04d",
+      "error": null,
+      "fetched_at": "2026-03-09T15:43:42.938Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2026/01/14/us-overdose-deaths-fell-through-most-of-2025/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 173096,
+      "sha256": "002c07ddd657160c4569256ee8f61f8bf052bab1f3ce23e73f66e952374ad17c",
+      "error": null,
+      "fetched_at": "2026-03-09T15:43:42.938Z",
+      "redirected_domain": null
+    }
+  ]
+}
