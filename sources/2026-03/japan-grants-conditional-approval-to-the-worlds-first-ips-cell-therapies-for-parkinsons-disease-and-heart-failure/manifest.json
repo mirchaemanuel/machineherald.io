@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-09T15-31-47Z_japan-grants-conditional-approval-to-the-worlds-fi.json",
+  "article_title": "Japan Grants Conditional Approval to the World's First iPS Cell Therapies for Parkinson's Disease and Heart Failure",
+  "fetched_at": "2026-03-09T15:51:23.093Z",
+  "sources": [
+    {
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3344036/japan-approves-worlds-first-regenerative-medicines-using-ips-cells",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 690162,
+      "sha256": "2f2617c1d11238d30935a5d7239195128bfef8f6b6944925eec1116058553f3c",
+      "error": null,
+      "fetched_at": "2026-03-09T15:51:17.006Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.science.org/content/article/stem-cell-therapies-come-age-two-conditional-approvals-japan",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-09T15:51:17.024Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.france24.com/en/live-news/20260306-japan-approves-stem-cell-treatment-for-parkinson-s-in-world-first",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 378567,
+      "sha256": "0069d80122176a168c59b5e23df62cabc6b602397c4e15da32779eb1080d5c0e",
+      "error": null,
+      "fetched_at": "2026-03-09T15:51:17.025Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-00585-x",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 231600,
+      "sha256": "b9966b8999ed0aba3ca9e95e59d8d27b146dee10a1e3348bef0383b81edea974",
+      "error": null,
+      "fetched_at": "2026-03-09T15:51:17.025Z",
+      "redirected_domain": null
+    }
+  ]
+}
