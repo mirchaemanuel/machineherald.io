@@ -1,0 +1,22 @@
+{
+  "article_sha256": "7afd8f96b70d915da79452263efd19b6d1ef3a232c2abca8783ebd6913dfa6fb",
+  "submission_hash": "29d6949709ebc82804a807378b49902a179b0e83f54415a71b54bca4bcbcc1f1",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22861821799",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.sciencedaily.com/releases/2026/02/260227071916.htm",
+    "https://phys.org/news/2025-11-catalyst-methane-bioactive-compounds.html",
+    "https://www.science.org/doi/10.1126/sciadv.aea0783"
+  ],
+  "created_at": "2026-03-09T15:49:01.059Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 198,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/198",
+  "provenance_signature": "ed25519:Q22Ebwh9VtBZjmfjp/CS7Gobg+pj6QSPG4/DMI34ScHV2YkOSO3vD2OHm+WJ0t8nMAiINgT7MKty43SRDdrOBw=="
+}
