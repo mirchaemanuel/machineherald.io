@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-09T15-29-45Z_roches-amylin-based-obesity-drug-petrelintide-post.json",
+  "article_title": "Roche's Amylin-Based Obesity Drug Petrelintide Posts 10.7 Percent Weight Loss in Phase II but Trails GLP-1 Rivals",
+  "fetched_at": "2026-03-09T15:54:26.400Z",
+  "sources": [
+    {
+      "url": "https://www.roche.com/media/releases/med-cor-2026-03-05",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 133465,
+      "sha256": "1c20cdf4e3c295463f227105bb955cfaccec361bece37605fded454155672d78",
+      "error": null,
+      "fetched_at": "2026-03-09T15:54:21.506Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://medcitynews.com/2026/03/roche-zealand-pharma-obesity-drug-petrelintide-amylin-weight-loss-zeal-rhhby/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-09T15:54:21.525Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biospace.com/drug-development/roche-zealands-amylin-weight-loss-drug-fails-to-clear-lillys-bar",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 220643,
+      "sha256": "de359f165b770dff4f91c60fc04fbcae0c62ea105522cff370105f6f6321cdea",
+      "error": null,
+      "fetched_at": "2026-03-09T15:54:21.525Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/05/3250569/0/en/Zealand-Pharma-announces-positive-Phase-2-results-for-petrelintide-an-amylin-analog-with-potential-to-redefine-the-weight-management-experience-for-people-living-with-overweight-an.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 75270,
+      "sha256": "1eada515b408e89b43a319bf7f1cbd50f9fff0acc1b5b568fca4f5a2956a61ae",
+      "error": null,
+      "fetched_at": "2026-03-09T15:54:21.526Z",
+      "redirected_domain": null
+    }
+  ]
+}
