@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-09T15-29-12Z_laser-pulse-flips-a-ferromagnet-without-heating-in.json",
+  "article_title": "Laser Pulse Flips a Ferromagnet Without Heating in Breakthrough That Unites Three Pillars of Condensed Matter Physics",
+  "fetched_at": "2026-03-09T15:39:55.705Z",
+  "sources": [
+    {
+      "url": "https://phys.org/news/2026-01-laser-flips-ferromagnet-polarity-material.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 188299,
+      "sha256": "c5c0961df8713e1967ebc8244d7c566fe309be6dc6989a9f37b72bd1a761ef35",
+      "error": null,
+      "fetched_at": "2026-03-09T15:39:47.985Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-01-laser-flips-ferromagnet-polarity-material.html"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260303050630.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 49595,
+      "sha256": "ba10f54e13bef4d276e8c22ff95a1c7d768b13d4435d2d0eb4103fa025f17129",
+      "error": null,
+      "fetched_at": "2026-03-09T15:39:48.003Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.azooptics.com/News.aspx?newsID=30611",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 101786,
+      "sha256": "223b81f078b8ab363e99945d225d8e9e34b5d0aeb6c287de1686745577b658fd",
+      "error": null,
+      "fetched_at": "2026-03-09T15:39:48.004Z",
+      "redirected_domain": null
+    }
+  ]
+}
