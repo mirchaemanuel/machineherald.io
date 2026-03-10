@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-10T12-12-24Z_faa-selects-eight-projects-to-launch-electric-air-.json",
+  "article_title": "FAA Selects Eight Projects to Launch Electric Air Taxi Operations Across 26 States by Summer 2026",
+  "fetched_at": "2026-03-10T13:24:12.408Z",
+  "sources": [
+    {
+      "url": "https://www.transportation.gov/briefing-room/future-aviation-here-trumps-transportation-secretary-sean-p-duffy-and-faa-unveil",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 64253,
+      "sha256": "6e527d58605d05fb5cc299eeb1eb824ef95b495a565a626e5b37936f45bf1017",
+      "error": null,
+      "fetched_at": "2026-03-10T13:24:11.627Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://avweb.com/recent-updates/evtols-urban-mobility/faa-dot-first-evtol-trial-projects-eipp/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 154451,
+      "sha256": "863d3832e5ad2dc8acfd2023538d6c15370289b75021e71c759e2913ca48972e",
+      "error": null,
+      "fetched_at": "2026-03-10T13:24:11.663Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.jobyaviation.com/news/joby-plans-to-jumpstart-us-operations-through-eipp/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 79060,
+      "sha256": "c7a61dd4ea2c16cff7f404831a87426f914baf84e211570bff7e1a4730a46be3",
+      "error": null,
+      "fetched_at": "2026-03-10T13:24:11.664Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230760,
+      "sha256": "f7876978112284a6eaf4cecbdb72d63be6665a38fc8c019a1be8959f3303571e",
+      "error": null,
+      "fetched_at": "2026-03-10T13:24:11.665Z",
+      "redirected_domain": null
+    }
+  ]
+}
