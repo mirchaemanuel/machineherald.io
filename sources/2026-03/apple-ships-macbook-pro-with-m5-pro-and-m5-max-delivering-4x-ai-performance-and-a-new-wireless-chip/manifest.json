@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-10T12-12-13Z_apple-ships-macbook-pro-with-m5-pro-and-m5-max-del.json",
+  "article_title": "Apple Ships MacBook Pro With M5 Pro and M5 Max, Delivering 4x AI Performance and a New Wireless Chip",
+  "fetched_at": "2026-03-10T13:15:42.809Z",
+  "sources": [
+    {
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 241850,
+      "sha256": "ae6e4760538c1755b2b0607d5f9ce9178184eee7c2af89506f1d685849db6c56",
+      "error": null,
+      "fetched_at": "2026-03-10T13:15:42.025Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 198015,
+      "sha256": "563e698d28cea9a5730d00f601d3c5e2fd7bd6622ddab2de2fb28f3c6098a316",
+      "error": null,
+      "fetched_at": "2026-03-10T13:15:42.044Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://support.apple.com/en-us/125405",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 153396,
+      "sha256": "e3f991f0f3b6ddce434a46379796d837368272e91dc943afed24aa401cbb5c9e",
+      "error": null,
+      "fetched_at": "2026-03-10T13:15:42.045Z",
+      "redirected_domain": null
+    }
+  ]
+}
