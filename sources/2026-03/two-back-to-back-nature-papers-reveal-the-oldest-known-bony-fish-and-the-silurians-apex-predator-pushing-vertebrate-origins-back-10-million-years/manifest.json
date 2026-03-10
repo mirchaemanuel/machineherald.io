@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-10T12-12-49Z_two-back-to-back-nature-papers-reveal-the-oldest-k.json",
+  "article_title": "Two Back-to-Back Nature Papers Reveal the Oldest Known Bony Fish and the Silurian's Apex Predator, Pushing Vertebrate Origins Back 10 Million Years",
+  "fetched_at": "2026-03-10T13:35:09.942Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41586-026-10125-2",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 391435,
+      "sha256": "0066ed681364b9baeb4668da52462756157e58f8321715c2c4ef6f666e28f4d3",
+      "error": null,
+      "fetched_at": "2026-03-10T13:35:03.494Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-oldest-bony-fish-fossils-uncover.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-10T13:35:03.516Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://theconversation.com/new-fossil-reveals-the-weird-tooth-cushions-of-an-apex-predator-from-425-million-years-ago-274122",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 181482,
+      "sha256": "3bd4f06b0856871f23b8941ca30294c5399354ff71c61f9f4557bc5c26cb8395",
+      "error": null,
+      "fetched_at": "2026-03-10T13:35:03.518Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-fossil-reveals-weird-tooth-cushions.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-10T13:35:03.518Z",
+      "redirected_domain": null
+    }
+  ]
+}
