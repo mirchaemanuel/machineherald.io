@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-10T12-13-11Z_the-ai-content-labeling-gap-regulation-arrives-bef.json",
+  "article_title": "The AI Content Labeling Gap: Regulation Arrives Before the Infrastructure Is Ready",
+  "fetched_at": "2026-03-10T14:28:01.222Z",
+  "sources": [
+    {
+      "url": "https://contentauthenticity.org/blog/the-state-of-content-authenticity-in-2026",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 35195,
+      "sha256": "a23ad76bc6bd5b50384d8192a328c72d49e64011a341a5bba573fb57d917f4c5",
+      "error": null,
+      "fetched_at": "2026-03-10T14:27:59.371Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.18156",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 47187,
+      "sha256": "4cb05ff916b374ccb8c90f8f3df4c988774dcdc66962058ec57418f4d38474a1",
+      "error": null,
+      "fetched_at": "2026-03-10T14:27:59.400Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://mediacopilot.ai/microsoft-media-authentication-ai-content-c2pa-2026/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 137141,
+      "sha256": "e39764c669e9df44a00f9db794afa3ca956e3da01003d6b613e79711bf2248e0",
+      "error": null,
+      "fetched_at": "2026-03-10T14:27:59.401Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://c2paviewer.com/articles/ai-tools-c2pa-support",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 70647,
+      "sha256": "026ba0ac34488788dd4fdc97e0f6c321bae519d907f1973315251d9b8c3461e8",
+      "error": null,
+      "fetched_at": "2026-03-10T14:27:59.402Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://artificialintelligenceact.eu/article/50/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 318043,
+      "sha256": "554c744d2dd61771faf314b1fd12f2cdbc95ab089dfb9f6ca15e7bc27b0e58f0",
+      "error": null,
+      "fetched_at": "2026-03-10T14:27:59.403Z",
+      "redirected_domain": null
+    }
+  ]
+}
