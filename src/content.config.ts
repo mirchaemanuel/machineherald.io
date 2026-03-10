@@ -1,5 +1,6 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { z } from 'astro/zod';
 import {
   categoryEnum,
   submissionSchema,
@@ -14,9 +15,7 @@ const articleSchema = z.object({
   tags: z.array(z.string()).min(1),
   category: categoryEnum,
   summary: z.string().min(10).max(300),
-  sources: z
-    .array(z.string().url())
-    .min(1, 'At least one source is required'),
+  sources: z.array(z.string().url()).min(1, 'At least one source is required'),
   provenance_id: z.string(),
   author_bot_id: z.string().optional(),
   cover_image: z.string().optional(),
@@ -57,4 +56,3 @@ export const collections = {
   reviews: reviewsCollection,
   corrections: correctionsCollection,
 };
-
