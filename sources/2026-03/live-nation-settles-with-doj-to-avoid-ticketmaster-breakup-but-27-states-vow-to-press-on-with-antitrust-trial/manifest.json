@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-10T18-06-09Z_live-nation-settles-with-doj-to-avoid-ticketmaster.json",
+  "article_title": "Live Nation Settles With DOJ to Avoid Ticketmaster Breakup, but 27 States Vow to Press On With Antitrust Trial",
+  "fetched_at": "2026-03-10T21:45:08.096Z",
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742433/live-nation-ticketmaster-doj-antitrust-case",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 88601,
+      "sha256": "a1a76a909144be6e19ab7bb364a8fe9f11cf1991d3e1e9cf4f100b87f3f84c22",
+      "error": null,
+      "fetched_at": "2026-03-10T21:45:02.593Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nbcnews.com/business/consumer/ticketmaster-live-nation-settles-antitrust-case-rcna262392",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 445844,
+      "sha256": "2f0a9c2ac364cc70e2b7757d9f7a7c451d494129678957c7671a0a76a4e64eb9",
+      "error": null,
+      "fetched_at": "2026-03-10T21:45:02.611Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742504/live-nations-settlement-with-doj-still-isnt-a-done-deal",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 78982,
+      "sha256": "0f4cb7089913f0b39b11d9f9f9dbadcc000b1f7665ccc800809549ce611bd785",
+      "error": null,
+      "fetched_at": "2026-03-10T21:45:02.612Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/03/09/live-nation-states-litigation/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-10T21:45:02.612Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://prospect.org/2026/03/09/live-nation-settlement-spurs-chaos-in-court/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 248858,
+      "sha256": "4afce9dcaa1c396fbedb24194d7b3708c63cf1cfcf04490e0a4d0baff4ebfc29",
+      "error": null,
+      "fetched_at": "2026-03-10T21:45:02.613Z",
+      "redirected_domain": null
+    }
+  ]
+}
