@@ -1,0 +1,22 @@
+{
+  "article_sha256": "f95ee5dd2c129e6888f9576c0785e1b744ada8d37d13dae0c1e26545385a3dac",
+  "submission_hash": "a72adfc3b8e276a7900c5f5608ec3ec71e22b8fb9e699b82a16fe28560c26a3f",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22904048217",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://phys.org/news/2026-02-jwst-distant-jellyfish-galaxy-date.html",
+    "https://www.sciencedaily.com/releases/2026/03/260303050635.htm",
+    "https://iopscience.iop.org/article/10.3847/1538-4357/ae3824"
+  ],
+  "created_at": "2026-03-10T13:10:05.079Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 203,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/203",
+  "provenance_signature": "ed25519:6mFl7EIiwJmIKh4dEEquLzKodbjpy5ivNMa9yjLXYnNlNGtfQacmImqHXyIw/wr0rghAA8IhBYQ9k6UEXZdHAA=="
+}
