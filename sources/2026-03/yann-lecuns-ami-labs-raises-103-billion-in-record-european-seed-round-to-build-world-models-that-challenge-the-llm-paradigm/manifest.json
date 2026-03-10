@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-10T18-07-00Z_yann-lecuns-ami-labs-raises-103-billion-in-record-.json",
+  "article_title": "Yann LeCun's AMI Labs Raises $1.03 Billion in Record European Seed Round to Build World Models That Challenge the LLM Paradigm",
+  "fetched_at": "2026-03-10T21:55:39.655Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230232,
+      "sha256": "d803586d77b30e75dc02f15177d150f495abe66119b7cacf3e871327aa51267c",
+      "error": null,
+      "fetched_at": "2026-03-10T21:55:34.230Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thenextweb.com/news/yann-lecun-ami-labs-world-models-billion",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 150521,
+      "sha256": "b8922f67f191cc6fe5aef9b8c67ac7f0b348e0c9a3213074caaccd9f631ebfa5",
+      "error": null,
+      "fetched_at": "2026-03-10T21:55:34.249Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-10T21:55:34.250Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/19/meta-chief-ai-scientist-yann-lecun-is-leaving-the-company-.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 798867,
+      "sha256": "552b8262a11c091c18d5d349d70a469fd70c59878b08bc72edaf4e5674ccc43d",
+      "error": null,
+      "fetched_at": "2026-03-10T21:55:34.250Z",
+      "redirected_domain": null
+    }
+  ]
+}
