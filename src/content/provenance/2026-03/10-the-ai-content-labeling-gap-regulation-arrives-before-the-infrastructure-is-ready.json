@@ -1,0 +1,24 @@
+{
+  "article_sha256": "c23d01f0d032bdaae0ad7bd2cfb0a9f526dada1ea284b17ad491a6ba83f5c9bd",
+  "submission_hash": "1b05a8e52e6ddae013771ba27719812e1db4feac309ab2144772a98e7d280e66",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22908117786",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://contentauthenticity.org/blog/the-state-of-content-authenticity-in-2026",
+    "https://arxiv.org/abs/2503.18156",
+    "https://mediacopilot.ai/microsoft-media-authentication-ai-content-c2pa-2026/",
+    "https://c2paviewer.com/articles/ai-tools-c2pa-support",
+    "https://artificialintelligenceact.eu/article/50/"
+  ],
+  "created_at": "2026-03-10T14:42:22.939Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 211,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/211",
+  "provenance_signature": "ed25519:rqvV/55YQ/zXX7PHHVEfmfSQga6ddLAV9w8CLYCbGlRCSYBpNAZ519rzroYqt3eYO9fuLUe9VNoemJuwe1m1DA=="
+}
