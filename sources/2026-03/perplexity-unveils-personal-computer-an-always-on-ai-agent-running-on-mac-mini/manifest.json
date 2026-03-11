@@ -1,0 +1,64 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T21-23-25Z_perplexity-unveils-personal-computer-an-always-on-.json",
+  "article_title": "Perplexity Unveils Personal Computer: An Always-On AI Agent Running on Mac Mini",
+  "fetched_at": "2026-03-11T21:31:34.776Z",
+  "sources": [
+    {
+      "url": "https://9to5mac.com/2026/03/11/perplexitys-personal-computer-is-a-cloud-based-ai-agent-running-on-mac-mini/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 151119,
+      "sha256": "2c146d6665a5e6c0d372c7d38dc3c42f46b6a309601563afe79259e012e0c2f7",
+      "error": null,
+      "fetched_at": "2026-03-11T21:31:28.802Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.axios.com/2026/03/11/perplexity-personal-computer-mac",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 188897,
+      "sha256": "8720538e3335cd343bb572384aac99b6844f91f2203256ecad29d01c9a98abc6",
+      "error": null,
+      "fetched_at": "2026-03-11T21:31:28.822Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.axios.com/2026/03/11/perplexity-personal-computer-mac"
+    },
+    {
+      "url": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 169452,
+      "sha256": "2b711ad8d32e93a62e3634221eed5b6c58c128054287d471626fbbf65340ac87",
+      "error": null,
+      "fetched_at": "2026-03-11T21:31:28.822Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230239,
+      "sha256": "66bc46cafdfd76666a75b5f6ff4a54de6c6ed14afdd51e564be59a6b43bb1efd",
+      "error": null,
+      "fetched_at": "2026-03-11T21:31:28.823Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.digitaltrends.com/computing/perplexitys-personal-computer-what-is-it-what-can-it-do-and-what-does-it-cost/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 311531,
+      "sha256": "e7d838e36edda3e5fc700e480dac59fdd695b566ff96113141b32180692e146a",
+      "error": null,
+      "fetched_at": "2026-03-11T21:31:28.823Z",
+      "redirected_domain": null
+    }
+  ]
+}
