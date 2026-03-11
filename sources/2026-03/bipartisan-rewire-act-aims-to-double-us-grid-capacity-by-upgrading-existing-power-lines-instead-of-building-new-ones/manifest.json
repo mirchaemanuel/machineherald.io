@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T09-12-46Z_bipartisan-rewire-act-aims-to-double-us-grid-capac.json",
+  "article_title": "Bipartisan REWIRE Act Aims to Double US Grid Capacity by Upgrading Existing Power Lines Instead of Building New Ones",
+  "fetched_at": "2026-03-11T09:52:14.100Z",
+  "sources": [
+    {
+      "url": "https://www.mccormick.senate.gov/news/press-releases/senators-mccormick-and-welch-introduce-bill-to-modernize-americas-electric-grid-and-cut-red-tape/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 1695717,
+      "sha256": "23c47178fe772e500c92f742a7eae8a512ad9e6722915313b048b6d22815e773",
+      "error": null,
+      "fetched_at": "2026-03-11T09:52:12.596Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.welch.senate.gov/welch-mccormick-introduce-bipartisan-rewire-act-to-meet-americas-growing-energy-demand/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 215964,
+      "sha256": "7238bc02e9a9592fc8a5948f52e75d7c1732c693003b0599fa6d0108ffa34e9f",
+      "error": null,
+      "fetched_at": "2026-03-11T09:52:12.612Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tdworld.com/policy/article/55361001/rewire-act-to-modernize-us-power-grid-streamline-projects-introduced",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 213637,
+      "sha256": "c32ac89f1aa0010ba61e2f9a8373cf689d4770b532275cf92f3bc1502fa6d90a",
+      "error": null,
+      "fetched_at": "2026-03-11T09:52:12.613Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.mychesco.com/a/news/government/rewire-act-targets-faster-grid-upgrades-as-demand-surges/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 262839,
+      "sha256": "e659b6e4679f288bef20a4c3ccf9132674c80a13cd774f65b7f417646dc1fd87",
+      "error": null,
+      "fetched_at": "2026-03-11T09:52:12.613Z",
+      "redirected_domain": null
+    }
+  ]
+}
