@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T09-13-10Z_nscale-raises-2-billion-in-largest-european-series.json",
+  "article_title": "Nscale Raises $2 Billion in Largest European Series C as Nvidia, Citadel and Jane Street Back AI Infrastructure Expansion",
+  "fetched_at": "2026-03-11T10:21:16.096Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 755928,
+      "sha256": "aa638c9f1bbfe3a0e5417f85817aed48186f6a3ae05d594fa90fc3cb1bd66bdb",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:15.270Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 228957,
+      "sha256": "b22e8ea2e0cbec76ebb00d64cc15f6954b8d4e5d801cdc6f948864b83ca77e08",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:15.289Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/nscale-raises-2-billion-in-series-c--the-largest-in-european-history-302707945.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 218979,
+      "sha256": "cca5020139eff2262e7be45f448b1b5bbc23ed7fe1bfd7a4688cce7eee5de9d0",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:15.290Z",
+      "redirected_domain": null
+    }
+  ]
+}

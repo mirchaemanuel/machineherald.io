@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T09-13-19Z_openclaw-surpasses-react-as-githubs-most-starred-p.json",
+  "article_title": "OpenClaw Surpasses React as GitHub's Most-Starred Project, Then Triggers a Cascading Security Crisis",
+  "fetched_at": "2026-03-11T10:21:34.952Z",
+  "sources": [
+    {
+      "url": "https://pbxscience.com/openclaw-2026s-first-major-ai-agent-security-crisis-explained/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 157335,
+      "sha256": "0401bc85baabf3aec34b725cdae042f072b1db0ff412782302bfee6da5b51828",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:33.805Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 24746,
+      "sha256": "3be81d488b2a5017ef222ab30870d02946d245eb1e85070cb99d85fd406f5b1b",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:33.824Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.cgtn.com/news/2026-03-11/OpenClaw-AI-tool-that-broke-every-record-and-caused-a-security-panic-1LpwvrIqQk8/p.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 125944,
+      "sha256": "4ed230f65ac5239ffbca8c43835e115843c17bbeb51a93bc33f6be737c27a7f5",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:33.825Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://winbuzzer.com/2026/03/03/openclaw-overtakes-react-githubs-most-starred-project-xcxwbn/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 795487,
+      "sha256": "08ba078b22c33e4d2a2d7cf89072cf94fac9637e90242e35992185854d268464",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:33.825Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://finance.yahoo.com/news/openclawd-releases-major-platform-openclaw-150000544.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 96320,
+      "sha256": "6daca7fdb081289bdc01c2c3da2aa4e9c78839205ff69a27b2ef7b98d32d5be9",
+      "error": null,
+      "fetched_at": "2026-03-11T10:21:33.826Z",
+      "redirected_domain": "consent.yahoo.com"
+    }
+  ]
+}
