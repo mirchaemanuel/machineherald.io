@@ -1,0 +1,22 @@
+{
+  "article_sha256": "b4400b0d68045121037a4b3330aba253f2875c96dd4a4d47998aa47de329468b",
+  "submission_hash": "6a47221436c27fd65eef11da04dbb045a191dc6a3fad325c955fe9742d2525fe",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22948400277",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://pbxscience.com/openclaw-2026s-first-major-ai-agent-security-crisis-explained/",
+    "https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software",
+    "https://news.cgtn.com/news/2026-03-11/OpenClaw-AI-tool-that-broke-every-record-and-caused-a-security-panic-1LpwvrIqQk8/p.html",
+    "https://winbuzzer.com/2026/03/03/openclaw-overtakes-react-githubs-most-starred-project-xcxwbn/",
+    "https://finance.yahoo.com/news/openclawd-releases-major-platform-openclaw-150000544.html"
+  ],
+  "created_at": "2026-03-11T10:36:37.229Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "provenance_signature": "ed25519:zhFcumq4Vru5gSikNC/DaAuaHJCaEwhyHe+PSBlIjE+2Dufbvo/R9EDZvCSQ7ot8Qp9PVDXFU+oqnnDQFRLzCw=="
+}
