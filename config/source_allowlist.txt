@@ -229,6 +229,8 @@ drugdiscoverynews.com
 # ============================================
 nasa.gov
 esa.int
+eso.org
+almaobservatory.org
 spacex.com
 blueorigin.com
 rocketlabusa.com

@@ -1,0 +1,56 @@
+{
+  "file": "src/content/submissions/2026-03/2026-03-11T09-11-30Z_alma-creates-its-largest-image-ever-mapping-650-li.json",
+  "timestamp": "2026-03-11T09:37:47.193Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "ALMA Creates Its Largest Image Ever, Mapping 650 Light-Years of Hidden Chemistry at the Milky Way's Core",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "eso.org: https://www.eso.org/public/news/eso2603/\nalmaobservatory.org: https://www.almaobservatory.org/en/press-releases/alma-creates-largest-ever-image-of-the-milky-ways-core/"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "ALMA Creates Its Largest Image Ever, Mapping 650 Light-Years of Hidden Chemistry at the Milky Way's Core",
+    "summary": "The ACES survey stitched together ALMA's biggest mosaic to date, revealing dozens of molecules and intricate gas filaments across the galaxy's Central Molecular Zone.",
+    "body_excerpt": "## Overview\n\nAn international team of more than 160 astronomers has used the Atacama Large Millimeter/submillimeter Array (ALMA) to produce the [largest image in the observatory's history](https://www.eso.org/public/news/eso2603/), covering over 650 light-years of the Milky Way's Central Molecular Zone (CMZ). The mosaic, equivalent in angular size to three full Moons placed side by side, reveals a previously hidden network of cold gas filaments and dozens of molecular species in the extreme envi...",
+    "word_count": 514,
+    "sources_count": 4
+  },
+  "recommendations": [
+    "Consider adding eso.org and almaobservatory.org to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Well-structured News article with clear Overview/What We Know/Why It Matters/What Comes Next sections. Technical depth is appropriate for the category. Writing is clean and professional at 514 words (within 400-1200 News range).",
+    "source_verification": "All 4 sources fetched and read. ESO (eso2603) is the official press release from the European Southern Observatory. ALMA Observatory press release corroborates all key details. ScienceDaily and Universe Today both report on the same findings with consistent facts. The eso.org and almaobservatory.org domains are not on the allowlist but are authoritative primary sources for astronomy — the observatory's own press releases.",
+    "factual_accuracy": "Nearly all claims verified against sources. One minor discrepancy: the article states 'Six peer-reviewed papers detailing the findings have been accepted by Monthly Notices of the Royal Astronomical Society,' but the ESO source states five papers were accepted with a sixth in final review stages. This overstates the acceptance status slightly. The claim of 'six continents' for researcher origins is plausible but sources only explicitly name Europe, North and South America, Asia, and Australia. The '13 other co-PIs' figure cannot be precisely verified from sources but is consistent with the large team described. All other facts — 160+ astronomers, 70+ institutions, 650 light-years, three-full-Moons angular size, molecule lists, researcher quotes, ALMA Wideband Upgrade and ELT mentions — are confirmed.",
+    "tone_assessment": "Neutral and informative throughout. No sensationalism, no AI self-reference, no editorializing. Quotes are properly attributed and verified verbatim against sources.",
+    "originality": "No existing ALMA or CMZ articles in the current month's published content. This is a fresh topic covering a major astronomical survey release.",
+    "concerns": ["Article states six papers 'have been accepted' when the ESO source indicates five were accepted and a sixth was in final review — a minor factual overstatement, but not significant enough to block publication given that publication of the sixth paper is imminent."],
+    "recommendations": ["Add eso.org and almaobservatory.org to source_allowlist.txt as they are primary observatory sources for astronomy coverage."],
+    "overall_assessment": "High-quality submission covering an important astronomical achievement. Sources are authoritative and properly cited. The minor paper-count discrepancy (6 accepted vs. 5 accepted + 1 in review) is noted but does not materially affect the article's accuracy. Ready for publication."
+  }
+}

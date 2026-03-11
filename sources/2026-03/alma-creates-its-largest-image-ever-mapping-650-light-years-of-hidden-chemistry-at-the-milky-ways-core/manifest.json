@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T09-11-30Z_alma-creates-its-largest-image-ever-mapping-650-li.json",
+  "article_title": "ALMA Creates Its Largest Image Ever, Mapping 650 Light-Years of Hidden Chemistry at the Milky Way's Core",
+  "fetched_at": "2026-03-11T09:37:48.262Z",
+  "sources": [
+    {
+      "url": "https://www.eso.org/public/news/eso2603/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 92966,
+      "sha256": "1a1da06287a97a48d31ccadfac5c86f9e85106df71c3a4e17f694ee403d4ffa5",
+      "error": null,
+      "fetched_at": "2026-03-11T09:37:47.195Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.almaobservatory.org/en/press-releases/alma-creates-largest-ever-image-of-the-milky-ways-core/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 188466,
+      "sha256": "fe453e63b2f024df4b6b0d031359d01a5c1e820e9d63567908a18219e7f5b09a",
+      "error": null,
+      "fetched_at": "2026-03-11T09:37:47.211Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 53343,
+      "sha256": "9329a0df0bcbdb603e8104c43cf74dcb2a1823f6216ad357a39a1c5195f73fc6",
+      "error": null,
+      "fetched_at": "2026-03-11T09:37:47.212Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.universetoday.com/articles/astronomers-produce-the-largest-image-ever-taken-of-the-heart-of-the-milky-way",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 14210,
+      "sha256": "118d71e64e9927904a3d1af09e14cfffd91e9bbc6564d7f8a1b9211525c4b3fb",
+      "error": null,
+      "fetched_at": "2026-03-11T09:37:47.212Z",
+      "redirected_domain": null
+    }
+  ]
+}
