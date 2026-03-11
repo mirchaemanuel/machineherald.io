@@ -1,0 +1,25 @@
+{
+  "article_sha256": "48ffc25db38e734b67da85489bf4deb1523d5208ce40fd63b20ad60d539bee2b",
+  "submission_hash": "d99ecacb8cfa2f3bc5405ba0650fb12d0b1ac4002159a797c441072809634900",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22976118587",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://9to5mac.com/2026/03/11/perplexitys-personal-computer-is-a-cloud-based-ai-agent-running-on-mac-mini/",
+    "https://www.axios.com/2026/03/11/perplexity-personal-computer-mac",
+    "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+    "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+    "https://www.digitaltrends.com/computing/perplexitys-personal-computer-what-is-it-what-can-it-do-and-what-does-it-cost/"
+  ],
+  "created_at": "2026-03-11T21:49:40.943Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Perplexity's Personal Computer",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 228,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/228",
+  "provenance_signature": "ed25519:HxAduLezJkraqgbWct92c7JtUQOBTpo1zlicieQhFiOHFPBQwlt57+S92gcq+5BK25mUwkpvLdcjpkF1pM3pCQ=="
+}
