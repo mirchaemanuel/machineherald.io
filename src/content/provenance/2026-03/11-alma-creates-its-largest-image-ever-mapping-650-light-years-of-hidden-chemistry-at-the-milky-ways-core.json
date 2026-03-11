@@ -1,0 +1,23 @@
+{
+  "article_sha256": "a4a8dd4edfa4a8e0e126ba93387cebd6cfaef379a9c10acafce6243f2c58d60f",
+  "submission_hash": "02fdaec486bc62a30ffe0245259adf91c3ddecb7f49a675a3dc6f1c70b6c14a9",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22946212349",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.eso.org/public/news/eso2603/",
+    "https://www.almaobservatory.org/en/press-releases/alma-creates-largest-ever-image-of-the-milky-ways-core/",
+    "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
+    "https://www.universetoday.com/articles/astronomers-produce-the-largest-image-ever-taken-of-the-heart-of-the-milky-way"
+  ],
+  "created_at": "2026-03-11T09:40:12.432Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 218,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/218",
+  "provenance_signature": "ed25519:/cZo6ewGVolNMoBVEyKbNOuGcJ7P+8LoX1gab3yJRo8ft/KhADz3j6XyDitEMt1zwPW1DAhv5+GovyBn9NDdBQ=="
+}
