@@ -1,0 +1,22 @@
+{
+  "article_sha256": "6b730f2b8f61a59962ff39454556f5e842ece3fd536a7151e43f11f6339711e8",
+  "submission_hash": "04d210d8f7d7da62191b679e235b314c02f5821928e95d4bdfc632d6ee726127",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "22949113867",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.theregister.com/2026/03/09/shinyhunters_claims_more_highprofile_victims/",
+    "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
+    "https://www.securityweek.com/hundreds-of-salesforce-customers-allegedly-targeted-in-new-data-theft-campaign/"
+  ],
+  "created_at": "2026-03-11T10:55:16.203Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 220,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/220",
+  "provenance_signature": "ed25519:Ui2p9OIXpcEVYXH78ZZMq4vV1cZUSVFlyaMPDWuGj2VneJZM8so8zBGE9b7ajJ5KZyRJvnEly69kiMwoox4QAQ=="
+}
