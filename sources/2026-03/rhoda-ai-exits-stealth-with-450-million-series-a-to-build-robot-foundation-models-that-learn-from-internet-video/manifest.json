@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T09-17-32Z_rhoda-ai-exits-stealth-with-450-million-series-a-t.json",
+  "article_title": "Rhoda AI Exits Stealth with $450 Million Series A to Build Robot Foundation Models That Learn from Internet Video",
+  "fetched_at": "2026-03-11T10:29:51.782Z",
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-11T10:29:46.958Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260310715139/en/Rhoda-AI-Exits-Stealth-with-$450-Million-Series-A-to-Bring-Robots-Out-of-the-Lab-and-Into-the-Real-World",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-11T10:29:46.978Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/10/rhoda-ai-raises-450m-build-foundational-robotics-models-learn-internet-videos/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 118715,
+      "sha256": "e83d672d926b3167c0f802f1501bb4d4bad97c10a518cd2ea3bc9289f07b1dcd",
+      "error": null,
+      "fetched_at": "2026-03-11T10:29:46.979Z",
+      "redirected_domain": null
+    }
+  ]
+}
