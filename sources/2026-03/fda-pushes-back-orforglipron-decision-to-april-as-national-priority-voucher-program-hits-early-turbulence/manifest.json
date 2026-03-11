@@ -1,0 +1,64 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T09-14-54Z_fda-pushes-back-orforglipron-decision-to-april-as-.json",
+  "article_title": "FDA Pushes Back Orforglipron Decision to April as National Priority Voucher Program Hits Early Turbulence",
+  "fetched_at": "2026-03-11T10:25:02.616Z",
+  "sources": [
+    {
+      "url": "https://www.biospace.com/fda/fda-delays-decision-for-lillys-obesity-pill-orforglipron-other-priority-voucher-awardees-report",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 201917,
+      "sha256": "9956d0ce32d6cdda64bbf4969c8f107c28e46fd150791ae37632e5504e28b495",
+      "error": null,
+      "fetched_at": "2026-03-11T10:24:54.034Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biopharmadive.com/news/eli-lilly-orforglipron-maintenance-study-national-priority-voucher-fda/808250/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 354285,
+      "sha256": "6f3abcebb716949bd72ada6761a387b259ff617bebfb3e2ead22018099e14c5e",
+      "error": null,
+      "fetched_at": "2026-03-11T10:24:54.053Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fiercepharma.com/pharma/novo-nordisk-wins-fda-approval-wegovy-pill-introducing-first-oral-glp-1-option-obesity",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 2008151,
+      "sha256": "46b3f3e9f1f075aa6966910ec69f37846a352c12f007cec647f85c3af61f11fc",
+      "error": null,
+      "fetched_at": "2026-03-11T10:24:54.053Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.fiercepharma.com/pharma/novo-nordisk-wins-fda-approval-wegovy-pill-introducing-first-oral-glp-1-option-obesity"
+    },
+    {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-launches-framework-accelerating-development-individualized-therapies-ultra-rare-diseases",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 37810,
+      "sha256": "a77d005151d61e319204023477340544385a9ad828c90fe92d63491f2b88fb59",
+      "error": null,
+      "fetched_at": "2026-03-11T10:24:54.054Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2511774",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-11T10:24:54.054Z",
+      "redirected_domain": null
+    }
+  ]
+}
