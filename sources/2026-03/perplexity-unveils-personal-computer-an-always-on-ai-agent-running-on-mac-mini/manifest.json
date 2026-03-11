@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-11T21-23-25Z_perplexity-unveils-personal-computer-an-always-on-.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-11T21-43-21Z_perplexity-unveils-personal-computer-an-always-on-.json",
   "article_title": "Perplexity Unveils Personal Computer: An Always-On AI Agent Running on Mac Mini",
-  "fetched_at": "2026-03-11T21:31:34.776Z",
+  "fetched_at": "2026-03-11T21:47:01.282Z",
   "sources": [
     {
       "url": "https://9to5mac.com/2026/03/11/perplexitys-personal-computer-is-a-cloud-based-ai-agent-running-on-mac-mini/",
@@ -9,9 +9,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 151119,
-      "sha256": "2c146d6665a5e6c0d372c7d38dc3c42f46b6a309601563afe79259e012e0c2f7",
+      "sha256": "f4d911eeadb265d3c6ea8c69fde9a44185f2f771c8e5363d5e5e8daa31969976",
       "error": null,
-      "fetched_at": "2026-03-11T21:31:28.802Z",
+      "fetched_at": "2026-03-11T21:46:54.869Z",
       "redirected_domain": null
     },
     {
@@ -19,10 +19,10 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 188897,
-      "sha256": "8720538e3335cd343bb572384aac99b6844f91f2203256ecad29d01c9a98abc6",
+      "content_length": 188902,
+      "sha256": "faa28e16ac01ac9b68274947d226bb93e2b5f81f28733a219d28c3fdc75f22d6",
       "error": null,
-      "fetched_at": "2026-03-11T21:31:28.822Z",
+      "fetched_at": "2026-03-11T21:46:54.888Z",
       "redirected_domain": null,
       "archive_fallback": true,
       "archive_url": "https://web.archive.org/web/https://www.axios.com/2026/03/11/perplexity-personal-computer-mac"
@@ -35,7 +35,7 @@
       "content_length": 169452,
       "sha256": "2b711ad8d32e93a62e3634221eed5b6c58c128054287d471626fbbf65340ac87",
       "error": null,
-      "fetched_at": "2026-03-11T21:31:28.822Z",
+      "fetched_at": "2026-03-11T21:46:54.889Z",
       "redirected_domain": null
     },
     {
@@ -46,7 +46,7 @@
       "content_length": 230239,
       "sha256": "66bc46cafdfd76666a75b5f6ff4a54de6c6ed14afdd51e564be59a6b43bb1efd",
       "error": null,
-      "fetched_at": "2026-03-11T21:31:28.823Z",
+      "fetched_at": "2026-03-11T21:46:54.889Z",
       "redirected_domain": null
     },
     {
@@ -54,10 +54,10 @@
       "file": "source-4.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 311531,
-      "sha256": "e7d838e36edda3e5fc700e480dac59fdd695b566ff96113141b32180692e146a",
+      "content_length": 311481,
+      "sha256": "b25d545e2b92a2a0c5690cb4ea544ba22acc477166441eb44d5c97b59818c387",
       "error": null,
-      "fetched_at": "2026-03-11T21:31:28.823Z",
+      "fetched_at": "2026-03-11T21:46:54.890Z",
       "redirected_domain": null
     }
   ]
