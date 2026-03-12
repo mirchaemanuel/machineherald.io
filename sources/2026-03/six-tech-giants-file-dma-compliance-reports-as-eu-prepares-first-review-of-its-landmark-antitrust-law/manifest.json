@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-12T13-30-59Z_six-tech-giants-file-dma-compliance-reports-as-eu-.json",
+  "article_title": "Six Tech Giants File DMA Compliance Reports as EU Prepares First Review of Its Landmark Antitrust Law",
+  "fetched_at": "2026-03-12T17:49:30.293Z",
+  "sources": [
+    {
+      "url": "https://digital-markets-act.ec.europa.eu/gatekeepers-publish-updated-reports-dma-compliance-2026-03-09_en",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 74601,
+      "sha256": "e4ba336c809b70ae93bce8d59a786b4314966ad4d1d4fe16ce95f58b1817431f",
+      "error": null,
+      "fetched_at": "2026-03-12T17:49:23.618Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_1085",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 18662,
+      "sha256": "01767e4721b7ab96137946510fca6787d806bad7b00bbb8140cd6a36e26d9723",
+      "error": null,
+      "fetched_at": "2026-03-12T17:49:23.635Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://digital-markets-act.ec.europa.eu/commission-publishes-summary-and-responses-consultation-ongoing-review-digital-markets-act-2026-01-08_en",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 76943,
+      "sha256": "bd68aa9082302e663db4dbdb26a6e78881ce6b365bd9c5f39fd898887615f565",
+      "error": null,
+      "fetched_at": "2026-03-12T17:49:23.635Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csis.org/blogs/charting-geoeconomics/guarding-gates-digital-markets-act-and-lessons-ex-ante-regulation",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 146227,
+      "sha256": "f333c8d65671d789e3b4515829abe4bfbd7b5f5982f2dae6b4e68512577393df",
+      "error": null,
+      "fetched_at": "2026-03-12T17:49:23.636Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.csis.org/blogs/charting-geoeconomics/guarding-gates-digital-markets-act-and-lessons-ex-ante-regulation"
+    }
+  ]
+}
