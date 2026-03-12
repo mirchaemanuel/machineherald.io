@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-12T13-29-33Z_bmw-deploys-first-humanoid-robot-in-german-auto-pr.json",
+  "article_title": "BMW Deploys First Humanoid Robot in German Auto Production as Physical AI Strategy Expands from US Pilot to Europe",
+  "fetched_at": "2026-03-12T16:03:03.315Z",
+  "sources": [
+    {
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 79189,
+      "sha256": "7104bb993127d3293cc4dd7e7318b13f9700a5b16462b339d7269665b2d24059",
+      "error": null,
+      "fetched_at": "2026-03-12T16:03:02.529Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thenextweb.com/news/bmw-group-brings-humanoid-robots-to-germany",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 149719,
+      "sha256": "20ee9ed9a1db5cd6bc4c9ec954d42456a86baafaff416ab8a8d14370f14233a0",
+      "error": null,
+      "fetched_at": "2026-03-12T16:03:02.546Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bmwgroup.com/en/news/general/2026/humanoid-robot-in-leipzig.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 117431,
+      "sha256": "bcaceffee23722bbf640071f4d0996101e53809e35606edf49704f9e7b88f203",
+      "error": null,
+      "fetched_at": "2026-03-12T16:03:02.547Z",
+      "redirected_domain": null
+    }
+  ]
+}
