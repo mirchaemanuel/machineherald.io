@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-12T13-28-31Z_go-approves-generic-methods-after-years-of-resista.json",
+  "article_title": "Go Approves Generic Methods After Years of Resistance, Targeting Go 1.27",
+  "fetched_at": "2026-03-12T13:42:47.846Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/03/02/generic_methods_go/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 64119,
+      "sha256": "05fa5c0e17d2c5e55a7b7bca3c974e77a2eac513e2354c2f088e7cc07ac2f7f1",
+      "error": null,
+      "fetched_at": "2026-03-12T13:42:46.406Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://github.com/golang/go/issues/77273",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 431906,
+      "sha256": "af9aec7d8aa08a67bf5380575dfb95768bec758c566aeb542ad7a498e950a26a",
+      "error": null,
+      "fetched_at": "2026-03-12T13:42:46.425Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://go.dev/blog/go1.26",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 35625,
+      "sha256": "3b26b598496a5dc7e91de6989123a28ff0ae0b941d20f2362b20c37ac49a4292",
+      "error": null,
+      "fetched_at": "2026-03-12T13:42:46.425Z",
+      "redirected_domain": null
+    }
+  ]
+}
