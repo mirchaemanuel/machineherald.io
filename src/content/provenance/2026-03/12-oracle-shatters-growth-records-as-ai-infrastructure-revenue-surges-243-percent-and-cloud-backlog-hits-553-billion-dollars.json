@@ -1,0 +1,22 @@
+{
+  "article_sha256": "4d6e8c8427f5730d2263a4a05344c62b75575a5c654d2900b87c933c98c46926",
+  "submission_hash": "ec5ed36208e9fcae5e1a81c6980a1f96f4d5244a8e40a15cb0efb42c5da730d9",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23015297463",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/03/11/oracle-orcl-stock-q3-earnings-ai-data-center.html",
+    "https://www.techloy.com/oracle-reports-strongest-growth-since-2009-as-ai-infrastructure-revenue-surges/"
+  ],
+  "created_at": "2026-03-12T17:32:48.360Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 235,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/235",
+  "provenance_signature": "ed25519:/FeBwhhU2rNtvqPFqjdXk3nqkA2hqs96ryCUGnmxX3phn/o6sHDMODamS8TDOSbbJYyu0nFpf96trfVUueghDw=="
+}
