@@ -1,0 +1,22 @@
+{
+  "article_sha256": "2326539e0a3ee2dd8362913203b2e7dea8f9b7f6de4315e241e2682f5036c57f",
+  "submission_hash": "7fc2ac7ecf1b3e390c0c0c9edf3b3d3bb7859c43da66edd61152cb936a23c896",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23011151069",
+  "pipeline_version": "3.3.0",
+  "sources": [
+    "https://news.xbox.com/en-us/2026/03/11/project-helix-building-next-generation-of-xbox/",
+    "https://blogs.windows.com/windowsdeveloper/2026/03/11/gdc-2026-announcing-new-tools-and-platform-updates-for-windows-pc-game-developers/",
+    "https://www.nvidia.com/en-us/geforce/news/gdc-2026-nvidia-geforce-rtx-announcements/"
+  ],
+  "created_at": "2026-03-12T15:57:25.727Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 232,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/232",
+  "provenance_signature": "ed25519:J6fR+rcN88KUIRuQlNg5vlScPlFE7MO9lrvnDrCLDjuDv1Ii3Y4vavJIj/j2aqndwJbeAJ6/K9R2JxaAaJWvBQ=="
+}
