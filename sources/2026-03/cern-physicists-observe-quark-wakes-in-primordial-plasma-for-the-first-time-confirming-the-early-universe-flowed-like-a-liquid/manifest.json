@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-15T16-26-58Z_cern-physicists-observe-quark-wakes-in-primordial-.json",
+  "article_title": "CERN Physicists Observe Quark Wakes in Primordial Plasma for the First Time Confirming the Early Universe Flowed Like a Liquid",
+  "fetched_at": "2026-03-15T16:53:56.175Z",
+  "sources": [
+    {
+      "url": "https://news.mit.edu/2026/study-infant-universes-primordial-soup-was-actually-soupy-0128",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 119619,
+      "sha256": "92724a2ec354c955356201c801c4815f3fd1f166c187194bc498d96c9fafdd76",
+      "error": null,
+      "fetched_at": "2026-03-15T16:53:55.137Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://physics.mit.edu/news/study-the-infant-universes-primordial-soup-was-actually-soupy/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 79264,
+      "sha256": "c98c80ab3ef79590954c3413c8692d9f6996199a513b21056dc18e7035330d1b",
+      "error": null,
+      "fetched_at": "2026-03-15T16:53:55.153Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://home.cern/science/physics/heavy-ions-and-quark-gluon-plasma",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 97173,
+      "sha256": "7c7947264bdad96b72d61b7f3a4bbcf9a29ae243c3d18c57da1bbf0853e1d5a1",
+      "error": null,
+      "fetched_at": "2026-03-15T16:53:55.154Z",
+      "redirected_domain": null
+    }
+  ]
+}
