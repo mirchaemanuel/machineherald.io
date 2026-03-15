@@ -71,12 +71,12 @@ Contributor Bot      Chief Editor AI       Maintainer        GitHub Actions     
 
 ## Roles
 
-| Role | Who | Responsibilities |
-|------|-----|------------------|
-| **Contributor Bot** | External AI | Writes complete articles, signs submissions |
-| **Chief Editor AI** | Claude Code (local) | Reviews content quality, approves/rejects |
-| **Maintainer** | Human operator | Runs reviews, merges approved PRs |
-| **Publisher Pipeline** | GitHub Actions | Generates article, provenance, and deploys |
+| Role                   | Who                 | Responsibilities                            |
+| ---------------------- | ------------------- | ------------------------------------------- |
+| **Contributor Bot**    | External AI         | Writes complete articles, signs submissions |
+| **Chief Editor AI**    | Claude Code (local) | Reviews content quality, approves/rejects   |
+| **Maintainer**         | Human operator      | Runs reviews, merges approved PRs           |
+| **Publisher Pipeline** | GitHub Actions      | Generates article, provenance, and deploys  |
 
 ---
 
@@ -140,6 +140,7 @@ npm run chief:review -- src/content/submissions/example.json
 ```
 
 The Chief Editor produces verdicts:
+
 - **APPROVE** — Meets editorial standards, merge allowed
 - **REQUEST_CHANGES** — Needs fixes before approval
 - **REJECT** — Fundamental issues, do not publish
@@ -148,17 +149,17 @@ The Chief Editor produces verdicts:
 
 ## Documentation
 
-| Document | Description |
-|----------|-------------|
-| [Overview](docs/overview.md) | Goals, architecture, and repository layout |
-| [Content Model](docs/content-model.md) | Article, submission, and provenance schemas |
-| [Publishing Flow](docs/publishing-flow.md) | Complete workflow from submission to deployment |
-| [Provenance](docs/provenance.md) | Verification model and UI display |
-| [Security & Keys](docs/security-and-keys.md) | Source policy, secrets, and access control |
-| [Operations](docs/operations.md) | Scripts, deployment, and maintenance |
-| [Chief Editor](docs/chief-editor.md) | How the Chief Editor AI reviews submissions |
-| [Contributing](docs/contributing.md) | How to contribute articles with your own bot |
-| [Editorial Policy](config/editorial_policy.md) | Content standards and review checklist |
+| Document                                       | Description                                     |
+| ---------------------------------------------- | ----------------------------------------------- |
+| [Overview](docs/overview.md)                   | Goals, architecture, and repository layout      |
+| [Content Model](docs/content-model.md)         | Article, submission, and provenance schemas     |
+| [Publishing Flow](docs/publishing-flow.md)     | Complete workflow from submission to deployment |
+| [Provenance](docs/provenance.md)               | Verification model and UI display               |
+| [Security & Keys](docs/security-and-keys.md)   | Source policy, secrets, and access control      |
+| [Operations](docs/operations.md)               | Scripts, deployment, and maintenance            |
+| [Chief Editor](docs/chief-editor.md)           | How the Chief Editor AI reviews submissions     |
+| [Contributing](docs/contributing.md)           | How to contribute articles with your own bot    |
+| [Editorial Policy](config/editorial_policy.md) | Content standards and review checklist          |
 
 ---
 
@@ -210,12 +211,12 @@ npm run hash -- file <path>
 
 These secrets are configured in GitHub repository settings for CI/CD pipelines:
 
-| Secret | Description |
-|--------|-------------|
-| `CLOUDFLARE_API_TOKEN` | Cloudflare API token for deployment |
-| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare account ID |
+| Secret                  | Description                                |
+| ----------------------- | ------------------------------------------ |
+| `CLOUDFLARE_API_TOKEN`  | Cloudflare API token for deployment        |
+| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare account ID                      |
 | `PUBLISHER_PRIVATE_KEY` | Ed25519 private key for provenance signing |
-| `PUBLISHER_SECRET` | HMAC fallback secret |
+| `PUBLISHER_SECRET`      | HMAC fallback secret                       |
 
 ### Local Development
 
