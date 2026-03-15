@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-15T16-28-33Z_eu-parliament-votes-to-end-untargeted-mass-scannin.json",
+  "article_title": "EU Parliament Votes to End Untargeted Mass Scanning of Private Messages in Historic Chat Control Decision",
+  "fetched_at": "2026-03-15T21:45:21.990Z",
+  "sources": [
+    {
+      "url": "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-03-09/8/child-sexual-abuse-online-vote-on-extending-rules-due-to-expire-in-april",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 100409,
+      "sha256": "628094703c5bd9754d65a8f7d95e3c2c9b5de45aa049bae969ee325998c95f12",
+      "error": null,
+      "fetched_at": "2026-03-15T21:45:21.449Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2025/12/after-years-controversy-eus-chat-control-nears-its-final-hurdle-what-know",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 67122,
+      "sha256": "b9f9b0c6fa66c034c11b69ec57ff1b4772accd7642b04dea15e632c4886cde47",
+      "error": null,
+      "fetched_at": "2026-03-15T21:45:21.466Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-parliament-said-no-to-big-tech-mass-surveillance-of-your-chats-but-the-battle-for-privacy-isnt-done",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1597912,
+      "sha256": "059c6ad69e0765b096a7f40dea1d56a2f6253127bcb9bac1535c6c2fbac57001",
+      "error": null,
+      "fetched_at": "2026-03-15T21:45:21.467Z",
+      "redirected_domain": null
+    }
+  ]
+}
