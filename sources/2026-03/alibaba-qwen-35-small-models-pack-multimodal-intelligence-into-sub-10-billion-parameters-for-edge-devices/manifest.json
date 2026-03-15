@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-15T18-32-12Z_alibaba-qwen-35-small-models-pack-multimodal-intel.json",
+  "article_title": "Alibaba Qwen 3.5 Small Models Pack Multimodal Intelligence Into Sub-10-Billion Parameters for Edge Devices",
+  "fetched_at": "2026-03-15T18:46:18.656Z",
+  "sources": [
+    {
+      "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 348786,
+      "sha256": "67f49757d7c775c606dc744c6ba77f5fcac44bf8c8dc1a8a104c1f69f14b2a05",
+      "error": null,
+      "fetched_at": "2026-03-15T18:46:18.040Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 319786,
+      "sha256": "b4c609e500311b44bb8e041727a53dd9a1e502bd16de2294d7f9dd66c78ab972",
+      "error": null,
+      "fetched_at": "2026-03-15T18:46:18.057Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://awesomeagents.ai/news/qwen-3-5-small-models-series/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 58699,
+      "sha256": "fbf31aed0926103549b5c7ebadc17c7cd70d7228ac21efe60aa5f57cd9044189",
+      "error": null,
+      "fetched_at": "2026-03-15T18:46:18.058Z",
+      "redirected_domain": null
+    }
+  ]
+}
