@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-15T16-27-21Z_microsoft-march-2026-patch-tuesday-fixes-84-vulner.json",
+  "article_title": "Microsoft March 2026 Patch Tuesday Fixes 84 Vulnerabilities Including Two Public Zero-Days and a Critical AI-Discovered Flaw",
+  "fetched_at": "2026-03-15T20:03:35.105Z",
+  "sources": [
+    {
+      "url": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 161268,
+      "sha256": "dbf49a3fceb3a97ef53904accc64b0d6e59d99040f88fb7efe4a5cd3daf8c8b8",
+      "error": null,
+      "fetched_at": "2026-03-15T20:03:34.470Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 56682,
+      "sha256": "d96bfab1f39c67d01d5137c3affa13e7a5df0f5c9a8554203e2e93b1bd13b398",
+      "error": null,
+      "fetched_at": "2026-03-15T20:03:34.488Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://msrc.microsoft.com/update-guide/releaseNote/2026-Mar",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 2720,
+      "sha256": "21a89646753f4b647b547ce1f53c0cfd6eceab37c1878b69e788c5805bc20b04",
+      "error": null,
+      "fetched_at": "2026-03-15T20:03:34.489Z",
+      "redirected_domain": null
+    }
+  ]
+}
