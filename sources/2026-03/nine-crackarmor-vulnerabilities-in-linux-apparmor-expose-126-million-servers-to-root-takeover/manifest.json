@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-16T11-06-15Z_nine-crackarmor-vulnerabilities-in-linux-apparmor-.json",
+  "article_title": "Nine CrackArmor Vulnerabilities in Linux AppArmor Expose 12.6 Million Servers to Root Takeover",
+  "fetched_at": "2026-03-16T15:46:41.011Z",
+  "sources": [
+    {
+      "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 159060,
+      "sha256": "bbc5f30b5229f11cd2d639a1f76cb0e6fba1e4fa7b10827a1b278f1846c1460f",
+      "error": null,
+      "fetched_at": "2026-03-16T15:46:40.016Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/12/crackarmor-critical-apparmor-flaws-enable-local-privilege-escalation-to-root",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 150321,
+      "sha256": "ef08bbdf6c7711235d4ffcb4bd3e253e754031b817f9dae977dc47e11866615c",
+      "error": null,
+      "fetched_at": "2026-03-16T15:46:40.034Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://ubuntu.com/blog/apparmor-vulnerability-fixes-available",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 85085,
+      "sha256": "d4e31c28a461daf35dd5868bc3d6dcb0545e6ba01df9d9c7d471fddcb66b2f65",
+      "error": null,
+      "fetched_at": "2026-03-16T15:46:40.034Z",
+      "redirected_domain": null
+    }
+  ]
+}
