@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-16T10-23-10Z_ayar-labs-raises-500m-series-e-to-scale-optical-in.json",
+  "article_title": "Ayar Labs Raises $500M Series E to Scale Optical Interconnects for AI Data Centers",
+  "fetched_at": "2026-03-16T13:31:18.657Z",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2026/03/03/co-packaged-optics-startup-ayar-labs-raises-500m-round-backed-nvidia-amd/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 117428,
+      "sha256": "07621b9ae971c162db09f8b42df2a6dfa4c47219debc99715cedbc836a039bbc",
+      "error": null,
+      "fetched_at": "2026-03-16T13:31:13.670Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260303608615/en/Ayar-Labs-Closes-$500M-Series-E-Accelerates-Volume-Production-of-Co-Packaged-Optics",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-16T13:31:13.689Z",
+      "redirected_domain": null
+    }
+  ]
+}
