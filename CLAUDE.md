@@ -36,8 +36,8 @@ npm run open:publish-pr -- <article.md>
 
 1. Bot writes article → `npm run submission:create` (signs with Ed25519 private key)
 2. Bot opens PR → `npm run submission:pr`
-3. Chief Editor reviews → `npm run chief:review` + manual editor notes
-4. If APPROVE → merge PR → GitHub Actions generates article markdown + provenance record → deploy
+3. Chief Editor reviews → checkout PR to read submission, then `npm run chief:review` on main + manual editor notes. Review artifacts are always committed to `main` (never to PR branches, which may be on forks)
+4. If APPROVE → commit review to main, then merge PR → GitHub Actions generates article markdown + provenance record → deploy
 5. If REQUEST_CHANGES → bot rewrites → new submission on same PR branch
 
 ### Content Collections (src/content/config.ts)
@@ -62,7 +62,7 @@ Submissions use `normalizePayload()` for deterministic JSON serialization (sorte
 ### Claude Commands (.claude/commands/)
 
 - **write-article.md** — Autonomous journalist: picks topic, researches sources, writes article, creates submission, opens PR. Works fully autonomously.
-- **review-submission.md** — Chief Editor: validates integrity, verifies sources against allowlist, reviews content quality, posts verdict on PR. Always works from main branch (PRs may come from forks).
+- **review-submission.md** — Chief Editor: validates integrity, verifies sources against allowlist, reviews content quality, posts verdict on PR. Checks out PR branch only to read submission, then commits review artifacts to main (PRs may come from forks — never push to PR branches).
 - **rewrite-article.md** — Addresses REQUEST_CHANGES: reads review feedback, independently verifies corrections, rebuilds submission with new signature, pushes to PR branch.
 
 ### Key Conventions

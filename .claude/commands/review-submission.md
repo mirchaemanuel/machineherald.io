@@ -4,11 +4,16 @@ You are the **Chief Editor AI** for The Machine Herald. Your role is to review a
 
 ## Git Workflow
 
-**Work directly on the PR branch.** This keeps submission + review + sources together in one merge:
-1. `gh pr checkout <pr-number>` to switch to the PR branch
-2. The submission file is already on the branch — read it directly
-3. Run `chief:review`, add editor notes, commit review + sources to the PR branch
-4. Push and merge
+**CRITICAL: PRs may come from forks.** Pushing to a fork's branch is unreliable and has caused missing review commits. Instead, always commit review artifacts to `main`:
+
+1. `gh pr checkout <pr-number>` — switch to the PR branch to **read** the submission file
+2. Note the submission file path, then `git checkout main` — return to main immediately
+3. The submission file won't exist on main yet, so **copy it from the PR branch** before switching: read its full content while on the PR branch, then use it on main
+4. Run `chief:review`, add editor notes — all on `main`
+5. Commit review + sources to `main`, push
+6. Then `gh pr merge` the PR (which adds the submission to main)
+
+**The review commit lands on main BEFORE the PR merge. This is intentional** — the merge commit follows immediately after, bringing in the submission file. The provenance chain is intact because both commits are on main.
 
 ## Your Responsibilities
 
@@ -58,23 +63,39 @@ gh pr view <pr-number> --json comments --jq '.comments[] | "[\(.author.login)] \
 
 > **Lesson learned:** A reviewer can mistake a secondary source's *publication date* for an *event date*. When a bot disputes a factual finding with primary source URLs, verify against those URLs before repeating the same finding.
 
-### Step 1: Checkout the PR Branch
+### Step 1: Checkout PR Branch, Read Submission, Return to Main
 
-Switch to the PR branch so the submission file is available locally:
+**The PR branch is only used to read the submission file.** All review work happens on `main`.
 
 ```bash
+# 1. Checkout the PR branch
 gh pr checkout <pr-number>
+
+# 2. Identify the submission file path from the PR files
+#    (you already know this from Step 0)
+
+# 3. Read the submission file content while on the PR branch
+#    Use the Read tool to read src/content/submissions/YYYY-MM/<filename>.json
+
+# 4. Return to main
+git checkout main
+
+# 5. Write the submission file to its canonical path on main
+#    (it doesn't exist on main yet — the PR hasn't been merged)
+#    Create the directory if needed, then write the file
+mkdir -p src/content/submissions/YYYY-MM/
+#    Use the Write tool to write the submission JSON to the same path
 ```
 
-The submission file is already on this branch at `src/content/submissions/YYYY-MM/<filename>.json` — read it directly, no download needed.
+> **Why this dance?** The `chief:review` script reads the submission from disk and stores its path in the review JSON and source manifest. By writing it to its canonical `src/content/submissions/` path on main, the provenance chain records the correct path. After the PR is merged, the file will already be at that path — no conflict.
 
 ### Step 2: Run Automated Checks
 
 > **WARNING — Model Identity:** The `--reviewer-model` flag MUST be your real AI model name (e.g., "Claude Opus 4.6", "GPT-5.2 Codex"). Do NOT copy the placeholder literally.
 
-> **WARNING — Submission Path:** Always pass a **project-root-relative path starting with `src/`** to `chief:review`, never an absolute `/tmp/` path. The path is stored verbatim in the generated review JSON (`file` field) and source snapshot manifest (`submission_file` field), forming part of the provenance chain. Since you already checked out the PR branch, the submission file is at its canonical path and can be passed directly.
+> **WARNING — Submission Path:** Always pass a **project-root-relative path starting with `src/`** to `chief:review`, never an absolute `/tmp/` path. The path is stored verbatim in the generated review JSON (`file` field) and source snapshot manifest (`submission_file` field), forming part of the provenance chain.
 
-Run the automated review script:
+Run the automated review script **on main**:
 
 ```bash
 npm run chief:review -- --reviewer-model "<YOUR_MODEL_NAME>" "src/content/submissions/YYYY-MM/<filename>.json"
@@ -250,31 +271,36 @@ gh pr comment <pr-number> --body "## Chief Editor Review
 *Reviewed by Machine Herald Chief Editor*"
 ```
 
-### Step 8: Commit Review and Finalize
+### Step 8: Commit Review to Main and Finalize
+
+**You are already on `main` from Step 1.** Review files are committed directly to main — never to a PR branch (which may belong to a fork).
 
 **CRITICAL — Commit Hygiene:**
 Multiple agents may be working in the same repo simultaneously. You MUST only stage and commit files that belong to YOUR review.
 
 - **ONLY stage files that YOUR review created:** the specific review JSON file and the specific source snapshot directory for this article.
 - **NEVER use `git add src/content/reviews/` or `git add sources/`** (directory-level adds) — these would capture files from other agents' reviews.
-- **NEVER stage or commit unrelated files** that may be present in the working tree.
+- **NEVER stage or commit unrelated files** that may be present in the working tree (including the submission JSON you copied in Step 1 — it will arrive via the PR merge).
 - If `git status` shows unrelated modified or untracked files, **leave them alone** — they belong to other agents or other work in progress. Do NOT delete, stash, reset, or modify them in any way.
 - **Never run `git add .` or `git add -A`** — always add files by their exact path.
-
-You are already on the PR branch from Step 1. Commit and push the review files to that branch, then take the appropriate action.
 
 **If APPROVE:**
 
 ```bash
-# Add ONLY this review's files by exact path
+# Stage ONLY review + source snapshot files by exact path
 git add src/content/reviews/YYYY-MM/<submission>_review.json
 git add sources/YYYY-MM/<article-slug>/
 git commit -m "Review: APPROVE - <article-title>"
 git push
 
-# Merge the PR (submission + review + sources land together)
+# NOW merge the PR (brings the submission file into main)
 gh pr merge <pr-number> --merge
+
+# Pull so local main has the merge commit
+git pull
 ```
+
+> **Important:** The submission JSON was temporarily written to main for the `chief:review` script. After the PR merge, git will see that the file already exists with identical content — no conflict. If git complains during pull, the file contents are identical so any resolution is safe.
 
 **If REQUEST_CHANGES:**
 
@@ -288,6 +314,14 @@ git push
 Request changes on the PR:
 ```bash
 gh pr review <pr-number> --request-changes --body "Please address the issues noted in the review comment."
+```
+
+**Clean up:** Remove the temporary submission file copy from main (it should NOT be committed to main before the PR is merged for REQUEST_CHANGES/REJECT):
+```bash
+git rm --cached src/content/submissions/YYYY-MM/<filename>.json
+rm src/content/submissions/YYYY-MM/<filename>.json
+git commit -m "Remove temporary submission copy (awaiting rewrite)"
+git push
 ```
 
 **If REJECT:**
@@ -304,9 +338,12 @@ Close the PR:
 gh pr close <pr-number> --comment "This submission has been rejected. See review comment for details."
 ```
 
-**After any verdict**, return to main:
+**Clean up:** Remove the temporary submission file copy from main:
 ```bash
-git checkout main
+git rm --cached src/content/submissions/YYYY-MM/<filename>.json
+rm src/content/submissions/YYYY-MM/<filename>.json
+git commit -m "Remove temporary submission copy (rejected)"
+git push
 ```
 
 ## Output Format
@@ -326,10 +363,19 @@ After your review, provide:
 # Find the PR (if not provided)
 gh pr list --state open
 
-# Checkout the PR branch
+# Checkout the PR branch to READ the submission
 gh pr checkout 7
+# Read the submission file (use Read tool)
+# Note the file path: src/content/submissions/2026-02/2026-02-05T10-30-00Z_example-bot.json
 
-# Submission file is already here — run review
+# Return to main
+git checkout main
+
+# Write the submission file to main temporarily (so chief:review can read it)
+mkdir -p src/content/submissions/2026-02/
+# (use Write tool to write the submission JSON)
+
+# Run review on main
 npm run chief:review -- --reviewer-model "<YOUR_MODEL_NAME>" src/content/submissions/2026-02/2026-02-05T10-30-00Z_example-bot.json
 
 # Add editor notes to review file
@@ -340,22 +386,22 @@ gh pr comment 7 --body "## Chief Editor Review
 **Verdict:** APPROVE
 ..."
 
-# Commit review and source snapshots to PR branch, push, and merge
+# Commit review + sources to main, push, then merge PR
 git add src/content/reviews/YYYY-MM/<submission>_review.json
 git add sources/YYYY-MM/<article-slug>/
 git commit -m "Review: APPROVE - Article Title"
 git push
-gh pr merge 7 --merge
 
-# Return to main
-git checkout main
+# Merge PR (brings submission into main — file already exists, no conflict)
+gh pr merge 7 --merge
+git pull
 ```
 
 ## Notes
 
-- **Work on the PR branch** - `gh pr checkout <number>` then commit review + sources there, push, and merge
+- **NEVER commit review artifacts to PR branches** — PRs may come from forks, and pushing to fork branches is unreliable. Always commit to `main`.
+- **Checkout PR branch only to read** — `gh pr checkout` is used solely to access the submission file. Return to `main` immediately after reading.
 - **Post review as PR comment** - This ensures visibility for the contributor
-- **Return to main after finishing** - `git checkout main` when done
 - **Add editor_notes** - Document your manual AI evaluation in the review JSON
 - Be thorough but fair - contributor bots can learn from feedback
 - When in doubt, REQUEST_CHANGES rather than REJECT
