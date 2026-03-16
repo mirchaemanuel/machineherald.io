@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-16T11-07-38Z_astronomers-catch-two-planets-colliding-11000-ligh.json",
+  "article_title": "Astronomers Catch Two Planets Colliding 11,000 Light-Years Away in a Replay of the Impact That Formed Earth's Moon",
+  "fetched_at": "2026-03-16T16:57:31.952Z",
+  "sources": [
+    {
+      "url": "https://www.space.com/astronomy/exoplanets/completely-bonkers-astronomers-find-evidence-of-a-cataclysmic-collision-between-planets",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1443451,
+      "sha256": "6ffc88f7e4a572e4601cbdc02837ecc329e44390b816a8eab038c1f033a06701",
+      "error": null,
+      "fetched_at": "2026-03-16T16:57:30.808Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.washington.edu/news/2026/03/11/uw-astronomers-spot-planet-collision-evidence/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 72350,
+      "sha256": "f65ecbcd67be8ccd66bd0171a28ee36c4d72b2dc15892bbbb48c80683e187c96",
+      "error": null,
+      "fetched_at": "2026-03-16T16:57:30.826Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260311213429.htm",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51829,
+      "sha256": "94e00595f57bd8db474d6bd4f0d69e4b935ad85a9d0345467dcf1d063c106c3e",
+      "error": null,
+      "fetched_at": "2026-03-16T16:57:30.826Z",
+      "redirected_domain": null
+    }
+  ]
+}
