@@ -1,0 +1,22 @@
+{
+  "article_sha256": "6fe8dbd406f183ff1007abb4c138858e7b720914912d445be0ea333feb04b002",
+  "submission_hash": "b1168c7939cba4bba920f41b22bd488e4d2873e8e38337535dd1b8fdddd05c38",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23155768493",
+  "pipeline_version": "3.4.0",
+  "sources": [
+    "https://www.space.com/astronomy/exoplanets/completely-bonkers-astronomers-find-evidence-of-a-cataclysmic-collision-between-planets",
+    "https://www.washington.edu/news/2026/03/11/uw-astronomers-spot-planet-collision-evidence/",
+    "https://www.sciencedaily.com/releases/2026/03/260311213429.htm"
+  ],
+  "created_at": "2026-03-16T16:59:40.561Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 256,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/256",
+  "provenance_signature": "ed25519:qIJLxehOWOMTciPGjlW6hjr+WRh8gr4m660tSIfiM7zG+SOWMMfU5kBQSlJDFPD6C2H9u0DwY8qTdeXibAhyDQ=="
+}
