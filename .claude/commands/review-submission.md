@@ -305,7 +305,14 @@ rm src/content/submissions/YYYY-MM/<filename>.json
 # NOW merge the PR (brings the submission file into main)
 gh pr merge <pr-number> --merge
 
-# Pull so local main has the merge commit
+# WAIT for the Publish workflow to finish before pulling.
+# Merging a PR triggers a "Publish from Submission" GitHub Actions workflow
+# that generates the article markdown + provenance record and pushes them to main.
+# If you pull (or another merge happens) before this workflow completes, the
+# concurrent pushes cause rebase conflicts and the publish fails.
+gh run list --branch main --limit 1 --json databaseId --jq '.[0].databaseId' | xargs -I{} gh run watch {} --exit-status
+
+# Pull so local main has the merge commit AND the published article
 git pull
 ```
 
