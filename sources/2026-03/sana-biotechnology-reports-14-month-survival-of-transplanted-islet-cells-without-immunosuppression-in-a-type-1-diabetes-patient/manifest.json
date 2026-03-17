@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-16T11-07-55Z_sana-biotechnology-reports-14-month-survival-of-tr.json",
+  "article_title": "Sana Biotechnology Reports 14-Month Survival of Transplanted Islet Cells Without Immunosuppression in a Type 1 Diabetes Patient",
+  "fetched_at": "2026-03-17T07:59:22.339Z",
+  "sources": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/13/3255502/0/en/Sana-Biotechnology-Announces-Continued-Positive-Clinical-Results-Through-14-Months-from-Type-1-Diabetes-Study-of-Islet-Cell-Transplantation-Without-Immunosuppression.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 72402,
+      "sha256": "18fe1bba8734215922fbf59a8c5fe0435a89fe5dcbb842a4580cbea08c3df4b6",
+      "error": null,
+      "fetched_at": "2026-03-17T07:59:11.618Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nejm.org/doi/abs/10.1056/NEJMoa2503822",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 183033,
+      "sha256": "88016e23364a7bfe50899d5f300e283f5bc785e348c46c56ad546c9a7d9db3c2",
+      "error": null,
+      "fetched_at": "2026-03-17T07:59:11.634Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.nejm.org/doi/abs/10.1056/NEJMoa2503822"
+    },
+    {
+      "url": "https://www.fiercebiotech.com/biotech/sana-sees-14-month-insulin-production-transplanted-islet-therapy-single-type-1-diabetes",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-17T07:59:11.634Z",
+      "redirected_domain": null
+    }
+  ]
+}
