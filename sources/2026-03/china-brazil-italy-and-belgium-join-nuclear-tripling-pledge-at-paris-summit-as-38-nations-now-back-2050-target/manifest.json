@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-16T11-08-05Z_china-brazil-italy-and-belgium-join-nuclear-tripli.json",
+  "article_title": "China, Brazil, Italy and Belgium Join Nuclear Tripling Pledge at Paris Summit as 38 Nations Now Back 2050 Target",
+  "fetched_at": "2026-03-17T08:05:28.445Z",
+  "sources": [
+    {
+      "url": "https://www.iaea.org/newscenter/news/global-leaders-affirm-central-role-for-nuclear-at-2026-nuclear-energy-summit",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 66357,
+      "sha256": "a4dfc92334db0eb25013524b5545efd61c9a4b4ebf4370f581f2324c4ad89ced",
+      "error": null,
+      "fetched_at": "2026-03-17T08:05:27.527Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.elysee.fr/en/emmanuel-macron/2026/03/10/safe-and-affordable-nuclear-energy-for-all",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 178643,
+      "sha256": "5a8647e5dda859a4e84603ce7ba7bd78e6cd7cacfbe3a50ffe9268f231cd0b47",
+      "error": null,
+      "fetched_at": "2026-03-17T08:05:27.543Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.diplomatie.gouv.fr/en/french-foreign-policy/economic-diplomacy-foreign-trade/world-nuclear-energy-summit-10-march-2026/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 66856,
+      "sha256": "272fea1743d7b3973a7ac8c037d1261b6a769070609e06dc9b7681c91c3079ad",
+      "error": null,
+      "fetched_at": "2026-03-17T08:05:27.543Z",
+      "redirected_domain": null
+    }
+  ]
+}
