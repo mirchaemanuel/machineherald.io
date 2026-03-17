@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-17T12-25-11Z_fda-lifts-clinical-hold-on-intellias-crispr-gene-e.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-17T14-26-10Z_fda-lifts-clinical-hold-on-intellias-crispr-gene-e.json",
   "article_title": "FDA Lifts Clinical Hold on Intellia's CRISPR Gene-Editing Trial for Heart Disease After Patient Death and Safety Overhaul",
-  "fetched_at": "2026-03-17T13:05:24.293Z",
+  "fetched_at": "2026-03-17T15:40:44.676Z",
   "sources": [
     {
       "url": "https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-announces-fda-lift-clinical-hold-0",
@@ -9,9 +9,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 41822,
-      "sha256": "d6836e5aef60eeffb32ec8929c6e1f195170ce00b6192c8b88c2c57d0456bfc2",
+      "sha256": "691f3fb7cfe574b70082a94e274418978f922b42cbfe0c23fba309e51f6872b2",
       "error": null,
-      "fetched_at": "2026-03-17T13:05:23.564Z",
+      "fetched_at": "2026-03-17T15:40:42.924Z",
       "redirected_domain": null
     },
     {
@@ -19,21 +19,32 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 42523,
-      "sha256": "8705eef71e580341d5cede3428d5e2c81bd2edf965c554f82531804cd3c81f56",
+      "content_length": 41510,
+      "sha256": "83a8602db8f83ac5b19c68c3ca5156103790471e0cc56910eb9ec516cf634ee8",
       "error": null,
-      "fetched_at": "2026-03-17T13:05:23.580Z",
+      "fetched_at": "2026-03-17T15:40:42.940Z",
       "redirected_domain": null
     },
     {
-      "url": "https://www.globenewswire.com/news-release/2026/03/02/3247267/0/en/Intellia-Therapeutics-Announces-FDA-Lift-of-Clinical-Hold-on-MAGNITUDE-Phase-3-Clinical-Trial-in-ATTR-CM.html",
+      "url": "https://www.cgtlive.com/view/patient-treated-trial-intellia-transthyretin-amyloidosis-gene-editing-therapy-nex-z-dies",
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 66228,
-      "sha256": "bdb1e2f0568e9ea4278a08867b5b11c792b94f21fe4966bdb95bebde812356e4",
+      "content_length": 247706,
+      "sha256": "476b5b211bf4bf7ed3b080a5ddf350c438d0028756e62a853efd4d6e04e8d5f1",
       "error": null,
-      "fetched_at": "2026-03-17T13:05:23.580Z",
+      "fetched_at": "2026-03-17T15:40:42.941Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biospace.com/fda/intellias-crispr-gene-therapy-free-to-move-forward-after-fda-fully-lifts-hold",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 210358,
+      "sha256": "9730d67e061e4a601466b10aaa4757e794c339d0715a3a88359687c1ce4d0f15",
+      "error": null,
+      "fetched_at": "2026-03-17T15:40:42.941Z",
       "redirected_domain": null
     }
   ]
