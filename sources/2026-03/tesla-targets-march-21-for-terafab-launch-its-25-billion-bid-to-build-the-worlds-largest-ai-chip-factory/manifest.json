@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-16T11-09-11Z_tesla-targets-march-21-for-terafab-launch-its-25-b.json",
+  "article_title": "Tesla Targets March 21 for Terafab Launch, Its $25 Billion Bid to Build the World's Largest AI Chip Factory",
+  "fetched_at": "2026-03-17T09:40:47.479Z",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/technology/musk-says-teslas-gigantic-chip-fab-project-launch-seven-days-2026-03-14/",
+      "file": null,
+      "status_code": 401,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "HTTP Forbidden",
+      "fetched_at": "2026-03-17T09:40:40.386Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-01-28/musk-says-tesla-needs-to-build-terafab-to-manufacture-chips",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-17T09:40:40.403Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-his-terafab-project-chipmaking-venture-will-launch-in-seven-days-musks-latest-moonshot-multi-billion-project-launches-on-a-saturday",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1540001,
+      "sha256": "09c5f2e4306f15c2f00170322e1aa15d38fab0a399f608633d8706c0817f05dc",
+      "error": null,
+      "fetched_at": "2026-03-17T09:40:40.404Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-his-terafab-project-chipmaking-venture-will-launch-in-seven-days-musks-latest-moonshot-multi-billion-project-launches-on-a-saturday"
+    }
+  ]
+}
