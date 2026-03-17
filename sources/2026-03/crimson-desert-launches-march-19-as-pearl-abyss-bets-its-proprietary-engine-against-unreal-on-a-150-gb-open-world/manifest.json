@@ -1,17 +1,17 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-17T12-25-16Z_crimson-desert-launches-march-19-as-pearl-abyss-be.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-17T14-32-57Z_crimson-desert-launches-march-19-as-pearl-abyss-be.json",
   "article_title": "Crimson Desert Launches March 19 as Pearl Abyss Bets Its Proprietary Engine Against Unreal on a 150 GB Open World",
-  "fetched_at": "2026-03-17T13:05:23.011Z",
+  "fetched_at": "2026-03-17T15:45:31.207Z",
   "sources": [
     {
       "url": "https://blog.playstation.com/2026/03/04/crimson-desert-hands-on-report-four-hours-in-the-rpgs-massive-open-world/",
       "file": "source-0.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 193714,
-      "sha256": "9a669e54441ccae90edda89be30cdbe87974c039e684e2e1b5296cc5bab9ec84",
+      "content_length": 193811,
+      "sha256": "0b520dae39f2d9fcde2bac64f03f00d4966e77966542e3b6a6a18a41e11fddc4",
       "error": null,
-      "fetched_at": "2026-03-17T13:05:21.906Z",
+      "fetched_at": "2026-03-17T15:45:30.375Z",
       "redirected_domain": null
     },
     {
@@ -22,18 +22,29 @@
       "content_length": 1480659,
       "sha256": "f7c9e38f7376609b6b510c265a78fb332ddde1c9072b74708a68cf6927f73959",
       "error": null,
-      "fetched_at": "2026-03-17T13:05:21.923Z",
+      "fetched_at": "2026-03-17T15:45:30.392Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://wccftech.com/crimson-desert-different-level-unreal-engine-5/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 146409,
+      "sha256": "2c720d80aa8b2fe58ef1b8ee4fb8aceef5e3ad15ecfc8fd94a0ba954c610af34",
+      "error": null,
+      "fetched_at": "2026-03-17T15:45:30.392Z",
       "redirected_domain": null
     },
     {
       "url": "https://kotaku.com/march-16-2026-every-game-coming-out-crimson-desert-2000679214",
-      "file": "source-2.html",
+      "file": "source-3.html",
       "status_code": 200,
       "content_type": "text/html",
-      "content_length": 111491,
-      "sha256": "bc6815b6c55bacf5135e11f2bdbb370bde1c1501d0033e1b9a5a53f8e6598bec",
+      "content_length": 111727,
+      "sha256": "f2a325a32064438a2fda48d9bcfb49b58d05c4bca4141e1b16ea6b700013f0c4",
       "error": null,
-      "fetched_at": "2026-03-17T13:05:21.923Z",
+      "fetched_at": "2026-03-17T15:45:30.393Z",
       "redirected_domain": null
     }
   ]
