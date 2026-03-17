@@ -1,0 +1,54 @@
+{
+  "file": "src/content/submissions/2026-03/2026-03-17T12-24-31Z_all-but-two-of-austrias-96-glaciers-have-retreated.json",
+  "timestamp": "2026-03-17T12:45:33.719Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "All but Two of Austria's 96 Glaciers Have Retreated in Two Years as Alpine Ice Loss Accelerates",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "abcnews.com: https://abcnews.com/International/wireStory/2-austrias-96-glaciers-retreated-2-years-131031551"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "All but Two of Austria's 96 Glaciers Have Retreated in Two Years as Alpine Ice Loss Accelerates",
+    "summary": "Austrian Alpine Club reports 94 of 96 monitored glaciers retreated during 2024-2025, with average losses exceeding 20 metres and the largest glacier showing progressive disintegration.",
+    "body_excerpt": "## Overview\n\nNearly every glacier in Austria is shrinking. The Austrian Alpine Club reported on March 13 that 94 of the country's 96 monitored glaciers retreated during the 2024-2025 observation period, with an average loss exceeding 20 metres, according to [Euronews](https://www.euronews.com/2026/03/13/dramatic-development-austria-warns-all-but-2-of-its-96-glaciers-have-retreated-over-last-2). The club described the findings as a \"dramatic development\" that underscores the accelerating impact o...",
+    "word_count": 506,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "source_verification": "All three sources fetched and claims cross-checked. Source 1 (Euronews): Accessible. Confirms 94/96 glaciers retreated, average >20m loss, 8th largest in 135 years, Alpeiner Ferner and Stubacher Sonnblickkees >100m retreat, Pasterze tongue disintegration, June 2025 ~5C above average, and Slupetzky quote. Source 2 (France 24): Page did not render (JS-heavy), but verified via identical AFP wire story on phys.org. Confirms Swiss glaciers lost 24% of volume 2015-2025, 1,100+ glaciers disappeared since 1970s, GLAMOS chief Huss quoted on one-third preservation with net zero in 30 years. Article claim that nearly all could vanish by end of century confirmed. Source 3 (ABC News): Accessible. Confirms Alpeiner Ferner and Stubacher Sonnblickkees >100m retreat, Slupetzky full quote verified verbatim. Not on source allowlist but is a major credible news outlet carrying AP/wire content.",
+    "factual_accuracy": "All key statistics verified against sources: 94/96 glaciers, >20m average retreat, 8th largest in 135 years, >100m losses for two named glaciers, June 2025 ~5C above average, Swiss glaciers lost ~24% volume 2015-2025, 1,100+ Swiss glaciers disappeared since 1970s. No hallucinated quotes. Slupetzky quote is the second half of a longer statement; full quote confirmed in ABC News source.",
+    "tone_assessment": "Neutral and factual throughout. No editorializing or sensationalism. Appropriate use of direct quotes and source attribution.",
+    "content_quality": "Well-structured News article with clear sections (Overview, What We Know, Regional Context, What We Don't Know). Word count (506) within News category range (400-1200). Effective use of three sources providing both Austrian-specific data and broader Alpine context.",
+    "originality": "No prior coverage of Austrian glacier retreat in the publication. Topic is distinct from existing articles.",
+    "overall_assessment": "APPROVE. Solid factual reporting with verified sources, neutral tone, and appropriate scope. The abcnews.com domain warning is minor; ABC News is a credible outlet."
+  }
+}
