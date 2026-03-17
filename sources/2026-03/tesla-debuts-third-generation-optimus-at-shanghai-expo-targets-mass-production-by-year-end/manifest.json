@@ -1,17 +1,17 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-17T12-26-24Z_tesla-debuts-third-generation-optimus-at-shanghai-.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-17T14-29-11Z_tesla-debuts-third-generation-optimus-at-shanghai-.json",
   "article_title": "Tesla Debuts Third-Generation Optimus at Shanghai Expo, Targets Mass Production by Year-End",
-  "fetched_at": "2026-03-17T13:19:38.012Z",
+  "fetched_at": "2026-03-17T15:50:46.580Z",
   "sources": [
     {
       "url": "https://restofworld.org/2026/china-tesla-robot-race/",
       "file": "source-0.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 57829,
-      "sha256": "e563ff2700a515af09ee5754d2e61adcecbbe59cbcb6f825c4f81ba0937d7d95",
+      "content_length": 57878,
+      "sha256": "207b6a83ae5bb9d437ef59c5fdcfff14030cce9ba485a782776a52fc6ff1b9f9",
       "error": null,
-      "fetched_at": "2026-03-17T13:19:36.967Z",
+      "fetched_at": "2026-03-17T15:50:44.474Z",
       "redirected_domain": null
     },
     {
@@ -19,21 +19,43 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 490204,
-      "sha256": "338e33ec2691048fbbc78e479aa167c1abb6992b2cf6b105857fbb923fb940d9",
+      "content_length": 489764,
+      "sha256": "f2362f081a7a1a0313c757e0685b3e21ae0f91067092f83192f18fd509e1b430",
       "error": null,
-      "fetched_at": "2026-03-17T13:19:36.984Z",
+      "fetched_at": "2026-03-17T15:50:44.491Z",
       "redirected_domain": null
     },
     {
-      "url": "https://techcrunch.com/2025/10/22/elon-musk-frets-over-controlling-teslas-robot-army-as-car-biz-rebounds/",
+      "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
       "file": "source-2.html",
       "status_code": 200,
-      "content_type": "text/html; charset=UTF-8",
-      "content_length": 228153,
-      "sha256": "324f3aae40c0d5794cff8d5cfc231393380eb830860b359558f10347a545ce2a",
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 785360,
+      "sha256": "3b1b589a16cc9db0603acbd4aee6168817b5b39f238d6d13504eadb56726f0b9",
       "error": null,
-      "fetched_at": "2026-03-17T13:19:36.985Z",
+      "fetched_at": "2026-03-17T15:50:44.491Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.foxbusiness.com/economy/elon-musk-says-tesla-likely-sell-humanoid-robots-end-next-year",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 208450,
+      "sha256": "344d0871ba36b35a85c2ee67297fa24855d209bf3aa06c046ca4b5697a319e39",
+      "error": null,
+      "fetched_at": "2026-03-17T15:50:44.492Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 222313,
+      "sha256": "2643c39540609288bef3e8aa74a790d59cf0e6d4b177262079b83a8830131e57",
+      "error": null,
+      "fetched_at": "2026-03-17T15:50:44.492Z",
       "redirected_domain": null
     }
   ]
