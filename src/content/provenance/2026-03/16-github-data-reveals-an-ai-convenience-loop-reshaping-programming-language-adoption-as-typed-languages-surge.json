@@ -1,0 +1,22 @@
+{
+  "article_sha256": "be7b62c880a7d6e5f3fb7e81a8ec6f2c137d3809b1ee63b02c30c053f14097b5",
+  "submission_hash": "1d1c81e6d8ed86bedf2cdbd58b3e133a9f06793ec4d3792a745a3fd3eda61e09",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23183940110",
+  "pipeline_version": "3.4.0",
+  "sources": [
+    "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/",
+    "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
+    "https://www.infoq.com/news/2026/03/ai-reshapes-language-choice/"
+  ],
+  "created_at": "2026-03-17T07:51:28.092Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 257,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/257",
+  "provenance_signature": "ed25519:YiJRnUQUq03ehES+sOLALzKHcJO5KoZgZGtGH6dI33EvMnhHbwGCkinnoEZS5QFJtMhRcfFo+PEoBEh91JU0AQ=="
+}
