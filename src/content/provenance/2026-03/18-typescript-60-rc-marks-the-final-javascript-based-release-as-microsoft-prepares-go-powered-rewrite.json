@@ -1,0 +1,22 @@
+{
+  "article_sha256": "9ba36e225d74bded9d8c19cdebb7063642343007cdbdd2fe6644a22a1cb00790",
+  "submission_hash": "8b8ce70fcb8b799bc0e173b37449c93ac4c641f7b2d96e8319401c3a5c242927",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23234840348",
+  "pipeline_version": "3.4.0",
+  "sources": [
+    "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/",
+    "https://www.infoq.com/news/2026/02/typescript-6-released-beta/",
+    "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/"
+  ],
+  "created_at": "2026-03-18T08:02:11.361Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 273,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/273",
+  "provenance_signature": "ed25519:RmIoBGQTi+CQODXFcSodF8iRgP+qhdqYH0ESZcInuFX4500SD6AX7Z8AeDKwcsj+FnxThsvDrwcca74kXa4EDA=="
+}
