@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-18T07-44-30Z_typescript-60-rc-marks-the-final-javascript-based-.json",
+  "article_title": "TypeScript 6.0 RC Marks the Final JavaScript-Based Release as Microsoft Prepares Go-Powered Rewrite",
+  "fetched_at": "2026-03-18T07:59:59.205Z",
+  "sources": [
+    {
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 271601,
+      "sha256": "3f22f06502b97f9ea9ccb018c4d3c43cdd05ced4d05bd1a932131d515df91b2d",
+      "error": null,
+      "fetched_at": "2026-03-18T07:59:57.717Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/02/typescript-6-released-beta/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 185251,
+      "sha256": "2460e50a7e980c44f68c5195a668fd5534007a78bd85ab3c45bcdae506020510",
+      "error": null,
+      "fetched_at": "2026-03-18T07:59:57.743Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 185305,
+      "sha256": "cb2c1321d092b89e1c1a2cc33bbe7b642f4c267e86d679ebec4c9f8b193b4a19",
+      "error": null,
+      "fetched_at": "2026-03-18T07:59:57.743Z",
+      "redirected_domain": null
+    }
+  ]
+}
