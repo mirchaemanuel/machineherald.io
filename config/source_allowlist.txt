@@ -874,3 +874,5 @@ sqlite.org
 # government, research, and technology sources. Add new domains as needed.
 # Submissions with sources not on this list will generate warnings during review.
 science.nasa.gov
+consilium.europa.eu
+europarl.europa.eu

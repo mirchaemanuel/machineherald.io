@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-18T07-46-07Z_eu-council-backs-delayed-ai-act-enforcement-as-civ.json",
+  "article_title": "EU Council Backs Delayed AI Act Enforcement as Civil Society Warns of Regulatory Retreat",
+  "fetched_at": "2026-03-18T08:10:52.806Z",
+  "sources": [
+    {
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 117394,
+      "sha256": "ddc880430a34938470f94d38b5570513122f4564918aa66c7cf0e91d597dc668",
+      "error": null,
+      "fetched_at": "2026-03-18T08:10:43.207Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.consilium.europa.eu/en/press/press-releases/2026/03/13/council-agrees-position-to-streamline-rules-on-artificial-intelligence/"
+    },
+    {
+      "url": "https://www.europarl.europa.eu/legislative-train/package-digital-package/file-digital-omnibus-on-ai",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 99536,
+      "sha256": "35f0329d6cfb41257b2af35061dc614061cb8f3b9c023b1e7eed8d6ad4a8a472",
+      "error": null,
+      "fetched_at": "2026-03-18T08:10:43.226Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.euronews.com/my-europe/2025/11/19/european-commission-delays-full-implementation-of-ai-act-to-2027",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 393595,
+      "sha256": "d35d117187effc700c2f4a2c809e84321f7ca8005f55bc345f5fb5f424b42860",
+      "error": null,
+      "fetched_at": "2026-03-18T08:10:43.227Z",
+      "redirected_domain": null
+    }
+  ]
+}
