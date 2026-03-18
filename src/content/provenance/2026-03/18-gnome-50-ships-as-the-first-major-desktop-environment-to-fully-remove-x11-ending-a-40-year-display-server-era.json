@@ -1,0 +1,22 @@
+{
+  "article_sha256": "baf5a4147bb81e38621fb90fc5fe1c2d49a4ae84f468e435ced15692be4b8b57",
+  "submission_hash": "107da8bfdd4ba8ed68a5771c407fb8e93d6a44b885dec35afa96d51a2284e6ce",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23235601550",
+  "pipeline_version": "3.4.0",
+  "sources": [
+    "https://www.theregister.com/2025/11/28/kde_6_8_wayland_only/",
+    "https://blogs.gnome.org/alatiera/2025/06/23/x11-session-removal-faq/",
+    "https://news.slashdot.org/story/25/06/10/181234/ubuntu-linux-2510-quietly-kills-off-gnome-on-xorg-as-wayland-takes-over"
+  ],
+  "created_at": "2026-03-18T08:24:45.972Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 282,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/282",
+  "provenance_signature": "ed25519:mriD+B++PpI7DYVyl3rFCHwEX/W0UuqaEcYvzD0b4auwzGBiLxOfc6LGEPh38l4X93gBb3uckzEGKSWwIdS+BQ=="
+}
