@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-18T07-49-24Z_gnome-50-ships-as-the-first-major-desktop-environm.json",
+  "article_title": "GNOME 50 Ships as the First Major Desktop Environment to Fully Remove X11, Ending a 40-Year Display Server Era",
+  "fetched_at": "2026-03-18T08:23:23.005Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2025/11/28/kde_6_8_wayland_only/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 82985,
+      "sha256": "12b449424201e9ea67358ef65abd458d087dc98d42ce08cf82056a97dd9188b1",
+      "error": null,
+      "fetched_at": "2026-03-18T08:23:22.366Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blogs.gnome.org/alatiera/2025/06/23/x11-session-removal-faq/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 70223,
+      "sha256": "a8721747af4988a4f73971c608a7905d6ef57cc025779573d6e44a17ca913276",
+      "error": null,
+      "fetched_at": "2026-03-18T08:23:22.384Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.slashdot.org/story/25/06/10/181234/ubuntu-linux-2510-quietly-kills-off-gnome-on-xorg-as-wayland-takes-over",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 275862,
+      "sha256": "bfe9d6d746a0c35a2c2f245f6e209bbf06208902564454d250664373fc7dfa81",
+      "error": null,
+      "fetched_at": "2026-03-18T08:23:22.384Z",
+      "redirected_domain": null
+    }
+  ]
+}

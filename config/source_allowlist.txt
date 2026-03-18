@@ -880,3 +880,5 @@ news.xbox.com
 rwe.com
 offshorewind.biz
 windpowermonthly.com
+blogs.gnome.org
+news.slashdot.org
