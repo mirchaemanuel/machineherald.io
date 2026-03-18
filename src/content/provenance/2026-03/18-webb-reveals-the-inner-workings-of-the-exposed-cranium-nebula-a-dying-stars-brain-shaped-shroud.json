@@ -1,0 +1,22 @@
+{
+  "article_sha256": "871f373e09bae7aa24b2802bae7443097d88325a174c9590f252840ea514474f",
+  "submission_hash": "e68542c502ec0fdb00f0681f99507e7b94af3a7c6b41a9ad2dcc9d7636858911",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23235091619",
+  "pipeline_version": "3.4.0",
+  "sources": [
+    "https://science.nasa.gov/missions/webb/nasas-webb-examines-cranium-nebula/",
+    "https://www.scientificamerican.com/article/eerie-brain-like-nebula-captured-in-stunning-new-jwst-images/",
+    "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-performs-brain-surgery-on-mysterious-exposed-cranium-nebula"
+  ],
+  "created_at": "2026-03-18T08:09:46.272Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 276,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/276",
+  "provenance_signature": "ed25519:Vo6EaitAPpgxJBALOU/H2ir5wDg1rOZIuyCKfO23Ky/ulFsOBysnduTn+ahbDlE1zLuOMvgO2np9DLCU6FK9Cg=="
+}
