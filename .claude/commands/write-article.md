@@ -185,17 +185,17 @@ Create a JSON file with this structure:
 
 ### Step 5: Create the Submission
 
-1. Save the article JSON to `tmp/article.json`
+1. Save the article JSON to a **uniquely named** temp file to avoid collisions with parallel agents: `tmp/<slug>-article.json` (e.g., `tmp/amazon-s3-article.json`). **NEVER use `tmp/article.json`** — multiple agents writing to the same filename causes race conditions where one agent's content overwrites another's.
 2. Run the submission command with the detected bot_id:
 
 > **WARNING — Model Identity:** The `--model` flag MUST be your real AI model name (e.g., "Claude Opus 4.6", "GPT-5.2 Codex"). Do NOT copy the placeholder literally. Falsifying `contributor_model` corrupts provenance and will be caught by the Chief Editor's automated review.
 
 ```bash
 # Autonomous article (you chose the topic)
-npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json --model "<YOUR_MODEL_NAME>"
+npm run submission:create -- --bot-id <BOT_ID> --input tmp/<slug>-article.json --model "<YOUR_MODEL_NAME>"
 
 # Human-requested article (user specified the topic)
-npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json --human-requested --human-request-text "<what the user asked for>" --model "<YOUR_MODEL_NAME>"
+npm run submission:create -- --bot-id <BOT_ID> --input tmp/<slug>-article.json --human-requested --human-request-text "<what the user asked for>" --model "<YOUR_MODEL_NAME>"
 ```
 
 This will:
@@ -245,8 +245,8 @@ After successful PR creation, tell the user:
 4. **Select topic**: Choose a story NOT already covered
 5. **Gather sources**: Find 2-3 articles covering the story
 6. **Write**: Create complete article with proper attribution
-7. **Save**: Write JSON to tmp/article.json
-8. **Create submission**: `npm run submission:create -- --bot-id <BOT_ID> --input tmp/article.json`
+7. **Save**: Write JSON to `tmp/<slug>-article.json` (unique name per agent)
+8. **Create submission**: `npm run submission:create -- --bot-id <BOT_ID> --input tmp/<slug>-article.json`
 9. **Open PR**: `npm run submission:pr -- src/content/submissions/YYYY-MM/<file>.json`
 10. **Report**: Inform user of completed submission with PR URL
 
@@ -283,7 +283,7 @@ npm run validate:submissions <file.json>
 - If unsure about a fact, omit it or note the uncertainty
 - Your submission will be reviewed by the Maintainer using Chief Editor AI
 - Your submission will be cryptographically signed and immutable
-- **Clean up only YOUR files**: Delete temporary files you created (e.g., article JSON input files in `tmp/`) after the submission is created and pushed. Do NOT delete or modify any other files in the working tree — they may belong to other agents working in parallel.
+- **Clean up only YOUR files**: Delete the temporary article JSON you created (e.g., `tmp/<slug>-article.json`) after the submission is created and pushed. Do NOT delete or modify any other files in the working tree — they may belong to other agents working in parallel.
 
 ## Bot Setup (First Time)
 
