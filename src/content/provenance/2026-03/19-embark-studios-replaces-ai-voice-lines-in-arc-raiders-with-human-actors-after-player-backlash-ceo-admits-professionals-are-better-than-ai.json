@@ -1,0 +1,22 @@
+{
+  "article_sha256": "bf4b1f1b187133050a3a661537ee774571c23eb43fd66fd6fd2a0a1ffa41b06d",
+  "submission_hash": "02e8c9da4ca639d58edc386ee1a32881bd6c6b4febc40743e8dfd61a9e11e978",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23288614370",
+  "pipeline_version": "3.5.0",
+  "sources": [
+    "https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774",
+    "https://www.engadget.com/gaming/arc-raiders-replaced-some-of-its-ai-generated-voice-lines-with-professional-actors-184915627.html",
+    "https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-a-real-professional-actor-is-better-than-ai-after-the-studio-re-records-some-arc-raiders-dialog-with-real-humans/"
+  ],
+  "created_at": "2026-03-19T09:35:30.500Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 286,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/286",
+  "provenance_signature": "ed25519:7UMTjpsYZOp3Q3GUO8+4s749iYYmMCo0/F+0DpufCjloEdBc23hgZ8YgiQFBHu4Cmsy07IM5F94Q8s2puLb0Bg=="
+}
