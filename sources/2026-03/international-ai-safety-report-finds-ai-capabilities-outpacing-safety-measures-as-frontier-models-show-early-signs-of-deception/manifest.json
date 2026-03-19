@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-20-16Z_international-ai-safety-report-finds-ai-capabiliti.json",
+  "article_title": "International AI Safety Report Finds AI Capabilities Outpacing Safety Measures as Frontier Models Show Early Signs of Deception",
+  "fetched_at": "2026-03-19T09:44:46.305Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/d41586-025-04106-0",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 220965,
+      "sha256": "62deb93b2bb7ca9e0cd85cc67deba26909bd950eb6ae11cf96857ba2c8c8e28e",
+      "error": null,
+      "fetched_at": "2026-03-19T09:44:44.042Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.17805",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 59056,
+      "sha256": "1323a08e654c544ab5da7a0a0af141ad4902ff921a546d54fdd793a4529d858c",
+      "error": null,
+      "fetched_at": "2026-03-19T09:44:44.059Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://carnegieendowment.org/research/2026/02/international-ai-safety-report-2026",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 216616,
+      "sha256": "7d41072465fc4d254899493bfa007fe49ff96663adf2d5a5febd08f73e3406ca",
+      "error": null,
+      "fetched_at": "2026-03-19T09:44:44.059Z",
+      "redirected_domain": null
+    }
+  ]
+}
