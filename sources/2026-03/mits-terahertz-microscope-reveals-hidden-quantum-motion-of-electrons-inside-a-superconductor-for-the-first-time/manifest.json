@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-19-32Z_mits-terahertz-microscope-reveals-hidden-quantum-m.json",
+  "article_title": "MIT's Terahertz Microscope Reveals Hidden Quantum Motion of Electrons Inside a Superconductor for the First Time",
+  "fetched_at": "2026-03-19T09:39:15.880Z",
+  "sources": [
+    {
+      "url": "https://news.mit.edu/2026/terahertz-microscope-reveals-motion-superconducting-electrons-0204",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 121332,
+      "sha256": "46692af5f946b3d29c6509bd9ed5162dd3852bf8f528829538de60b73511cc28",
+      "error": null,
+      "fetched_at": "2026-03-19T09:39:14.291Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064509.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 53001,
+      "sha256": "4ccb457a1587d162d3e2af5585e093dd4d69b3b73ab057d7d222600879b93bb8",
+      "error": null,
+      "fetched_at": "2026-03-19T09:39:14.307Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/innovation/mit-terahertz-microscope-quantum-motio",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 543081,
+      "sha256": "05ff461f84a2fe1d83df8b71916284c0e863cb0adcea853af6a20dd5f6459f9e",
+      "error": null,
+      "fetched_at": "2026-03-19T09:39:14.307Z",
+      "redirected_domain": null
+    }
+  ]
+}
