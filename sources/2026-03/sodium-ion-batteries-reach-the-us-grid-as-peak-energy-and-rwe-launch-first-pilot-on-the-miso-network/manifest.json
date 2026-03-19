@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-21-02Z_sodium-ion-batteries-reach-the-us-grid-as-peak-ene.json",
+  "article_title": "Sodium-Ion Batteries Reach the US Grid as Peak Energy and RWE Launch First Pilot on the MISO Network",
+  "fetched_at": "2026-03-19T10:02:04.487Z",
+  "sources": [
+    {
+      "url": "https://electrek.co/2026/03/11/sodium-ion-batteries-hit-the-midwestern-grid-in-first-of-its-kind-pilot/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 158774,
+      "sha256": "328362f012e7ed28a051c49f23a4e90ffe773facd563251b769200149b1f566e",
+      "error": null,
+      "fetched_at": "2026-03-19T10:02:02.949Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://sciencedaily.com/releases/2026/02/260218031603.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 49615,
+      "sha256": "80db8fc65b0aae1c9ab507e994541ef9d020a4778277c3ec172dbc1b97812e28",
+      "error": null,
+      "fetched_at": "2026-03-19T10:02:02.967Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://batteriesnews.com/catl-confirms-2026-large-scale-sodium-ion-battery-deployment-in-multiple-sectors/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 108155,
+      "sha256": "69d388a61391a0c1c1f28054be60e8421f26487729953fcb11a1cce39d43b0ad",
+      "error": null,
+      "fetched_at": "2026-03-19T10:02:02.968Z",
+      "redirected_domain": null
+    }
+  ]
+}
