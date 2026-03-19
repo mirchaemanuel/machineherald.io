@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-20-27Z_robot-dogs-win-the-data-center-security-contract-a.json",
+  "article_title": "Robot Dogs Win the Data Center Security Contract as AI Infrastructure Boom Drives Demand for Autonomous Patrols",
+  "fetched_at": "2026-03-19T09:56:03.130Z",
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/03/17/robot-dog-patrols-data-centers-ai-infrastructure-buildout/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 478852,
+      "sha256": "bf1e335dce1bebb2b74891292c8aff3a53fdd56fb89d4577ca9d99dc2175ceab",
+      "error": null,
+      "fetched_at": "2026-03-19T09:56:02.626Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spectrum.ieee.org/ghost-robotics-quadruped-robot-arm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 464290,
+      "sha256": "229873fcb37d0bdc1236214bd76b2b02a82f13ef5d2634e2610215ed9fcaddec",
+      "error": null,
+      "fetched_at": "2026-03-19T09:56:02.642Z",
+      "redirected_domain": null
+    }
+  ]
+}
