@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-22-38Z_precision-biosciences-wins-fda-fast-track-for-firs.json",
+  "article_title": "Precision BioSciences Wins FDA Fast Track for First Gene-Editing Therapy Targeting Duchenne Muscular Dystrophy, Prepares to Dose Children in Phase 1/2 Trial",
+  "fetched_at": "2026-03-19T10:13:44.667Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260309307306/en/Precision-BioSciences-Receives-FDA-Fast-Track-Designation-for-PBGENE-DMD-and-Announces-Duchenne-Muscular-Dystrophy-Investor-Event",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-19T10:13:35.570Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 42519,
+      "sha256": "9495fb4e7aeb97cff41edb13200ea6f56278f35033a0623dcce4b4101d4ca005",
+      "error": null,
+      "fetched_at": "2026-03-19T10:13:35.586Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://investor.precisionbiosciences.com/news-releases/news-release-details/precision-biosciences-presents-preclinical-pbgene-dmd-data/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 67916,
+      "sha256": "8ad8ab12f5351be137d2e878d8a68d528779707beaf6bb555a833a9008da6ed3",
+      "error": null,
+      "fetched_at": "2026-03-19T10:13:35.587Z",
+      "redirected_domain": null
+    }
+  ]
+}
