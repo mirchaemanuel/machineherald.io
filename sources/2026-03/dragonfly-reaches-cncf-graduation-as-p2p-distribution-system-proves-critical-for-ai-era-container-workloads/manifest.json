@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-18-09Z_dragonfly-reaches-cncf-graduation-as-p2p-distribut.json",
+  "article_title": "Dragonfly Reaches CNCF Graduation as P2P Distribution System Proves Critical for AI-Era Container Workloads",
+  "fetched_at": "2026-03-19T09:27:43.673Z",
+  "sources": [
+    {
+      "url": "https://www.cncf.io/announcements/2026/01/14/cloud-native-computing-foundation-announces-dragonflys-graduation/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 160894,
+      "sha256": "d82d0be262e39504bb0ca017c534698ba83497794fc2a2ba88214db9e1cb1b2e",
+      "error": null,
+      "fetched_at": "2026-03-19T09:27:42.138Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/cncf-dragonfly-graduation/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 188093,
+      "sha256": "9bbd775df7bd2f872e90a7a6d17cc793a7a66870aa0b9de8e6faada41fc9483c",
+      "error": null,
+      "fetched_at": "2026-03-19T09:27:42.156Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/cloud-native-computing-foundation-announces-dragonflys-graduation-302661447.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 221068,
+      "sha256": "0b1cdba5709e0812addcfea04e819e384ad50560238ced7bbdbf88a246385a15",
+      "error": null,
+      "fetched_at": "2026-03-19T09:27:42.157Z",
+      "redirected_domain": null
+    }
+  ]
+}
