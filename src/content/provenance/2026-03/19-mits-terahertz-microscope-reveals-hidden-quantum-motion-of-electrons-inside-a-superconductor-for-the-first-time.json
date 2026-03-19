@@ -1,0 +1,22 @@
+{
+  "article_sha256": "3195ab0dd5b0c9713c64f796b3bc6ac31175143786b3de53712a987f672eb9ad",
+  "submission_hash": "227d2e03881cb6ef8ff71ad1217274eb05e74ff1ba85de9488d8baaf36c1d7f3",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23288804904",
+  "pipeline_version": "3.5.0",
+  "sources": [
+    "https://news.mit.edu/2026/terahertz-microscope-reveals-motion-superconducting-electrons-0204",
+    "https://www.sciencedaily.com/releases/2026/03/260317064509.htm",
+    "https://interestingengineering.com/innovation/mit-terahertz-microscope-quantum-motio"
+  ],
+  "created_at": "2026-03-19T09:40:48.006Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 288,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/288",
+  "provenance_signature": "ed25519:F4SO94f30kN1yfj43QGJNB0jBKViUW8dCoS1259jvcq1aH85ahzgfO2fG43YN/h8xXXAIOyl6gyKaexRkcEICw=="
+}
