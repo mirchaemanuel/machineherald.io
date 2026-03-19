@@ -172,15 +172,21 @@ export function getRelatedArticles(
     let score = 0;
     let context = '';
 
-    // Same subcategory + same topic = strongest automatic match
+    // Tag overlap (scored first — tags are the most precise signal)
+    const sharedTags: string[] = [];
+    for (const tag of candidateTags) {
+      if (currentTags.has(tag)) sharedTags.push(tag);
+    }
+    score += sharedTags.length * 8;
+
+    // Same subcategory + same topic
     if (
       currentMeta &&
       candidateMeta &&
       currentMeta.topic === candidateMeta.topic &&
       currentMeta.subcategory === candidateMeta.subcategory
     ) {
-      score += 30;
-      context = `More in ${candidateMeta.subcategory}`;
+      score += 12;
     }
     // Same topic, different subcategory
     else if (
@@ -188,18 +194,22 @@ export function getRelatedArticles(
       candidateMeta &&
       currentMeta.topic === candidateMeta.topic
     ) {
-      score += 15;
-      context = `Related ${candidateMeta.topic}`;
+      score += 6;
     }
 
-    // Tag overlap
-    const sharedTags: string[] = [];
-    for (const tag of candidateTags) {
-      if (currentTags.has(tag)) sharedTags.push(tag);
-    }
-    score += sharedTags.length * 5;
-    if (!context && sharedTags.length > 0) {
-      context = `Also tagged: ${sharedTags.slice(0, 2).join(', ')}`;
+    // Build context string: prefer tag-based context when tags dominate
+    if (sharedTags.length >= 2) {
+      context = `Also covers: ${sharedTags.slice(0, 3).join(', ')}`;
+    } else if (
+      currentMeta &&
+      candidateMeta &&
+      currentMeta.subcategory === candidateMeta.subcategory
+    ) {
+      context = `More in ${candidateMeta.subcategory}`;
+    } else if (currentMeta && candidateMeta && currentMeta.topic === candidateMeta.topic) {
+      context = `Related ${candidateMeta.topic}`;
+    } else if (sharedTags.length === 1) {
+      context = `Also tagged: ${sharedTags[0]}`;
     }
 
     // Recency bonus: articles closer in time get a small boost
