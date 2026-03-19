@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-19-25Z_embark-studios-replaces-ai-voice-lines-in-arc-raid.json",
+  "article_title": "Embark Studios Replaces AI Voice Lines in Arc Raiders With Human Actors After Player Backlash, CEO Admits Professionals Are 'Better Than AI'",
+  "fetched_at": "2026-03-19T09:33:48.124Z",
+  "sources": [
+    {
+      "url": "https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 126670,
+      "sha256": "69b86466bc3ed1e2150c5d67c5fc551828b8c6171e629c7f19dbde1ecd8a6505",
+      "error": null,
+      "fetched_at": "2026-03-19T09:33:46.881Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.engadget.com/gaming/arc-raiders-replaced-some-of-its-ai-generated-voice-lines-with-professional-actors-184915627.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 352923,
+      "sha256": "d0ac0229ecc23f10b0b0a34bfb2c5482f4408dbe03600cb331145b6ac491402a",
+      "error": null,
+      "fetched_at": "2026-03-19T09:33:46.898Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.pcgamer.com/games/third-person-shooter/embark-ceo-says-a-real-professional-actor-is-better-than-ai-after-the-studio-re-records-some-arc-raiders-dialog-with-real-humans/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1414580,
+      "sha256": "65e5e53dbf2f8d9522e82cd89a05d3847d7f4393d9cda4f1eaab07b1d8065cbc",
+      "error": null,
+      "fetched_at": "2026-03-19T09:33:46.899Z",
+      "redirected_domain": null
+    }
+  ]
+}
