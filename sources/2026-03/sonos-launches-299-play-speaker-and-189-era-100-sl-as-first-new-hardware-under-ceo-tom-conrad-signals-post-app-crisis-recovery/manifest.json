@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-20-18Z_sonos-launches-299-play-speaker-and-189-era-100-sl.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T10-29-56Z_sonos-launches-299-play-speaker-and-189-era-100-sl.json",
   "article_title": "Sonos Launches $299 Play Speaker and $189 Era 100 SL as First New Hardware Under CEO Tom Conrad Signals Post-App-Crisis Recovery",
-  "fetched_at": "2026-03-19T09:47:18.561Z",
+  "fetched_at": "2026-03-19T11:45:22.504Z",
   "sources": [
     {
       "url": "https://9to5mac.com/2026/03/10/sonos-announces-two-new-products-including-299-portable-airplay-2-speaker/",
@@ -11,7 +11,7 @@
       "content_length": 157208,
       "sha256": "cc1c5487490aac76c45ac593a6ac2fc9c213bde0d1e7d49a9929529bb91c1696",
       "error": null,
-      "fetched_at": "2026-03-19T09:47:09.378Z",
+      "fetched_at": "2026-03-19T11:45:13.320Z",
       "redirected_domain": null
     },
     {
@@ -22,7 +22,7 @@
       "content_length": null,
       "sha256": null,
       "error": "Forbidden",
-      "fetched_at": "2026-03-19T09:47:09.396Z",
+      "fetched_at": "2026-03-19T11:45:13.337Z",
       "redirected_domain": null
     },
     {
@@ -33,7 +33,7 @@
       "content_length": 1682887,
       "sha256": "e640c70033f5d427f13dd183e003c7ae256abe48b58bdc9c1edcdb8fb34679be",
       "error": null,
-      "fetched_at": "2026-03-19T09:47:09.396Z",
+      "fetched_at": "2026-03-19T11:45:13.338Z",
       "redirected_domain": null
     }
   ]
