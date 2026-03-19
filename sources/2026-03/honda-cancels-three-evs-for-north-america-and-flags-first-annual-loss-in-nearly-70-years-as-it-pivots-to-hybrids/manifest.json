@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-22-12Z_honda-cancels-three-evs-for-north-america-and-flag.json",
+  "article_title": "Honda Cancels Three EVs for North America and Flags First Annual Loss in Nearly 70 Years as It Pivots to Hybrids",
+  "fetched_at": "2026-03-19T10:11:27.964Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/13/honda-flags-first-annual-loss-hit-by-15point7-billion-ev-charge.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 762218,
+      "sha256": "3cb2275d3ae672d04ef3e611e22a40d782853d442847d1249de27d7fdafcfa04",
+      "error": null,
+      "fetched_at": "2026-03-19T10:11:18.895Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.japantimes.co.jp/business/2026/03/12/companies/honda-ev-loss/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-19T10:11:18.911Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.foxbusiness.com/markets/honda-cancels-3-planned-ev-models-us",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 203637,
+      "sha256": "369f9b01819c9d462fb5c27c1df1c8097aa3e0b2f930a245015853e4a4cadec4",
+      "error": null,
+      "fetched_at": "2026-03-19T10:11:18.912Z",
+      "redirected_domain": null
+    }
+  ]
+}
