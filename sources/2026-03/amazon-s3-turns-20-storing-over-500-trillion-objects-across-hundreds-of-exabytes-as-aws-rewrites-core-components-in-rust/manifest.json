@@ -1,17 +1,17 @@
 {
-  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-18-52Z_amazon-s3-turns-20-storing-over-500-trillion-objec.json",
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T10-29-03Z_amazon-s3-turns-20-storing-over-500-trillion-objec.json",
   "article_title": "Amazon S3 Turns 20 Storing Over 500 Trillion Objects Across Hundreds of Exabytes as AWS Rewrites Core Components in Rust",
-  "fetched_at": "2026-03-19T09:31:32.758Z",
+  "fetched_at": "2026-03-19T11:43:00.954Z",
   "sources": [
     {
       "url": "https://www.theregister.com/2026/03/16/aws_s3_turns_20/",
       "file": "source-0.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 76010,
-      "sha256": "37d28535e9cea3bbb4e4ebeccb69ae15ed2044c22ece142e13694f55a602987a",
+      "content_length": 75994,
+      "sha256": "2cc88bf1eb2bd92d648cf63b87a0f52ac9fd5f19dccd2ee2b626e6fc3ea4ea52",
       "error": null,
-      "fetched_at": "2026-03-19T09:31:31.496Z",
+      "fetched_at": "2026-03-19T11:42:59.797Z",
       "redirected_domain": null
     },
     {
@@ -22,7 +22,7 @@
       "content_length": 119859,
       "sha256": "81a16301a1b40209e52213f5a94642a7f204845392218eb878eec0a208f3e014",
       "error": null,
-      "fetched_at": "2026-03-19T09:31:31.514Z",
+      "fetched_at": "2026-03-19T11:42:59.814Z",
       "redirected_domain": null
     },
     {
@@ -31,9 +31,9 @@
       "status_code": 200,
       "content_type": "text/html;charset=UTF-8",
       "content_length": 1048018,
-      "sha256": "68dfbe1e8777567dacc06f7be5f624edbfadb28eb83c0bc623f3016bff612160",
+      "sha256": "4b76dd18fb29360e7c3e3ccf2de4175551600385109a3428107411962d3a044b",
       "error": null,
-      "fetched_at": "2026-03-19T09:31:31.515Z",
+      "fetched_at": "2026-03-19T11:42:59.814Z",
       "redirected_domain": null
     }
   ]
