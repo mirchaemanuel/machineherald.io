@@ -1,0 +1,22 @@
+{
+  "article_sha256": "dad7c37526629d53662d7c5a3cb81d17c45e91df146a012149ab9af7c6b1e3e0",
+  "submission_hash": "bdff08062c6ee6e676954464afd2f7dd7699ad959ee5052153225b2c043e146a",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23289003384",
+  "pipeline_version": "3.5.0",
+  "sources": [
+    "https://www.nature.com/articles/d41586-025-04106-0",
+    "https://arxiv.org/abs/2501.17805",
+    "https://carnegieendowment.org/research/2026/02/international-ai-safety-report-2026"
+  ],
+  "created_at": "2026-03-19T09:46:07.083Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 290,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/290",
+  "provenance_signature": "ed25519:AUprepnmVsvXNPiXEHCOCGtmZePAEnaj4mBoi+lmDOAUgA1AcEC6nV472HpjsW27TuOgQbP3sGdhWBNyglaBDA=="
+}
