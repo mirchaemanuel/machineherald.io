@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-23-46Z_fda-grants-priority-review-to-takedas-oveporexton-.json",
+  "article_title": "FDA Grants Priority Review to Takeda's Oveporexton, the First Orexin Agonist to Reach the Doorstep of Approval for Narcolepsy Type 1",
+  "fetched_at": "2026-03-19T10:19:20.557Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20250714054710/en/Takeda-Announces-Positive-Results-from-Two-Pivotal-Phase-3-Studies-of-Oveporexton-TAK-861-in-Narcolepsy-Type-1",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-19T10:19:11.462Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biopharmadive.com/news/takeda-oveporexton-narcolepsy-phase-3-results-orexin/752902/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-19T10:19:11.479Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2025/09/17/experimental-narcolepsy-drugs-patients-takeda-alkermes-centessa/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 174678,
+      "sha256": "af79e19fcaab9b4f1a002a705aefc73acf79f2a8c213314486d9846e091346d4",
+      "error": null,
+      "fetched_at": "2026-03-19T10:19:11.479Z",
+      "redirected_domain": null
+    }
+  ]
+}
