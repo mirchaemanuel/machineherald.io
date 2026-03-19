@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-20-09Z_los-alamos-thor-framework-uses-tensor-networks-to-.json",
+  "article_title": "Los Alamos THOR Framework Uses Tensor Networks to Solve a Century-Old Physics Problem 400 Times Faster Than Supercomputer Simulations",
+  "fetched_at": "2026-03-19T09:42:16.815Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260315004344.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51293,
+      "sha256": "a246edef7286a1e4ad21f3eaa73fb49d0b85a02537f11476f3d66ee5da5c6700",
+      "error": null,
+      "fetched_at": "2026-03-19T09:41:58.378Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2025-09-ai-tensor-network-based-framework.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-19T09:41:58.395Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://journals.aps.org/prmaterials/abstract/10.1103/xrbw-xr49",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-19T09:41:58.395Z",
+      "redirected_domain": null
+    }
+  ]
+}
