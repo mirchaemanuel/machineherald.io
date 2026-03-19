@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-19T09-21-33Z_uk-government-abandons-ai-training-copyright-excep.json",
+  "article_title": "UK Government Abandons AI Training Copyright Exception After 88 Percent of Consultation Respondents Backed Mandatory Licensing",
+  "fetched_at": "2026-03-19T10:07:10.699Z",
+  "sources": [
+    {
+      "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 74497,
+      "sha256": "3f6ba1d0f07c0efd96b52648cebe55feddf1f0fb0e30e6fd5d8f70378ef4f7ce",
+      "error": null,
+      "fetched_at": "2026-03-19T10:07:01.536Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/copyright-and-artificial-intelligence-progress-report/copyright-and-artificial-intelligence-statement-of-progress-under-section-137-data-use-and-access-act",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 107398,
+      "sha256": "c4ff7f18370abc93330af7afdd6992813f59c7be78a6780d3389b3b474165379",
+      "error": null,
+      "fetched_at": "2026-03-19T10:07:01.552Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://publications.parliament.uk/pa/ld5901/ldselect/ldcomm/267/26702.htm",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-19T10:07:01.553Z",
+      "redirected_domain": null
+    }
+  ]
+}
