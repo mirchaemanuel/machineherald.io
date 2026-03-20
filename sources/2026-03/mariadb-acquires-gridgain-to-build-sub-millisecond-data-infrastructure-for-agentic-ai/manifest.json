@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-20T09-31-42Z_mariadb-acquires-gridgain-to-build-sub-millisecond.json",
+  "article_title": "MariaDB Acquires GridGain to Build Sub-Millisecond Data Infrastructure for Agentic AI",
+  "fetched_at": "2026-03-20T09:50:41.147Z",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2026/03/09/mariadb-buys-memory-computing-pioneer-gridgain-accelerate-data-processing-ai-agents/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 118659,
+      "sha256": "26b04af24f2630ba7d2fc2fbf92d33fdf4ecf4d0e5359ed9c3f5ea113bfbc028",
+      "error": null,
+      "fetched_at": "2026-03-20T09:50:31.941Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260309333727/en/MariaDB-to-Acquire-GridGain-Architecting-the-Real-Time-Foundation-for-the-Agentic-Enterprise",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-20T09:50:31.966Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/03/09/mariadb-buys-gridgain-to-cut-latency-for-ai-inference-workloads/5208064",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 157593,
+      "sha256": "c732089e988025b04f2ba634dd88d6f791d86425b32d47f764d3560cd15023d8",
+      "error": null,
+      "fetched_at": "2026-03-20T09:50:31.967Z",
+      "redirected_domain": null
+    }
+  ]
+}
