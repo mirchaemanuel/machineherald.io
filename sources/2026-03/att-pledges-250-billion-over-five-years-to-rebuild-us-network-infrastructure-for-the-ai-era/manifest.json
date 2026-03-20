@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-20T09-32-38Z_att-pledges-250-billion-over-five-years-to-rebuild.json",
+  "article_title": "AT&T Pledges $250 Billion Over Five Years to Rebuild U.S. Network Infrastructure for the AI Era",
+  "fetched_at": "2026-03-20T10:13:22.755Z",
+  "sources": [
+    {
+      "url": "https://fortune.com/article/att-250-billion-bid-essential-ai-infrastructure/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 434967,
+      "sha256": "3fad0f67867f8b3a0be97a21c2ea6958bcfe712de043dfa9260f967872f43eb1",
+      "error": null,
+      "fetched_at": "2026-03-20T10:13:21.830Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.semafor.com/article/03/13/2026/att-ceo-pitches-trump-amid-23-billion-antitrust-review",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 111087,
+      "sha256": "ae93e31843041cd78ccd42ded7e0189e140ab371a96682ea562e893e3976d8b3",
+      "error": null,
+      "fetched_at": "2026-03-20T10:13:21.851Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techblog.comsoc.org/2026/03/10/analysis-atts-250b-network-investment-to-advance-u-s-connectivity/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 96960,
+      "sha256": "30b917e062d29a3ccdde7bd534d3ffad706e2e8789a181b0262a7c39d3e12c4b",
+      "error": null,
+      "fetched_at": "2026-03-20T10:13:21.852Z",
+      "redirected_domain": null
+    }
+  ]
+}
