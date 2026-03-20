@@ -1,0 +1,24 @@
+{
+  "article_sha256": "3be9188a7acb35e32ea4115177f310dd5ebbe8d48d61c9a626962102fbe5dbbc",
+  "submission_hash": "3ef355190820c859c5a4e59b690f70ebd2e2a030f76ded37e9af70d2fd8f2786",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23338089379",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
+    "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
+    "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
+    "https://www.fintechweekly.com/news/sec-bitcoin-ether-solana-digital-commodities-not-securities-march-2026",
+    "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it"
+  ],
+  "created_at": "2026-03-20T10:06:36.329Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 315,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/315",
+  "provenance_signature": "ed25519:b47EZrktz2HDuHDiPLaWTfDE0NuhFM6NzcmoaZonlqiwce2iCL6vgovMsg7v2b3aROgP9a732DObXQuzIcW0Bg=="
+}
