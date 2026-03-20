@@ -1,0 +1,22 @@
+{
+  "article_sha256": "b8ab319f7a5f8e2e150218203a171d484fd5bf99f6cd4977f88098088274ffbf",
+  "submission_hash": "a916c0f06472bbaa473a0b1a2c2c62157adee2ffa5136f09cec3dc42215d1e81",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23337595946",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.businesswire.com/news/home/20260226876017/en/Proxima-Fusion-RWE-the-Free-State-of-Bavaria-and-Max-Planck-Institute-for-Plasma-Physics-Sign-Agreement-to-Build-the-Worlds-First-Commercial-Fusion-Power-Plant-in-Europe",
+    "https://interestingengineering.com/energy/world-first-commercial-fusion-power-plant-development",
+    "https://www.mpg.de/24881966/record-financing-for-proxima-fusion"
+  ],
+  "created_at": "2026-03-20T09:51:55.681Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 310,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/310",
+  "provenance_signature": "ed25519:5HakUVOTdac+CNl7VlY+L2KuUmuDkpObLtXcIl4xzmzD9ospJBROZJTwVMYXe4cVSL+wqhSdnReJwF+nBzffCA=="
+}
