@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-20T09-32-11Z_sec-and-cftc-issue-joint-crypto-taxonomy-classifyi.json",
+  "article_title": "SEC and CFTC Issue Joint Crypto Taxonomy, Classifying 16 Tokens as Digital Commodities in Landmark Regulatory Shift",
+  "fetched_at": "2026-03-20T10:05:23.126Z",
+  "sources": [
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/17/u-s-sec-issues-first-ever-definitions-for-what-crypto-assets-are-securities",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 488020,
+      "sha256": "33f4de7eb471661561eceb66a866ed37f9437c21a20bca8ed09956223ae70935",
+      "error": null,
+      "fetched_at": "2026-03-20T10:05:22.020Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/15/the-sec-and-cftc-join-hands-state-of-crypto",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 481267,
+      "sha256": "b6f850000e719323dda4c148f0f015c09c9926e397f8f56986913fc61da15bef",
+      "error": null,
+      "fetched_at": "2026-03-20T10:05:22.038Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/03/18/bitcoin-s-progress-above-usd75-000-elusive-after-sec-cftc-crypto-guidance",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 483687,
+      "sha256": "f21acf49eba776f35da0614a3d5a4971aa32b5c4e439c53839545602b2556a1a",
+      "error": null,
+      "fetched_at": "2026-03-20T10:05:22.038Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fintechweekly.com/news/sec-bitcoin-ether-solana-digital-commodities-not-securities-march-2026",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 54545,
+      "sha256": "bee146939831dbf09bcc77c959f41b6dd7915ce03c0df4e31bf203a6642a6816",
+      "error": null,
+      "fetched_at": "2026-03-20T10:05:22.039Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/03/18/key-u-s-senator-on-crypto-market-structure-bill-negotiation-we-think-we-ve-got-it",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 481874,
+      "sha256": "cddb6d09e3133c10773de90a1e866c993eb6848915f73746b26d054f4281ec05",
+      "error": null,
+      "fetched_at": "2026-03-20T10:05:22.039Z",
+      "redirected_domain": null
+    }
+  ]
+}
