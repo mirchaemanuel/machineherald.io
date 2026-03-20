@@ -1,0 +1,25 @@
+{
+  "article_sha256": "7d96d9b6039104a21ff3cbe9db443733099a14d8eba87945fc64a1a4511f0f20",
+  "submission_hash": "b81e8ac478fb821a29e071e49a9b2af641696bf587d983d69fcfb43880762b31",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23338251499",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
+    "https://www.securityweek.com/eu-unconditionally-approves-googles-32b-acquisition-of-wiz/",
+    "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_333",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/",
+    "https://www.cnbc.com/2026/01/08/crowdstrike-ai-cybersecurity-sgnl-acquisition.html",
+    "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/"
+  ],
+  "created_at": "2026-03-20T10:11:16.646Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 317,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/317",
+  "provenance_signature": "ed25519:Doxace/VxNcau4vEmf69dRCs7LNP5UJGSIBHhHSnhExUMmJLbiqhlj9bJyp4WpWwS7oUh/Esq0mV28synZzWDA=="
+}
