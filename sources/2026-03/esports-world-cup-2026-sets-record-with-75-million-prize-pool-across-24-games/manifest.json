@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-20T09-32-13Z_esports-world-cup-2026-sets-record-with-75-million.json",
+  "article_title": "Esports World Cup 2026 Sets Record With $75 Million Prize Pool Across 24 Games",
+  "fetched_at": "2026-03-20T10:07:37.942Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/75-million-prize-pool-full-game-lineup-and-schedule-announced-for-esports-world-cup-2026-302665513.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 235495,
+      "sha256": "8ba5caa628ba079f7975bb59f69a2ec15fa079847ed07de9c43b57ce2cca38c1",
+      "error": null,
+      "fetched_at": "2026-03-20T10:07:36.282Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.morningstar.com/news/pr-newswire/20260120la66740/75-million-prize-pool-full-game-lineup-and-schedule-announced-for-esports-world-cup-2026",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 443733,
+      "sha256": "ff3bbff38e2479d7e4f65d035070617e41faed08b6c21decb607b50548fd476d",
+      "error": null,
+      "fetched_at": "2026-03-20T10:07:36.300Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://english.news.cn/20260121/fe557f46ede34b05a5aeb7e5dcbff3f2/c.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 7172,
+      "sha256": "31640dbb5605c34a418f80ea0148f2c1a236ad382ba16bbd54281c456b7c1825",
+      "error": null,
+      "fetched_at": "2026-03-20T10:07:36.300Z",
+      "redirected_domain": null
+    }
+  ]
+}
