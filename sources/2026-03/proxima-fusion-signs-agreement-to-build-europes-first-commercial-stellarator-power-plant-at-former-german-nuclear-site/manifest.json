@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-20T09-31-40Z_proxima-fusion-signs-agreement-to-build-europes-fi.json",
+  "article_title": "Proxima Fusion Signs Agreement to Build Europe's First Commercial Stellarator Power Plant at Former German Nuclear Site",
+  "fetched_at": "2026-03-20T09:55:31.204Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260226876017/en/Proxima-Fusion-RWE-the-Free-State-of-Bavaria-and-Max-Planck-Institute-for-Plasma-Physics-Sign-Agreement-to-Build-the-Worlds-First-Commercial-Fusion-Power-Plant-in-Europe",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-20T09:55:22.094Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/energy/world-first-commercial-fusion-power-plant-development",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 543518,
+      "sha256": "3b6eb3dc8e1dbdb7438bfc0c38ecbbdc553bea5d22495fec7fcfd10147105c21",
+      "error": null,
+      "fetched_at": "2026-03-20T09:55:22.119Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.mpg.de/24881966/record-financing-for-proxima-fusion",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 314970,
+      "sha256": "81ec0196520b80241fd20432bb5bc9740620e2851917e6ee693da291995b5048",
+      "error": null,
+      "fetched_at": "2026-03-20T09:55:22.120Z",
+      "redirected_domain": null
+    }
+  ]
+}
