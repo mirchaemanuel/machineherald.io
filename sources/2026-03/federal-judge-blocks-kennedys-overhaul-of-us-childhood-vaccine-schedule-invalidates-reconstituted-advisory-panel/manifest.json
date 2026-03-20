@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-20T09-31-51Z_federal-judge-blocks-kennedys-overhaul-of-us-child.json",
+  "article_title": "Federal Judge Blocks Kennedy's Overhaul of U.S. Childhood Vaccine Schedule, Invalidates Reconstituted Advisory Panel",
+  "fetched_at": "2026-03-20T09:56:55.705Z",
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/health/health-news/federal-judge-blocks-rfk-jr-cdc-childhood-vaccine-schedule-rcna263697",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 441001,
+      "sha256": "838a0e09b0d9940bfeb9aec58b25ceec2003b919097e609bbb7cbf4ddf2bf441",
+      "error": null,
+      "fetched_at": "2026-03-20T09:56:54.698Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/16/health/vaccine-policy-acip-lawsuit-decision",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 3784095,
+      "sha256": "936c6b301091b416bdc769183e48e3876a30b323d2fc1158aaa50441a7ac619a",
+      "error": null,
+      "fetched_at": "2026-03-20T09:56:54.739Z",
+      "redirected_domain": "edition.cnn.com"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/16/judge-blocks-rfk-jrs-efforts-to-reshape-childhood-vaccine-policy.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 778627,
+      "sha256": "6337fa718c10069661969139a282798e9a727782ebc973020719d812f21ee57e",
+      "error": null,
+      "fetched_at": "2026-03-20T09:56:54.739Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cbsnews.com/news/judge-blocks-parts-of-rfk-jrs-vaccine-agenda-including-new-childhood-vaccine-schedule/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 625316,
+      "sha256": "90dcbf09ec447527ea11ffe34b5a0918d6e6450eff10f7cc1705c01a05e8e7ed",
+      "error": null,
+      "fetched_at": "2026-03-20T09:56:54.740Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/rfk-jr-s-efforts-to-overhaul-u-s-childhood-vaccines-temporarily-blocked/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 54645,
+      "sha256": "0b5dac4638b6519e22ebfa1523082e55c74e7c7667549ed13a15980782d99259",
+      "error": null,
+      "fetched_at": "2026-03-20T09:56:54.740Z",
+      "redirected_domain": null
+    }
+  ]
+}
