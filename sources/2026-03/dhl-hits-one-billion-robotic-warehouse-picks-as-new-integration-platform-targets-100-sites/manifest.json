@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-21T12-12-08Z_dhl-hits-one-billion-robotic-warehouse-picks-as-ne.json",
+  "article_title": "DHL Hits One Billion Robotic Warehouse Picks as New Integration Platform Targets 100 Sites",
+  "fetched_at": "2026-03-21T12:23:23.107Z",
+  "sources": [
+    {
+      "url": "https://roboticsandautomationnews.com/2026/03/09/dhl-and-locus-robotics-reach-one-billion-warehouse-picks-milestone/99384/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 131613,
+      "sha256": "164730ad95b4f588bdfa29a2d133caf8d927fb6de2a6326706b053804294289b",
+      "error": null,
+      "fetched_at": "2026-03-21T12:23:21.824Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://group.dhl.com/en/media-relations/press-releases/2026/dhl-supply-chain-accelerates-automation-deployments-with-stv-robotics-softbot-platform.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 289742,
+      "sha256": "20283759acf1c249bf96af7bda39837a7286bc03951d97bdf18488b960005885",
+      "error": null,
+      "fetched_at": "2026-03-21T12:23:21.843Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://roboticsandautomationnews.com/2026/03/17/dhl-deploys-svt-robotics-platform-to-integrate-warehouse-robots-up-to-12-times-faster/99803/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 131836,
+      "sha256": "f82cc05d33361790146dabbd99d37b3daf49a536c8d717acdfb3ba07e2298ecc",
+      "error": null,
+      "fetched_at": "2026-03-21T12:23:21.844Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/13/shipping-auotmation-logistics-labor.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 789571,
+      "sha256": "158c67994c4c8bdace185e3486dbdd25538590f3901e4dcb4c9c976a31e95e90",
+      "error": null,
+      "fetched_at": "2026-03-21T12:23:21.844Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 757859,
+      "sha256": "6300b5894dad6fe97084f0c12e7c7e6cebecfd11c2fc6542bc9b8387bf7cb8de",
+      "error": null,
+      "fetched_at": "2026-03-21T12:23:21.844Z",
+      "redirected_domain": null
+    }
+  ]
+}
