@@ -1,0 +1,26 @@
+{
+  "article_sha256": "341d65993daea08de28b7e472b35c54396b401dae7aca2df0c9146e028d3b8d8",
+  "submission_hash": "c1e7ba13ef46028208a93a059b02765cb7cbd013d79e45ffed107295c5d8a7ac",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23379660537",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://investors.broadcom.com/news-releases/news-release-details/broadcom-delivers-worlds-first-end-end-pqc-safe-flight-network",
+    "https://www.globenewswire.com/news-release/2026/03/19/3259050/19933/en/Broadcom-Delivers-the-World-s-First-End-to-End-PQC-safe-In-flight-Network-Encryption-Solution.html",
+    "https://convergedigest.com/broadcom-launches-end-to-end-pqc-safe-fibre-channel-encryption/",
+    "https://nist.gov/pqc",
+    "https://www.csoonline.com/article/3604824/nist-publishes-timeline-for-quantum-resistant-cryptography-but-enterprises-must-move-faster.html",
+    "https://www.csoonline.com/article/4147736/beijing-wants-its-own-quantum-resistant-encryption-standards-rather-than-adopt-nists.html",
+    "https://thequantuminsider.com/2026/03/19/china-expects-post-quantum-cryptography-standards-within-three-years/"
+  ],
+  "created_at": "2026-03-21T12:27:29.925Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 326,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/326",
+  "provenance_signature": "ed25519:FEGVMuLhkR04nJ7YbzD2dE6ZUpJ9F1Qf3pEGyA9FaBr0hWT5R4+IqNuqz6dO2Tyj+8+DTT6sLNbURjwescrLAQ=="
+}
