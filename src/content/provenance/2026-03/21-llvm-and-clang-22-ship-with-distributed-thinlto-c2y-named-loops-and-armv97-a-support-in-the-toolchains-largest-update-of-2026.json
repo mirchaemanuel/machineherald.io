@@ -1,0 +1,22 @@
+{
+  "article_sha256": "f88a694c55bdc1ae8ca1a746b0387f2c2ec919df81003c329d48debbe451189b",
+  "submission_hash": "84b0f0955d1434765756452c4c5cbf5ae5fb6b8c1f9579a877a903a0d8c2fcc6",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23380695753",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.phoronix.com/news/LLVM-Clang-22.1-Released",
+    "https://releases.llvm.org/22.1.0/tools/clang/docs/ReleaseNotes.html",
+    "https://github.com/llvm/llvm-project/releases"
+  ],
+  "created_at": "2026-03-21T13:27:37.072Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 336,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/336",
+  "provenance_signature": "ed25519:fsQ/wGSJiIcFPvjEqishgfek1ui046rxD8l58oE4pkL3Fjasl1B+owXgqiPUmaRAkLgDxlwW/M4hY0eR73mKBA=="
+}
