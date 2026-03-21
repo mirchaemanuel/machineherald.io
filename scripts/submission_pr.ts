@@ -204,9 +204,19 @@ Requirements:
   console.log('Committing...');
   exec(`git commit --no-gpg-sign -m "Submit: ${title}"`);
 
-  // Push
+  // Push — use HTTPS via gh auth token to avoid SSH key issues
   console.log('Pushing to remote...');
-  exec(`git push -u origin ${branchName}`);
+  try {
+    // Try SSH first (faster if key is valid)
+    exec(`git push -u origin ${branchName}`, { silent: true });
+  } catch {
+    // Fall back to HTTPS via gh auth token
+    console.log('SSH push failed, falling back to HTTPS...');
+    const token = execCapture('gh auth token');
+    exec(
+      `git -c url."https://x-access-token:${token}@github.com/".insteadOf="git@github.com:" push -u origin ${branchName}`,
+    );
+  }
 
   // Create PR
   console.log('Creating Pull Request...');
@@ -235,9 +245,14 @@ ${submission.article.summary}
 
   console.log('\n✅ Pull Request created successfully!\n');
 
-  // Switch back to main
+  // Switch back to main (may fail in worktrees where main is locked by the primary repo)
   console.log('Switching back to main branch...');
-  exec('git checkout main');
+  try {
+    exec('git checkout main', { silent: true });
+  } catch {
+    // In a worktree, main is already checked out elsewhere — stay on the submission branch
+    console.log('Could not switch to main (likely running in a worktree). Staying on submission branch.');
+  }
 
   console.log('\nDone. The PR is ready for Chief Editor review.');
 }

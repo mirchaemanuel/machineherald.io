@@ -4,7 +4,13 @@
   "featured": false,
   "editorial_note": "Comprehensive preview of Ubuntu 26.04 LTS covering its unusually large number of simultaneous foundational changes. Connects to broader trends in memory safety (Rust adoption), post-quantum cryptography, and the Wayland transition.",
   "related_articles": [
-    "2026-03/18-gnome-50-ships-as-the-first-major-desktop-environment-to-fully-remove-x11-ending-a-40-year-display-server-era",
-    "2026-03/01-linux-70-enters-release-candidate-phase-with-14500-commits-intel-nova-lake-and-amd-zen-6-support"
+    {
+      "slug": "2026-03/18-gnome-50-ships-as-the-first-major-desktop-environment-to-fully-remove-x11-ending-a-40-year-display-server-era",
+      "context": "GNOME 50's Wayland-only transition ships in Ubuntu 26.04"
+    },
+    {
+      "slug": "2026-03/01-linux-70-enters-release-candidate-phase-with-14500-commits-intel-nova-lake-and-amd-zen-6-support",
+      "context": "The kernel underneath: Linux 7.0 with full Rust integration"
+    }
   ]
 }

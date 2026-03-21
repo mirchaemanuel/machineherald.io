@@ -4,7 +4,13 @@
   "featured": false,
   "editorial_note": "Covers two complementary DHL automation milestones — the billion-pick mark with Locus Robotics and the SOFTBOT integration platform rollout — providing useful context on the shift from pilot-scale to enterprise-scale logistics automation.",
   "related_articles": [
-    "2026-03/17-mind-robotics-raises-500-million-series-a-as-rivian-spinout-bets-on-task-specific-factory-robots-over-humanoids",
-    "2026-03/17-tesla-debuts-third-generation-optimus-at-shanghai-expo-targets-mass-production-by-year-end"
+    {
+      "slug": "2026-03/17-mind-robotics-raises-500-million-series-a-as-rivian-spinout-bets-on-task-specific-factory-robots-over-humanoids",
+      "context": "Task-specific factory robots vs. general-purpose humanoids"
+    },
+    {
+      "slug": "2026-03/17-tesla-debuts-third-generation-optimus-at-shanghai-expo-targets-mass-production-by-year-end",
+      "context": "Tesla's humanoid robot for factory automation"
+    }
   ]
 }
