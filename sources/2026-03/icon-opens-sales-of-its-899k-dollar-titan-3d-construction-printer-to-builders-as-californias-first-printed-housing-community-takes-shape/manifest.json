@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-21T13-04-53Z_icon-opens-sales-of-its-899k-dollar-titan-3d-const.json",
+  "article_title": "ICON Opens Sales of Its 899K Dollar Titan 3D Construction Printer to Builders as Californias First Printed Housing Community Takes Shape",
+  "fetched_at": "2026-03-21T13:22:15.250Z",
+  "sources": [
+    {
+      "url": "https://3dprintingindustry.com/news/icon-launches-titan-program-to-commercialize-robotic-3d-printing-construction-system-for-builders-249907/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 224534,
+      "sha256": "06a55375745c228ae0dd43d7616f25ebf8d734451a36f7feca6d084bfbc7a544",
+      "error": null,
+      "fetched_at": "2026-03-21T13:22:13.806Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.iconbuild.com/newsroom/icon-announces-first-commercial-rollout-of-its-3d-printing-construction-technology-for-builders",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 77676,
+      "sha256": "c6c2bc488c321090a9434b9b58b0c6a1bed2eb496ff065fe3c732a7cc87bb0ca",
+      "error": null,
+      "fetched_at": "2026-03-21T13:22:13.825Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.governing.com/urban/californias-first-3d-printed-housing-community-rises-in-yuba-county",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 150397,
+      "sha256": "6a8cc7f9c899ab93325f35ba0ac2db2ab1e94b3461eef42ce584628a0eb7102a",
+      "error": null,
+      "fetched_at": "2026-03-21T13:22:13.826Z",
+      "redirected_domain": null
+    }
+  ]
+}
