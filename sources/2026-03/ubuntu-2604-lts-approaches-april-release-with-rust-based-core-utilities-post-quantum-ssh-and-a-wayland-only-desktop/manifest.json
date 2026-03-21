@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-21T12-14-04Z_ubuntu-2604-lts-approaches-april-release-with-rust.json",
+  "article_title": "Ubuntu 26.04 LTS Approaches April Release with Rust-Based Core Utilities, Post-Quantum SSH, and a Wayland-Only Desktop",
+  "fetched_at": "2026-03-21T12:32:33.203Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2025/10/14/ubuntu_2510_is_here/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 64820,
+      "sha256": "45c343a5cff037075a4617f978b986b1718cbefa5db27fb0efe14c1f54f1287a",
+      "error": null,
+      "fetched_at": "2026-03-21T12:32:31.954Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2025/03/19/ubuntu_2510_rust/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 69753,
+      "sha256": "ea2c41f352b420a787c5c75dd7c76700acaf517703cedeb8d6b73a56f104b1d1",
+      "error": null,
+      "fetched_at": "2026-03-21T12:32:31.972Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.slashdot.org/story/25/11/01/079206/ubuntu-will-use-rust-for-dozens-of-core-linux-utilities",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 226705,
+      "sha256": "6a557bfef2f53d010142822ebb40be34a898788ea18cb5942c963c3858b984a8",
+      "error": null,
+      "fetched_at": "2026-03-21T12:32:31.972Z",
+      "redirected_domain": null
+    }
+  ]
+}
