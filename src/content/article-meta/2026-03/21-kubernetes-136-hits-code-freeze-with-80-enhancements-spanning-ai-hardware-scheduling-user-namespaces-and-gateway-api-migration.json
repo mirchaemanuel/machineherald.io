@@ -1,0 +1,15 @@
+{
+  "topic": "Software Development",
+  "subcategory": "Runtimes",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/16-kubecon-europe-2026-returns-to-amsterdam-with-12000-expected-attendees-and-a-new-focus-on-agentic-ai-infrastructure",
+      "context": "KubeCon Europe 2026 where many of these features were previewed"
+    },
+    {
+      "slug": "2026-03/19-dragonfly-reaches-cncf-graduation-as-p2p-distribution-system-proves-critical-for-ai-era-container-workloads",
+      "context": "CNCF ecosystem: Dragonfly graduation for container distribution"
+    }
+  ]
+}

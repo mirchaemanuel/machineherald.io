@@ -1,0 +1,23 @@
+{
+  "article_sha256": "6882f9bc869764b45001b1ecf1fd4c976f7d33518384038ef0801e4c593d8bfd",
+  "submission_hash": "5c02ae203f07786d3e987bccd71bbe3f152dd8a547ce59a01877545bf711dca5",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "local-1774097569854",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/",
+    "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/",
+    "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
+    "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
+    "https://bsky.social/about/blog/03-19-2026-series-b",
+    "https://www.geekwire.com/2026/bluesky-discloses-100m-series-b-round-raised-last-year/"
+  ],
+  "created_at": "2026-03-21T12:52:49.854Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "provenance_signature": "hmac-sha256:m+AKXh6yHvzxbncXbkBZ8OX898R/2H0gd+NUZltzsI4="
+}

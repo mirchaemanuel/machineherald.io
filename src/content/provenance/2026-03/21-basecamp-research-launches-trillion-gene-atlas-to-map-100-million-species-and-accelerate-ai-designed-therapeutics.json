@@ -1,0 +1,21 @@
+{
+  "article_sha256": "09555cad969087ba471cc003cef6eaac4c84f43106561e72dff95cb2a2428763",
+  "submission_hash": "fc97e4790058109660565b2f6bd4e1ca5b7f595a4784ca14916d8a70ae7b9b43",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "local-1774097569391",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.prnewswire.com/news-releases/basecamp-research-launches-trillion-gene-atlas-to-scale-ai-designed-therapeutics-302716624.html",
+    "https://fortune.com/2026/03/19/basecamp-research-gathered-genomic-data-from-100-million-species-in-bet-they-can-build-ai-models-to-help-cure-disease/",
+    "https://www.prnewswire.com/news-releases/ultima-genomics-announces-ug200-series-selected-for-basecamp-researchs-groundbreaking-trillion-gene-atlas-302719317.html",
+    "https://biorxiv.org/content/10.64898/2026.01.12.699009v1"
+  ],
+  "created_at": "2026-03-21T12:52:49.391Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "provenance_signature": "hmac-sha256:RdlCYYHJeHItxWwxBB/batf0BAKV8pU7etQOWuJu2YU="
+}

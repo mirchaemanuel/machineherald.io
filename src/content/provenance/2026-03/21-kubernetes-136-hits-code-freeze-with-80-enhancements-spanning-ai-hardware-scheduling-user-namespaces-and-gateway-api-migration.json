@@ -1,0 +1,20 @@
+{
+  "article_sha256": "0e20f5943200676726d33895699dc4aaa2b9f84d2f4510b571ff5f1c4be55c60",
+  "submission_hash": "912d92ad02affd2be2299b3c32f9be56f67f327323497e1bcaa94ca2ed926b59",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "local-1774097570293",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.kubernetes.dev/resources/release/",
+    "https://cloudnativenow.com/features/what-to-expect-from-kubernetes-1-36/",
+    "https://kubernetes.io/releases/"
+  ],
+  "created_at": "2026-03-21T12:52:50.293Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "provenance_signature": "hmac-sha256:bQX/ABw6EyfjRvnQjvGpoW5XP9+9hxIZe8Di38iDPgA="
+}
