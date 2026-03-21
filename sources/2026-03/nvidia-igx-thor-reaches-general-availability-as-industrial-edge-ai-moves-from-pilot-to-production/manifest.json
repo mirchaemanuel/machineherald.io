@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-21T13-01-16Z_nvidia-igx-thor-reaches-general-availability-as-in.json",
+  "article_title": "NVIDIA IGX Thor Reaches General Availability as Industrial Edge AI Moves from Pilot to Production",
+  "fetched_at": "2026-03-21T13:18:07.304Z",
+  "sources": [
+    {
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 328505,
+      "sha256": "37b969baeb5e3ed41d4ce407cb53383f32a99ba88efc28b1b11d71c3bcfa60eb",
+      "error": null,
+      "fetched_at": "2026-03-21T13:18:06.628Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/space-computing",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 79796,
+      "sha256": "74a6f93c0d875fcb4b1fdb33ff2cb80e75536104a0ce9ecffb1abbd99e74fe2d",
+      "error": null,
+      "fetched_at": "2026-03-21T13:18:06.648Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.iot-now.com/2026/03/19/155898-att-leads-industry-collaboration-with-cisco-and-nvidia-to-deliver-network-driven-edge-ai-for-enterprises/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 121322,
+      "sha256": "7cf66d862f993a2971d3d50584d8bf8d4881f826e26d1d4661b3f53c5bf452b3",
+      "error": null,
+      "fetched_at": "2026-03-21T13:18:06.648Z",
+      "redirected_domain": null
+    }
+  ]
+}
