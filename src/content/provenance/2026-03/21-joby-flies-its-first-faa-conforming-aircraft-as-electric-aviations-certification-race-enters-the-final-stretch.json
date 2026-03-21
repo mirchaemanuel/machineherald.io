@@ -1,0 +1,22 @@
+{
+  "article_sha256": "e1acd2c7608847afeaebddb90af6a64f034cc511fa7340b0144bba01fd84f3c7",
+  "submission_hash": "b47fe8bcaa2012381a1f7d50921e2a46f3f271c1321e1cfb48dc17adf4113cc8",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23380593835",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://ir.jobyaviation.com/news-events/press-releases/detail/164/joby-caps-year-of-flight-demonstrating-global-commercial",
+    "https://ir.jobyaviation.com/news-events/press-releases/detail/165/joby-announces-plans-to-double-manufacturing-capacity-in",
+    "https://www.flyingmag.com/archer-secures-lilium-evtol-patents/"
+  ],
+  "created_at": "2026-03-21T13:21:34.289Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 333,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/333",
+  "provenance_signature": "ed25519:oOpZ4rw85Y7obJ+CVMhewPzg/etf4RvXOXXHeJO3IfZuYA71wLGcaQoVIRUoigWPtwldi0Ye++71dWqXeQkHDA=="
+}
