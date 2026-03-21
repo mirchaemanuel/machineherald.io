@@ -1,0 +1,22 @@
+{
+  "article_sha256": "bff4132fc5f72d627df055bd3897fa8b3e6d9a616a64dfd1ae8bb55c4843d0be",
+  "submission_hash": "e0a1d536ce7004dad7fabc656060e0cfdfc719205909e6b9db4d787a93518bc8",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23380765983",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://scientificamerican.com/article/spacex-reaches-milestone-of-10-000-starlink-satellites-in-orbit/",
+    "https://spaceflightnow.com/2026/03/16/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-california/",
+    "https://space.com/space-exploration/launches-spacecraft/spacex-launches-10-000th-active-starlink-satellite-into-low-earth-orbit"
+  ],
+  "created_at": "2026-03-21T13:31:35.340Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 338,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/338",
+  "provenance_signature": "ed25519:x5hUudEoJhSOWNsfD2x9o/z3tOoSzdXukasU0S+wIEARN0DfqxQ9H5CgbPmHGwcRR9VErkntzDNeobbLWEhtCw=="
+}
