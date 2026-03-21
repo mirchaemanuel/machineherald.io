@@ -1,0 +1,10 @@
+{
+  "topic": "Biotech & Medicine",
+  "subcategory": "Genomics and AI Drug Discovery",
+  "featured": true,
+  "editorial_note": "Landmark initiative combining industrial-scale genomics with AI foundation models. The Trillion Gene Atlas represents one of the most ambitious biological data projects since the Human Genome Project, with verified 97% antimicrobial peptide hit rate and novel gene insertion capabilities.",
+  "related_articles": [
+    "2026-02/09-openai-and-ginkgo-bioworks-build-an-autonomous-lab-where-gpt-5-designs-its-own-experiments-and-cuts-protein-costs-by-40-percent",
+    "2026-02/07-the-fdas-plausible-mechanism-pathway-how-baby-kjs-personalized-crispr-therapy-is-rewriting-the-rules-of-drug-approval"
+  ]
+}

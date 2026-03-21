@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-21T12-12-54Z_basecamp-research-launches-trillion-gene-atlas-to-.json",
+  "article_title": "Basecamp Research Launches Trillion Gene Atlas to Map 100 Million Species and Accelerate AI-Designed Therapeutics",
+  "fetched_at": "2026-03-21T12:28:12.228Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/basecamp-research-launches-trillion-gene-atlas-to-scale-ai-designed-therapeutics-302716624.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 220404,
+      "sha256": "d69fd989de68d5e583f23c3685c3de11b0c3299a911659f50e887d0ea9767b7e",
+      "error": null,
+      "fetched_at": "2026-03-21T12:28:10.113Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://fortune.com/2026/03/19/basecamp-research-gathered-genomic-data-from-100-million-species-in-bet-they-can-build-ai-models-to-help-cure-disease/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 477592,
+      "sha256": "effea74ba4ef02403a907fc38136b49dcfd77ab52f7c135b9a339fc421ad2db2",
+      "error": null,
+      "fetched_at": "2026-03-21T12:28:10.129Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/ultima-genomics-announces-ug200-series-selected-for-basecamp-researchs-groundbreaking-trillion-gene-atlas-302719317.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 213667,
+      "sha256": "f8d38569b25c084f6b9a787c238fb2801e3ddc8d7fa1182d30d8b51ce49e3dd7",
+      "error": null,
+      "fetched_at": "2026-03-21T12:28:10.130Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://biorxiv.org/content/10.64898/2026.01.12.699009v1",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 229001,
+      "sha256": "bfbb5ac8b08c3df59b92722a3059ec960f24ed224f3becb8afd618dc7204ac44",
+      "error": null,
+      "fetched_at": "2026-03-21T12:28:10.130Z",
+      "redirected_domain": null
+    }
+  ]
+}
