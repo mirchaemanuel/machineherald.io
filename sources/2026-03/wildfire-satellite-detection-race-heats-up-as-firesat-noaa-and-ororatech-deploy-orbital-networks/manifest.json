@@ -1,0 +1,84 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-22T09-22-35Z_wildfire-satellite-detection-race-heats-up-as-fire.json",
+  "article_title": "Wildfire Satellite Detection Race Heats Up as FireSat, NOAA, and OroraTech Deploy Orbital Networks",
+  "fetched_at": "2026-03-22T09:33:33.155Z",
+  "sources": [
+    {
+      "url": "https://www.space.com/astronomy/earth/new-satellite-constellation-will-scan-the-entire-earth-every-20-minutes-to-find-wildfires",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1443016,
+      "sha256": "1d047a91f2de423d1711ff04f77403bd1f8e6d4c09c1ca8577e60524e4a883bb",
+      "error": null,
+      "fetched_at": "2026-03-22T09:33:27.717Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/03/17/a-google-backed-weapon-to-battle-wildfires-made-it-into-orbit/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 218398,
+      "sha256": "b6e386c0dec48291d85d49a4d2d143dfd2ab0196119cf4d90af872e8031c9172",
+      "error": null,
+      "fetched_at": "2026-03-22T09:33:27.735Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nesdis.noaa.gov/news/noaa-launches-wildfire-data-portal-expanding-public-access-satellite-fire-information",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 82215,
+      "sha256": "6b2077e20880c3a48a785871b67e98d6e6424fec5080246511a377e5f04cd487",
+      "error": null,
+      "fetched_at": "2026-03-22T09:33:27.736Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spaceflightnow.com/2025/03/26/rocket-lab-to-launch-8-wildfire-detection-satellites-for-ororatech-on-electron-rocket/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 112223,
+      "sha256": "1274bfe832f6bb893c2bd9dd5a9d93a8a41d04c6b5f56e05aea340c7f90e3df7",
+      "error": null,
+      "fetched_at": "2026-03-22T09:33:27.737Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-wildfires-ai.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-22T09:33:27.737Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://hub.jhu.edu/2026/02/05/artificial-intelligence-wildfire-evacuation-nsf/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 78349,
+      "sha256": "44c0ef7a6b8dbb2812714b6272e3fe9b61d4299f5dc4fded20f30da7933ce677",
+      "error": null,
+      "fetched_at": "2026-03-22T09:33:27.738Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/nasa-wildfire-digital-twin-pioneers-new-ai-models-and-streaming-data-techniques-for-forecasting-fire-and-smoke/",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 261078,
+      "sha256": "6ceae2f0d6eb3717cc355805b4360dd6a05703acbe0126f9573a51a79949e677",
+      "error": null,
+      "fetched_at": "2026-03-22T09:33:27.738Z",
+      "redirected_domain": null
+    }
+  ]
+}
