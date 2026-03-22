@@ -1,0 +1,84 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-22T09-22-35Z_video-podcasts-reshape-the-industry-as-netflix-app.json",
+  "article_title": "Video Podcasts Reshape the Industry as Netflix, Apple, and AI Voices Converge on Audio's Biggest Year",
+  "fetched_at": "2026-03-22T11:25:11.932Z",
+  "sources": [
+    {
+      "url": "https://newsroom.spotify.com/2026-01-06/podcasting-golden-globes-milestone/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 146483,
+      "sha256": "32c049f5b83aad7190bc194caf2ed77d3573ea879ef5b9c1ed5d9cd8d7b5a111",
+      "error": null,
+      "fetched_at": "2026-03-22T11:25:09.571Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2026/02/apple-introduces-a-new-video-podcast-experience-on-apple-podcasts/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 171171,
+      "sha256": "ecd8d13c492d588213d5674e6516286e743904bae250ec04fc821a021dcd3f45",
+      "error": null,
+      "fetched_at": "2026-03-22T11:25:09.589Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.netflix.com/tudum/articles/netflix-spotify-video-podcasts",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 500842,
+      "sha256": "10f76c32e902f42c69503b527223afb18561b3a3cc33da7495a74de8192bfec6",
+      "error": null,
+      "fetched_at": "2026-03-22T11:25:09.589Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/video-podcasts-reach.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 304643,
+      "sha256": "6f1f653f770acf53b990ec68467e10d13b9e55c92158561d91308c7dfd3d05ec",
+      "error": null,
+      "fetched_at": "2026-03-22T11:25:09.590Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://variety.com/2026/digital/news/apple-podcasts-video-launch-dynamic-ads-1236664629/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 571423,
+      "sha256": "6c2a8b210eed27199a568323e1fb80166468fe0179d7417177f140dc33c3b7ac",
+      "error": null,
+      "fetched_at": "2026-03-22T11:25:09.590Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://fortune.com/2025/12/27/2026-deepfakes-outlook-forecast/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 440107,
+      "sha256": "870e61930f9383b398da0787bedc13b05b030e66b05ddaa9c07bc2ccb2e1a3a2",
+      "error": null,
+      "fetched_at": "2026-03-22T11:25:09.590Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://newsroom.ibm.com/2026-02-24-deepgram-and-ibm-introduce-advanced-voice-capabilities-for-enterprise-ai",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 48269,
+      "sha256": "e7462c8f940de2d8f8d86198eb29340c389827afb97b36ae2535f313c6648b4e",
+      "error": null,
+      "fetched_at": "2026-03-22T11:25:09.591Z",
+      "redirected_domain": null
+    }
+  ]
+}
