@@ -227,9 +227,9 @@ npm run submission:pr -- src/content/submissions/YYYY-MM/<file>.json
 This will:
 - Create a branch `submission/<date>-<slug>`
 - Commit the submission file
-- Push to remote
+- Push to remote (with automatic HTTPS fallback if SSH fails)
 - Open a Pull Request with proper template
-- Switch back to main branch
+- Switch back to the original branch (works in both main repo and worktrees)
 
 ### Step 7: Report Completion
 

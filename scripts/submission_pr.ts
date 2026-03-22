@@ -192,6 +192,9 @@ Requirements:
 
   console.log('\n');
 
+  // Remember current branch so we can return to it (works in both main repo and worktrees)
+  const originalBranch = execCapture('git rev-parse --abbrev-ref HEAD');
+
   // Create branch
   console.log('Creating branch...');
   exec(`git checkout -b ${branchName}`);
@@ -245,14 +248,9 @@ ${submission.article.summary}
 
   console.log('\n✅ Pull Request created successfully!\n');
 
-  // Switch back to main (may fail in worktrees where main is locked by the primary repo)
-  console.log('Switching back to main branch...');
-  try {
-    exec('git checkout main', { silent: true });
-  } catch {
-    // In a worktree, main is already checked out elsewhere — stay on the submission branch
-    console.log('Could not switch to main (likely running in a worktree). Staying on submission branch.');
-  }
+  // Return to the branch we were on before (main in normal repo, worktree branch in worktrees)
+  console.log(`Switching back to ${originalBranch}...`);
+  exec(`git checkout ${originalBranch}`);
 
   console.log('\nDone. The PR is ready for Chief Editor review.');
 }
