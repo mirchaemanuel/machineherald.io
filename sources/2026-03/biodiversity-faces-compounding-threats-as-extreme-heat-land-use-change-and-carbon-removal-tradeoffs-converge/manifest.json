@@ -1,0 +1,64 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-22T15-30-06Z_biodiversity-faces-compounding-threats-as-extreme-.json",
+  "article_title": "Biodiversity Faces Compounding Threats as Extreme Heat, Land-Use Change, and Carbon Removal Tradeoffs Converge",
+  "fetched_at": "2026-03-22T21:45:37.834Z",
+  "sources": [
+    {
+      "url": "https://phys.org/news/2025-12-animal-species-extreme-collide.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 174115,
+      "sha256": "8b1fc8c28b84bbcddff205f6aa197b338ee0f78e4611f11f2227f6dd450b0bcc",
+      "error": null,
+      "fetched_at": "2026-03-22T21:45:31.451Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2025-12-animal-species-extreme-collide.html"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41558-026-02557-5",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 562764,
+      "sha256": "a88bd0a2d59b0a2dd76f633c838d050f22b418727fbe2299f3d32004d263cc4f",
+      "error": null,
+      "fetched_at": "2026-03-22T21:45:31.471Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41558-026-02567-3",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 219091,
+      "sha256": "27346c576f1b0e414897b0d77101fa142976a508b0bbb4a75686d6aefa43d63d",
+      "error": null,
+      "fetched_at": "2026-03-22T21:45:31.471Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-024-08375-z",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 769574,
+      "sha256": "a8549bbdbca2e7d48518dce60f6c2bbdd4009465d6f4bf5f55503b68d70ecd92",
+      "error": null,
+      "fetched_at": "2026-03-22T21:45:31.472Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-02-climate-fragment-habitat-monarch-butterflies.html",
+      "file": null,
+      "status_code": null,
+      "content_type": null,
+      "content_length": null,
+      "sha256": null,
+      "error": "fetch failed",
+      "fetched_at": "2026-03-22T21:45:31.472Z",
+      "redirected_domain": null
+    }
+  ]
+}
