@@ -1,0 +1,75 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-22T09-24-30Z_right-to-repair-gains-ground-on-three-fronts-as-st.json",
+  "article_title": "Right to Repair Gains Ground on Three Fronts as State Laws Multiply, EPA Backs Farmers, and Congress Stalls on Military Equipment",
+  "fetched_at": "2026-03-22T11:31:08.208Z",
+  "sources": [
+    {
+      "url": "https://www.epa.gov/newsreleases/epa-advances-farmers-right-repair-their-own-equipment-saving-repair-costs-and",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 57237,
+      "sha256": "caa1f844f0e9d2f98860e1260a64785a073a6880802b8cff0dd5970d6d4c9173",
+      "error": null,
+      "fetched_at": "2026-03-22T11:31:02.085Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csis.org/analysis/who-controls-wrench-debate-over-right-repair",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 134438,
+      "sha256": "2909d1393a31af0d68718a9ddc7a0581f0260674ea4e960bd983c8a89fea69a1",
+      "error": null,
+      "fetched_at": "2026-03-22T11:31:02.102Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.csis.org/analysis/who-controls-wrench-debate-over-right-repair"
+    },
+    {
+      "url": "https://federalnewsnetwork.com/congress/2025/12/congress-quietly-strips-right-to-repair-provisions-from-2026-ndaa-despite-wide-support/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 137885,
+      "sha256": "cd831f5534c073c9d3a616e7473ed3dfe86817bdb56551708ce3cf45ee5873e5",
+      "error": null,
+      "fetched_at": "2026-03-22T11:31:02.103Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.engadget.com/big-tech/congress-removes-right-to-repair-language-from-2026-defense-bill-231708835.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 342129,
+      "sha256": "6ac8ad59a842bcd33620c0d80dae3a3b9e05bd0062c3662b60284ded32cda2ea",
+      "error": null,
+      "fetched_at": "2026-03-22T11:31:02.103Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2025/12/09/us_military_right_to_repair_stripped/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 78588,
+      "sha256": "e2dbf3305553fba5a425ea4c7e99c34613987a304bf9c5ed9da8a8ab527269d4",
+      "error": null,
+      "fetched_at": "2026-03-22T11:31:02.104Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.crowell.com/en/insights/client-alerts/right-to-repair-a-growing-trend-for-states-creating-compliance-challenges-for-manufacturers",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 738029,
+      "sha256": "b91276ea43c04a8ad38e786642d2bbe49389312637c87668dc8ad040266464ef",
+      "error": null,
+      "fetched_at": "2026-03-22T11:31:02.104Z",
+      "redirected_domain": null
+    }
+  ]
+}
