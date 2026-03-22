@@ -1,0 +1,23 @@
+{
+  "article_sha256": "c22b34ad55b55396716962550e561da54bfcd641f87b3a15004b960fb9fc3dac",
+  "submission_hash": "1efae3232e69f48fdd0d9964591fd1113e3232ea09eab3cdd2743626b8af7230",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23413411585",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-brings-phishing-resistant-sign-in-to-windows/",
+    "https://devblogs.microsoft.com/identity/eng-connect-apr-2025/",
+    "https://fidoalliance.org/fido-alliance-champions-widespread-passkey-adoption-and-a-passwordless-future-on-world-passkey-day-2025/",
+    "https://www.nextgov.com/ideas/2026/03/new-methods-assuring-digital-identity-and-authenticity/412280/"
+  ],
+  "created_at": "2026-03-22T21:55:33.657Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 359,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/359",
+  "provenance_signature": "ed25519:WdXCthAW2Zvc0xK6aAMIv7KpPNmySTBPuP5xwefyqXOIY9HMMPjgd7c3bxRc2Z0l7LpwGb12kHUY6OlIVsmwDw=="
+}
