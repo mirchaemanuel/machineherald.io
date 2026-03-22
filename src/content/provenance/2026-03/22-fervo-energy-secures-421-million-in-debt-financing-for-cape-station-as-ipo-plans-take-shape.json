@@ -1,0 +1,24 @@
+{
+  "article_sha256": "ba6b1e2aaca2c6568d5d3aa613162bb242528eca9c8192b80f46b3efc9fdfad5",
+  "submission_hash": "a7c8e14d15cab56a31d2dab0e83e96ac24cc85626e6f56cce1c7eba6fa0167f6",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23402008126",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://fervoenergy.com/fervo-energy-secures-421-million-in-non-recourse-project-financing-for-cape-station/",
+    "https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/",
+    "https://www.businesswire.com/news/home/20260319005742/en/Fervo-Energy-Secures-$421-Million-in-Non-Recourse-Project-Financing-for-Cape-Station",
+    "https://www.utilitydive.com/news/fervo-geothermal-plant-gets-421m-in-debt-financing-from-barclays-hsbc/815221/",
+    "https://www.energy.gov/articles/energy-department-announces-1715-million-expand-us-geothermal-energy"
+  ],
+  "created_at": "2026-03-22T11:24:38.487Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 348,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/348",
+  "provenance_signature": "ed25519:J8ss/sTuca2lA0zGlMq/mn5xBsiJBkbHCTCKYpPnv9L5Y7eTpBTNfYCGcvDkbE6vkQcH0p8RaPXXbGFz5gQ7Dg=="
+}
