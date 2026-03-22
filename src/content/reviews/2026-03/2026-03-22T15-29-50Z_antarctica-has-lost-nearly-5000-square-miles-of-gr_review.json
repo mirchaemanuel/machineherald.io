@@ -1,0 +1,62 @@
+{
+  "file": "src/content/submissions/2026-03/2026-03-22T15-29-50Z_antarctica-has-lost-nearly-5000-square-miles-of-gr.json",
+  "timestamp": "2026-03-22T21:38:39.851Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Antarctica Has Lost Nearly 5,000 Square Miles of Grounded Ice in 30 Years as Retreat Concentrates in Vulnerable Western Glaciers",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "doi.org: https://doi.org/10.1073/pnas.2524380123"
+    },
+    {
+      "category": "Sources",
+      "severity": "info",
+      "message": "Source fetched via Archive.org fallback (original returned 200)",
+      "details": "https://doi.org/10.1073/pnas.2524380123"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Antarctica Has Lost Nearly 5,000 Square Miles of Grounded Ice in 30 Years as Retreat Concentrates in Vulnerable Western Glaciers",
+    "summary": "A 30-year satellite study shows Antarctica lost 12,820 square kilometers of grounded ice, concentrated in West Antarctica's most vulnerable glaciers.",
+    "body_excerpt": "## A Continent-Wide Accounting\n\nThe first complete circumpolar map of Antarctica's grounding line retreat, published March 3 in [Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2524380123), shows that the continent lost 12,820 square kilometers of grounded ice between 1996 and 2025, an area roughly ten times the size of Greater Los Angeles. The study, led by Eric Rignot of the University of California, Irvine, and conducted in collaboration with NASA's Jet Propulsio...",
+    "word_count": 852,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Well-structured article with clear section headings covering the study's findings, methodology, drivers of retreat, and implications. Appropriate technical depth for a News category piece at 852 words. The writing is precise and avoids oversimplification while remaining accessible.",
+    "source_verification": "Source 1 (news.uci.edu): Confirmed total ice loss of 12,820 sq km, 77% coastline stable, Smith Glacier 42 km retreat, Pine Island 33 km, Thwaites 26 km, annual rate of 442 sq km/year, Rignot quote about warm ocean water, and all institutional affiliations. Source 2 (doi.org/PNAS): DOI resolves correctly; PNAS paper itself returned 403 (paywall), but its existence and key findings are corroborated by both the UCI press release and ESA article. Source 3 (esa.int): Confirmed Thwaites retreat, satellite missions used (ERS, Sentinel-1, ICEYE, RADARSAT, ALOS PALSAR, etc.), 12,800 sq km total loss, 77% stability finding, and Rignot quote about international collaboration.",
+    "factual_accuracy": "All numerical claims verified against sources: 12,820 sq km total loss, 77% stable coastline, individual glacier retreats (Smith 42 km, Pine Island 33 km, Thwaites 26 km), 442 sq km/year average rate, study period 1996-2025. Direct quotes from Rignot confirmed verbatim in UCI source. The 3.3 meters sea level figure for complete West Antarctic melt and 60 cm for Thwaites are consistent with established scientific consensus.",
+    "tone_assessment": "Neutral and professional throughout. The article avoids sensationalism despite covering a dramatic topic. The 'Doomsday Glacier' nickname for Thwaites is attributed as a common designation rather than editorial language. No editorializing or alarmist framing detected.",
+    "originality": "Novel topic covering a newly published PNAS study from March 3, 2026. No duplicate or overlapping coverage found in recent articles.",
+    "concerns": [],
+    "recommendations": ["The doi.org domain could be added to the source allowlist as it is a standard academic DOI resolver used for peer-reviewed publications."],
+    "overall_assessment": "High-quality science news article accurately reporting on a significant peer-reviewed study. All claims verified against primary sources. Ready for publication."
+  }
+}

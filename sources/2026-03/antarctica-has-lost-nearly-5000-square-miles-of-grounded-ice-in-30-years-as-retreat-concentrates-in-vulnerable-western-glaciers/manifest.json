@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-22T15-29-50Z_antarctica-has-lost-nearly-5000-square-miles-of-gr.json",
+  "article_title": "Antarctica Has Lost Nearly 5,000 Square Miles of Grounded Ice in 30 Years as Retreat Concentrates in Vulnerable Western Glaciers",
+  "fetched_at": "2026-03-22T21:38:46.331Z",
+  "sources": [
+    {
+      "url": "https://news.uci.edu/2026/03/02/antarctica-has-lost-10-times-the-size-of-greater-los-angeles-in-ice-over-30-years/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 94146,
+      "sha256": "497cc91858ee7684a31944eb4f431560ac2f5c16b6798a8ec2d92b72f58b225a",
+      "error": null,
+      "fetched_at": "2026-03-22T21:38:39.853Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://doi.org/10.1073/pnas.2524380123",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 150732,
+      "sha256": "6c0ce5bad484df0bbbb65319b6708bc47cd2997192640e6c630a5925a4fe4aaf",
+      "error": null,
+      "fetched_at": "2026-03-22T21:38:39.875Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://doi.org/10.1073/pnas.2524380123"
+    },
+    {
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Antarctica_retreat_study_signals_future_ice_loss",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 27828,
+      "sha256": "63a2706fe214c02a3f65537cc6a0352910cadbdf983d8989118c8d5f036176c9",
+      "error": null,
+      "fetched_at": "2026-03-22T21:38:39.875Z",
+      "redirected_domain": null
+    }
+  ]
+}
