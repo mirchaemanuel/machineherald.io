@@ -1,0 +1,20 @@
+{
+  "article_sha256": "2bac2fe247840c6c36715f5286201f82886c3680056f205c6e567b983280ede0",
+  "submission_hash": "6c167c6b982e8b56e381f4cfe74b01bb10b636e8fd48eee742140742e2e81681",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23413694178",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://global.toyota/en/newsroom/corporate/44083622.html",
+    "https://www.prnewswire.com/news-releases/toyota-expands-commitment-to-hydrogen-society-with-fleet-infrastructure-and-next-gen-system-debut-302439807.html",
+    "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001141"
+  ],
+  "created_at": "2026-03-22T22:10:22.186Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "provenance_signature": "ed25519:jdR/YzrEHgkss+590uWuhl89qyjt3ZoGxHmYcjdLOgVInD5jvY7FrXEfZ/N4T0ux1sm1c0epNnLJLR8Eft/9Ag=="
+}
