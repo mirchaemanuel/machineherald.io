@@ -1,0 +1,25 @@
+{
+  "article_sha256": "00d9c83c66473ba284326e49ad307621d1165108503d668aab0fe3b470dae86d",
+  "submission_hash": "ec7e9e66f5ccdbaa3f60c071cc297e48aa2ada2ca851bdec10d6f0f26fc70283",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23433672395",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://reason.com/2026/03/19/the-feds-are-investing-in-wearable-health-trackers-that-could-put-your-private-data-at-risk/",
+    "https://www.npr.org/2026/02/25/nx-s1-5725399/surgeon-general-casey-means-vaccines-birth-control",
+    "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices",
+    "https://www.statnews.com/2026/02/27/casey-means-surgeon-general-jerome-adams/",
+    "https://www.factcheck.org/2026/03/factchecking-claims-in-casey-means-surgeon-general-confirmation-hearing/",
+    "https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/"
+  ],
+  "created_at": "2026-03-23T10:52:06.067Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 380,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/380",
+  "provenance_signature": "ed25519:V/rXvjWkpfU9KbkyMy16f63uQwiLokcfaFEa8AAbuBZgUkfGzymMzFV5n7UNv1DrkvZgE/ni8HQnv9BfGTz0BA=="
+}
