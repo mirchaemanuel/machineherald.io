@@ -1,0 +1,16 @@
+{
+  "topic": "Biotech & Medicine",
+  "subcategory": "Gene Therapy & Immunotherapy",
+  "featured": false,
+  "editorial_note": "Covers Nature publication of Azalea Therapeutics' in vivo CAR-T approach using EDV/AAV two-vector system for permanent TRAC locus integration. Contextualizes within broader in vivo CAR-T landscape.",
+  "related_articles": [
+    {
+      "slug": "10-in-vivo-car-t-therapy-delivers-first-human-proof-of-concept-for-autoimmune-reset-bypassing-lab-manufacturing",
+      "context": "MagicRNA Biotech's competing in vivo CAR-T approach using lipid nanoparticles for autoimmune disease — directly compared in this article"
+    },
+    {
+      "slug": "18-mass-general-teams-install-platform-solves-gene-therapys-immune-toxicity-problem-enabling-safe-non-viral-dna-insertion-in-living-mice",
+      "context": "Related gene therapy delivery advance addressing immune toxicity in non-viral DNA insertion"
+    }
+  ]
+}

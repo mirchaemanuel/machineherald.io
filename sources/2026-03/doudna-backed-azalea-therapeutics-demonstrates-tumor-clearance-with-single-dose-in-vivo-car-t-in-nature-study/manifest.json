@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T14-35-27Z_doudna-backed-azalea-therapeutics-demonstrates-tum.json",
+  "article_title": "Doudna-Backed Azalea Therapeutics Demonstrates Tumor Clearance With Single-Dose In Vivo CAR-T in Nature Study",
+  "fetched_at": "2026-03-23T14:50:03.724Z",
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2026/03/18/azalea-therapeutics-signs-of-success-in-vivo-car-t-therapy/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 178567,
+      "sha256": "b6a741b848c8f7f8d3443e9b7ac65668d2e43a5c93a2c4dd969e3f6a0e71a55e",
+      "error": null,
+      "fetched_at": "2026-03-23T14:50:01.850Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/18/3258448/0/en/Azalea-Therapeutics-Highlights-Nature-Publication-Demonstrating-In-Vivo-Site-Specific-TRAC-CAR-T-Cell-Engineering.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 59892,
+      "sha256": "0b845f4d223d2d996bea358a483e951b9ba1d0232ca16ecaebf475e7f5c323ce",
+      "error": null,
+      "fetched_at": "2026-03-23T14:50:01.872Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/subjects/gene-therapy",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 132917,
+      "sha256": "f461df46aa2839041844423ed40111e0f61439c6f8d7917d8512f02e5bcef245",
+      "error": null,
+      "fetched_at": "2026-03-23T14:50:01.873Z",
+      "redirected_domain": null
+    }
+  ]
+}
