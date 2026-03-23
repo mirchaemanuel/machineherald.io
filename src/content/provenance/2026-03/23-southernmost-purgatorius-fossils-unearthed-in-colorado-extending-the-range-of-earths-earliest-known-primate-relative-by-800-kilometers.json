@@ -1,0 +1,23 @@
+{
+  "article_sha256": "21230aac25cc7a5cf387d3cc3173db2ea3e0d00b7f533ce2c6d447db210a897d",
+  "submission_hash": "a96bf19c9ca1009ca56dedeb990404e4d2ebc2d8301525521eebc09c6d7e25ee",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23432608608",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://phys.org/news/2026-02-tiny-purgatorius-fossils-denver-basin.html",
+    "https://www.sciencedaily.com/releases/2026/03/260303050619.htm",
+    "https://www.tandfonline.com/doi/full/10.1080/02724634.2026.2614024",
+    "https://www.eurekalert.org/news-releases/1117865"
+  ],
+  "created_at": "2026-03-23T10:25:24.579Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 365,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/365",
+  "provenance_signature": "ed25519:V/Ol+FneUTMgoejcwNFamHDVtvAS9Q2JnB5fR9Oc8XkkEI8okm27It4ox+UM+mvLrfv5NpHPoPkezpllKAtgCw=="
+}
