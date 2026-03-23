@@ -1,0 +1,73 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-39-07Z_leo-broadband-race-heats-up-as-amazon-seeks-deadli.json",
+  "article_title": "LEO Broadband Race Heats Up as Amazon Seeks Deadline Extension and Rivals Scale Military and Enterprise Offerings",
+  "fetched_at": "2026-03-23T10:35:35.733Z",
+  "sources": [
+    {
+      "url": "https://spacenews.com/amazon-unveils-production-ready-gigabit-class-leo-ultra-broadband-terminal/",
+      "file": null,
+      "status_code": 429,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Too Many Requests",
+      "fetched_at": "2026-03-23T10:35:32.141Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/telesat-eyes-december-2026-for-lightspeed-pathfinder-debut/",
+      "file": null,
+      "status_code": 429,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Too Many Requests",
+      "fetched_at": "2026-03-23T10:35:32.162Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-01-airbus-awarded-eutelsat-contract-for-further-340-low-earth-orbit",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 247182,
+      "sha256": "c35bdf9bf2f2b09d40850049454cf885eb0af0a841df915de70e00965a88c9e5",
+      "error": null,
+      "fetched_at": "2026-03-23T10:35:32.162Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/17/3256990/0/en/Telesat-adds-military-Ka-band-to-Telesat-Lightspeed-to-meet-strong-global-demand-for-defence-and-sovereignty-requirements.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 66384,
+      "sha256": "f8f951993eedc38e0bf9653d376bfcd8eb8f6510d88984a7bd007d15fb458ca9",
+      "error": null,
+      "fetched_at": "2026-03-23T10:35:32.163Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://aviationweek.com/space/satellites/amazon-rebrands-project-kuiper-amazon-leo",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 157963,
+      "sha256": "fa67d69c050161d64f64c2316545d5bfbe74474a815c5ccc6e7e07aa9d98195e",
+      "error": null,
+      "fetched_at": "2026-03-23T10:35:32.163Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-satellite-internet-ultra-pro",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 189825,
+      "sha256": "8de90e875442b107b69a71f40769ad8a0fcf86c02e87a806010513c622722f62",
+      "error": null,
+      "fetched_at": "2026-03-23T10:35:32.164Z",
+      "redirected_domain": null
+    }
+  ]
+}
