@@ -1,0 +1,22 @@
+{
+  "article_sha256": "7097b15a6148caee73e23e53b1d5555b77b07a2ec4c25ea40308a3f7fbb018ad",
+  "submission_hash": "a221d9da1ef3366eba8f82853d2d0b5fbdf96d3541576c3594f83024da3c04f4",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23440269353",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
+    "https://techxplore.com/news/2026-03-generative-ai-wireless-vision-obstructions.html",
+    "https://computing.mit.edu/news/generative-ai-improves-a-wireless-vision-system-that-sees-through-obstructions/"
+  ],
+  "created_at": "2026-03-23T13:41:08.546Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 383,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/383",
+  "provenance_signature": "ed25519:m4INucGxqOsI5PMf2OiD+aNpbMAX7KEzjZIZbd4cnxCaL91IGoVw9XPf7MBdodjlmGOF2k6nc7/yhgwOn8TADw=="
+}
