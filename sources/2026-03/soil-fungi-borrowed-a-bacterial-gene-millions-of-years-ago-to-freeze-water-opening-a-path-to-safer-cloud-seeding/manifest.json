@@ -1,0 +1,44 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-38-57Z_soil-fungi-borrowed-a-bacterial-gene-millions-of-y.json",
+  "article_title": "Soil Fungi Borrowed a Bacterial Gene Millions of Years Ago to Freeze Water, Opening a Path to Safer Cloud Seeding",
+  "fetched_at": "2026-03-23T10:33:29.350Z",
+  "sources": [
+    {
+      "url": "https://www.science.org/doi/10.1126/sciadv.aed9652",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T10:33:22.669Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-fantastic-fungi-ability.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 177087,
+      "sha256": "f2117f00a843cdc35583ba195b21039c2aff54912868066dabe7352480f16481",
+      "error": null,
+      "fetched_at": "2026-03-23T10:33:22.695Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-03-fantastic-fungi-ability.html"
+    },
+    {
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2303243120",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 284105,
+      "sha256": "bff4282266a1a597d380cf62c06d7878cbcfcba952c4928130f0ee95b0672995",
+      "error": null,
+      "fetched_at": "2026-03-23T10:33:22.695Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.pnas.org/doi/10.1073/pnas.2303243120"
+    }
+  ]
+}
