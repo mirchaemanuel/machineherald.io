@@ -1,0 +1,84 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-45-49Z_ofc-2026-draws-18000-as-optical-interconnect-indus.json",
+  "article_title": "OFC 2026 Draws 18,000 as Optical Interconnect Industry Races to Break the AI Data Center Bottleneck",
+  "fetched_at": "2026-03-23T14:11:40.288Z",
+  "sources": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/20/3259907/0/en/OFC-2026-Delivers-a-High-Impact-Week-Marked-by-Breakthrough-Announcements-Strong-Attendance-and-Global-Momentum-in-AI-Infrastructure-and-Optical-Networking.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 80998,
+      "sha256": "dbb44b412f14be9968ca0aa0becb0b0be678e2e7baf048299f92d51f7bb519c3",
+      "error": null,
+      "fetched_at": "2026-03-23T14:11:35.556Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251525/0/en/STMicroelectronics-enters-high-volume-production-of-its-industry-leading-silicon-photonics-platform-to-support-AI-infrastructure-demand.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 75960,
+      "sha256": "a48eacd2b62b9c93668b0ab015911eceb3b60ee4b054ff022466e5971722c7e9",
+      "error": null,
+      "fetched_at": "2026-03-23T14:11:35.576Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260317046310/en/Lumentum-Showcases-Breakthrough-Optical-Scale-Up-Demonstration-at-OFC-2026-Using-VCSEL-Technology",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T14:11:35.577Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/17/3257296/0/en/Coherent-Demonstrates-Multiple-Co-Packaged-Optics-CPO-Technologies-at-OFC-2026.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 62363,
+      "sha256": "5f118a2b5a15abd6371808042daf2fb63eae454365a73f6e392794d58f3340ff",
+      "error": null,
+      "fetched_at": "2026-03-23T14:11:35.577Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/16/3256425/0/en/Hyper-Photonix-Showcases-1-6T-Silicon-Photonics-Transceiver-Over-4-Core-Multicore-Fiber-interconnect-at-OFC-2026-Conference-Booth-449.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 63124,
+      "sha256": "bba3e8115b4e6112b41c965577cf3e2e39974494462f8c0deb36e1925603e976",
+      "error": null,
+      "fetched_at": "2026-03-23T14:11:35.578Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.optica.org/about/newsroom/corporate_member_news/2026/nlm_photonics_samples_silicon_organic_hybrid_pics_manufactured_at_globalfoundries/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 122805,
+      "sha256": "3aaa9ec3159e63531308a379e6e2127e53b271b10a69de958ad253eb845e2648",
+      "error": null,
+      "fetched_at": "2026-03-23T14:11:35.578Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spectrum.ieee.org/ai-data-centers-dwdm-optics",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 455934,
+      "sha256": "e4be72fbfeb255f11ebef01ffbef6d123a9a807ab54f1b8413db222cdebe90c1",
+      "error": null,
+      "fetched_at": "2026-03-23T14:11:35.579Z",
+      "redirected_domain": null
+    }
+  ]
+}
