@@ -1,0 +1,44 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-39-15Z_doe-deploys-19-billion-spark-program-to-upgrade-us.json",
+  "article_title": "DOE Deploys $1.9 Billion SPARK Program to Upgrade US Transmission Grid Through Reconductoring Instead of New Construction",
+  "fetched_at": "2026-03-23T10:37:33.719Z",
+  "sources": [
+    {
+      "url": "https://www.energy.gov/articles/energy-department-announces-19b-investment-critical-grid-infrastructure-reduce-electricity",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 104916,
+      "sha256": "17e03f379d5cae99ea9adabbf0554c0c761d495bd8ac40163e4961faad72f091",
+      "error": null,
+      "fetched_at": "2026-03-23T10:37:27.006Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2411207121",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 288803,
+      "sha256": "2452a234e10430eef006b742209f6d91452fd4a9386bbfa553d619af1fe20cfe",
+      "error": null,
+      "fetched_at": "2026-03-23T10:37:27.036Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.pnas.org/doi/10.1073/pnas.2411207121"
+    },
+    {
+      "url": "https://www.utilitydive.com/news/doe-makes-19b-available-for-transmission-reconductoring-advanced-tech/814666/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 284037,
+      "sha256": "f88e4fa186bd6e1438f3f64cb27e2a15bd66c44c47f12cf1b78782ec86c5706f",
+      "error": null,
+      "fetched_at": "2026-03-23T10:37:27.036Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.utilitydive.com/news/doe-makes-19b-available-for-transmission-reconductoring-advanced-tech/814666/"
+    }
+  ]
+}
