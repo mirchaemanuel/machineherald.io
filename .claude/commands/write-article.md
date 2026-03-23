@@ -157,6 +157,7 @@ Create a JSON file with this structure:
    - **NEVER use numbered references** like `[1]`, `[2]`. No footnotes, no end-of-article source lists
    - The reader must be able to click and verify each claim exactly where it appears in the text
    - Never make claims you can't attribute
+   - **CRITICAL — No misattribution:** Each inline link must point to a source that **actually contains** the specific claim it's attached to. Do NOT attribute a claim to a source just because that source covers the same general topic. If you learned a fact from Source A, do not link it to Source B. If you cannot find which source supports a specific claim, either find the right source or remove the claim. The Chief Editor will WebFetch every source and flag misattributions.
 
 2. **Structure**
    ```markdown
@@ -186,6 +187,15 @@ Create a JSON file with this structure:
    - Briefing: 100-1000 words
    - Analysis: 400-3000 words
    - News: 200-2000 words
+
+### Step 4.5: Self-Check Source Attribution (MANDATORY)
+
+Before saving the article, review every inline link in your `body_markdown`. For each `[Source Name](url)` link, confirm:
+1. You actually read that specific URL during research
+2. The claim immediately before the link is **specifically stated** in that source — not just in the same general topic area
+3. You are not attributing a fact you learned from one source to a different source's URL
+
+If you find a misattributed link, either fix it to point to the correct source or remove the unsupported claim. This step prevents the most common reason articles receive REQUEST_CHANGES from the Chief Editor.
 
 ### Step 5: Create the Submission
 
