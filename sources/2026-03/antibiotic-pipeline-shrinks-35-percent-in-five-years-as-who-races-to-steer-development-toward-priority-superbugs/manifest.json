@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-38-40Z_antibiotic-pipeline-shrinks-35-percent-in-five-yea.json",
+  "article_title": "Antibiotic Pipeline Shrinks 35 Percent in Five Years as WHO Races to Steer Development Toward Priority Superbugs",
+  "fetched_at": "2026-03-23T10:29:48.992Z",
+  "sources": [
+    {
+      "url": "https://www.euronews.com/health/2026/03/11/antimicrobial-resistance-is-outpacing-the-industrys-efforts-to-fight-it-report-finds",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 400228,
+      "sha256": "cb6e0f3ae05703881fe2f1e9a5da5a00305ec91070c03ef92452f1f9722e797a",
+      "error": null,
+      "fetched_at": "2026-03-23T10:29:47.580Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.who.int/news/item/11-03-2026-who-releases-new-target-product-profiles-for-urgently-needed-antibiotics",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 115511,
+      "sha256": "3ee2d546aad9f90fbb2fd458b8a712ae614159c74af96d5618caa648cf9ea4f8",
+      "error": null,
+      "fetched_at": "2026-03-23T10:29:47.612Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2026/03/05/antibiotic-resistance-why-ai-innovation-not-enough/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 185541,
+      "sha256": "9d0bc35bde84746f2f9956739285095ab95632f42a5077b9439a524de92c16b1",
+      "error": null,
+      "fetched_at": "2026-03-23T10:29:47.612Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1699987/abstract",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 273130,
+      "sha256": "6a4eabbdf23113725425989f4a245457782ad6689763f7ee2ed9ebac66172408",
+      "error": null,
+      "fetched_at": "2026-03-23T10:29:47.613Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s44259-025-00096-1",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 915956,
+      "sha256": "fbdb4bad354ab266ced0db3186d39ec18ade1b6e3fa6f2225c0f1231efa0b46e",
+      "error": null,
+      "fetched_at": "2026-03-23T10:29:47.613Z",
+      "redirected_domain": null
+    }
+  ]
+}
