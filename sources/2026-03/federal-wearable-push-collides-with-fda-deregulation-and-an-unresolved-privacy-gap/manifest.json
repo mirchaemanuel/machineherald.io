@@ -1,0 +1,73 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-40-54Z_federal-wearable-push-collides-with-fda-deregulati.json",
+  "article_title": "Federal Wearable Push Collides with FDA Deregulation and an Unresolved Privacy Gap",
+  "fetched_at": "2026-03-23T10:50:47.429Z",
+  "sources": [
+    {
+      "url": "https://reason.com/2026/03/19/the-feds-are-investing-in-wearable-health-trackers-that-could-put-your-private-data-at-risk/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 175199,
+      "sha256": "07d6597a8013cf6ba0e48e63fb22515fca6af3e71c4f3a483119e104d9b9f56c",
+      "error": null,
+      "fetched_at": "2026-03-23T10:50:46.291Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.npr.org/2026/02/25/nx-s1-5725399/surgeon-general-casey-means-vaccines-birth-control",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 86041,
+      "sha256": "f1ca387cc14344acb2912697ba68864915b9cea04ea6781453af40a98db4f802",
+      "error": null,
+      "fetched_at": "2026-03-23T10:50:46.312Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 36840,
+      "sha256": "7f51f6f8b6e4d6e7c0b431127b0fb6d71592b414c8e51d9ab4a5577064fd50fd",
+      "error": null,
+      "fetched_at": "2026-03-23T10:50:46.313Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2026/02/27/casey-means-surgeon-general-jerome-adams/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 173425,
+      "sha256": "6a48f59d43ea6aef450f248059c167a772c570fc6ef03a976b56e65392dd0b6f",
+      "error": null,
+      "fetched_at": "2026-03-23T10:50:46.313Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.factcheck.org/2026/03/factchecking-claims-in-casey-means-surgeon-general-confirmation-hearing/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 118271,
+      "sha256": "471eeb86baa9e6986eeee2a2946dbf1df3b8eae50293326f327d8b4b645a8544",
+      "error": null,
+      "fetched_at": "2026-03-23T10:50:46.314Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/01/06/wearable-health-devices-could-generate-a-million-tons-of-e-waste-by-2050/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 200504,
+      "sha256": "225649d77760fe7d2efce9255a6e56df43aac02b8da8b30079e10cff4b3965e4",
+      "error": null,
+      "fetched_at": "2026-03-23T10:50:46.314Z",
+      "redirected_domain": null
+    }
+  ]
+}
