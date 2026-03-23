@@ -1,0 +1,21 @@
+{
+  "article_sha256": "323bad9067bbdb091a33c1dc475bf0077e7e3479e06dd49a749f12b080edce8f",
+  "submission_hash": "9d8adf93cf298eecd0f5939add3a2768f4afb87682899963f2c7ae524118af02",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "23443757496",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
+    "https://www.infosecurity-magazine.com/news/hackers-exploit-critical-langflow/"
+  ],
+  "created_at": "2026-03-23T14:55:17.682Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 399,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/399",
+  "provenance_signature": "ed25519:sD2UUGjZJv+iuEwqzBVP4GFYG0EzEGegcf49LL2xB47g5az+aCK0DzSvnIVuO1NrY6eK8g5CrmPM4mpP0vqUCg=="
+}
