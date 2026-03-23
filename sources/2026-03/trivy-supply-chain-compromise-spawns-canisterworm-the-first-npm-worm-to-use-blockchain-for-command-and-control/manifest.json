@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-42-58Z_trivy-supply-chain-compromise-spawns-canisterworm-.json",
+  "article_title": "Trivy Supply-Chain Compromise Spawns CanisterWorm, the First npm Worm to Use Blockchain for Command and Control",
+  "fetched_at": "2026-03-23T13:44:57.722Z",
+  "sources": [
+    {
+      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 168726,
+      "sha256": "89707f0c5db53c3c2fadbb22b8ef3c4768f17269911078b5d3d8e57788594a60",
+      "error": null,
+      "fetched_at": "2026-03-23T13:44:56.358Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 96345,
+      "sha256": "5cecd669f750c4c403d251710da0fa8583f73fc245c04a57e62d95a35c1ff4b5",
+      "error": null,
+      "fetched_at": "2026-03-23T13:44:56.390Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csoonline.com/article/4148317/trivy-vulnerability-scanner-backdoored-with-credential-stealer-in-supply-chain-attack.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 278484,
+      "sha256": "5b79dc0af0f5d57cdead1ce6ac60412977ed9ac3c786bbfb88b475bec030fcfc",
+      "error": null,
+      "fetched_at": "2026-03-23T13:44:56.391Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 166010,
+      "sha256": "073f033eca9e31e565b863dc671fd3e112a9747b9bd90bf1e1d0eca244510011",
+      "error": null,
+      "fetched_at": "2026-03-23T13:44:56.391Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 218816,
+      "sha256": "a189d5e7f6dffce188d0b17d21912a3f9fc919a21e5abc6b50612b8651779ca6",
+      "error": null,
+      "fetched_at": "2026-03-23T13:44:56.392Z",
+      "redirected_domain": null
+    }
+  ]
+}

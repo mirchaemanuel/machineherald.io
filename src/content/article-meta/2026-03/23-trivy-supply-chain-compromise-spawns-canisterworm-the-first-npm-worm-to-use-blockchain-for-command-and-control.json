@@ -1,0 +1,15 @@
+{
+  "topic": "Cybersecurity",
+  "subcategory": "Supply Chain Attacks",
+  "featured": true,
+  "related_articles": [
+    {
+      "slug": "2026-03/17-glassworm-supply-chain-attack-hijacks-72-vs-code-extensions-and-151-github-repositories-to-steal-developer-credentials",
+      "context": "Another major developer tool supply chain attack from the same week, targeting VS Code extensions and GitHub repositories"
+    },
+    {
+      "slug": "2026-02/23-prompt-injection-in-ai-issue-triage-bot-led-to-cline-cli-supply-chain-attack-affecting-thousands-of-developers",
+      "context": "Earlier npm/CLI supply chain attack demonstrating the growing pattern of developer tool compromises"
+    }
+  ]
+}
