@@ -1,0 +1,22 @@
+{
+  "article_sha256": "31524a98bb8246008cfbf159c14e22670d2b09cd4b4a7398b1b98d9470d60fea",
+  "submission_hash": "c1a70cd0eda7781f78ea5d8b5de33614c065e91882c5ef71e667623ffbff5b5c",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23433149137",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.energy.gov/articles/energy-department-announces-19b-investment-critical-grid-infrastructure-reduce-electricity",
+    "https://www.pnas.org/doi/10.1073/pnas.2411207121",
+    "https://www.utilitydive.com/news/doe-makes-19b-available-for-transmission-reconductoring-advanced-tech/814666/"
+  ],
+  "created_at": "2026-03-23T10:39:22.064Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 372,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/372",
+  "provenance_signature": "ed25519:cBsoVfwnzL8Py9TrlK8YnkR2j07vwdnXdutvT8sxeFHXNC8YreY/XaOLoyMafhINWixSsuC9ZwTHY42x75RWAw=="
+}
