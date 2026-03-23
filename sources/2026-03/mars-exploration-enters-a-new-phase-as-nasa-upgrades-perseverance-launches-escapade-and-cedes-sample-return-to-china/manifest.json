@@ -1,0 +1,128 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-39-20Z_mars-exploration-enters-a-new-phase-as-nasa-upgrad.json",
+  "article_title": "Mars Exploration Enters a New Phase as NASA Upgrades Perseverance, Launches ESCAPADE, and Cedes Sample Return to China",
+  "fetched_at": "2026-03-23T10:39:04.975Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260314030452.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 53337,
+      "sha256": "14e0ff130ede2dd4fc8c2be446245aee81982cb102b23cc37252a6ec9ba1ec72",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.365Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.berkeley.edu/2025/11/05/nasas-escapade-mission-to-mars-twin-uc-berkeley-satellites-dubbed-blue-and-gold-will-launch-in-early-november/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 66750,
+      "sha256": "3233deaaa756ae544626505abf51c58cc70fb84b56d28e139ff613e33730d449",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.389Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1442989,
+      "sha256": "a53be6b03fbdd06cdbea8dd17699c9415312b90e5efc4d0825cc385f75c7fc37",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.389Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/02/23/perseverance_rover_soc_navigation_upgrade/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 68699,
+      "sha256": "97a971c3423f9be5e091a09f22fa9a78867a2a18ff3281d00928355a55559d7b",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.390Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-rover-now-has-its-own-gps-on-mars-weve-given-the-rover-a-new-ability",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1452093,
+      "sha256": "0558881f3220a9c1f2a825c1e59ae1647060edf663a2f1f24ca17667902f5dc5",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.390Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/perseverance-continues-science-mission-amid-uncertainty-about-mars-sample-return/",
+      "file": null,
+      "status_code": 429,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Too Many Requests",
+      "fetched_at": "2026-03-23T10:38:58.390Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 265693,
+      "sha256": "2198c96105dce370b9043cf6534e9c3c55aeab8125223adb07945ee11fe3fd35",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.391Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.space.com/space-exploration/mars-rovers/the-trump-administration-wants-to-cancel-nasas-mars-sample-return-mission-experts-say-thats-a-major-step-back",
+      "file": "source-7.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1461868,
+      "sha256": "5d1f7bae12ddf218b535850539d5576f9052ac47cbf66039dd84eb252e4a8658",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.391Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.livescience.com/space/mars/nasas-mars-sample-return-is-dead-leaving-china-to-retrieve-signs-of-life-from-the-red-planet",
+      "file": "source-8.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1429530,
+      "sha256": "7a306822999073c9102a247efff55d26403a9c486a3326fc822d1647e4c9be56",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.391Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T10:38:58.392Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-completes-first-ai-planned-drive-on-mars/",
+      "file": "source-10.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 621747,
+      "sha256": "21c7d0f3af3d6863f01c95b8c5988458b7071c630178bd92e7724cbd7f15402e",
+      "error": null,
+      "fetched_at": "2026-03-23T10:38:58.392Z",
+      "redirected_domain": null
+    }
+  ]
+}
