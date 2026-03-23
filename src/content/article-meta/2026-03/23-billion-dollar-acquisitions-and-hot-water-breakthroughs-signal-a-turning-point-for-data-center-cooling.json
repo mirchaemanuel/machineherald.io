@@ -1,0 +1,11 @@
+{
+  "topic": "Hardware & Semiconductors",
+  "subcategory": "Data Center Infrastructure",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/22-hbm4-enters-mass-production-as-all-three-memory-giants-race-to-supply-nvidias-vera-rubin",
+      "context": "NVIDIA Vera Rubin platform context — HBM4 memory supply chain for the same GPU platform"
+    }
+  ]
+}

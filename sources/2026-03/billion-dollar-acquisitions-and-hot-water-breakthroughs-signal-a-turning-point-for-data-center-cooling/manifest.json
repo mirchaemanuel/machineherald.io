@@ -1,0 +1,73 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-42-42Z_billion-dollar-acquisitions-and-hot-water-breakthr.json",
+  "article_title": "Billion-Dollar Acquisitions and Hot-Water Breakthroughs Signal a Turning Point for Data Center Cooling",
+  "fetched_at": "2026-03-23T10:53:34.543Z",
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-20/ecolab-to-buy-data-center-cooling-firm-coolit-for-4-75-billion",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T10:53:29.775Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/gigawatt-ai-factories-ocp-vera-rubin/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 111030,
+      "sha256": "5a47530d8ec8dac91586fcaabb7dda7c495815448602c040f5ac5beada4a65f7",
+      "error": null,
+      "fetched_at": "2026-03-23T10:53:29.793Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 559216,
+      "sha256": "403d5d527503bd47c5e21f3534cc15d158db28a240d88d323940697fc620b41b",
+      "error": null,
+      "fetched_at": "2026-03-23T10:53:29.794Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T10:53:29.794Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nbcnews.com/business/markets/nvidia-vera-rubin-chip-warning-ai-investing-boom-rcna252679",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 268090,
+      "sha256": "03ac3c571d8ec44ed07739516e52c75c2584f8b833195f11dd2ef35e63ee67c7",
+      "error": null,
+      "fetched_at": "2026-03-23T10:53:29.795Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate-according-to-delloro-group-302655848.html",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 212716,
+      "sha256": "d4920352e04eb51d21d1548f99bda947c9f318ea53ed314a14d91d6e72d01d17",
+      "error": null,
+      "fetched_at": "2026-03-23T10:53:29.795Z",
+      "redirected_domain": null
+    }
+  ]
+}
