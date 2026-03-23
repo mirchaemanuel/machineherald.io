@@ -1,0 +1,11 @@
+{
+  "topic": "Robotics & Automation",
+  "subcategory": "Industrial Robotics",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/12-bmw-deploys-first-humanoid-robot-in-german-auto-production-as-physical-ai-strategy-expands-from-us-pilot-to-europe",
+      "context": "BMW's parallel humanoid robot deployment in automotive manufacturing, part of the same industry trend"
+    }
+  ]
+}

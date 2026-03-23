@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-44-01Z_renault-to-deploy-350-wandercraft-humanoid-robots-.json",
+  "article_title": "Renault to Deploy 350 Wandercraft Humanoid Robots Across Factories, Targeting 30 Percent Cut in Production Hours",
+  "fetched_at": "2026-03-23T13:53:54.135Z",
+  "sources": [
+    {
+      "url": "https://insideevs.com/news/790259/renault-wandercraft-humanoid-robot-ev-factory/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 780207,
+      "sha256": "930618d03b15d794c48f1fba6b659c444fe35a5a3d4f93f53199f2d9bf755772",
+      "error": null,
+      "fetched_at": "2026-03-23T13:53:52.274Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/innovation/calvin-humanoid-robot-work-at-renault",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 538452,
+      "sha256": "b282de554f9f1a53beb9563cb0910775fd403c8ab1bf619f21824425a73b6e93",
+      "error": null,
+      "fetched_at": "2026-03-23T13:53:52.295Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/06/11/3097632/0/en/Wandercraft-announces-Series-D-Round-bringing-75M-in-total-funding-secured-for-global-acceleration-of-AI-powered-robotics.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 79254,
+      "sha256": "8747ed738eb4444df729c1e91ee0eda28a463df2b046e03958f8de924d2f4c68",
+      "error": null,
+      "fetched_at": "2026-03-23T13:53:52.296Z",
+      "redirected_domain": null
+    }
+  ]
+}
