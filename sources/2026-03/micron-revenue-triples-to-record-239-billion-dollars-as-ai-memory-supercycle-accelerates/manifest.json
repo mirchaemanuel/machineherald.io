@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-45-02Z_micron-revenue-triples-to-record-239-billion-dolla.json",
+  "article_title": "Micron Revenue Triples to Record 23.9 Billion Dollars as AI Memory Supercycle Accelerates",
+  "fetched_at": "2026-03-23T14:01:49.041Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/18/micron-mu-q2-earnings-report-2026.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 848056,
+      "sha256": "dd65add952a43c31b33c018147fe1b13e955d8ced94c8cbbc9bf48c0f8b8cda7",
+      "error": null,
+      "fetched_at": "2026-03-23T14:01:47.814Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/18/microns-earnings-crush-forecasts-guides-even-bigger-beat-stock-falls-anyway/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 124135,
+      "sha256": "a6dd94ff822e8453827cb23f5e6589400abc2c4c8e4ded7f796a3b323c03ab7f",
+      "error": null,
+      "fetched_at": "2026-03-23T14:01:47.835Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nasdaq.com/market-activity/stocks/mu/earnings",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 286321,
+      "sha256": "490d79286138d08525292828a90de4eecfcb58636916175cbc40abf7336d24ea",
+      "error": null,
+      "fetched_at": "2026-03-23T14:01:47.836Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/semiconductor-industry-on-track-to-hit-usd1-trillion-in-sales-in-2026-sia-predicts-bumper-forecast-follows-usd791-7-billion-haul-for-2025",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1487462,
+      "sha256": "4acb6692ce496422e733ee255afde5f54f87d2e9783ff8db7c343c06a4be2dee",
+      "error": null,
+      "fetched_at": "2026-03-23T14:01:47.836Z",
+      "redirected_domain": null
+    }
+  ]
+}
