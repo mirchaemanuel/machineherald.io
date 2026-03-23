@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T14-35-37Z_critical-langflow-flaw-draws-attackers-within-20-h.json",
+  "article_title": "Critical Langflow Flaw Draws Attackers Within 20 Hours of Disclosure as AI Pipeline Security Gaps Widen",
+  "fetched_at": "2026-03-23T14:53:14.660Z",
+  "sources": [
+    {
+      "url": "https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 163205,
+      "sha256": "c6ac0ec7afdf3d6dc48d24cd0807899d7276f0162a03142c280aa73407c3246a",
+      "error": null,
+      "fetched_at": "2026-03-23T14:53:13.940Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infosecurity-magazine.com/news/hackers-exploit-critical-langflow/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 103958,
+      "sha256": "8f68e70231108b76c91f3e2d2d1ebf1f2e8c72c78439e0838c552ad610d0597b",
+      "error": null,
+      "fetched_at": "2026-03-23T14:53:13.965Z",
+      "redirected_domain": null
+    }
+  ]
+}

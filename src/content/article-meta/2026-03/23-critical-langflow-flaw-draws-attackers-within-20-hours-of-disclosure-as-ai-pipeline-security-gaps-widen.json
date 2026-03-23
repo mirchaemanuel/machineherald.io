@@ -1,0 +1,16 @@
+{
+  "topic": "Cybersecurity",
+  "subcategory": "Vulnerability Exploitation",
+  "featured": false,
+  "editorial_note": "Covers CVE-2026-33017, a critical unauthenticated RCE in Langflow exploited within 20 hours. Highlights the shrinking exploit timeline trend and AI tooling security gaps.",
+  "related_articles": [
+    {
+      "slug": "23-trivy-supply-chain-compromise-spawns-canisterworm-the-first-npm-worm-to-use-blockchain-for-command-and-control",
+      "context": "Another same-day supply chain security story involving open-source developer tooling compromise"
+    },
+    {
+      "slug": "23-zero-trust-evolves-beyond-network-perimeters-as-microsoft-the-pentagon-and-zscaler-extend-the-framework-to-ai-agents-weapons-systems-and-data-sovereignty",
+      "context": "Broader security architecture piece addressing AI agent security, relevant to the AI pipeline security gaps discussed here"
+    }
+  ]
+}
