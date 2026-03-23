@@ -1,0 +1,11 @@
+{
+  "topic": "Hardware & Semiconductors",
+  "subcategory": "Advanced Packaging",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/22-hbm4-enters-mass-production-as-all-three-memory-giants-race-to-supply-nvidias-vera-rubin",
+      "context": "Related semiconductor packaging and memory technology advancing for AI workloads"
+    }
+  ]
+}
