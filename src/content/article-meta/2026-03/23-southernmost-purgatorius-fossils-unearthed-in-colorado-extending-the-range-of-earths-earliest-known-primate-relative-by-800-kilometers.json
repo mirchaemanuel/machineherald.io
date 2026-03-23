@@ -1,0 +1,15 @@
+{
+  "topic": "Science & Research",
+  "subcategory": "Paleontology",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-02/24-scientists-discover-first-new-spinosaurus-species-in-a-century-a-hell-heron-from-the-inland-sahara",
+      "context": "Another significant paleontological discovery reshaping understanding of prehistoric species distribution"
+    },
+    {
+      "slug": "2026-03/10-two-back-to-back-nature-papers-reveal-the-oldest-known-bony-fish-and-the-silurians-apex-predator-pushing-vertebrate-origins-back-10-million-years",
+      "context": "Related fossil discovery pushing back understanding of vertebrate evolutionary history"
+    }
+  ]
+}

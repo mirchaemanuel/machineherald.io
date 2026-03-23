@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-37-47Z_southernmost-purgatorius-fossils-unearthed-in-colo.json",
+  "article_title": "Southernmost Purgatorius Fossils Unearthed in Colorado, Extending the Range of Earth's Earliest Known Primate Relative by 800 Kilometers",
+  "fetched_at": "2026-03-23T10:22:56.396Z",
+  "sources": [
+    {
+      "url": "https://phys.org/news/2026-02-tiny-purgatorius-fossils-denver-basin.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 186415,
+      "sha256": "19ec54b3b7699ee480a0941f5f2ff98390ac91b9fa9f2fb1b8281c0bfcdc005b",
+      "error": null,
+      "fetched_at": "2026-03-23T10:22:48.633Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-02-tiny-purgatorius-fossils-denver-basin.html"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260303050619.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51762,
+      "sha256": "56462cd9b2874f1c444d08a3a8159fd1aacf8955a7534024e0cb7101ece68675",
+      "error": null,
+      "fetched_at": "2026-03-23T10:22:48.653Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/02724634.2026.2614024",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T10:22:48.654Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1117865",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 33736,
+      "sha256": "5300962f46afb5a31868b874eb0438556a8a4f64178b6fd7761ec72bb6e0922e",
+      "error": null,
+      "fetched_at": "2026-03-23T10:22:48.655Z",
+      "redirected_domain": null
+    }
+  ]
+}
