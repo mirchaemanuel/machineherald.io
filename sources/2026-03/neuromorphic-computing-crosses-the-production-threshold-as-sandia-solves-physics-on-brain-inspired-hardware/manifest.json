@@ -1,0 +1,75 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T08-39-43Z_neuromorphic-computing-crosses-the-production-thre.json",
+  "article_title": "Neuromorphic Computing Crosses the Production Threshold as Sandia Solves Physics on Brain-Inspired Hardware",
+  "fetched_at": "2026-03-23T10:42:44.338Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s42256-025-01143-2",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 400113,
+      "sha256": "58a7f13fa9305a11e602079c38649fdbf623303d6b3849c57688ed86ff35c081",
+      "error": null,
+      "fetched_at": "2026-03-23T10:42:37.660Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-01-nature-good-math.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 185713,
+      "sha256": "02d90dae989c4a1d57555dd3d9d5b79d9173780520946ff41ca34b4e107f5575",
+      "error": null,
+      "fetched_at": "2026-03-23T10:42:37.694Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-01-nature-good-math.html"
+    },
+    {
+      "url": "https://newsroom.intel.com/artificial-intelligence/intel-builds-worlds-largest-neuromorphic-system-to-enable-more-sustainable-ai",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 169058,
+      "sha256": "a099fe76aeee83fc2a91d2980191df404417b45c8a3c2ad37e93bfc3b4f97348",
+      "error": null,
+      "fetched_at": "2026-03-23T10:42:37.695Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.utsa.edu/2026/02/ut-san-antonio-to-launch-nations-first-open-access-neuromorphic-computing-hub/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 312773,
+      "sha256": "030f9170587ead459641bc0aabe09c1003d0a815f5d9e0b60e658d1a6268d9a0",
+      "error": null,
+      "fetched_at": "2026-03-23T10:42:37.697Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260219040759.htm",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 49196,
+      "sha256": "39be53e56843ee04da3320b572c0c444fec5e85c7cc56e9750cf274076b33741",
+      "error": null,
+      "fetched_at": "2026-03-23T10:42:37.698Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260213223923.htm",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51245,
+      "sha256": "b6e22c8456f20b52cd0038b2b12956e73e301871beb1bf10b0367b54e1f9f924",
+      "error": null,
+      "fetched_at": "2026-03-23T10:42:37.699Z",
+      "redirected_domain": null
+    }
+  ]
+}
