@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-45-00Z_nintendo-sues-us-government-over-ieepa-tariffs-tha.json",
+  "article_title": "Nintendo Sues U.S. Government Over IEEPA Tariffs That Delayed Switch 2 Pre-Orders, Joins More Than 2,000 Companies Seeking Refunds",
+  "fetched_at": "2026-03-23T13:59:30.750Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 200300,
+      "sha256": "389ede3ac0379de94324d25f5efa1f9fc5e3b517a927f4bcac51d9f1659f6938",
+      "error": null,
+      "fetched_at": "2026-03-23T13:59:30.287Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scotusblog.com/2026/03/the-remaining-questions-after-the-supreme-courts-tariffs-ruling/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 239380,
+      "sha256": "32de2d49541247286d30efca91973b32a6513767ebed577f34592c16229b523c",
+      "error": null,
+      "fetched_at": "2026-03-23T13:59:30.312Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scotusblog.com/2026/02/a-breakdown-of-the-courts-tariff-decision/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 243307,
+      "sha256": "6f049ac0af21e88d1e4e58cfb97318d9c85ba164c9b03f8e3178cd92087bea4f",
+      "error": null,
+      "fetched_at": "2026-03-23T13:59:30.313Z",
+      "redirected_domain": null
+    }
+  ]
+}
