@@ -1,0 +1,95 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-44-57Z_game-engines-converge-on-neural-rendering-as-gdc-2.json",
+  "article_title": "Game Engines Converge on Neural Rendering as GDC 2026 Reveals an Industry in Architectural Transition",
+  "fetched_at": "2026-03-23T13:56:23.680Z",
+  "sources": [
+    {
+      "url": "https://devblogs.microsoft.com/directx/directx-gdc-2026/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 221183,
+      "sha256": "bcd1c80388f891451b7ed73b7d89cb511d98d3b3ef866513d6ed43cf97bcfba6",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.355Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://wccftech.com/microsoft-directx-gears-up-for-ml-era-advanced-shader-delivery-solves-game-stutter-load-times-dxr-2-0-teased/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 148775,
+      "sha256": "4ff67927c51f7bae25c3957e2bdca217921d33fa56bc8324c11f155bd4f59258",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.382Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://wccftech.com/ue-5-7-is-close-to-a-magic-bullet-for-performance-says-ark-developer-though-it-wont-fully-eliminate-stutters/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 145244,
+      "sha256": "5205ac22e2c0e463b16c9a03485752799273fc927b38682af12e735313e4b0b5",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.383Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://unity.com/blog/unity-6-3-lts-is-now-available",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 285153,
+      "sha256": "9aef9385b5e05e7f8e67e9bd8c1fc201464656369ea04d59d56d76a6db79f940",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.384Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gamedeveloper.com/programming/godot-co-founder-says-ai-slop-pull-requests-have-become-overwhelming",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 428069,
+      "sha256": "ffdf40ba625485afd51303fd888c2d7b10297988983d9e97e3da3767fe29a497",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.384Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nvidia.com/en-us/geforce/news/gdc-2026-nvidia-geforce-rtx-announcements/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 415296,
+      "sha256": "db8e2ef7bcc6cfc3773ac1a858469ca2f752a219582764ac94036c405c39025b",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.385Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.pcgamer.com/software/platforms/open-source-game-engine-godot-is-drowning-in-ai-slop-code-contributions-i-dont-know-how-long-we-can-keep-it-up/",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1408168,
+      "sha256": "cd957ff38cc4cddb1533bf28de2be4951800e666072e2049ef4b997de44004a5",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.385Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/02/18/godot_maintainers_struggle_with_draining/",
+      "file": "source-7.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 70419,
+      "sha256": "bec814b113f2278fd138dccafdbb326a1606ad0ec1c425218e7d82db2f4d369b",
+      "error": null,
+      "fetched_at": "2026-03-23T13:56:22.386Z",
+      "redirected_domain": null
+    }
+  ]
+}
