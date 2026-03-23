@@ -1,0 +1,20 @@
+{
+  "topic": "Energy & Climate",
+  "subcategory": "Renewable Energy Deployment",
+  "featured": true,
+  "editorial_note": "Covers Ember's 2025 global wind/solar data (814 GW record, 4 TW milestone) and EU fossil fuel milestone. Significant structural milestone in global energy transition.",
+  "related_articles": [
+    {
+      "slug": "06-iea-renewables-and-nuclear-on-track-to-supply-half-of-global-electricity-by-2030-as-grid-bottlenecks-loom",
+      "context": "IEA projections for renewables reaching 50% of global electricity by 2030 — directly referenced in this article's overview"
+    },
+    {
+      "slug": "23-doe-deploys-19-billion-spark-program-to-upgrade-us-transmission-grid-through-reconductoring-instead-of-new-construction",
+      "context": "US grid infrastructure investment addressing the same transmission bottleneck that limits renewable integration globally"
+    },
+    {
+      "slug": "18-denmarks-11-gw-thor-offshore-wind-farm-delivers-first-power-to-the-grid-less-than-two-weeks-after-first-turbine-installation",
+      "context": "European offshore wind deployment contributing to the EU renewable generation milestone"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T14-40-24Z_global-wind-and-solar-additions-hit-record-814-gw-.json",
+  "article_title": "Global Wind and Solar Additions Hit Record 814 GW in 2025, Pushing Total Capacity Past the 4 Terawatt Mark",
+  "fetched_at": "2026-03-23T14:56:08.103Z",
+  "sources": [
+    {
+      "url": "https://electrek.co/2026/03/19/the-world-added-a-record-814-gw-wind-solar/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 163043,
+      "sha256": "46c29ccd98d660a09d9f3bafef0d3e3d41af8f66682b888a51375124e91311c5",
+      "error": null,
+      "fetched_at": "2026-03-23T14:56:07.225Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://e360.yale.edu/digest/europe-wind-solar-fossil-fuels",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 31735,
+      "sha256": "1570c67a074898b6abce8f3985e701c37e471f8980c13c0ec3d8894e9921202f",
+      "error": null,
+      "fetched_at": "2026-03-23T14:56:07.253Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.euronews.com/2026/01/22/solar-and-wind-overtake-fossil-fuels-in-the-eu-for-the-first-time-can-the-power-grid-keep-",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 407017,
+      "sha256": "9fe9c60fb2b28b930250fa56ecaf41d327642dcc99a4624ea30749e7e13d40d7",
+      "error": null,
+      "fetched_at": "2026-03-23T14:56:07.254Z",
+      "redirected_domain": null
+    }
+  ]
+}
