@@ -1,0 +1,84 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-45-28Z_zero-trust-evolves-beyond-network-perimeters-as-mi.json",
+  "article_title": "Zero Trust Evolves Beyond Network Perimeters as Microsoft, the Pentagon, and Zscaler Extend the Framework to AI Agents, Weapons Systems, and Data Sovereignty",
+  "fetched_at": "2026-03-23T14:06:37.903Z",
+  "sources": [
+    {
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/03/19/new-tools-and-guidance-announcing-zero-trust-for-ai/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 299150,
+      "sha256": "1dc011f3767e9559b0157dd6c859c2f1c255ed3057d61e54c38ace996daa2666",
+      "error": null,
+      "fetched_at": "2026-03-23T14:06:32.934Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://dodcio.defense.gov/Portals/0/Documents/Library/DoD-ZTStrategy.pdf",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "content_length": 11060020,
+      "sha256": "f5b21cb51e6693a68a4405e84d7235fb5d4392aee5b8ea456b60a6bc1a8f7375",
+      "error": null,
+      "fetched_at": "2026-03-23T14:06:32.955Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://media.defense.gov/2026/Jan/08/2003852320/-1/-1/0/CTR_ZERO_TRUST_IMPLEMENTATION_GUIDELINE_PRIMER.PDF",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "content_length": 6054996,
+      "sha256": "3d68d22a4ab7467296d901f46225e53e869c516931a2d69fe5a584f9fbf0c0a3",
+      "error": null,
+      "fetched_at": "2026-03-23T14:06:32.955Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/12/3254543/0/en/Zscaler-Significantly-Expands-Global-Sovereignty-on-Zero-Trust-Exchange-Platform.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 65146,
+      "sha256": "4719e6f6ec2aa88caee6fd71f5b30b7e2961e4df1fb408a4040bc037e80f11a7",
+      "error": null,
+      "fetched_at": "2026-03-23T14:06:32.956Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cyberscoop.com/ai-zero-trust-security-federal-agencies-elastic-public-sector/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 114865,
+      "sha256": "b77a8fd6c01017719376240be42d4f7fc75b94e893dac7a77374a2fabc6afb8c",
+      "error": null,
+      "fetched_at": "2026-03-23T14:06:32.956Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csoonline.com/article/4125156/why-non-human-identities-are-your-biggest-security-blind-spot-in-2026.html",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 253104,
+      "sha256": "96f280acc7039181083bd0642af25a4dd05e583505747954097ddee0f771c9bb",
+      "error": null,
+      "fetched_at": "2026-03-23T14:06:32.957Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.darkreading.com/endpoint-security/gartner-orgs-adopt-zero-trust-data-governance",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T14:06:32.957Z",
+      "redirected_domain": null
+    }
+  ]
+}
