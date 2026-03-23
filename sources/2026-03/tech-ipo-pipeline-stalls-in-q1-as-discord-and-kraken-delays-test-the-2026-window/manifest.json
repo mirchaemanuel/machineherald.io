@@ -1,0 +1,97 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-23T12-46-11Z_tech-ipo-pipeline-stalls-in-q1-as-discord-and-krak.json",
+  "article_title": "Tech IPO Pipeline Stalls in Q1 as Discord and Kraken Delays Test the 2026 Window",
+  "fetched_at": "2026-03-23T14:14:20.666Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/01/07/discords-ipo-could-happen-in-march/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 198326,
+      "sha256": "889119f816ee6c1f0fbe65f1a37bc5ed004b1c6990e1880d36a2a05caf8326f1",
+      "error": null,
+      "fetched_at": "2026-03-23T14:14:08.595Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-01-06/chat-platform-discord-is-said-to-file-confidentially-for-ipo",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-23T14:14:08.617Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.coindesk.com/business/2026/03/17/crypto-exchange-kraken-freezes-multibillion-dollar-ipo-plan-due-to-difficult-market-conditions",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 480576,
+      "sha256": "e9a33b9828f52d96d76dd624ea15a543da49cddf3061145498d3a44b92bac688",
+      "error": null,
+      "fetched_at": "2026-03-23T14:14:08.618Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://fortune.com/2026/01/15/ipo-boom-stock-market-nvidia-blackrock-spacex-openai-investing/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 439765,
+      "sha256": "c51f441891adf4db64dcfdafbb6d75650598326cfcc387cbec66fb27942fd565",
+      "error": null,
+      "fetched_at": "2026-03-23T14:14:08.618Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cnbc.com/2025/12/23/alphabet-backed-motive-files-for-ipo.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 780926,
+      "sha256": "3ffb0439d2b97b2f44be3775e4e8cdedd93277bd837520b324ef776c8a58b94d",
+      "error": null,
+      "fetched_at": "2026-03-23T14:14:08.619Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230484,
+      "sha256": "8bb12c31cc75109e8a2a7b314cd6fb115e06d90e07ee6a1d536b6f86c6bd54f0",
+      "error": null,
+      "fetched_at": "2026-03-23T14:14:08.619Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260304923225/en/Pasqal-A-Global-Leader-in-Neutral-Atom-Quantum-Computing-to-Go-Public-via-Business-Combination-with-Bleichroeder-Acquisition-Corp-II",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 421904,
+      "sha256": "970d71a0652f698094c68f0b4eeb958ec6bbe025439eb6b05e4f4d1a6b236f79",
+      "error": null,
+      "fetched_at": "2026-03-23T14:14:08.619Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20260304923225/en/Pasqal-A-Global-Leader-in-Neutral-Atom-Quantum-Computing-to-Go-Public-via-Business-Combination-with-Bleichroeder-Acquisition-Corp-II"
+    },
+    {
+      "url": "https://fortune.com/2026/01/13/how-strava-ran-toward-a-comeback-ipo/",
+      "file": "source-7.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 471084,
+      "sha256": "d5455e9cbbbfcfb3c45412e40528042beef91f93afe1cb648c525c59cf2ec8c3",
+      "error": null,
+      "fetched_at": "2026-03-23T14:14:08.620Z",
+      "redirected_domain": null
+    }
+  ]
+}
