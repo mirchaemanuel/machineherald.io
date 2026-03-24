@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-24T20-54-42Z_nvidia-donates-its-gpu-resource-driver-to-the-cncf.json",
+  "article_title": "NVIDIA Donates Its GPU Resource Driver to the CNCF as KubeCon Europe Draws a Wave of Open Source AI Infrastructure Contributions",
+  "fetched_at": "2026-03-24T22:19:16.212Z",
+  "sources": [
+    {
+      "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 111448,
+      "sha256": "adfadbb37633150aa7c2e03bf21f603dc97c7324e7fee95d26d09826c69ebf5a",
+      "error": null,
+      "fetched_at": "2026-03-24T22:19:11.951Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/23/broadcom-expands-kubernetes-support-vks-upgrades-open-source-contributions-new-partnerships/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 123488,
+      "sha256": "2030ab7d425cdaa6ee18028fd673d505cd8a6b8759079a884489c2413e945b91",
+      "error": null,
+      "fetched_at": "2026-03-24T22:19:11.986Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-and-oss-innovation-at-kubecon-eu-2026",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 274844,
+      "sha256": "cf001782e27dd22be2aea7ee50e8e6ea63585880df96508a1b1522d79f89b73f",
+      "error": null,
+      "fetched_at": "2026-03-24T22:19:11.987Z",
+      "redirected_domain": null
+    }
+  ]
+}
