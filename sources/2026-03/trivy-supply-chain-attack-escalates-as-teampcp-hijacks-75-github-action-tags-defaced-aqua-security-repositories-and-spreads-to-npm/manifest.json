@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-24T20-54-39Z_trivy-supply-chain-attack-escalates-as-teampcp-hij.json",
+  "article_title": "Trivy Supply Chain Attack Escalates as TeamPCP Hijacks 75 GitHub Action Tags, Defaced Aqua Security Repositories, and Spreads to npm",
+  "fetched_at": "2026-03-24T21:57:39.592Z",
+  "sources": [
+    {
+      "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 164445,
+      "sha256": "5a1eb28b740ecc3111e0075f558e3d825f86855463e47ebf9868145d3268f29a",
+      "error": null,
+      "fetched_at": "2026-03-24T21:57:39.208Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cyberscoop.com/trivy-supply-chain-attack-aqua-downstream-extortion-fallout/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 114798,
+      "sha256": "57f0f656b5c40e87f2b2fb06881d1384b04e9059248ba871e86207a08dca2d4f",
+      "error": null,
+      "fetched_at": "2026-03-24T21:57:39.250Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 169774,
+      "sha256": "a55ab03c0204c5f2bdac4559d479294953a8e618561ea51882b8bd806d48fad5",
+      "error": null,
+      "fetched_at": "2026-03-24T21:57:39.251Z",
+      "redirected_domain": null
+    }
+  ]
+}
