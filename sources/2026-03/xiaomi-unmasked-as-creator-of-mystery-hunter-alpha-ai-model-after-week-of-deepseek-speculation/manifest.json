@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-24T20-55-23Z_xiaomi-unmasked-as-creator-of-mystery-hunter-alpha.json",
+  "article_title": "Xiaomi Unmasked as Creator of Mystery Hunter Alpha AI Model After Week of DeepSeek Speculation",
+  "fetched_at": "2026-03-25T05:16:10.707Z",
+  "sources": [
+    {
+      "url": "https://www.japantimes.co.jp/business/2026/03/19/tech/mystery-ai-model-china-buzz/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-25T05:16:05.019Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-19/xiaomi-shares-jump-on-ai-model-buzz-upcoming-su7-model-facelift",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-25T05:16:05.049Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scmp.com/tech/big-tech/article/3335359/chinas-xiaomi-says-returns-ai-investments-far-exceed-expectations",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 691517,
+      "sha256": "1e587fb8fcda66b3fc2c09fb4ddaee66345a976694b4ce72d38891acccf25a1b",
+      "error": null,
+      "fetched_at": "2026-03-25T05:16:05.050Z",
+      "redirected_domain": null
+    }
+  ]
+}
