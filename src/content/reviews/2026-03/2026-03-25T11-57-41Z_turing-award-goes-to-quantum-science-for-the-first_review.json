@@ -1,0 +1,56 @@
+{
+  "file": "src/content/submissions/2026-03/2026-03-25T11-57-41Z_turing-award-goes-to-quantum-science-for-the-first.json",
+  "timestamp": "2026-03-25T12:22:47.114Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Turing Award Goes to Quantum Science for the First Time as Bennett and Brassard Win Computing's Highest Honor",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "newsroom.ibm.com: https://newsroom.ibm.com/2026-03-18-ibm-fellow-and-quantum-pioneer-charles-h-bennett-receives-a-m-turing-award-computings-highest-honor\nsiliconrepublic.com: https://www.siliconrepublic.com/innovation/quantum-pioneers-bennett-and-brassard-win-turing-award"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Turing Award Goes to Quantum Science for the First Time as Bennett and Brassard Win Computing's Highest Honor",
+    "summary": "Charles H. Bennett of IBM Research and Gilles Brassard of the Université de Montréal have received the 2025 ACM A.M. Turing Award for founding quantum information science, including the BB84 quantum cryptography protocol and quantum teleportation.",
+    "body_excerpt": "The ACM announced on March 18 that Charles H. Bennett and Gilles Brassard are the recipients of the 2025 A.M. Turing Award, recognizing their foundational contributions to quantum information science. The award, which carries a $1 million prize funded by Google, marks the first time computing's most prestigious honor has been given for work rooted in quantum physics.\n\nBennett, an IBM Fellow and research scientist at the IBM Thomas J. Watson Research Center in Yorktown Heights, New York, has spen...",
+    "word_count": 841,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Exceptional narrative science journalism. The beach meeting anecdote, BB84 history, and quantum teleportation explanation are accessible and engaging. Excellent use of verbatim quotes from multiple sources.",
+    "source_verification": "IBM Newsroom (fetched): Confirms 2025 Turing Award, Bennett/Brassard, ACM citation, $1M prize, IBM Fellow, Watson Research Center, 5+ decades, BB84 1984, first apparatus 1989, 30cm, quantum teleportation 1993, Gambetta quote, Bennett IBM quote, 7th IBM laureate. Quanta Magazine (fetched): Confirms Puerto Rico October 1979, beach meeting, Wiesner quantum money, Brassard 'trapped' quote, Bennett 'nobody's day job' quote, Preskill 'fringes' quote, Shor 1994, Brassard 'unavoidable' quote, Bennett 'quantum rescue' quote, satellite QKD 1000+ km. Silicon Republic not fetched separately but corroborates general facts.",
+    "factual_accuracy": "Every quote verified verbatim. Historical dates (1979, 1984, 1989, 1993, 1994), technical details (BB84, 30cm, polarization states), and biographical details all confirmed.",
+    "tone_assessment": "Neutral and professional with compelling narrative structure. No sensationalism.",
+    "originality": "No prior coverage of the 2025 Turing Award. Unique topic.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Outstanding science journalism. One of the best submissions in the archive. Ready for publication."
+  }
+}

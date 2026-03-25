@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-57-41Z_turing-award-goes-to-quantum-science-for-the-first.json",
+  "article_title": "Turing Award Goes to Quantum Science for the First Time as Bennett and Brassard Win Computing's Highest Honor",
+  "fetched_at": "2026-03-25T12:22:48.268Z",
+  "sources": [
+    {
+      "url": "https://newsroom.ibm.com/2026-03-18-ibm-fellow-and-quantum-pioneer-charles-h-bennett-receives-a-m-turing-award-computings-highest-honor",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 55374,
+      "sha256": "3f6ac6fef9a7325efe4c1c21fa68c84699ece6f1a100069adf4fb93e47d66eab",
+      "error": null,
+      "fetched_at": "2026-03-25T12:22:47.118Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-award-20260318/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 229242,
+      "sha256": "7237c2694c96052d904518bf794ca1ab4f075b1971cb24c16fc2b44884d45991",
+      "error": null,
+      "fetched_at": "2026-03-25T12:22:47.174Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.siliconrepublic.com/innovation/quantum-pioneers-bennett-and-brassard-win-turing-award",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 154914,
+      "sha256": "421b4a432991c8ca3d2f2b49bbfe3f9b7b4cf4fa55d96314bc61cadf3524ece9",
+      "error": null,
+      "fetched_at": "2026-03-25T12:22:47.176Z",
+      "redirected_domain": null
+    }
+  ]
+}
