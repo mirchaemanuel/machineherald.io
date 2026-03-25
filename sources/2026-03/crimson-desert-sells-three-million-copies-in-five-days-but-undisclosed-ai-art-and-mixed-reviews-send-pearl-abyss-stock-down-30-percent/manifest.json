@@ -1,0 +1,64 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-59-38Z_crimson-desert-sells-three-million-copies-in-five-.json",
+  "article_title": "Crimson Desert Sells Three Million Copies in Five Days but Undisclosed AI Art and Mixed Reviews Send Pearl Abyss Stock Down 30 Percent",
+  "fetched_at": "2026-03-25T13:47:37.163Z",
+  "sources": [
+    {
+      "url": "https://www.engadget.com/gaming/crimson-desert-developer-apologizes-and-promises-to-replace-ai-generated-art-183716439.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 349009,
+      "sha256": "db395e041d375ae8718a570738dbcb1204144ceb51f2a716fdc49c218112c1f8",
+      "error": null,
+      "fetched_at": "2026-03-25T13:47:30.634Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gamespot.com/articles/crimson-desert-devs-stock-plunges-following-the-games-reviews/1100-6538890/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 154121,
+      "sha256": "123e4c2b5ed6907fc4e4e815fe0529526930949a3c2a9344e517e8b7f16aa3a3",
+      "error": null,
+      "fetched_at": "2026-03-25T13:47:30.673Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.gamespot.com/articles/crimson-desert-devs-stock-plunges-following-the-games-reviews/1100-6538890/"
+    },
+    {
+      "url": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-25T13:47:30.674Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://kotaku.com/crimson-desert-reviews-pearl-abyss-stock-prices-metacritic-2000680294",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 125484,
+      "sha256": "30247befd173baf863df63632d94d571c44a171859b5b6722654ba158f35500b",
+      "error": null,
+      "fetched_at": "2026-03-25T13:47:30.676Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.pcgamer.com/games/action/crimson-desert-review/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1502444,
+      "sha256": "5b94a8972443f743a29dbbdf620fc5113e8b55b20fb7b2a03c8d8b087b38a803",
+      "error": null,
+      "fetched_at": "2026-03-25T13:47:30.676Z",
+      "redirected_domain": null
+    }
+  ]
+}
