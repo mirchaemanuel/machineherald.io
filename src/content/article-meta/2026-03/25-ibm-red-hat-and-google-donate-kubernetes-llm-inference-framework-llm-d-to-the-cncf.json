@@ -1,0 +1,11 @@
+{
+  "topic": "AI & Machine Learning",
+  "subcategory": "Infrastructure",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/24-nvidia-donates-its-gpu-resource-driver-to-the-cncf-as-kubecon-europe-draws-a-wave-of-open-source-ai-infrastructure-contributions",
+      "context": "Related KubeCon Europe 2026 CNCF donation covering NVIDIA's GPU DRA driver"
+    }
+  ]
+}
