@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-58-18Z_europol-coalition-dismantles-tycoon-2fa-phishing-p.json",
+  "article_title": "Europol Coalition Dismantles Tycoon 2FA Phishing Platform That Bypassed MFA at 500,000 Organizations Monthly",
+  "fetched_at": "2026-03-25T13:31:07.644Z",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/03/04/how-a-global-coalition-disrupted-tycoon/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 176396,
+      "sha256": "75f70797780a096d858330268ba96d5aeca8b0e922541ba37b55f60ddccb7dbc",
+      "error": null,
+      "fetched_at": "2026-03-25T13:31:06.239Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/europol-coordinated-action-disrupts-tycoon2fa-phishing-platform/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 91410,
+      "sha256": "fe6392d604851f97f39e7bd5fa239b48111cb2f4d08a025c0e41462a75a595d0",
+      "error": null,
+      "fetched_at": "2026-03-25T13:31:06.284Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cyberscoop.com/tycoon-2fa-phishing-kit-takedown-microsoft/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 110293,
+      "sha256": "bd54c525d2f6e6af96704dade1a2c12596f491593e4deef8c3acd66594003beb",
+      "error": null,
+      "fetched_at": "2026-03-25T13:31:06.287Z",
+      "redirected_domain": null
+    }
+  ]
+}
