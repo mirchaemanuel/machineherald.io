@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-24T20-58-46Z_samsung-pursues-multi-year-memory-deals-with-googl.json",
+  "article_title": "Samsung Pursues Multi-Year Memory Deals With Google and Microsoft as Big Tech Races to Lock In AI Chip Supply",
+  "fetched_at": "2026-03-25T08:50:42.623Z",
+  "sources": [
+    {
+      "url": "https://wccftech.com/big-tech-is-paying-billions-to-lock-in-memory-supply/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 137855,
+      "sha256": "30153ffac918c54025ef414cbdffb28eb642a5cc59c571a5c499ec67cfb01f35",
+      "error": null,
+      "fetched_at": "2026-03-25T08:50:41.344Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/01/07/samsung-forecasts-record-breaking-profit-booming-ai-chip-demand/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 117752,
+      "sha256": "db25daf97c2dee7fe566d1bfcb3be3961b2d5abbbb48c436d19b348a29110125",
+      "error": null,
+      "fetched_at": "2026-03-25T08:50:41.384Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://wccftech.com/amd-finally-secures-samsung-hbm4-supply-following-nvidia-footsteps/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 138721,
+      "sha256": "244906f4902f8660ac550ce5d8ac492490b32d29731b38043ec31341deeedfdf",
+      "error": null,
+      "fetched_at": "2026-03-25T08:50:41.385Z",
+      "redirected_domain": null
+    }
+  ]
+}
