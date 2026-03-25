@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-57-40Z_australian-scientists-demonstrate-worlds-first-qua.json",
+  "article_title": "Australian Scientists Demonstrate World's First Quantum Battery Proof of Concept, Achieving Full Charge-Store-Discharge Cycle",
+  "fetched_at": "2026-03-25T12:26:37.971Z",
+  "sources": [
+    {
+      "url": "https://www.csiro.au/en/news/All/News/2026/March/Quantum-battery-full-cycle",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 115463,
+      "sha256": "4cb3d5fcc9fe5c6223aaa2dffb2cfd48557e678273c961f6b3dda69803787a07",
+      "error": null,
+      "fetched_at": "2026-03-25T12:26:32.460Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-proof-concept-quantum-battery-faster.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 173419,
+      "sha256": "b02bce109d47f88d9c83c3be1ddcd6b3f21cf945cd4533fea5195410e17b731e",
+      "error": null,
+      "fetched_at": "2026-03-25T12:26:32.491Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-03-proof-concept-quantum-battery-faster.html"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260322020249.htm",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 48469,
+      "sha256": "e0c93d3dbf941199780f90f69b58982dca396da219d3ae7d72d09901badb883c",
+      "error": null,
+      "fetched_at": "2026-03-25T12:26:32.493Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.energy-storage.news/australias-csiro-demonstrates-worlds-first-working-quantum-battery-prototype/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 194661,
+      "sha256": "4a6fe7a062d106091865e848708a7e936f3ba8ebba8f0dcbf137e6e80698cdc5",
+      "error": null,
+      "fetched_at": "2026-03-25T12:26:32.494Z",
+      "redirected_domain": null
+    }
+  ]
+}
