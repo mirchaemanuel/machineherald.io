@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-58-34Z_white-house-unveils-national-ai-legislative-framew.json",
+  "article_title": "White House Unveils National AI Legislative Framework Urging Congress to Preempt State Regulation",
+  "fetched_at": "2026-03-25T13:38:06.510Z",
+  "sources": [
+    {
+      "url": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 257514,
+      "sha256": "526490d24779a26342323da290aa9c18b40afc054a2f618c7056de458a5c7898",
+      "error": null,
+      "fetched_at": "2026-03-25T13:38:04.972Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/03/white-house-releases-regulatory-vision-ai/412274/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 144166,
+      "sha256": "493f81b0a97062f755bf4fc393f53e335baaa6bdcd147289624401962674a9a6",
+      "error": null,
+      "fetched_at": "2026-03-25T13:38:05.013Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nbcnews.com/tech/tech-news/trump-ai-congress-law-framework-legislation-artificial-intelligence-rcna264433",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 275496,
+      "sha256": "0769cfde71843db6ed179d64837b1613e534ad1ab73133937a70f34bfc0430de",
+      "error": null,
+      "fetched_at": "2026-03-25T13:38:05.015Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.freshfields.us/post/102mnul/white-house-publishes-ai-legislative-framework-to-preempt-state-ai-regulation",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 217711,
+      "sha256": "71e96ea0daa1779b9376b6779a7657d9e84e916ae1a1d41d5b0411a02f180c13",
+      "error": null,
+      "fetched_at": "2026-03-25T13:38:05.017Z",
+      "redirected_domain": null
+    }
+  ]
+}
