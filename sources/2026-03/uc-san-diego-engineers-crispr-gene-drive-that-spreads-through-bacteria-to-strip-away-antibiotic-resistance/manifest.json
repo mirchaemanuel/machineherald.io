@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-57-47Z_uc-san-diego-engineers-crispr-gene-drive-that-spre.json",
+  "article_title": "UC San Diego Engineers CRISPR Gene Drive That Spreads Through Bacteria to Strip Away Antibiotic Resistance",
+  "fetched_at": "2026-03-25T12:32:49.260Z",
+  "sources": [
+    {
+      "url": "https://today.ucsd.edu/story/next-generation-genetics-technology-developed-to-counter-the-rise-of-antibiotic-resistance",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 100329,
+      "sha256": "c82b3c867779ccf951ddc4f28783ab29a7aa0e65f1b417526e773f4384b90a4e",
+      "error": null,
+      "fetched_at": "2026-03-25T12:32:43.794Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260217005717.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51430,
+      "sha256": "c48c62a932b3ac581ba217604cc3c45f8c34a71072d63a9dff769935829b7134",
+      "error": null,
+      "fetched_at": "2026-03-25T12:32:43.849Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-02-crispr-tool-bacteria-disable-antibiotic.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 185255,
+      "sha256": "407abe0e2ff2a8f35dd2947277f4c4af39d5c49af00d2e2c6a4c482837b7b84b",
+      "error": null,
+      "fetched_at": "2026-03-25T12:32:43.851Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-02-crispr-tool-bacteria-disable-antibiotic.html"
+    },
+    {
+      "url": "https://www.nature.com/articles/s44259-026-00181-z",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 445980,
+      "sha256": "9d9f7c32aff52cedecb6cf3b1b0cae428dc031d849b84e7d683c8df78c2917e7",
+      "error": null,
+      "fetched_at": "2026-03-25T12:32:43.851Z",
+      "redirected_domain": null
+    }
+  ]
+}
