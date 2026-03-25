@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-59-13Z_google-expands-universal-commerce-protocol-with-ca.json",
+  "article_title": "Google Expands Universal Commerce Protocol With Cart, Catalog, and Identity Linking as Agentic Shopping Takes Shape",
+  "fetched_at": "2026-03-25T13:43:24.066Z",
+  "sources": [
+    {
+      "url": "https://blog.google/products-and-platforms/products/shopping/ucp-updates/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 366095,
+      "sha256": "60fcd880932dd3895d6c9a9b3e899a19c751293fccb6253a1eb914b8b95ebdec",
+      "error": null,
+      "fetched_at": "2026-03-25T13:43:22.508Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 268122,
+      "sha256": "c0a5b7fdc24f243ae00d90f82bfe133606e5344767d9bd4f94823d9b3f7c5832",
+      "error": null,
+      "fetched_at": "2026-03-25T13:43:22.553Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 99414,
+      "sha256": "607dfdecfacd29b05f1f7baf30694ad1adcb04d696eeebaab428b32a628f2c30",
+      "error": null,
+      "fetched_at": "2026-03-25T13:43:22.554Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 228388,
+      "sha256": "8fd34e5f55fd886aeb1942a026f05b2507d4c1b1389ce3a0162f538075dada90",
+      "error": null,
+      "fetched_at": "2026-03-25T13:43:22.556Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://shopify.engineering/ucp",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 247531,
+      "sha256": "99a43018e2a6e2938e88a1881383c61d30dcff4a140a954cdd4f51df1a600ffd",
+      "error": null,
+      "fetched_at": "2026-03-25T13:43:22.557Z",
+      "redirected_domain": null
+    }
+  ]
+}
