@@ -1,0 +1,22 @@
+{
+  "article_sha256": "536742379cc7ec7996a9f8606016544f84c487f1adcc73769ae595e16731b513",
+  "submission_hash": "db5bdf7e65b31af0d09066d9edcc6db59aee5ca532eaf6fec58740af13d75c77",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23519134608",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.infoq.com/news/2026/03/java26-released/",
+    "https://www.prnewswire.com/news-releases/oracle-releases-java-26-302715757.html",
+    "https://blogs.oracle.com/java/the-arrival-of-java-26"
+  ],
+  "created_at": "2026-03-25T00:37:42.230Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 407,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/407",
+  "provenance_signature": "ed25519:PmEkHxur02O0WzNdmubUWjx1NWALWebld1sfN8ObZnR5AbV9bhRLPJcy4w1whSQQuAgAVATAG6T+NRH/JcNCAw=="
+}
