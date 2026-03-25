@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-58-27Z_sunday-reaches-unicorn-status-with-165m-series-b-t.json",
+  "article_title": "Sunday Reaches Unicorn Status With $165M Series B to Deploy Household Robots by Thanksgiving",
+  "fetched_at": "2026-03-25T13:33:21.953Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 201846,
+      "sha256": "0a48c943328cc9e293dede8d7e838955d90bdd518d99acfdc34b2eeae8ccdb2c",
+      "error": null,
+      "fetched_at": "2026-03-25T13:33:09.809Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/12/3254877/0/en/Sunday-Raises-165M-to-Launch-First-Autonomous-Robots-by-Thanksgiving.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 37556,
+      "sha256": "37ee000d696b17ebbbf9ba011f99cf1e0b662cf79fad82dbefb8236deccf8cf5",
+      "error": null,
+      "fetched_at": "2026-03-25T13:33:09.852Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/dishwashing-home-robot-maker-sunday-hits-1-15-billion-valuation",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-25T13:33:09.854Z",
+      "redirected_domain": null
+    }
+  ]
+}
