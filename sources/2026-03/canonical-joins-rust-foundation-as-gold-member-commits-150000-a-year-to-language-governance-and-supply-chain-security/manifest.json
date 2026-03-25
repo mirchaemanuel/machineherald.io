@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T11-59-51Z_canonical-joins-rust-foundation-as-gold-member-com.json",
+  "article_title": "Canonical Joins Rust Foundation as Gold Member, Commits $150,000 a Year to Language Governance and Supply Chain Security",
+  "fetched_at": "2026-03-25T13:52:23.719Z",
+  "sources": [
+    {
+      "url": "https://news.slashdot.org/story/26/03/23/2340216/canonical-joins-rust-foundation",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 134582,
+      "sha256": "e0e85212fe0cabddb1303c792bb0ce7273e610cbbe105e0ebeef8f4b653bc30c",
+      "error": null,
+      "fetched_at": "2026-03-25T13:52:22.953Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://canonical.com/blog/canonical-joins-the-rust-foundation-as-a-gold-member",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 212414,
+      "sha256": "3f86d22f402c805df826dd3fa5813a6b805a60e932aace1eb230071b537dc844",
+      "error": null,
+      "fetched_at": "2026-03-25T13:52:22.999Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://theregister.com/2025/11/05/rust_foundation_announces_maintainers_fund/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 63195,
+      "sha256": "6d59e7d493cd15c672b7c7b0036f562ae369f31ece56a107264862d4fbf1b21c",
+      "error": null,
+      "fetched_at": "2026-03-25T13:52:23.001Z",
+      "redirected_domain": null
+    }
+  ]
+}
