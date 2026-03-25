@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-24T20-56-05Z_anthropic-brings-computer-use-to-macos-as-claude-g.json",
+  "article_title": "Anthropic Brings Computer Use to macOS as Claude Gains Ability to Control Desktop Apps Autonomously",
+  "fetched_at": "2026-03-25T08:03:02.413Z",
+  "sources": [
+    {
+      "url": "https://9to5mac.com/2026/03/23/anthropic-is-giving-claude-the-ability-to-use-your-mac-for-you/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 152461,
+      "sha256": "a58b7aeaccdaa6fcf09f60c8bcdb228cfcdddde70408d7d82cbb52010c8aa365",
+      "error": null,
+      "fetched_at": "2026-03-25T08:03:01.843Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.engadget.com/ai/claude-code-and-cowork-can-now-use-your-computer-210000126.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 338916,
+      "sha256": "7f48bc92fa36d6ef33bf39e2132d0a29e2193a71e09fba27ec2e974fef859c5a",
+      "error": null,
+      "fetched_at": "2026-03-25T08:03:01.878Z",
+      "redirected_domain": null
+    }
+  ]
+}
