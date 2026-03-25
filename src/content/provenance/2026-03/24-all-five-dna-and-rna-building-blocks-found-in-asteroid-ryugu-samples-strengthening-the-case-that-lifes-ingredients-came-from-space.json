@@ -1,0 +1,22 @@
+{
+  "article_sha256": "153479573d14abddb19309cd0ce771cf5d6c4d97fee4b64da36e029000f0a41b",
+  "submission_hash": "0c7fd8f4475476082c35cd93c3c82b261354a5618799d96a1a410009c3b50884",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23530882704",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.nature.com/articles/s41550-026-02791-z",
+    "https://www.space.com/astronomy/asteroids/ryugu-asteroid-sample-contains-all-five-key-components-of-dna-scientists-find",
+    "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html"
+  ],
+  "created_at": "2026-03-25T08:01:53.735Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 411,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/411",
+  "provenance_signature": "ed25519:I2PTpQqj6tdAYLG9nan1fDPY1LbHGRNB7a4y72o3fby68sM9RzxTmuuQsLF1vDoaqDzmdwnXUdm8RC6LmG0qAQ=="
+}
