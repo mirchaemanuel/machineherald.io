@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-26T11-17-11Z_amazon-corporate-layoffs-reach-30000-since-october.json",
+  "article_title": "Amazon Corporate Layoffs Reach 30,000 Since October as Robotics Cuts and Reports of a Second Wave Signal Deeper Restructuring",
+  "fetched_at": "2026-03-26T11:48:35.706Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/01/28/amazon-says-it-is-laying-off-16000-employees/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 208712,
+      "sha256": "c5ea97eb115e45b3165eb1cd5fd32c9e180e7f4d811f407a5d2b5189771cfc1c",
+      "error": null,
+      "fetched_at": "2026-03-26T11:48:33.260Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-layoffs-corporate-jan-2026",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 162345,
+      "sha256": "71b52b46fc501ed43f68038a732a231ad2d16965458ad5c627f0f49a5a3d3837",
+      "error": null,
+      "fetched_at": "2026-03-26T11:48:33.290Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/28/amazon-layoffs-anti-bureaucracy-ai.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 821294,
+      "sha256": "c50e0449c89167ac20d47e7600e8df30d0b4c57092564cf402cac351c311d7ab",
+      "error": null,
+      "fetched_at": "2026-03-26T11:48:33.291Z",
+      "redirected_domain": null
+    }
+  ]
+}
