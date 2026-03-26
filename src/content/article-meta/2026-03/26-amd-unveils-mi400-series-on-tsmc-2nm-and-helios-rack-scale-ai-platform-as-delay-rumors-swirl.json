@@ -1,0 +1,11 @@
+{
+  "topic": "Hardware & Semiconductors",
+  "subcategory": "GPUs",
+  "featured": true,
+  "related_articles": [
+    {
+      "slug": "2026-03/22-hbm4-enters-mass-production-as-all-three-memory-giants-race-to-supply-ais-insatiable-bandwidth-demands",
+      "context": "HBM4 memory technology that the MI455X uses with 12 stacks per accelerator"
+    }
+  ]
+}
