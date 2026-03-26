@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T20-41-34Z_uk-imposes-first-conduct-requirements-on-google-un.json",
+  "article_title": "UK Imposes First Conduct Requirements on Google Under New Digital Markets Regime, Targeting AI Overviews and Search Dominance",
+  "fetched_at": "2026-03-26T09:12:33.287Z",
+  "sources": [
+    {
+      "url": "https://www.gov.uk/government/news/cma-proposes-package-of-measures-to-improve-google-search-services-in-uk",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 74819,
+      "sha256": "8532bb0f308140bd6676c3354f6e97667e0d9e471c6a86b3e9924c9242d925a2",
+      "error": null,
+      "fetched_at": "2026-03-26T09:12:31.639Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gov.uk/government/consultations/googles-general-search-services-proposed-conduct-requirements",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 257024,
+      "sha256": "b87322e1c0813f198d2e6db89095eaa3c3404acc811e58ad33d48e595f6fc441",
+      "error": null,
+      "fetched_at": "2026-03-26T09:12:31.684Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gov.uk/government/news/cma-secures-commitments-from-apple-and-google-to-improve-fairness-in-app-store-processes-and-enhance-ios-interoperability",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 80661,
+      "sha256": "eecfbcdac7a13196eac341f59ebd873ac6fbd5b38eef79b2a11c2c6a4e005733",
+      "error": null,
+      "fetched_at": "2026-03-26T09:12:31.685Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/12/09/eu-launches-antitrust-probe-into-googles-ai-search-tools/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 223426,
+      "sha256": "47cedd623c472bfad7649c420558fc76e9dcccf58af5631ca07cbadde396f5e2",
+      "error": null,
+      "fetched_at": "2026-03-26T09:12:31.687Z",
+      "redirected_domain": null
+    }
+  ]
+}
