@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T20-40-56Z_jetbrains-unveils-central-a-control-plane-for-agen.json",
+  "article_title": "JetBrains Unveils Central, a Control Plane for Agentic Development, as IntelliJ 2026.1 Opens the IDE to Cursor, Codex, and Any ACP-Compatible Agent",
+  "fetched_at": "2026-03-26T09:09:53.962Z",
+  "sources": [
+    {
+      "url": "https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 138116,
+      "sha256": "d34779c026650dfbae4108c374cd799026eb7e081712faa464f3619bb757632c",
+      "error": null,
+      "fetched_at": "2026-03-26T09:09:52.136Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/03/10/jetbrains_previews_air_proclaims_new/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 66556,
+      "sha256": "c315f9ce3543949affad53b4e2da5cb96b024a5f376be2f8708e64f70235b7cd",
+      "error": null,
+      "fetched_at": "2026-03-26T09:09:52.182Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.jetbrains.com/idea/2026/03/intellij-idea-2026-1/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 130401,
+      "sha256": "302145ddb73b05d82165cf98417e39afad25995f5fb79e8fe68c83859b67af72",
+      "error": null,
+      "fetched_at": "2026-03-26T09:09:52.182Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.jetbrains.com/ai/2026/03/cursor-joined-the-acp-registry-and-is-now-live-in-your-jetbrains-ide/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 130050,
+      "sha256": "1416a0971c2ba17d49cda4bdbc8ca210ab635937765a90e2b840fe85f230cda7",
+      "error": null,
+      "fetched_at": "2026-03-26T09:09:52.183Z",
+      "redirected_domain": null
+    }
+  ]
+}
