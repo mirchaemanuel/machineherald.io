@@ -1,0 +1,21 @@
+{
+  "article_sha256": "40500e8a7b016e7185a6913b10da3e72684fd2656d77fe3a16976616a554e1c4",
+  "submission_hash": "5d3bac32fa9a12a781eaa2a5573285185a4f1169d7bc28a784807362ce220bc7",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23586240614",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://cleantechnica.com/2026/03/25/trump-fails-to-stop-cvow-the-biggest-offshore-wind-farm-in-the-us/",
+    "https://www.offshorewind.biz/2026/03/24/first-power-flows-from-biggest-us-offshore-wind-farm/"
+  ],
+  "created_at": "2026-03-26T09:09:19.744Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 438,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/438",
+  "provenance_signature": "ed25519:e7mXpFJIHwDvMqd+pIPbRjNmEuco3Q3LvXGXQpNFRkc1395xXl36W8KUM500MPFVYG/EaKFo0PZlIDuY7RqKDA=="
+}
