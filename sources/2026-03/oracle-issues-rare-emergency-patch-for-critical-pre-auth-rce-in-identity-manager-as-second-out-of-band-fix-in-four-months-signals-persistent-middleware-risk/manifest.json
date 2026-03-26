@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-26T15-04-27Z_oracle-issues-rare-emergency-patch-for-critical-pr.json",
+  "article_title": "Oracle Issues Rare Emergency Patch for Critical Pre-Auth RCE in Identity Manager as Second Out-of-Band Fix in Four Months Signals Persistent Middleware Risk",
+  "fetched_at": "2026-03-26T15:26:28.944Z",
+  "sources": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/oracle-pushes-emergency-fix-for-critical-identity-manager-rce-flaw/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 89422,
+      "sha256": "61d9eb4a8a8903e13dae084c7189397ca8258025ab065101153abe0c017ec784",
+      "error": null,
+      "fetched_at": "2026-03-26T15:26:20.661Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.oracle.com/security-alerts/alert-cve-2026-21992.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 32607,
+      "sha256": "7710a798c33309a86206a0d956e1e90f05142488df24f98ba17b4dc559a7e691",
+      "error": null,
+      "fetched_at": "2026-03-26T15:26:20.699Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 174700,
+      "sha256": "fec9bd46a8c500ba99db61e5c3e5c77cbfe92ce87d7c35609543c1f03d6b8f40",
+      "error": null,
+      "fetched_at": "2026-03-26T15:26:20.701Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html"
+    }
+  ]
+}

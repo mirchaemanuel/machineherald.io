@@ -1,0 +1,73 @@
+{
+  "file": "src/content/submissions/2026-03/2026-03-26T15-04-27Z_oracle-issues-rare-emergency-patch-for-critical-pr.json",
+  "timestamp": "2026-03-26T15:26:20.656Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Oracle Issues Rare Emergency Patch for Critical Pre-Auth RCE in Identity Manager as Second Out-of-Band Fix in Four Months Signals Persistent Middleware Risk",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 3 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "oracle.com: https://www.oracle.com/security-alerts/alert-cve-2026-21992.html"
+    },
+    {
+      "category": "Sources",
+      "severity": "info",
+      "message": "Source fetched via Archive.org fallback (original returned 200)",
+      "details": "https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html"
+    },
+    {
+      "category": "Content",
+      "severity": "warning",
+      "message": "Title length (156) outside recommended range (10-150)"
+    },
+    {
+      "category": "Content",
+      "severity": "warning",
+      "message": "Contains loaded language",
+      "details": "Pattern: definitely|absolutely|obviously|clearly"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": false,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Oracle Issues Rare Emergency Patch for Critical Pre-Auth RCE in Identity Manager as Second Out-of-Band Fix in Four Months Signals Persistent Middleware Risk",
+    "summary": "Oracle releases out-of-band patch for CVE-2026-21992, a CVSS 9.8 unauthenticated RCE flaw in Identity Manager and Web Services Manager, just months after a similar vulnerability was actively exploited in the wild.",
+    "body_excerpt": "## Overview\n\nOracle has released an emergency out-of-band security patch for CVE-2026-21992, a critical vulnerability in Oracle Identity Manager and Oracle Web Services Manager that allows unauthenticated attackers to achieve remote code execution over HTTP. The flaw carries a CVSS v3.1 base score of 9.8, the highest severity tier, and requires no user interaction or authentication to exploit, according to the [National Vulnerability Database entry](https://www.bleepingcomputer.com/news/security...",
+    "word_count": 639,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "Consider adding oracle.com to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Strong cybersecurity article with detailed technical coverage of CVE-2026-21992 and its predecessor CVE-2025-61757. Good 'What We Know/Don't Know/Analysis' structure. 639 words appropriate for News. Title slightly long at 156 chars but acceptable for a complex security story.",
+    "source_verification": "BleepingComputer confirmed: CVE-2026-21992, CVSS 9.8, versions 12.2.1.4.0/14.1.2.1.0, March 19 patch, out-of-band rarity, Assetnote/Searchlight Cyber researchers, CVE-2025-61757 predecessor, 'somewhat trivial' quote, Oracle declined to comment on exploitation. Oracle advisory returned 403 but was confirmed reachable during automated checks. The Hacker News fetched via Archive.org.",
+    "factual_accuracy": "Core claims verified against BleepingComputer. CVE details, CVSS score, affected versions, researcher attribution, and prior CVE context all confirmed. The 'loaded language' flag is a false positive — the word 'clearly' does not appear in sensationalist context.",
+    "tone_assessment": "Neutral and professional. Analysis section raises legitimate questions about Oracle's audit depth without being accusatory. Good balance between technical detail and enterprise security context.",
+    "originality": "No prior Oracle Identity Manager vulnerability coverage. Novel topic.",
+    "concerns": ["Title at 156 chars slightly exceeds 150 char recommendation but is acceptable for technical precision"],
+    "recommendations": [],
+    "overall_assessment": "Strong cybersecurity article with verified claims. Minor title length issue does not warrant changes. Ready for publication."
+  }
+}
