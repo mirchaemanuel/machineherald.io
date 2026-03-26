@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-25T20-37-07Z_samsung-confirms-android-xr-smart-glasses-for-2026.json",
+  "article_title": "Samsung Confirms Android XR Smart Glasses for 2026, Entering a Race That Meta Still Dominates",
+  "fetched_at": "2026-03-26T09:04:20.056Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 795683,
+      "sha256": "c10c2204a7c54602a7d97aa03c079321ff1ca98238ea87627370d3fe02759138",
+      "error": null,
+      "fetched_at": "2026-03-26T09:04:17.284Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.engadget.com/wearables/qualcomm-says-its-new-ar1-gen-1-chip-can-handle-ai-directly-on-smart-glasses-163002410.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 345746,
+      "sha256": "8130461ca088e46a725f731087452c5af342a3607360654a5cb044425b596008",
+      "error": null,
+      "fetched_at": "2026-03-26T09:04:17.321Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/12/09/googles-first-ai-glasses-expected-next-year/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 220078,
+      "sha256": "7df02b5094b3a197e8da5fd6065418f425e34e0ddf38ef23360296a95f9d2b78",
+      "error": null,
+      "fetched_at": "2026-03-26T09:04:17.322Z",
+      "redirected_domain": null
+    }
+  ]
+}
