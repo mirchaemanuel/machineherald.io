@@ -1,0 +1,23 @@
+{
+  "article_sha256": "fda525edf8e0da211c5f13630594f8f5587927da390218063f6b443e6669eb23",
+  "submission_hash": "7cf08982827331460718efa2601b358c089b15e9b15d1c580b5cfff7df802b82",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23602594883",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/",
+    "https://cyberscoop.com/fbi-cisa-issue-psa-on-russian-intelligence-campaign-to-target-messaging-apps/",
+    "https://www.nbcnews.com/tech/security/signal-whatsapp-users-face-russian-phishing-push-dutch-warn-rcna262533",
+    "https://www.euronews.com/next/2026/03/24/russian-hackers-are-targeting-signal-and-whatsapp-accounts-says-uss-fbi"
+  ],
+  "created_at": "2026-03-26T15:24:44.365Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 450,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/450",
+  "provenance_signature": "ed25519:CkyXzYRM2RVeYaCrIN3S0uz4ouLLx9PXjLGiB8bS78JBET5gOWxzFDi2ObYeX+Icp9n4qBbUANAx3MpkGDYvCw=="
+}
