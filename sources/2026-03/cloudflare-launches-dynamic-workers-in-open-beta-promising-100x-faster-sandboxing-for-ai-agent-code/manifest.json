@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T10-18-40Z_cloudflare-launches-dynamic-workers-in-open-beta-p.json",
+  "article_title": "Cloudflare Launches Dynamic Workers in Open Beta, Promising 100x Faster Sandboxing for AI Agent Code",
+  "fetched_at": "2026-03-27T10:52:51.955Z",
+  "sources": [
+    {
+      "url": "https://blog.cloudflare.com/dynamic-workers/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 356874,
+      "sha256": "0011d5c21d910276fccf9ea62064455a352f16c3ef8527ee2ef76fe9cf18ee65",
+      "error": null,
+      "fetched_at": "2026-03-27T10:52:51.612Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 333032,
+      "sha256": "431ca74dc24786e1fa8b957707efef73628ca9da9d3e34a2f92b3cf775fc35d0",
+      "error": null,
+      "fetched_at": "2026-03-27T10:52:51.661Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blog.cloudflare.com/ai-security-for-apps-ga/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 291571,
+      "sha256": "07bc39fd2595542c64c209a8fa00f4205671f40c43004695ae327d4d1d47bbad",
+      "error": null,
+      "fetched_at": "2026-03-27T10:52:51.663Z",
+      "redirected_domain": null
+    }
+  ]
+}
