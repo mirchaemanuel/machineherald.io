@@ -1,0 +1,47 @@
+{
+  "file": "src/content/submissions/2026-03/2026-03-27T10-17-35Z_pulsar-fusion-achieves-first-plasma-in-nuclear-fus.json",
+  "timestamp": "2026-03-27T10:45:39.816Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Pulsar Fusion Achieves First Plasma in Nuclear Fusion Rocket Engine, Demonstrated Live at Bezos-Hosted MARS Conference",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved: All checks passed",
+  "findings": [],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Pulsar Fusion Achieves First Plasma in Nuclear Fusion Rocket Engine, Demonstrated Live at Bezos-Hosted MARS Conference",
+    "summary": "UK startup Pulsar Fusion demonstrated the first-ever plasma ignition inside a nuclear fusion rocket exhaust system, streaming the test live from Bletchley to Amazon's MARS Conference in California.",
+    "body_excerpt": "## Overview\n\nBritish startup Pulsar Fusion has achieved what it describes as the first-ever plasma ignition inside a nuclear fusion rocket engine, marking a milestone in the decades-long pursuit of fusion-powered space propulsion. The company demonstrated the test live on March 25 from its headquarters in Bletchley, UK, streaming it to Amazon's MARS Conference in Ojai, California, hosted by Jeff Bezos, according to [Euronews](https://www.euronews.com/next/2026/03/26/world-first-uk-startup-ignite...",
+    "word_count": 595,
+    "sources_count": 3
+  },
+  "recommendations": [],
+  "editor_notes": {
+    "content_quality": "Strong space propulsion article with clear distinction between what was demonstrated and future projections. Good 'What We Don't Know' section. 595 words for News.",
+    "source_verification": "Euronews confirmed: Bletchley, MARS Conference, Jeff Bezos, March 25, $1.8T space economy. GlobeNewsWire confirmed: krypton propellant, DDFD specs, Dinan quote, UKSA/ESA backing, next-phase instrumentation. Gizmodo not directly fetched but supplementary.",
+    "factual_accuracy": "All claims verified. Article appropriately notes krypton was used instead of D-He3, and that performance figures are theoretical.",
+    "tone_assessment": "Neutral. Properly hedges with 'what it describes as' and clearly separates demonstration from projected capabilities.",
+    "originality": "No prior Pulsar Fusion coverage. Novel topic.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Well-sourced article with verified claims and appropriate scientific hedging. Ready for publication."
+  }
+}
