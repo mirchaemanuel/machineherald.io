@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T09-04-09Z_suspected-chinese-hackers-breach-fbi-wiretap-netwo.json",
+  "article_title": "Suspected Chinese Hackers Breach FBI Wiretap Network Through Supply Chain Backdoor as FISA Reauthorization Debate Intensifies",
+  "fetched_at": "2026-03-27T09:30:15.148Z",
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/05/politics/fbi-investigating-cyber-breach-critical-surveillance-network",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 3703398,
+      "sha256": "51e719f1940c9101f9c4be72adb59497fc260adbe3f1a59b0e370ad0113fa680",
+      "error": null,
+      "fetched_at": "2026-03-27T09:30:13.072Z",
+      "redirected_domain": "edition.cnn.com"
+    },
+    {
+      "url": "https://www.usnews.com/news/top-news/articles/2026-03-06/us-suspects-china-in-breach-of-fbi-surveillance-network-wsj-reports",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 562131,
+      "sha256": "9e7d754290fc00b764660779b7ab641ad916cbbdbdd233f8fbf730bfb5023b93",
+      "error": null,
+      "fetched_at": "2026-03-27T09:30:13.120Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nextgov.com/cybersecurity/2026/03/fbi-probing-suspicious-breach-bureau-networks/411929/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 139197,
+      "sha256": "2578d69f18d9fa7321cc10692c8ae915183e58f6622d0b47acd5392e1f71d0b5",
+      "error": null,
+      "fetched_at": "2026-03-27T09:30:13.122Z",
+      "redirected_domain": null
+    }
+  ]
+}
