@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T08-59-55Z_hackerone-discloses-employee-data-breach-after-thi.json",
+  "article_title": "HackerOne Discloses Employee Data Breach After Third-Party Benefits Provider Navia Exposes 2.7 Million Records",
+  "fetched_at": "2026-03-27T09:14:06.365Z",
+  "sources": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/hackerone-discloses-employee-data-breach-after-navia-hack/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 88398,
+      "sha256": "ee5915ee4da3a2a0c3f65d25778e773b3942500c83985727279dfb6e264c4472",
+      "error": null,
+      "fetched_at": "2026-03-27T09:14:05.021Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/03/24/hackerone_supplier_breach/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 60367,
+      "sha256": "94e2b756fc53766236c5f70a11d4fb48743e274cb67c249a022744c7d08ffcf6",
+      "error": null,
+      "fetched_at": "2026-03-27T09:14:05.074Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 142413,
+      "sha256": "dd202b2e06eb4107e8fa7412527a7f325f0ae1be6300a84bf4a1f30c96d9f11d",
+      "error": null,
+      "fetched_at": "2026-03-27T09:14:05.076Z",
+      "redirected_domain": null
+    }
+  ]
+}
