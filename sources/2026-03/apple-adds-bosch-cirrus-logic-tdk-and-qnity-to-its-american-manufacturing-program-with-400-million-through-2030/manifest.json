@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T09-06-27Z_apple-adds-bosch-cirrus-logic-tdk-and-qnity-to-its.json",
+  "article_title": "Apple Adds Bosch, Cirrus Logic, TDK, and Qnity to Its American Manufacturing Program With $400 Million Through 2030",
+  "fetched_at": "2026-03-27T09:44:45.813Z",
+  "sources": [
+    {
+      "url": "https://www.apple.com/newsroom/2026/03/apple-adds-new-partners-to-its-american-manufacturing-program/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 134962,
+      "sha256": "b6aedc7657776151736677c03390ac194ce650c7c2c907aa9310df29fbb6a622",
+      "error": null,
+      "fetched_at": "2026-03-27T09:44:44.769Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5mac.com/2026/03/26/apple-details-4-new-ways-its-bringing-product-component-manufacturing-to-the-us/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 147554,
+      "sha256": "28cb7de30393c9050458b61d910115b5a06351a227db9690815f0f351f1d538c",
+      "error": null,
+      "fetched_at": "2026-03-27T09:44:44.825Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/26/apple-american-manufacturing-program-trump.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 868804,
+      "sha256": "45955673b59eeb0a72fafc21bf8d32f1b787b77118028e4d7597fcbeb16f8209",
+      "error": null,
+      "fetched_at": "2026-03-27T09:44:44.827Z",
+      "redirected_domain": null
+    }
+  ]
+}
