@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T09-04-09Z_epic-games-cuts-over-1000-jobs-as-fortnite-engagem.json",
+  "article_title": "Epic Games Cuts Over 1,000 Jobs as Fortnite Engagement Decline Forces Second Major Layoff Round in Three Years",
+  "fetched_at": "2026-03-27T09:23:08.872Z",
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/economy/epic-games-lays-off-more-than-1000-employees-as-fortnite-engagement-slows",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 272327,
+      "sha256": "4b2532340854d5e96afbd8c4187525251a74f8a9cec398ddc0072f941406a76d",
+      "error": null,
+      "fetched_at": "2026-03-27T09:23:07.643Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/analyst-says-epic-games-layoffs-send-a-clear-signal-this-will-not-get-any-easier-",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 466952,
+      "sha256": "5c5fb90b2313fe05b301a6221c7e572198101105681ff0b4592440f625fc7b70",
+      "error": null,
+      "fetched_at": "2026-03-27T09:23:07.698Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.foxbusiness.com/economy/epic-games-cuts-1000-jobs-fortnite-magic-fades-extreme-market-conditions",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 193316,
+      "sha256": "e276fef68fedf2bfcc393e5c8c01c24a21b9f241e46a0ea43df60ab34c101c6a",
+      "error": null,
+      "fetched_at": "2026-03-27T09:23:07.699Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 199914,
+      "sha256": "191798d7269a30bf4ce348d8442f4d96abaebd43ef99fbd7317728a46d16416a",
+      "error": null,
+      "fetched_at": "2026-03-27T09:23:07.701Z",
+      "redirected_domain": null
+    }
+  ]
+}
