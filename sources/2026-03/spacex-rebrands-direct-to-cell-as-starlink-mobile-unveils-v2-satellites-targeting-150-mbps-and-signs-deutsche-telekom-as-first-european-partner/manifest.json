@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T10-19-38Z_spacex-rebrands-direct-to-cell-as-starlink-mobile-.json",
+  "article_title": "SpaceX Rebrands Direct-to-Cell as Starlink Mobile, Unveils V2 Satellites Targeting 150 Mbps and Signs Deutsche Telekom as First European Partner",
+  "fetched_at": "2026-03-27T10:54:59.526Z",
+  "sources": [
+    {
+      "url": "https://spacenews.com/deutsche-telekom-aims-to-bring-starlink-mobile-v2-to-europe-in-2028/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 257306,
+      "sha256": "27307aa69d1ee27106a98438506df33f8c20c0718b9ea1882abc29feede44e8b",
+      "error": null,
+      "fetched_at": "2026-03-27T10:54:57.124Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/08/spacex-strikes-17b-deal-to-buy-echostars-spectrum-for-starlinks-direct-to-phone-service/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 224659,
+      "sha256": "b870436131ee5559e6fa2eb42fc2b9308a779f84cf2968e64270b43485444090",
+      "error": null,
+      "fetched_at": "2026-03-27T10:54:57.172Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/03/03/shoot-for-the-starlink-how-deutsche-telekom-hopes-to-close-europes-cellular-dead-zones",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 402696,
+      "sha256": "7cec4b4be955e6e14336b575372ef5d5b7980876581d1915f60cf41a41f2f089",
+      "error": null,
+      "fetched_at": "2026-03-27T10:54:57.173Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/02/starlink-deutsche-telekom-partnership.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 785033,
+      "sha256": "32a393e7541ec2e90bcd07f957cf42866f5a03a08fb26edc40a0ea38b4ba3655",
+      "error": null,
+      "fetched_at": "2026-03-27T10:54:57.175Z",
+      "redirected_domain": null
+    }
+  ]
+}
