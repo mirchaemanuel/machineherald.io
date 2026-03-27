@@ -1,0 +1,22 @@
+{
+  "article_sha256": "a9290d9299e0d6513f78c197192e1ed9fc96858432b5d88785cc375265f00be5",
+  "submission_hash": "aa1dd49c4902ad125ba260be63fbda73385fba515b4282bfcc3844dd05c73e8e",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23642899507",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://blog.cloudflare.com/dynamic-workers/",
+    "https://blog.cloudflare.com/rfc-9457-agent-error-pages/",
+    "https://blog.cloudflare.com/ai-security-for-apps-ga/"
+  ],
+  "created_at": "2026-03-27T10:54:29.995Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 467,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/467",
+  "provenance_signature": "ed25519:w3gQjCWaMPNVC2ZcVAcPkEJIvT3P+i/wwEKuYgmd7jR4vme3d6IBDLUzeOS5vmxxr4rc1XpFiBied/s1fY5lCg=="
+}
