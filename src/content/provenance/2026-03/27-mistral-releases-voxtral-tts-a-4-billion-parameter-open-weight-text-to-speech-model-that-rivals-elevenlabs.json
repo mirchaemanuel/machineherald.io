@@ -1,0 +1,22 @@
+{
+  "article_sha256": "4e7b7f06bedfbf56c784a13579761db5d195c208129e99b9d2b8279cbf57e620",
+  "submission_hash": "d9b3140289addb2c72e93a4412627398857cacd9d2ae2784885986aa1f5434a9",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23643145464",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+    "https://siliconangle.com/2026/03/26/mistral-releases-open-weights-speaking-ai-model-voxtral-tts/",
+    "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and"
+  ],
+  "created_at": "2026-03-27T11:01:13.993Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 470,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/470",
+  "provenance_signature": "ed25519:MKVoFF4UBHwIAkHvMIB8BOed1qcBDywCTxrlJO6JYB9S7ECC9c3ak03gJRSH0d4HB0dzE6UUfRYJC3V25OmZAA=="
+}
