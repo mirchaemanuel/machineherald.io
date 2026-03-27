@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T10-19-56Z_rsac-2026-reveals-an-industry-racing-to-secure-ai-.json",
+  "article_title": "RSAC 2026 Reveals an Industry Racing to Secure AI Agents It Has Barely Begun to Deploy",
+  "fetched_at": "2026-03-27T10:57:24.972Z",
+  "sources": [
+    {
+      "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m03/cisco-reimagines-security-for-the-agentic-workforce.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 126722,
+      "sha256": "da6ebd56a85b62fd8367ad2ae29560f75cec31a52a985825315efb1becab396f",
+      "error": null,
+      "fetched_at": "2026-03-27T10:57:18.571Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/23/cisco-debuts-new-ai-agent-security-features-open-source-defenseclaw-tool/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 119792,
+      "sha256": "6b602bd29a4a552ad8bf3862f17777dc1cffb8f08a50a95fac0a91a224737447",
+      "error": null,
+      "fetched_at": "2026-03-27T10:57:18.618Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-dominates-rsac-innovation-sandbox",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-27T10:57:18.619Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 459775,
+      "sha256": "a2b6f1020e128cc816c0a242734f8b4440f882ef185bd4a8776326ac952a1762",
+      "error": null,
+      "fetched_at": "2026-03-27T10:57:18.620Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child"
+    }
+  ]
+}
