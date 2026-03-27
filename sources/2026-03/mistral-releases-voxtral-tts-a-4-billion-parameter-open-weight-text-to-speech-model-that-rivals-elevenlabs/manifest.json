@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-27T10-20-30Z_mistral-releases-voxtral-tts-a-4-billion-parameter.json",
+  "article_title": "Mistral Releases Voxtral TTS, a 4-Billion-Parameter Open-Weight Text-to-Speech Model That Rivals ElevenLabs",
+  "fetched_at": "2026-03-27T10:59:38.371Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 227385,
+      "sha256": "bd171019946c47cc52834b18432705ecb049b57ae8bb1a32447932225401cd45",
+      "error": null,
+      "fetched_at": "2026-03-27T10:59:37.172Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/26/mistral-releases-open-weights-speaking-ai-model-voxtral-tts/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 118891,
+      "sha256": "a3a5edba2b8a1a68328f90bc0420536294a40ab1ae456e4435d02fa78561cc1e",
+      "error": null,
+      "fetched_at": "2026-03-27T10:59:37.224Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 156437,
+      "sha256": "b5dd08817d464ed78832c5459c14dba16b89c4ac455cbbdd9043274770c27bc4",
+      "error": null,
+      "fetched_at": "2026-03-27T10:59:37.226Z",
+      "redirected_domain": null
+    }
+  ]
+}
