@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-28T18-43-46Z_seven-ai-companies-pledge-125-million-to-shield-op.json",
+  "article_title": "Seven AI Companies Pledge $12.5 Million to Shield Open Source Maintainers from the AI Security Report Flood They Helped Create",
+  "fetched_at": "2026-03-28T19:19:45.087Z",
+  "sources": [
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 97343,
+      "sha256": "d9d0276ea8ff3158f26c1bf12620c127cb5c4bb784aba472bcd8c1cedd7b791f",
+      "error": null,
+      "fetched_at": "2026-03-28T19:19:43.628Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/03/18/linux_foundation_ai_slop_defense/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 63228,
+      "sha256": "292103198c7bb7c93617b79487930e55aa164c405014779828bd30cedf3e94bd",
+      "error": null,
+      "fetched_at": "2026-03-28T19:19:43.666Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 97751,
+      "sha256": "dde6d4a39587104842ecbb9dee710b28417823638ca51a3b41cd455c6067d4cf",
+      "error": null,
+      "fetched_at": "2026-03-28T19:19:43.668Z",
+      "redirected_domain": null
+    }
+  ]
+}
