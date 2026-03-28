@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-28T18-51-30Z_cern-discovers-a-heavy-cousin-of-the-proton-only-t.json",
+  "article_title": "CERN Discovers a Heavy Cousin of the Proton, Only the Second Baryon With Two Charm Quarks Ever Observed",
+  "fetched_at": "2026-03-28T19:45:45.568Z",
+  "sources": [
+    {
+      "url": "https://home.cern/news/news/physics/lhcb-collaboration-discovers-new-proton-particle",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 132223,
+      "sha256": "3292a05e3f5cb3784829abd8677b97d573fdb96753e2e303074686a3b87879ea",
+      "error": null,
+      "fetched_at": "2026-03-28T19:45:44.379Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/physicists-discover-a-charmed-new-particle/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 54000,
+      "sha256": "423a75fef498a5cf8352172ada93e2265417171b5f4bbeb6f5b4e1933c56c880",
+      "error": null,
+      "fetched_at": "2026-03-28T19:45:44.427Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260319005106.htm",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 49510,
+      "sha256": "5560915112cc5acf14b6d7a517119fceefb54a3b746ae9810760c93faf5a37a4",
+      "error": null,
+      "fetched_at": "2026-03-28T19:45:44.428Z",
+      "redirected_domain": null
+    }
+  ]
+}
