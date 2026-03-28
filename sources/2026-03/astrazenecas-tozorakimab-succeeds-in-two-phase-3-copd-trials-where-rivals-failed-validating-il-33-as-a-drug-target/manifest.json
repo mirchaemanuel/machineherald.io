@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-28T18-44-37Z_astrazenecas-tozorakimab-succeeds-in-two-phase-3-c.json",
+  "article_title": "AstraZeneca's Tozorakimab Succeeds in Two Phase 3 COPD Trials Where Rivals Failed, Validating IL-33 as a Drug Target",
+  "fetched_at": "2026-03-28T19:28:41.434Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/27/astrazeneca-stock-az-trial-lung-drug-shares-tozorakimab.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 767155,
+      "sha256": "89befd032355b39bf54d4a5ff5ab4836f30716fefbeeecfc64ad6a39e7a96d1c",
+      "error": null,
+      "fetched_at": "2026-03-28T19:28:33.668Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fiercebiotech.com/biotech/astrazeneca-delivers-dream-result-phase-3-copd-hits-breathe-life-class-rocked-flops",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-28T19:28:33.704Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.stocktitan.net/sec-filings/AZN/6-k-astrazeneca-plc-current-report-foreign-issuer-135cf6568262.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 171386,
+      "sha256": "94f9389872b2886bf042af6fa432c2542126829a1d83f00f72a9d0bcc116a182",
+      "error": null,
+      "fetched_at": "2026-03-28T19:28:33.705Z",
+      "redirected_domain": null
+    }
+  ]
+}
