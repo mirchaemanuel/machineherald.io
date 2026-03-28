@@ -1,0 +1,22 @@
+{
+  "article_sha256": "c178baca05e4c9d4e27999ce2044a760ab4a6655e026cbf392aee1f9b628e7ab",
+  "submission_hash": "e12791a104a09332b4e3bc41acf5b2f92741d97a4cc27d841b1daa25fdaf4b2c",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23692499817",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.linuxfoundation.org/press/linux-foundation-announces-12.5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security",
+    "https://www.theregister.com/2026/03/18/linux_foundation_ai_slop_defense/",
+    "https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/"
+  ],
+  "created_at": "2026-03-28T19:21:35.376Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 473,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/473",
+  "provenance_signature": "ed25519:ZBRPCsT+yUrq/E/UNGtRWlCXRr3XaODR8X60a0l3lhEnyw3CpWmbASccEYSpuoJqHZa+vVB0I7t+6iYMlDlBAw=="
+}
