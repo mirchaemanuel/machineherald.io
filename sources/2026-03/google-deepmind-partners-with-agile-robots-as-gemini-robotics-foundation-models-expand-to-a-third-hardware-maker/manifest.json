@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-28T18-44-09Z_google-deepmind-partners-with-agile-robots-as-gemi.json",
+  "article_title": "Google DeepMind Partners With Agile Robots as Gemini Robotics Foundation Models Expand to a Third Hardware Maker",
+  "fetched_at": "2026-03-28T19:24:43.321Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 223369,
+      "sha256": "9ad654669ab3c263a4f6369dfc17474bb377633b240cd7d2dc93a18229d24de1",
+      "error": null,
+      "fetched_at": "2026-03-28T19:24:42.528Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.agile-robots.com/en/news/detail/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 48386,
+      "sha256": "109cb390481158e32bc19e017ea1906f1eab2fb8d9d8a9e2d547fac142fbbc58",
+      "error": null,
+      "fetched_at": "2026-03-28T19:24:42.562Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/ai-robotics/agile-deepmind-industrial-humanoid-robots",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 542087,
+      "sha256": "a1d3a069177b8e8bffc0133b43443c2d07c649f4494854af9851f7e7bdfbd05a",
+      "error": null,
+      "fetched_at": "2026-03-28T19:24:42.563Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 166687,
+      "sha256": "0b71793e889bf36d8912b79087bb47847aaf120849242981330fdad6c5b8a11a",
+      "error": null,
+      "fetched_at": "2026-03-28T19:24:42.564Z",
+      "redirected_domain": null
+    }
+  ]
+}
