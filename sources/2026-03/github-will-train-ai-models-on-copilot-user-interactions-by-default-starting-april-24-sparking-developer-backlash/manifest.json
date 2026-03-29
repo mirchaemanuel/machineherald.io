@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-44-05Z_github-will-train-ai-models-on-copilot-user-intera.json",
+  "article_title": "GitHub Will Train AI Models on Copilot User Interactions by Default Starting April 24, Sparking Developer Backlash",
+  "fetched_at": "2026-03-29T17:00:42.744Z",
+  "sources": [
+    {
+      "url": "https://github.blog/changelog/2026-03-25-updates-to-our-privacy-statement-and-terms-of-service-how-we-use-your-data/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 112810,
+      "sha256": "0fb8b9473e06d0f4bafd52bd4780ae7b6c71367c962a1b2e6f320e0202f923ef",
+      "error": null,
+      "fetched_at": "2026-03-29T17:00:42.396Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 168465,
+      "sha256": "e7faf53f822215f4215eccaac5118a3f78dc07750343cd81f8ce76f3cecd8b62",
+      "error": null,
+      "fetched_at": "2026-03-29T17:00:42.416Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/03/26/github_ai_training_policy_changes/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 95036,
+      "sha256": "fad875429c54b4e95fdb8909f5656559f35d215ca53e355b091ebc456ed78836",
+      "error": null,
+      "fetched_at": "2026-03-29T17:00:42.416Z",
+      "redirected_domain": null
+    }
+  ]
+}
