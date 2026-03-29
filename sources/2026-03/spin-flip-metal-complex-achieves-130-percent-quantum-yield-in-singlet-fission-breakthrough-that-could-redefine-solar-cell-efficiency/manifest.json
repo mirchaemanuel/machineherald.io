@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-43-27Z_spin-flip-metal-complex-achieves-130-percent-quant.json",
+  "article_title": "Spin-Flip Metal Complex Achieves 130 Percent Quantum Yield in Singlet Fission Breakthrough That Could Redefine Solar Cell Efficiency",
+  "fetched_at": "2026-03-29T16:50:34.659Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328024517.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 50415,
+      "sha256": "4904922faa286eae543fcfdf2d77311ff0ce873b040603e7e200589c97f2be5c",
+      "error": null,
+      "fetched_at": "2026-03-29T16:50:32.762Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/energy/quantum-yield-singlet-fission-ceiling-solar-cells",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 540555,
+      "sha256": "a89030b06683f264b17aef47fd5d944b7f13b61dfd6a1db50b0df15b912fd2aa",
+      "error": null,
+      "fetched_at": "2026-03-29T16:50:32.794Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1120166",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 103104,
+      "sha256": "020a0780bec85c708ceadc36528cb7cf95976f3467adb509072d72a0cb69857b",
+      "error": null,
+      "fetched_at": "2026-03-29T16:50:32.794Z",
+      "redirected_domain": null
+    }
+  ]
+}
