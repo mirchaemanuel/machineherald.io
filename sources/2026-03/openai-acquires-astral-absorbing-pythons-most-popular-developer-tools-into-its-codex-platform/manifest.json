@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-48-31Z_openai-acquires-astral-absorbing-pythons-most-popu.json",
+  "article_title": "OpenAI Acquires Astral, Absorbing Python's Most Popular Developer Tools Into Its Codex Platform",
+  "fetched_at": "2026-03-29T17:18:27.401Z",
+  "sources": [
+    {
+      "url": "https://openai.com/index/openai-to-acquire-astral/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 324482,
+      "sha256": "68bd1975fc84e380298ec1f2de1c46f9b90aaca516ebdd37b34f932ebb2dc247",
+      "error": null,
+      "fetched_at": "2026-03-29T17:18:26.094Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/03/19/openai_aims_for_the_stars/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 74622,
+      "sha256": "fa88338a3b8cb0c41333fab39dcfe618b1016dfef0870e868fddeb7fa93dcb49",
+      "error": null,
+      "fetched_at": "2026-03-29T17:18:26.113Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 937029,
+      "sha256": "d15c9526d63b6bb48653cec9c11abdfaf9ffb55b4c4644ba8e99acd53716d282",
+      "error": null,
+      "fetched_at": "2026-03-29T17:18:26.114Z",
+      "redirected_domain": null
+    }
+  ]
+}
