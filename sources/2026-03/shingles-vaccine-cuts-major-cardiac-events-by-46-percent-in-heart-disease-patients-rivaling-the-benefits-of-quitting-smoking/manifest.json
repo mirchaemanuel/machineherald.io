@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-45-12Z_shingles-vaccine-cuts-major-cardiac-events-by-46-p.json",
+  "article_title": "Shingles Vaccine Cuts Major Cardiac Events by 46 Percent in Heart Disease Patients, Rivaling the Benefits of Quitting Smoking",
+  "fetched_at": "2026-03-29T17:08:52.726Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260319044659.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 49498,
+      "sha256": "37c8fac6c5d6e95866ba44a4494b2510c83cc836cd34441fb083a517b54d02f9",
+      "error": null,
+      "fetched_at": "2026-03-29T17:08:51.464Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1120143",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 92362,
+      "sha256": "2a1a767a608ce4e400c517d3e3ada0fdefb417bbbee2bc694f37e5ce5156f493",
+      "error": null,
+      "fetched_at": "2026-03-29T17:08:51.483Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2025/05/250505204912.htm",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 49013,
+      "sha256": "ed9b3a98e9357a4fa6a9d2b794c86764b6d8bc50afd340ff2a6afc93d029f661",
+      "error": null,
+      "fetched_at": "2026-03-29T17:08:51.484Z",
+      "redirected_domain": null
+    }
+  ]
+}
