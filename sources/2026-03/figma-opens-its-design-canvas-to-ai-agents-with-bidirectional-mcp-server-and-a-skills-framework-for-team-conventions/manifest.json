@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-45-38Z_figma-opens-its-design-canvas-to-ai-agents-with-bi.json",
+  "article_title": "Figma Opens Its Design Canvas to AI Agents With Bidirectional MCP Server and a Skills Framework for Team Conventions",
+  "fetched_at": "2026-03-29T17:10:28.207Z",
+  "sources": [
+    {
+      "url": "https://github.blog/changelog/2026-03-06-figma-mcp-server-can-now-generate-design-layers-from-vs-code/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 102019,
+      "sha256": "f88fb585ae1e2248c1040ad82ea6cbe6d254054781c0899af84b3e538143fc78",
+      "error": null,
+      "fetched_at": "2026-03-29T17:10:26.569Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 204151,
+      "sha256": "dbbb97fd9f37e737a92932bcc20645167db91a4c365cb2e80257d9cc668ddbde",
+      "error": null,
+      "fetched_at": "2026-03-29T17:10:26.597Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/uber-ai-design/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 184452,
+      "sha256": "18d384a5b9429ff61cb58d95d0bda05d3e3d07dff92ddcfe38d44c0aab56bb26",
+      "error": null,
+      "fetched_at": "2026-03-29T17:10:26.598Z",
+      "redirected_domain": null
+    }
+  ]
+}
