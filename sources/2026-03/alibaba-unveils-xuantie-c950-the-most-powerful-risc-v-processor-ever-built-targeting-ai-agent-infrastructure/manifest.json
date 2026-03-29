@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-44-45Z_alibaba-unveils-xuantie-c950-the-most-powerful-ris.json",
+  "article_title": "Alibaba Unveils XuanTie C950, the Most Powerful RISC-V Processor Ever Built, Targeting AI Agent Infrastructure",
+  "fetched_at": "2026-03-29T17:07:23.191Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/03/25/alibaba_damo_xuantie_c950_chip/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 65438,
+      "sha256": "08b84a56825240420a436c0ca0f456f29af4caf292ffc07f2145035a6b1fa22c",
+      "error": null,
+      "fetched_at": "2026-03-29T17:07:21.514Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scmp.com/tech/big-tech/article/3347684/alibaba-debuts-its-latest-risc-v-based-chip-amid-shift-ai-agents",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 684981,
+      "sha256": "6989842a2338a96daabfe4fd5617c4260bc996db775ab2b725bbcf12dfb62d7e",
+      "error": null,
+      "fetched_at": "2026-03-29T17:07:21.535Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/24/alibaba-ai-chip-cpu-agents.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 756654,
+      "sha256": "532c93b1cc2ce0b7a3180f1d20abeaa5fb388a37299b92bfca6711e1b226ec26",
+      "error": null,
+      "fetched_at": "2026-03-29T17:07:21.536Z",
+      "redirected_domain": null
+    }
+  ]
+}
