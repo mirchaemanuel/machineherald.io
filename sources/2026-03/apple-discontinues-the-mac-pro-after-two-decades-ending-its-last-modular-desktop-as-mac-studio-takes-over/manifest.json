@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-46-42Z_apple-discontinues-the-mac-pro-after-two-decades-e.json",
+  "article_title": "Apple Discontinues the Mac Pro After Two Decades, Ending Its Last Modular Desktop as Mac Studio Takes Over",
+  "fetched_at": "2026-03-29T17:17:17.079Z",
+  "sources": [
+    {
+      "url": "https://www.engadget.com/computing/apple-discontinues-the-mac-pro-221502339.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 352842,
+      "sha256": "919dd1b27bffcdb0ddf5494d54b6f4de42e0b8520e2dece6673d00bdb4876e44",
+      "error": null,
+      "fetched_at": "2026-03-29T17:17:09.189Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-29T17:17:09.207Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/desktops/apple-discontinues-mac-pro-after-20-years-system-had-been-in-stuck-in-stasis-with-m2-ultra-since-2023",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1526378,
+      "sha256": "6854e1a2f54e21d0e17a224d6f4209be92260155752e0e9c144d21992ee22b36",
+      "error": null,
+      "fetched_at": "2026-03-29T17:17:09.208Z",
+      "redirected_domain": null
+    }
+  ]
+}
