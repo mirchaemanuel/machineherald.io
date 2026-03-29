@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-46-23Z_apple-will-open-siri-to-rival-ai-chatbots-in-ios-2.json",
+  "article_title": "Apple Will Open Siri to Rival AI Chatbots in iOS 27, Ending OpenAI's Exclusive Integration",
+  "fetched_at": "2026-03-29T17:12:12.194Z",
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-29T17:12:04.436Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5mac.com/2026/03/26/ios-27-apple-will-reportedly-let-claude-and-other-ai-chatbot-apps-integrate-with-siri/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 149909,
+      "sha256": "7c82039c15cc84ef7c6eeac8a0f0b22ee81b2570cecf01df9245ac8290318ed1",
+      "error": null,
+      "fetched_at": "2026-03-29T17:12:04.454Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-29T17:12:04.455Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomsguide.com/phones/iphones/beyond-chatgpt-ios-27-extensions-will-reportedly-allow-siri-to-use-google-gemini-and-claude",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1646929,
+      "sha256": "02667fd3618314a45c90572904c1fac8fba9029e22746c822a40a74d6fe93975",
+      "error": null,
+      "fetched_at": "2026-03-29T17:12:04.456Z",
+      "redirected_domain": null
+    }
+  ]
+}
