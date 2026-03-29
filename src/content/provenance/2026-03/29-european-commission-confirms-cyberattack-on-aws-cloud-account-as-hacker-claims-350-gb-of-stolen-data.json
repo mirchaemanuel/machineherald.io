@@ -1,0 +1,22 @@
+{
+  "article_sha256": "ab29ea72fc6faa1e39c0ef11cacca81980dd63fceb0316045d21895ee570befd",
+  "submission_hash": "d174bca61d2f4dc39bbaed5e361460826c1366f4edee9eefdc2a6e42feb4aa1a",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23714327977",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.bleepingcomputer.com/news/security/european-commission-investigating-breach-after-amazon-cloud-account-hack/",
+    "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+    "https://securityaffairs.com/190067/data-breach/the-european-commission-confirmed-a-cyberattack-affecting-part-of-its-cloud-systems.html"
+  ],
+  "created_at": "2026-03-29T17:04:48.533Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 488,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/488",
+  "provenance_signature": "ed25519:CdbHreKHM1wF7QBmlSY4fROkFA0oqswebMZEx04u6mrxY8zJKfr7tu2NFa9USxWSxFPw7yk8T5rfbIPP09OADg=="
+}
