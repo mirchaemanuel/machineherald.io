@@ -45,12 +45,16 @@ const primarySections = primaryTopics.map((topic) => ({
 const scienceSpace = [
   ...getArticlesByTopic(publishedWithMeta, 'Science & Research', 2),
   ...getArticlesByTopic(publishedWithMeta, 'Space & Aerospace', 2),
-].slice(0, 4);
+]
+  .sort((a, b) => b.article.data.date.getTime() - a.article.data.date.getTime())
+  .slice(0, 4);
 
 const energyBiotech = [
   ...getArticlesByTopic(publishedWithMeta, 'Energy & Climate', 2),
   ...getArticlesByTopic(publishedWithMeta, 'Biotech & Medicine', 2),
-].slice(0, 4);
+]
+  .sort((a, b) => b.article.data.date.getTime() - a.article.data.date.getTime())
+  .slice(0, 4);
 
 // Dynamic sections — other topics with 2+ articles
 const coveredTopics = new Set<string>([
