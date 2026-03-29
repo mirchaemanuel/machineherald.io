@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-29T16-43-35Z_cern-scientists-transport-antimatter-by-truck-for-.json",
+  "article_title": "CERN Scientists Transport Antimatter by Truck for the First Time, Opening a Path to Portable Antiproton Research",
+  "fetched_at": "2026-03-29T16:52:13.552Z",
+  "sources": [
+    {
+      "url": "https://home.cern/news/press-release/experiments/base-experiment-cern-succeeds-transporting-antimatter",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 130878,
+      "sha256": "79fdbf1cc99d9b3f9dd657e381744cf9008dba8ca2719123b141766c8a63702a",
+      "error": null,
+      "fetched_at": "2026-03-29T16:52:12.504Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/physicists-just-took-a-road-trip-with-a-load-of-antimatter-heres-how-it-went/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 62178,
+      "sha256": "e02eea1ee84ee0b7514eef91e46bacc811ec1667d3a872c40525f1cdfa254f83",
+      "error": null,
+      "fetched_at": "2026-03-29T16:52:12.526Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/03/25/cerns-most-delicate-road-trip-scientists-take-antimatter-out-of-the-lab-for-the-first-time",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 404837,
+      "sha256": "a754a96d1ff3cb88a8c9b9395df36535bd70328a98f42debef76b9055bce08e6",
+      "error": null,
+      "fetched_at": "2026-03-29T16:52:12.526Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencenews.org/article/antimatter-traveled-truck-delivery-cern",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 359308,
+      "sha256": "b13d3166c1b5b02386e1c26b0d8cb80d06afb9cf030a30e4ca061c11582dc05e",
+      "error": null,
+      "fetched_at": "2026-03-29T16:52:12.527Z",
+      "redirected_domain": null
+    }
+  ]
+}
