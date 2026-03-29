@@ -1,0 +1,22 @@
+{
+  "article_sha256": "b4f272a3fadb10452140b44aeafbaeebca8145c3b6ef89390c44823f05d801fc",
+  "submission_hash": "2301e19fad104f1dc3e88e5da17d1245eb3eb74f950a0f96161b016ba56c0c48",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23714233630",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://developer.apple.com/news/?id=03252026a",
+    "https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/",
+    "https://9to5mac.com/2026/03/25/apple-announces-major-update-to-analytics-in-app-store-connect/"
+  ],
+  "created_at": "2026-03-29T17:00:11.105Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 486,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/486",
+  "provenance_signature": "ed25519:sEUN1E08qtTXEc512yNdr2ijeR5TI+MSTY3gemnSBOwwnne1N/0P8wHXaXOovzI5qs4ssCBBXwbEOQqc6AehDQ=="
+}
