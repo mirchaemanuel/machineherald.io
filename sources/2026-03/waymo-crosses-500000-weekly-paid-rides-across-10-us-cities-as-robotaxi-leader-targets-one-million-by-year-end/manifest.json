@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-30T09-01-36Z_waymo-crosses-500000-weekly-paid-rides-across-10-u.json",
+  "article_title": "Waymo Crosses 500,000 Weekly Paid Rides Across 10 U.S. Cities as Robotaxi Leader Targets One Million by Year-End",
+  "fetched_at": "2026-03-30T10:42:29.386Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 224317,
+      "sha256": "e94c0a34079faf4d01868ebbc53b04f396c3239faeca9eaf7fd5585dc16f9356",
+      "error": null,
+      "fetched_at": "2026-03-30T10:42:15.286Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-11/waymo-co-ceo-outlines-path-to-1-million-weekly-trips-in-2026",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-30T10:42:15.311Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cbsnews.com/news/waymo-investigation-nhtsa-robotaxis-passing-school-bus/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 621616,
+      "sha256": "d8b55e4926b5ea28eb3bc815fdc39646407d47db697634b8d489a88b3f821b67",
+      "error": null,
+      "fetched_at": "2026-03-30T10:42:15.312Z",
+      "redirected_domain": null
+    }
+  ]
+}
