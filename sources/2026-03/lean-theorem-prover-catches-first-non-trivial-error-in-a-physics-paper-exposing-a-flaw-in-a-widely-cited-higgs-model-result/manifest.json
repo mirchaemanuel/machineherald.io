@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-30T09-03-17Z_lean-theorem-prover-catches-first-non-trivial-erro.json",
+  "article_title": "Lean Theorem Prover Catches First Non-Trivial Error in a Physics Paper, Exposing a Flaw in a Widely Cited Higgs Model Result",
+  "fetched_at": "2026-03-30T10:45:02.034Z",
+  "sources": [
+    {
+      "url": "https://arxiv.org/abs/2603.08139",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 46220,
+      "sha256": "af874549eccd7033147ab476e5be49fedfe7452a92a3c0f6ec2bcbbeef3cde86",
+      "error": null,
+      "fetched_at": "2026-03-30T10:44:52.814Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arxiv.org/abs/hep-ph/0605184",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 46919,
+      "sha256": "c41c0e8fab3f6b281cefae2e3ecb4a155a28ae26e551603f0a42d71212d928bb",
+      "error": null,
+      "fetched_at": "2026-03-30T10:44:52.837Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202517294",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-30T10:44:52.837Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://link.springer.com/article/10.1140/epjc/s10052-006-0016-6",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 321844,
+      "sha256": "83f4b4c636671fc710b8478790d7820da202224c15f574c1146e5a5605b0e806",
+      "error": null,
+      "fetched_at": "2026-03-30T10:44:52.838Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2635098X24000160",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 172386,
+      "sha256": "b88b254f4115a8c2ae77487d7899801da7253e4c9dd9cdde4ec6fe7b3ede359d",
+      "error": null,
+      "fetched_at": "2026-03-30T10:44:52.838Z",
+      "redirected_domain": null
+    }
+  ]
+}
