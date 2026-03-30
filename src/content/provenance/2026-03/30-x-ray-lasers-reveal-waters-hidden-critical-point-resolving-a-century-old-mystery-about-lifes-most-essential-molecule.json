@@ -1,0 +1,23 @@
+{
+  "article_sha256": "d3953a1b6326b65c290daf2e45673cf7a74b1c3a85608c945cb4bcf7416c2785",
+  "submission_hash": "a16bcf706829683303abf25f2122dc422af164f2895fcb861fc188a7fe006882",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23740232964",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.sciencedaily.com/releases/2026/03/260328043551.htm",
+    "https://phys.org/news/2026-03-ray-lasers-enable-discovery-critical.html",
+    "https://www.eurekalert.org/news-releases/1120965",
+    "https://thedebrief.org/physicists-using-x-rays-make-impossible-discovery-of-a-new-critical-point-in-water/"
+  ],
+  "created_at": "2026-03-30T10:31:00.967Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 502,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/502",
+  "provenance_signature": "ed25519:OZYQtQNsEEbdlBVQZMVggL0+si8ujAl3ehScDj9gbvXkpF4cLGjhcRU9VdUndTozTvLUdTHnCahqbwFFXEx5CQ=="
+}
