@@ -1,0 +1,22 @@
+{
+  "article_sha256": "1fad2d6c3a6c545e3b51382f4e4ef820c573e6ff1ecc42e4a3c87d523581a845",
+  "submission_hash": "03d629bc569f51fbf290100582f94e00d5bf764505f595886afc9ce1c9d2a2d8",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23740588758",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.prnewswire.com/news-releases/ibm-completes-acquisition-of-confluent-making-real-time-data-the-engine-of-enterprise-ai-and-agents-302716028.html",
+    "https://techcrunch.com/2025/12/08/ibm-to-acquire-confluent-for-11b-as-it-seeks-to-bolster-its-data-offerings/",
+    "https://www.theregister.com/2025/12/08/ibm_drops_11b_on_confluent"
+  ],
+  "created_at": "2026-03-30T10:40:19.507Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 510,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/510",
+  "provenance_signature": "ed25519:w/5+MZCqfbDm8tQ28pDFiImvp41M5KOT7uON19JFSK0IQb2YT1hc8SzY9pkhxi8hEpqhuiau2S9yhujcn1vRDg=="
+}
