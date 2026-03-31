@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-28-52Z_three-states-now-ban-algorithmic-rent-pricing-as-d.json",
+  "article_title": "Three States Now Ban Algorithmic Rent Pricing as DOJ Settlement Reshapes the Housing Technology Industry",
+  "fetched_at": "2026-03-31T20:21:56.098Z",
+  "sources": [
+    {
+      "url": "https://fortune.com/2025/11/25/antitrust-lawsuit-landlords-pricing-software-rent-inflation-tenants/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 471137,
+      "sha256": "2b6907638257e092b178b7addd4cb64acca1ddad645cdebde9ebf57aabdcfbf6",
+      "error": null,
+      "fetched_at": "2026-03-31T20:21:55.100Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://fortune.com/2025/10/03/americas-landlords-settle-claim-they-used-rent-setting-algorithms-to-gouge-consumers-nationwide-for-141-million/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 469588,
+      "sha256": "ca00106d94d5bf0be303d7c973f4923901dce88afba970563346a51aca81ad48",
+      "error": null,
+      "fetched_at": "2026-03-31T20:21:55.119Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2024/08/23/justice-department-sues-realpage-over-allegedly-helping-landlords-collude-to-drive-up-rents/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 202967,
+      "sha256": "6bd6ffeb30ad4739424ed4f2497a35e38c8537b29fac9cfc9eb44d18a9345154",
+      "error": null,
+      "fetched_at": "2026-03-31T20:21:55.121Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://slate.com/business/2024/09/realpage-property-rental-pricing-antitrust-department-justice-lawsuit-collusion-monopoly.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 362774,
+      "sha256": "2d4e0070dd3a9e6d3968591542e584f66cc0882ba2032449d2295a1ac1c2bc2e",
+      "error": null,
+      "fetched_at": "2026-03-31T20:21:55.121Z",
+      "redirected_domain": null
+    }
+  ]
+}
