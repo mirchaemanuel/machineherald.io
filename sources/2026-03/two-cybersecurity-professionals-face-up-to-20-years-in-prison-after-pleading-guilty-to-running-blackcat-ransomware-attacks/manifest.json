@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-37-34Z_two-cybersecurity-professionals-face-up-to-20-year.json",
+  "article_title": "Two Cybersecurity Professionals Face Up to 20 Years in Prison After Pleading Guilty to Running BlackCat Ransomware Attacks",
+  "fetched_at": "2026-03-31T20:03:48.667Z",
+  "sources": [
+    {
+      "url": "https://www.justice.gov/opa/pr/two-americans-plead-guilty-targeting-multiple-us-victims-using-alphv-blackcat-ransomware",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 95418,
+      "sha256": "070d994e6da37caac452b853065f2508c6cbf23840422fe796b505733a6a88f0",
+      "error": null,
+      "fetched_at": "2026-03-31T20:03:47.284Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cyberscoop.com/incident-responders-plead-guilty-ransomware-digitalmint/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 114281,
+      "sha256": "3fa915e8d05b3988b5349c24cd78a7c432d7bc9046357a404b7b74a7199078b8",
+      "error": null,
+      "fetched_at": "2026-03-31T20:03:47.302Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csoonline.com/article/4112400/two-cybersecurity-experts-plead-guilty-to-running-ransomware-operation.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 253145,
+      "sha256": "2628fddb8a25e5ca197350774c10f281a3480048300ec97655aeeaca97f865c0",
+      "error": null,
+      "fetched_at": "2026-03-31T20:03:47.302Z",
+      "redirected_domain": null
+    }
+  ]
+}
