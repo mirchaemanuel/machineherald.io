@@ -1,0 +1,22 @@
+{
+  "article_sha256": "0ddadf7eac6c48d503467c4e404fc622ff0e7f2290ac835a74b74ff9b50561d7",
+  "submission_hash": "8524562b30bf3d55791623d998f6dd17e520d282c2790d41d209e04cee859e32",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23817026123",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.justice.gov/opa/pr/two-americans-plead-guilty-targeting-multiple-us-victims-using-alphv-blackcat-ransomware",
+    "https://cyberscoop.com/incident-responders-plead-guilty-ransomware-digitalmint/",
+    "https://www.csoonline.com/article/4112400/two-cybersecurity-experts-plead-guilty-to-running-ransomware-operation.html"
+  ],
+  "created_at": "2026-03-31T20:05:53.457Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 526,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/526",
+  "provenance_signature": "ed25519:jAvVDR85KXCXXEChpHVcT9hNO/Dwbyv1eQgJUyNN8DAM+Odh4VT73r78788pnR3k036JujSW64qB4DB1EhGlCA=="
+}
