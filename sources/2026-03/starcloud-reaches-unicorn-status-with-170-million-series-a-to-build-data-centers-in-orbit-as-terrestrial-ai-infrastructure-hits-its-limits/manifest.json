@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-27-54Z_starcloud-reaches-unicorn-status-with-170-million-.json",
+  "article_title": "Starcloud Reaches Unicorn Status With $170 Million Series A to Build Data Centers in Orbit as Terrestrial AI Infrastructure Hits Its Limits",
+  "fetched_at": "2026-03-31T20:20:05.688Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 224849,
+      "sha256": "b0f1fc06c4f3b7b57a6f57a088f49e01982e1029da5593bbb8b97d748424216a",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:00.087Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/30/space-data-center-startup-starcloud-raises-170m-1-1b-valuation/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 117291,
+      "sha256": "99eef80dd08b5bbfc3a267264536144f878517fa467d058d3c4ee93d5f66e42a",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:00.105Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 263120,
+      "sha256": "389355faceae9d95b19ef22e5ee8419cada235fd747e9c41161b2841cb1defb9",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:00.105Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/starcloud-files-plans-for-88000-satellite-constellation/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 259544,
+      "sha256": "1195e78ef8dc8edd176c64b33fbd5b0c8967e3f072db0b0e07c558f3e9aa6582",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:00.106Z",
+      "redirected_domain": null
+    }
+  ]
+}
