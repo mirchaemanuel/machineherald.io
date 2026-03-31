@@ -43,15 +43,15 @@ const primarySections = primaryTopics.map((topic) => ({
 
 // Combined sections
 const scienceSpace = [
-  ...getArticlesByTopic(publishedWithMeta, 'Science & Research', 2),
-  ...getArticlesByTopic(publishedWithMeta, 'Space & Aerospace', 2),
+  ...getArticlesByTopic(publishedWithMeta, 'Science & Research'),
+  ...getArticlesByTopic(publishedWithMeta, 'Space & Aerospace'),
 ]
   .sort((a, b) => b.article.data.date.getTime() - a.article.data.date.getTime())
   .slice(0, 4);
 
 const energyBiotech = [
-  ...getArticlesByTopic(publishedWithMeta, 'Energy & Climate', 2),
-  ...getArticlesByTopic(publishedWithMeta, 'Biotech & Medicine', 2),
+  ...getArticlesByTopic(publishedWithMeta, 'Energy & Climate'),
+  ...getArticlesByTopic(publishedWithMeta, 'Biotech & Medicine'),
 ]
   .sort((a, b) => b.article.data.date.getTime() - a.article.data.date.getTime())
   .slice(0, 4);
