@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-16-30Z_nvidia-invests-2-billion-in-marvell-to-bring-custo.json",
+  "article_title": "Nvidia Invests $2 Billion in Marvell to Bring Custom AI Chips Into Its NVLink Fusion Ecosystem",
+  "fetched_at": "2026-03-31T20:14:09.631Z",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-ai-ecosystem-expands-as-marvell-joins-forces-through-nvlink-fusion",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 80767,
+      "sha256": "e62d988d10e82b41fbc064fb0209c88a735e734b6c52b574623338e3afb23c50",
+      "error": null,
+      "fetched_at": "2026-03-31T20:14:08.715Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-invests-2-billion-in-marvell-to-deepen-nvlink-fusion-partnership",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1503244,
+      "sha256": "21d04d26376590c9bb0fb659e0fd63c5705c5130e0930d86d5cb857e98667c9a",
+      "error": null,
+      "fetched_at": "2026-03-31T20:14:08.733Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/31/marvell-nvidia-stock-stake.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 831551,
+      "sha256": "4c1e4f41c8e41bc577ff287b89b495345d6fb7be2abf0c42a4d2d4084a25fd72",
+      "error": null,
+      "fetched_at": "2026-03-31T20:14:08.734Z",
+      "redirected_domain": null
+    }
+  ]
+}
