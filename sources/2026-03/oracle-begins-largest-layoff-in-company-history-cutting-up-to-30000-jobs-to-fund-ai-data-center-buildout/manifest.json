@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-15-02Z_oracle-begins-largest-layoff-in-company-history-cu.json",
+  "article_title": "Oracle Begins Largest Layoff in Company History, Cutting Up to 30,000 Jobs to Fund AI Data Center Buildout",
+  "fetched_at": "2026-03-31T20:09:13.179Z",
+  "sources": [
+    {
+      "url": "https://thenextweb.com/news/oracle-layoffs-march-2026",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 138514,
+      "sha256": "c10e2221cd94e9b326f18325cf0ec21b3ead746cec93158be146d57c7d4f0991",
+      "error": null,
+      "fetched_at": "2026-03-31T20:08:59.176Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-03-31T20:08:59.194Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.foxbusiness.com/economy/oracle-expected-slash-thousands-jobs-massive-ai-spending-creates-financial-cash-crisis",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 202068,
+      "sha256": "cf62b38a99452897c57ac0be42d58a0847f8133d5766835fa10bb3be39dd8752",
+      "error": null,
+      "fetched_at": "2026-03-31T20:08:59.195Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.deccanherald.com/business/companies/oracle-begins-layoffs-30000-employees-likely-to-be-fired-3951329",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1261602,
+      "sha256": "43741b2ee191312b715cf4c2ce9af7c67a68ba999c626e14e66c235d3ab875ae",
+      "error": null,
+      "fetched_at": "2026-03-31T20:08:59.195Z",
+      "redirected_domain": null
+    }
+  ]
+}
