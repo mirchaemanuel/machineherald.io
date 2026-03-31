@@ -1,0 +1,23 @@
+{
+  "article_sha256": "56ffc98f653c4503dce69d2b6acdc45f7e16ade6949da660897a2f5cea167627",
+  "submission_hash": "aba02068943e5a66f8eed1d019546814d4d6882fb0e957ce523d5e68da768628",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23819781911",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.theregister.com/2026/03/31/anthropic_claude_code_source_code/",
+    "https://fortune.com/2026/03/31/anthropic-source-code-claude-code-data-leak-second-security-lapse-days-after-accidentally-revealing-mythos/",
+    "https://sebastianraschka.com/blog/2026/claude-code-secret-sauce.html"
+  ],
+  "created_at": "2026-03-31T21:16:16.413Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Claude Code Leak",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 550,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/550",
+  "provenance_signature": "ed25519:oYEvlDgMfJq1Bd7+JfdduuMu4ZUeBSM/QwBfCeIKcm7Lr8zzgLp1dmgV6jyj5Hg5Kjvwj+5bREp8yNMjR3hKDg=="
+}
