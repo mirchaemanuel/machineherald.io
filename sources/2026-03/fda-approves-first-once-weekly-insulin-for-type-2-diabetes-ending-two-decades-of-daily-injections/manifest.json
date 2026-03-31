@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-28-21Z_fda-approves-first-once-weekly-insulin-for-type-2-.json",
+  "article_title": "FDA Approves First Once-Weekly Insulin for Type 2 Diabetes, Ending Two Decades of Daily Injections",
+  "fetched_at": "2026-03-31T20:21:11.912Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/fda-approves-novo-nordisks-awiqli-the-first-and-only-once-weekly-basal-insulin-treatment-for-adults-with-type-2-diabetes-302726839.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230218,
+      "sha256": "3aa1b914decb09fdd450717540dbb3c355f94d420f65b31e8558bedb8b743062",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:54.181Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/novo-nordisk-resubmits-awiqli-to-the-fda-with-potential-to-be-the-first-once-weekly-basal-insulin-treatment-for-adults-with-type-2-diabetes-302568645.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 218265,
+      "sha256": "542652e814ffd482c4943087b30c5dcd6301adfd1444e98a78597b77c7936830",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:54.199Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK605533/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 123652,
+      "sha256": "1ce5c7855fbebb214bcc68bafb1e03a5c42abccf86fe5f69e901a96e54be0d1d",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:54.199Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fiercepharma.com/pharma/fda-rejects-novo-nordisks-once-weekly-insulin-manufacturing-issues",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 1742152,
+      "sha256": "c74cc8684f201a1625306da0c90cc87b88c76ab6d4cab0d65a20c30a4a056681",
+      "error": null,
+      "fetched_at": "2026-03-31T20:20:54.200Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.fiercepharma.com/pharma/fda-rejects-novo-nordisks-once-weekly-insulin-manufacturing-issues"
+    }
+  ]
+}
