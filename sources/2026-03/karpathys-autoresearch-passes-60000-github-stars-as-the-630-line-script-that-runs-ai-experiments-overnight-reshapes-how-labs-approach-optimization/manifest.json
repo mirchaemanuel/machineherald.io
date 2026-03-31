@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-32-35Z_karpathys-autoresearch-passes-60000-github-stars-a.json",
+  "article_title": "Karpathy's AutoResearch Passes 60,000 GitHub Stars as the 630-Line Script That Runs AI Experiments Overnight Reshapes How Labs Approach Optimization",
+  "fetched_at": "2026-03-31T20:25:07.647Z",
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/03/17/andrej-karpathy-loop-autonomous-ai-agents-future/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 489447,
+      "sha256": "d62c1db69ff35e2a9ee9eb4b34a31149eb4e113d2c3d0619f4cdd98d80f90530",
+      "error": null,
+      "fetched_at": "2026-03-31T20:25:06.797Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 123800,
+      "sha256": "e020b45c194a5bee89f09255f52a463e7adc4f6a7e2a5f11554e2fc2ee1f1745",
+      "error": null,
+      "fetched_at": "2026-03-31T20:25:06.814Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://github.com/karpathy/autoresearch",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 291879,
+      "sha256": "497b4e4b8c9e16c12e756662b257b8093b043f7c70cede5415a6cbbe48d45f2f",
+      "error": null,
+      "fetched_at": "2026-03-31T20:25:06.815Z",
+      "redirected_domain": null
+    }
+  ]
+}
