@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-31-23Z_openai-patches-chatgpt-dns-data-exfiltration-flaw-.json",
+  "article_title": "OpenAI Patches ChatGPT DNS Data Exfiltration Flaw and Codex Command Injection That Exposed GitHub Tokens",
+  "fetched_at": "2026-03-31T20:22:46.029Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/03/30/openai_chatgpt_dns_data_snuggling_flaw/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 94352,
+      "sha256": "e1148771a7764e3ab4bbd7491f5b96cbb6c7f78c6d5915ba0648ef72af0c6dc6",
+      "error": null,
+      "fetched_at": "2026-03-31T20:22:44.855Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/30/openai-codex-vulnerability-enabled-github-token-theft-via-command-injection-report-finds/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 120733,
+      "sha256": "ce6c6c41373e76194e0c9f82301dd7e8f2d47c65f73b30a1d3caa4efad395f2b",
+      "error": null,
+      "fetched_at": "2026-03-31T20:22:44.875Z",
+      "redirected_domain": null
+    }
+  ]
+}
