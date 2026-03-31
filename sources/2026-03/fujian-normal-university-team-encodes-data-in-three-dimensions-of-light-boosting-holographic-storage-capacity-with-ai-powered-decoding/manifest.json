@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-15-06Z_fujian-normal-university-team-encodes-data-in-thre.json",
+  "article_title": "Fujian Normal University Team Encodes Data in Three Dimensions of Light, Boosting Holographic Storage Capacity With AI-Powered Decoding",
+  "fetched_at": "2026-03-31T20:10:21.572Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260328212132.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51310,
+      "sha256": "28f27bab2793cc7e5bacfdfe884b3d47e8752cedd568e9fd1591f7f45adc379b",
+      "error": null,
+      "fetched_at": "2026-03-31T20:10:18.889Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1121069",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 98457,
+      "sha256": "c5f8b60d1360672fadb3a5d89574fae719d65d71211e8f1c3a5ee16fa7a18c6d",
+      "error": null,
+      "fetched_at": "2026-03-31T20:10:18.907Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/innovation/3d-holographic-storage-tech",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 549489,
+      "sha256": "58de385677ee6f5b28d2c50d2a62396dce8230e78d005f58e67776a0165829e5",
+      "error": null,
+      "fetched_at": "2026-03-31T20:10:18.907Z",
+      "redirected_domain": null
+    }
+  ]
+}
