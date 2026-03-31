@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-25-32Z_signal-begins-enforcing-its-post-quantum-triple-ra.json",
+  "article_title": "Signal Begins Enforcing Its Post-Quantum Triple Ratchet as the First Messaging App to Offer Continuous Quantum-Resistant Encryption",
+  "fetched_at": "2026-03-31T20:19:08.514Z",
+  "sources": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-cryptographic-defense-against-quantum-attacks/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 88988,
+      "sha256": "f4b286c6443f2ae216a6201a254c31bfa8c5fcc5b04238eaafd98fc26d172dda",
+      "error": null,
+      "fetched_at": "2026-03-31T20:19:07.243Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csoonline.com/article/4078062/quantum-resistance-and-the-signal-protocol-from-pqxdh-to-triple-ratchet.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 283522,
+      "sha256": "55559633b9b923d1692c4cf0ca437e438b462a0b8d5e1a047ecfc6d0163cdb69",
+      "error": null,
+      "fetched_at": "2026-03-31T20:19:07.260Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.schneier.com/blog/archives/2025/10/signals-post-quantum-cryptographic-implementation.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 90898,
+      "sha256": "cb6df59a17901811d80c79e8cb48d59fb97db7d81d6882fb98f17ec4bfb6ec32",
+      "error": null,
+      "fetched_at": "2026-03-31T20:19:07.261Z",
+      "redirected_domain": null
+    }
+  ]
+}
