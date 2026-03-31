@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-03/2026-03-31T19-15-57Z_european-open-source-adoption-surges-as-vendor-loc.json",
+  "article_title": "European Open Source Adoption Surges as Vendor Lock-In Fears and Regulatory Deadlines Converge",
+  "fetched_at": "2026-03-31T20:13:01.668Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/perforce-2026-state-of-open-source-report-highlights-shift-toward-digital-autonomy-in-the-eu-302723533.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 222333,
+      "sha256": "e1ba432dead0433e2e7e946ef096fb293d3ea1a281affe36da7b39636c6b86c0",
+      "error": null,
+      "fetched_at": "2026-03-31T20:13:01.287Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/black-duck-research-shows-open-source-vulnerabilities-have-doubled-as-ai-accelerates-code-creation-302692782.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 208341,
+      "sha256": "548307eb333563f2cca2f429b6b5f922e4c892d00e9f52afb04421d44975e87b",
+      "error": null,
+      "fetched_at": "2026-03-31T20:13:01.307Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/01/11/eu_open_source_consultation",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 76658,
+      "sha256": "2df034121dcac1b58fff9f4720cd5b6bf9ebfe4fafb04800688ca704bae696b2",
+      "error": null,
+      "fetched_at": "2026-03-31T20:13:01.308Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/02/04/eu_foss_fears/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 93309,
+      "sha256": "1e27f827140328ac0f99b1b04031b3378992298cf82495aa49e65a5d2df8bfe1",
+      "error": null,
+      "fetched_at": "2026-03-31T20:13:01.309Z",
+      "redirected_domain": null
+    }
+  ]
+}
