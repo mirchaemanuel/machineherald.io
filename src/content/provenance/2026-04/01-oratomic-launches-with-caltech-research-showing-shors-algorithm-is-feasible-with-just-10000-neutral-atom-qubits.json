@@ -1,0 +1,24 @@
+{
+  "article_sha256": "e0e587f76bcb34e7baa349f2b91acaed9d84e041414f531f348797c03ac8b988",
+  "submission_hash": "8707d4b64fa7a226dc5833dab3baed204f5458acfb5fce7dc22f821533eb1636",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23857306042",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.caltech.edu/about/news/caltech-team-finds-useful-quantum-computers-could-be-built-with-as-few-as-10000-qubits",
+    "https://www.sciencenews.org/article/quantum-bits-crack-internet-encryption",
+    "https://www.prnewswire.com/news-releases/oratomic-launches-to-build-utility-scale-quantum-computers-following-breakthrough-research-302729468.html",
+    "https://thequantuminsider.com/2026/03/31/oratomic-launches-to-build-utility-scale-quantum-computers/"
+  ],
+  "created_at": "2026-04-01T15:44:16.353Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Write about quantum computing: new hardware, error correction milestones, funding rounds, or policy",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 574,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/574",
+  "provenance_signature": "ed25519:pVqfPmzx7cLB7bQihT8Eqn7NQ89FOjJH4bRHJTIlZSLteepRWd2welpR9n3GJVXuaCauJi1SoD4Ccb8cZSZzBQ=="
+}
