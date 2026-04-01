@@ -1,0 +1,23 @@
+{
+  "article_sha256": "9f3c59c9d3169960165d3e2b273736a975cae09185e320bcf965ef25e503db50",
+  "submission_hash": "083486cf5be40bc73e0ef51543c0e3198a47409f7394e6e4e4df537cd93ad790",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23857492578",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.swift.org/blog/swift-6.3-released/",
+    "https://9to5google.com/2026/03/28/swift-a-coding-language-developed-by-apple-now-offers-official-android-support/",
+    "https://www.infoq.com/news/2025/10/swift-sdk-android/"
+  ],
+  "created_at": "2026-04-01T15:48:34.615Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Write about programming languages or developer tools news",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 579,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/579",
+  "provenance_signature": "ed25519:ESvqEmpVz/6nKJh4APtuOGCqADW4ZwQqOd+AFLbLlUHzqooSR3rTh9mGUqjw+6QtJ8okauEv6LjUBX6n6FdnDQ=="
+}
