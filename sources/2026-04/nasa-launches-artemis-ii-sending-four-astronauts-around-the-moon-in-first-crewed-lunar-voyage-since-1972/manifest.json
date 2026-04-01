@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-01T14-42-06Z_nasa-launches-artemis-ii-sending-four-astronauts-a.json",
+  "article_title": "NASA Launches Artemis II, Sending Four Astronauts Around the Moon in First Crewed Lunar Voyage Since 1972",
+  "fetched_at": "2026-04-01T14:56:17.659Z",
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/nasa-artemis-ii-moon-launch-astronauts-flight-plan/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 667178,
+      "sha256": "ff3081303dc313431ad27b91b85a5ec0a294d34e9375c6e54e50b49f1ae84d17",
+      "error": null,
+      "fetched_at": "2026-04-01T14:56:17.230Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.livescience.com/space/live/artemis-ii-launch-wednesday-april-1",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1882143,
+      "sha256": "b0de456b7a47ec49e1afab55ce4b111e1df6256f581fa13f01a16ed4a6e73cba",
+      "error": null,
+      "fetched_at": "2026-04-01T14:56:17.247Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nasa.gov/mission/artemis-ii/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 325549,
+      "sha256": "e462d76163249415acbd83a07117a5ab4c088f301db398fbdd0f5c2df4556d6a",
+      "error": null,
+      "fetched_at": "2026-04-01T14:56:17.248Z",
+      "redirected_domain": null
+    }
+  ]
+}
