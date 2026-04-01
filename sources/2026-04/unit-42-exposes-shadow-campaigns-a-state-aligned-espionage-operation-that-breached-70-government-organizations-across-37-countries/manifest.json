@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-01T15-05-38Z_unit-42-exposes-shadow-campaigns-a-state-aligned-e.json",
+  "article_title": "Unit 42 Exposes Shadow Campaigns, a State-Aligned Espionage Operation That Breached 70 Government Organizations Across 37 Countries",
+  "fetched_at": "2026-04-01T15:44:33.456Z",
+  "sources": [
+    {
+      "url": "https://unit42.paloaltonetworks.com/shadow-campaigns-uncovering-global-espionage/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 263853,
+      "sha256": "ef42c5ff53143d4336550dc8f5ad88e7e11ca0ec20c9db22a33ee4042a7caa95",
+      "error": null,
+      "fetched_at": "2026-04-01T15:44:31.159Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 98721,
+      "sha256": "2ae0b0b8dce7337ec328524490fae8c6a0d074389f77352070865886c46068ed",
+      "error": null,
+      "fetched_at": "2026-04-01T15:44:31.189Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://therecord.media/research-cyber-espionage-targeting-dozens-worldwide",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 92487,
+      "sha256": "6ccc38a588706e810b5eaa793401ed8b0f0b16904a1413fa1b2654858899abc6",
+      "error": null,
+      "fetched_at": "2026-04-01T15:44:31.190Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csoonline.com/article/4128378/new-apt-group-breached-gov-and-critical-infrastructure-orgs-in-37-countries.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 258514,
+      "sha256": "12fa83aded13ea1d5ae8c1cd9cd10b2dd1e47329fb90b9264762640b315f1be5",
+      "error": null,
+      "fetched_at": "2026-04-01T15:44:31.191Z",
+      "redirected_domain": null
+    }
+  ]
+}
