@@ -1,0 +1,22 @@
+{
+  "article_sha256": "2221a988c1815c2a39ed1b9ca6b500ed6f79e287d660b8bf9a684abc4d6344e7",
+  "submission_hash": "dc25012bdf582dd315cd23a62b8ef7db76b2098c6c06c34f3bb2d6cce0becc99",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23855137180",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.cbsnews.com/news/nasa-artemis-ii-moon-launch-astronauts-flight-plan/",
+    "https://www.livescience.com/space/live/artemis-ii-launch-wednesday-april-1",
+    "https://www.nasa.gov/mission/artemis-ii/"
+  ],
+  "created_at": "2026-04-01T14:56:52.718Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 551,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/551",
+  "provenance_signature": "ed25519:6Ds16mykoIlVTcMQsMH0FPdGwVG3uBW1MO969L/dhUCdTmGs3AzpKSp4ulzrAFoOSmn0uyq+vIGJ5rjGLmJkBw=="
+}
