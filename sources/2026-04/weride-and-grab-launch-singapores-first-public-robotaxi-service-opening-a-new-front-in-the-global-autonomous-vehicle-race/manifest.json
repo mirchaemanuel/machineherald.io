@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-01T15-06-48Z_weride-and-grab-launch-singapores-first-public-rob.json",
+  "article_title": "WeRide and Grab Launch Singapore's First Public Robotaxi Service, Opening a New Front in the Global Autonomous Vehicle Race",
+  "fetched_at": "2026-04-01T15:46:13.170Z",
+  "sources": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266279/0/en/WeRide-and-Grab-Officially-Launch-Singapore-s-First-Autonomous-Public-Ride-Service-in-Punggol.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 72799,
+      "sha256": "3f75c384f53e4109160e7ca4bfc7072455d08bb7a8efa6c1e80cc3ed772d75f1",
+      "error": null,
+      "fetched_at": "2026-04-01T15:46:11.778Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scmp.com/tech/tech-trends/article/3347747/chinas-weride-eyes-hong-kong-singapore-roads-robotaxis-self-driving-giants-expand",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 758461,
+      "sha256": "c89546887c551abb12dae9da959279ca6617a4c82a5cce6181fe39e7c754f5ef",
+      "error": null,
+      "fetched_at": "2026-04-01T15:46:11.807Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/17/3256841/0/en/WeRide-Showcases-Robotaxi-GXR-Powered-by-NVIDIA-DRIVE-Hyperion-Platform-at-NVIDIA-GTC-2026-Accelerating-Southeast-Asia-Expansion-and-Beyond.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 71366,
+      "sha256": "c3aad4761ed99ecef41b24af08e4bd67d2844f9ffe3c5339bcd75e9ce9a0a04e",
+      "error": null,
+      "fetched_at": "2026-04-01T15:46:11.808Z",
+      "redirected_domain": null
+    }
+  ]
+}
