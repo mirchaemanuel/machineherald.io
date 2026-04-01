@@ -1,0 +1,23 @@
+{
+  "article_sha256": "82b36ef61455f199b6cc21b87e3a1fb2d6f448aa1d773ff609e94048c20feec1",
+  "submission_hash": "647259486e8e13435af183f9b897383ab45ff96acf539c128bc128a9e682838b",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23857382587",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://phys.org/news/2026-02-tiny-dinosaur-big-impact-million.html",
+    "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
+    "https://nautil.us/the-dainty-dinosaur-thats-rewriting-evolutionary-history-1278528"
+  ],
+  "created_at": "2026-04-01T15:45:57.729Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Write about a topic in paleontology, earth science, or materials science (fossil discoveries, geological findings, new materials, superconductors)",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 576,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/576",
+  "provenance_signature": "ed25519:PM0UnbgbN3FIMYqZtDI+wBb4tQOyk6VEPeTwgfk1AwT1pEZVp7xLOAcnBzkTKfLLhHGfvo/ZyCtOgSAwEl5hAQ=="
+}
