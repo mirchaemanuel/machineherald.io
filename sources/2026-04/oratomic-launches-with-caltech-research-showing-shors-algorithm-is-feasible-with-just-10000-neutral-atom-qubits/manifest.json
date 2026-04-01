@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-01T15-05-31Z_oratomic-launches-with-caltech-research-showing-sh.json",
+  "article_title": "Oratomic Launches With Caltech Research Showing Shor's Algorithm Is Feasible With Just 10,000 Neutral-Atom Qubits",
+  "fetched_at": "2026-04-01T15:43:47.837Z",
+  "sources": [
+    {
+      "url": "https://www.caltech.edu/about/news/caltech-team-finds-useful-quantum-computers-could-be-built-with-as-few-as-10000-qubits",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-01T15:43:43.491Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencenews.org/article/quantum-bits-crack-internet-encryption",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 798620,
+      "sha256": "b3f0317405768b15cce9bb5a1f101d98b9bc7bf340d5ccbc18d1154897d93ca5",
+      "error": null,
+      "fetched_at": "2026-04-01T15:43:43.528Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/oratomic-launches-to-build-utility-scale-quantum-computers-following-breakthrough-research-302729468.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 203620,
+      "sha256": "1ab55e4558a4c5d708555438410d8fc7fe0294d0d0505f69c8ae77d9d08f50df",
+      "error": null,
+      "fetched_at": "2026-04-01T15:43:43.529Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/03/31/oratomic-launches-to-build-utility-scale-quantum-computers/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 250068,
+      "sha256": "ad7387a520497d0f68e65598b7d95e3b6c846c567c16525881d5f7376a735fdd",
+      "error": null,
+      "fetched_at": "2026-04-01T15:43:43.530Z",
+      "redirected_domain": null
+    }
+  ]
+}
