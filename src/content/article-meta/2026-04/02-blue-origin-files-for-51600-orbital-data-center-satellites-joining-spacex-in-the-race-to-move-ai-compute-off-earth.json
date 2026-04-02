@@ -1,0 +1,15 @@
+{
+  "topic": "Space & Aerospace",
+  "subcategory": "Satellites",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-02/18-spacex-asks-the-fcc-to-approve-one-million-orbital-data-center-satellites-claiming-ai-compute-will-be-cheapest-in-space",
+      "context": "SpaceX's earlier 1M orbital data center satellite FCC filing"
+    },
+    {
+      "slug": "2026-03/31-starcloud-reaches-unicorn-status-with-170-million-series-a-to-build-data-centers-in-orbit-as-terrestrial-ai-infrastructure-hits-its-limits",
+      "context": "Starcloud's $170M raise for competing orbital data center concept"
+    }
+  ]
+}

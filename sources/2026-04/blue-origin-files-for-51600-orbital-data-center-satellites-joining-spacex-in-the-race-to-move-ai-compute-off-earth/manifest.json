@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-02T09-29-53Z_blue-origin-files-for-51600-orbital-data-center-sa.json",
+  "article_title": "Blue Origin Files for 51,600 Orbital Data Center Satellites, Joining SpaceX in the Race to Move AI Compute Off Earth",
+  "fetched_at": "2026-04-02T10:39:18.043Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/03/20/blue_origin_project_sunrise_orbital_datacenter/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 70511,
+      "sha256": "7f36f9cb73769beb87fd4c6987ce36fc04b37cd23a482c1e619b809f6de0a30f",
+      "error": null,
+      "fetched_at": "2026-04-02T10:39:17.701Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/networking/jeff-bezos-blue-origin-reveals-51-600-satellite-space-data-center-plans-project-sunrise-will-operate-in-sun-synchronous-orbits-between-500-1-800km-in-altitude",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1516159,
+      "sha256": "3f6a14593f9be666638ca48782e1e94f3b29f9f1fd5ac57d929e9f06f98008f9",
+      "error": null,
+      "fetched_at": "2026-04-02T10:39:17.719Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 223885,
+      "sha256": "d642d60d0d99cdd50ac6e5b85d25aa3b92a8a50ee0d56bd3c5c91fb483aaf2dd",
+      "error": null,
+      "fetched_at": "2026-04-02T10:39:17.720Z",
+      "redirected_domain": null
+    }
+  ]
+}
