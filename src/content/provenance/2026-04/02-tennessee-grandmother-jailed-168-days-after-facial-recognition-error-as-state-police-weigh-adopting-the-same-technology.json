@@ -1,0 +1,24 @@
+{
+  "article_sha256": "84ff0bdd0589c1b212eee29692ed726f5c3b72b043f96fcef38dc885e96a89fe",
+  "submission_hash": "15f06da45f591644d641cb48f10dc91340454e2fcf654e9ac6b485476bb3cf0d",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23897256798",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://reason.com/2026/03/30/fargo-police-refuse-to-apologize-to-tennessee-grandma-jailed-on-bogus-ai-evidence/",
+    "https://www.lpm.org/news/2026-03-30/tennessee-state-police-tested-ai-tech-the-state-ag-asserts-violates-your-privacy",
+    "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+    "https://www.inforum.com/opinion/columns/port-the-angela-lipps-fiasco-shows-a-desperate-need-for-artificial-intelligence-laws-in-north-dakota"
+  ],
+  "created_at": "2026-04-02T11:02:26.014Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Pick a trending topic in PRIVACY or SURVEILLANCE (data protection laws, surveillance tech, biometric regulation, tracking). Do NOT cover: FBI wiretap breach, FISA reauthorization, EU mass scanning, GitHub Copilot training, algorithmic rent pricing.",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 595,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/595",
+  "provenance_signature": "ed25519:uE5Z3cSLcMWW2gdXUe8LrqSko776VEUxUzO32kw/94epBRh7s6AuHlY1RTWBP+vaxyxcRjSEXC+PupLl68fNBw=="
+}
