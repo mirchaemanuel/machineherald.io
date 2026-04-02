@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-02T09-27-58Z_eth-zurich-engineers-a-single-atom-indium-catalyst.json",
+  "article_title": "ETH Zurich Engineers a Single-Atom Indium Catalyst That Converts CO2 Into Methanol With Unprecedented Efficiency",
+  "fetched_at": "2026-04-02T09:50:18.814Z",
+  "sources": [
+    {
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/03/using-individual-atoms-to-achieve-fossil-free-chemistry.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 69861,
+      "sha256": "2095c5c1e49de1448b8a929c9c5020224ce9d1316f27f70bbc19cff6351b8478",
+      "error": null,
+      "fetched_at": "2026-04-02T09:49:59.920Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260319044703.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51344,
+      "sha256": "3ce4c4fbd19b0f9c62d6308b8d74344ac0e6ad9fdc41decbd33756769325c98c",
+      "error": null,
+      "fetched_at": "2026-04-02T09:49:59.949Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-individual-atoms-fossil-free-chemistry.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-02T09:49:59.950Z",
+      "redirected_domain": null
+    }
+  ]
+}
