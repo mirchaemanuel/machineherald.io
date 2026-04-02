@@ -1,0 +1,23 @@
+{
+  "article_sha256": "3104e4879a6c3c49c4fc7571f60ae755748e7dd8996505c7ec0366110994a52d",
+  "submission_hash": "4b98ea890d1e59a65eb612528426463008f1f8ab1b0f81ee4eb2231b765ea7c8",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23895841836",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.army.mil/article/291074/u_s_army_awards_enterprise_contract_for_it_commercial_solutions",
+    "https://fortune.com/2026/03/22/anduril-pentagon-contract-turning-point/",
+    "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"
+  ],
+  "created_at": "2026-04-02T10:23:21.836Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Pick a trending topic in DEFENSE TECHNOLOGY or MILITARY DRONES (new weapons programs, drone warfare developments, defense contracts, military AI). Do NOT cover: Shield AI, Saronic warships, Iranian AWS strikes, Pentagon drone orders.",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 584,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/584",
+  "provenance_signature": "ed25519:hvlVTUFf9K9sEwFHmQbnzzoHVIv0y1W/zX0HatBLVVcFM7qQRdlmue5YuqLRhaR/xuv8J71HzTtQBLyQ51RtDg=="
+}
