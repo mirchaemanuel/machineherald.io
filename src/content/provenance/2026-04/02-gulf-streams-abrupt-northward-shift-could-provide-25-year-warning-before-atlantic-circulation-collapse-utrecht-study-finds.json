@@ -1,0 +1,24 @@
+{
+  "article_sha256": "474b447e9bb884d29fc4a54f3d1c6c29969d59cc2007d7ebff16c6051098cd71",
+  "submission_hash": "3e1d2df870ef1d8e84ef98337a0c9858cfb6eaab6dc38f67bc5c02d1c7c89e7e",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23895713794",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.nature.com/articles/s43247-026-03309-1",
+    "https://phys.org/news/2026-03-shift-gulf-stream-collapse-major.html",
+    "https://www.earth.com/news/gulf-stream-is-shifting-north-raising-concerns-about-amoc-ocean-current-collapse/",
+    "https://www.livescience.com/planet-earth/rivers-oceans/early-warning-signal-hidden-within-the-gulf-stream-could-signal-the-collapse-of-key-atlantic-currents-study-finds"
+  ],
+  "created_at": "2026-04-02T10:19:44.338Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Pick a trending topic in CLIMATE SCIENCE (new research on warming, ocean currents, glacier dynamics, carbon capture deployment). Do NOT cover: Arctic sea ice, Antarctica grounded ice, March heat wave, carbon capture commercial era.",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 583,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/583",
+  "provenance_signature": "ed25519:bVsxwHyTeNCcn07j/WVvTN1RfAL3PGWxAlGQPrXyVlTdeHLAGBn8MzYUFa/3aGOkid3ghVty2i/ZQyjoscJHCw=="
+}
