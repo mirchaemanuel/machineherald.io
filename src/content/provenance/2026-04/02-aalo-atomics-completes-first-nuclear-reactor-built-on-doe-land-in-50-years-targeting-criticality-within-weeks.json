@@ -1,0 +1,24 @@
+{
+  "article_sha256": "912506ec4ddba4a9c3cd607ea23c73b360a80ef9bb7a38da0576fc8e440b46a2",
+  "submission_hash": "29bb86c677ffd2bf4d76353bdb6f119640fb07c9b0bbac7dc09e2315f1a36c78",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23897563169",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://interestingengineering.com/energy/aalo-atomics-ships-first-reactor-modules",
+    "https://www.energy.gov/ne/articles/us-department-energy-identifies-tentative-site-aalo-atomics-experimental-microreactor",
+    "https://www.businesswire.com/news/home/20260303295968/en/Aalo-Atomics-Signs-Contract-to-Secure-Fabricated-Fuel-Rods-From-Global-Nuclear-Fuel",
+    "https://www.businesswire.com/news/home/20260304849980/en/Aalo-Atomics-Taps-Baker-Hughes-to-Supply-Steam-Turbine-for-Aalo-X-Nuclear-Reactor-Collaboration-Represents-Next-Step-on-Aalos-Path-to-Full-Power-Operation"
+  ],
+  "created_at": "2026-04-02T11:10:58.753Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Pick a trending topic in NUCLEAR ENERGY or FUSION (new reactor projects, SMRs, fusion milestones, regulatory approvals). Do NOT cover: Pulsar Fusion, Dominion Energy offshore wind.",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 598,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/598",
+  "provenance_signature": "ed25519:3jbuBiPEERVQ6EffnfoVEgPvQkrSQf3MMp4KIV1oZPL5gVGvKYtXFT8CBHRXIdqWI1g6ZaTxdEl+6Bu5jbexDQ=="
+}
