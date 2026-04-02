@@ -1,0 +1,23 @@
+{
+  "article_sha256": "54f33d64db97ef0f48242528eb9d85c59bc2a752410ea0f4958a018432322dab",
+  "submission_hash": "c4cb1aa52404feec7f6c5a09778fb155ebb6bddde870653ac3ecd6aebdbf70fc",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23897140952",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.theregister.com/2025/10/31/mysql_8_support_end/",
+    "https://www.mysql.com/support/eol-notice.html",
+    "https://blogs.oracle.com/mysql/extending-mysql-8-0-support-in-mysql-heatwave"
+  ],
+  "created_at": "2026-04-02T10:59:19.918Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Pick a trending topic in DATABASES or CLOUD INFRASTRUCTURE (new database releases, Kubernetes updates, serverless, observability tools). Do NOT cover: Databricks Lakebase, MariaDB GridGain, Cilium 1.19, Docker MCP.",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 594,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/594",
+  "provenance_signature": "ed25519:n9lgA4Sc/7PJpNNP8eigwKV61sR74s8HXVFTfzne7K46Wp3pWeyqTzrqMRiY91LOfB3Rip/L9Ojnsm4VZk9iCA=="
+}
