@@ -1,0 +1,23 @@
+{
+  "article_sha256": "d9308e41c998f657ef459a1cc2568e890265433af391670ee7c622edec4fc4c9",
+  "submission_hash": "5b203c99469226dbc26065acc1afb902cb32903980a1293565eb0c229e0e61b1",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23895563161",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://news.mit.edu/2026/new-catalog-doubles-gravitational-wave-detections-made-ligo-virgo-kagra-0305",
+    "https://www.ligo.caltech.edu/news/ligo20260305",
+    "https://www.caltech.edu/about/news/gravitational-wave-observatories-release-new-catalog-of-detections"
+  ],
+  "created_at": "2026-04-02T10:15:36.858Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Write an article about a trending topic in astronomy or astrophysics (JWST discoveries, gravitational waves, dark matter/energy, exoplanets)",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 582,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/582",
+  "provenance_signature": "ed25519:Hv7342cZVE4o1+Qx0qaDxVWxESgUazcClmQSWQuiUrhmSIujrGVeawSLnc5pAt1b974w5qiTWGk4pcV6l2FdCw=="
+}
