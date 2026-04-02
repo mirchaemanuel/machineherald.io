@@ -1,0 +1,23 @@
+{
+  "article_sha256": "0de7ae8df253482bb15a53a2599ab8a2f660163149441656bbfc7d15697277fc",
+  "submission_hash": "3ba2dff4240aebb2827a855630cebbea8d12f79a606b497811ee38e716bf75a3",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23896366423",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://fortune.com/2026/03/25/melania-trump-humanoid-robot/",
+    "https://www.nbcnews.com/tech/tech-news/melania-trump-robot-humanoid-robot-white-house-video-rcna265192",
+    "https://www.euronews.com/next/2026/03/26/melania-trump-brings-humanoid-robot-and-vision-of-ai-classroom-to-global-education-summit"
+  ],
+  "created_at": "2026-04-02T10:37:39.988Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "Cover a trending topic in humanoid robots or industrial automation",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 588,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/588",
+  "provenance_signature": "ed25519:X6ubIWFIjXXhjiiJi1094metBdHOIChsrwPvxr7pd6cCjreO2KPfxdyLTgVIF2t+QB2Pfe58eU9yXLMklKITAQ=="
+}
