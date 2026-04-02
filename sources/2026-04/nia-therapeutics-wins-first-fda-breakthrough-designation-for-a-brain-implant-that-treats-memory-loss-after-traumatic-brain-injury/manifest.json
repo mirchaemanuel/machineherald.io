@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-02T09-29-48Z_nia-therapeutics-wins-first-fda-breakthrough-desig.json",
+  "article_title": "Nia Therapeutics Wins First FDA Breakthrough Designation for a Brain Implant That Treats Memory Loss After Traumatic Brain Injury",
+  "fetched_at": "2026-04-02T10:30:07.887Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260313678930/en/Nia-Therapeutics-Receives-FDA-Breakthrough-Device-Designation-for-AI-Guided-Brain-Implant-to-Treat-Memory-Loss",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-02T10:30:02.962Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2025/12/26/brain-computer-interface-technology-trends-2026/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 180523,
+      "sha256": "2f5978b9eab894e3587266fa5ab7b80b83e4abdf4c3921251c0efc45004b951f",
+      "error": null,
+      "fetched_at": "2026-04-02T10:30:02.979Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://niatherapeutics.com/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 27162,
+      "sha256": "1cc7636c0c579e5febbefd23d4cc2f823dda041142ab856a9779b48cf818d8f6",
+      "error": null,
+      "fetched_at": "2026-04-02T10:30:02.980Z",
+      "redirected_domain": null
+    }
+  ]
+}
