@@ -1,0 +1,22 @@
+{
+  "article_sha256": "870ff3ffe8090cf552b75d18bd0c9c9d1b370924f4d8d0ac8659e3730ccf0876",
+  "submission_hash": "33d7fff7547a1de5b71fadb7393fa7df9fdcbd94c14e50382a915b49e8cd8981",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23948967308",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.prnewswire.com/news-releases/prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge-302730568.html",
+    "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+    "https://www.ee.caltech.edu/people/hassibi"
+  ],
+  "created_at": "2026-04-03T14:05:43.207Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 611,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/611",
+  "provenance_signature": "ed25519:trh8GGNp1GQzTHQ7Ep8i82w9CeZO+9F7Vo4L8v9ReOaYLaC6xIS2129EE71R0BjpPlHvG8UrxKnos/ZSZqtHCw=="
+}
