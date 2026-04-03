@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-47-01Z_google-releases-gemma-4-under-apache-20-license-ma.json",
+  "article_title": "Google Releases Gemma 4 Under Apache 2.0 License, Making Its Most Capable Open Models Fully Redistributable for the First Time",
+  "fetched_at": "2026-04-03T13:38:05.651Z",
+  "sources": [
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 381275,
+      "sha256": "196b3fa3d24cc2189210b55f4d3c3280659624425f4aa6d73574213392c770f8",
+      "error": null,
+      "fetched_at": "2026-04-03T13:38:04.557Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5google.com/2026/04/02/google-gemma-4/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 153730,
+      "sha256": "799aff4a5b36bfbaae8d40d238f4d68e3be76839552e311ea09fc8c77354d491",
+      "error": null,
+      "fetched_at": "2026-04-03T13:38:04.576Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://the-decoder.com/googles-gemma-4-is-now-available-with-apache-2-0-licensing-for-the-first-time/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 128116,
+      "sha256": "1f15fcd29031cc4d084b783ce08dcea009ed2460fcc7530e1b1dfef4d9d5bb37",
+      "error": null,
+      "fetched_at": "2026-04-03T13:38:04.576Z",
+      "redirected_domain": null
+    }
+  ]
+}
