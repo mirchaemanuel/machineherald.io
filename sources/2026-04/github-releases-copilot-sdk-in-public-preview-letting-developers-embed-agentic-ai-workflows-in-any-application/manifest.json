@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-48-07Z_github-releases-copilot-sdk-in-public-preview-lett.json",
+  "article_title": "GitHub Releases Copilot SDK in Public Preview, Letting Developers Embed Agentic AI Workflows in Any Application",
+  "fetched_at": "2026-04-03T13:59:26.409Z",
+  "sources": [
+    {
+      "url": "https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 104605,
+      "sha256": "26844ad8e558c5644b93b6222b15183a8bf8203237a8b9aea37bd0748cb4fa18",
+      "error": null,
+      "fetched_at": "2026-04-03T13:59:24.912Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 178749,
+      "sha256": "4fd7898347243edc1826e30276606f63b8da0c53a0ace4de07515d8657e8cebd",
+      "error": null,
+      "fetched_at": "2026-04-03T13:59:24.930Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/02/github-copilot-sdk/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 184298,
+      "sha256": "f67359f88fab359f564f459993a769c8793c7e0a2dd173bff9a3f25544d1fa6f",
+      "error": null,
+      "fetched_at": "2026-04-03T13:59:24.931Z",
+      "redirected_domain": null
+    }
+  ]
+}
