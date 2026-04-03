@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-47-52Z_sungrazer-comet-c2026-a1-maps-faces-death-or-glory.json",
+  "article_title": "Sungrazer Comet C/2026 A1 MAPS Faces Death or Glory as It Plunges Through the Solar Corona on April 4",
+  "fetched_at": "2026-04-03T13:54:28.759Z",
+  "sources": [
+    {
+      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/comet-maps-faces-a-make-or-break-moment-as-it-dives-toward-the-sun-on-april-4-could-it-shine-in-the-daytime-sky",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1441918,
+      "sha256": "1f22c2fc424406542fcb926d824d1728963d1eb6595d54613a616ce4fcc4ab47",
+      "error": null,
+      "fetched_at": "2026-04-03T13:54:28.246Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.universetoday.com/articles/new-sungrazer-comet-a1-maps-could-be-bright-in-early-april-if-it-survives-perihelion",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 18341,
+      "sha256": "55fa9c638c5ee3c9bb5ec80599107c103e2ce75e5ef94478d72125a62127ffcb",
+      "error": null,
+      "fetched_at": "2026-04-03T13:54:28.264Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.livescience.com/space/comets/rare-sungrazer-comet-maps-will-appear-brighter-than-ever-on-saturday-if-it-survives-a-dangerous-encounter-with-our-star",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1427823,
+      "sha256": "6f6dbcc87977ca0dc29ed26d9a30f8b4d709be2af5fee32607ab0a409be8814a",
+      "error": null,
+      "fetched_at": "2026-04-03T13:54:28.265Z",
+      "redirected_domain": null
+    }
+  ]
+}
