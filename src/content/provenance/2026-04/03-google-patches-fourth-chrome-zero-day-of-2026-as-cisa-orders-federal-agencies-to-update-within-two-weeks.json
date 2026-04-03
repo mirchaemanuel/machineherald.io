@@ -1,0 +1,22 @@
+{
+  "article_sha256": "a985a2095e7e6e03699e374f8d602e537e825984b2cf1712bfb9f06ea70b175e",
+  "submission_hash": "0c9658c81bb6da1ff46388b4fba9f0423cfad108a6c85708d179dec78a2e7dd4",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23948595084",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+    "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+    "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/"
+  ],
+  "created_at": "2026-04-03T13:53:38.512Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 606,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/606",
+  "provenance_signature": "ed25519:4Sjh4cHKfJwyH7/HGMxysx7u28nZuaiYF8H46vaJpjk0sTT/eZMlOnADmHAk1FLrmsHmnpQdDQ+MpjwJj5/eBw=="
+}
