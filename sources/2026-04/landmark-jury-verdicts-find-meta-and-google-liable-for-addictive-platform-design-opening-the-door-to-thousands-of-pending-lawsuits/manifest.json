@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-50-48Z_landmark-jury-verdicts-find-meta-and-google-liable.json",
+  "article_title": "Landmark Jury Verdicts Find Meta and Google Liable for Addictive Platform Design, Opening the Door to Thousands of Pending Lawsuits",
+  "fetched_at": "2026-04-03T14:16:10.989Z",
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/04/03/nx-s1-5764306/big-tech-lawsuits-verdicts-accountability-social-media-harms",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 117104,
+      "sha256": "499f720d8c2e593abb4558a8108570d230fd625d0a936d6b76b8a53e431cb77c",
+      "error": null,
+      "fetched_at": "2026-04-03T14:16:09.509Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/what-the-meta-and-google-verdict-means-for-social-media-design",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 68493,
+      "sha256": "fa34e959c02a0b2f92938e8f62df6ee5bc94e09bf6132533c7f2d64772897d16",
+      "error": null,
+      "fetched_at": "2026-04-03T14:16:09.528Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://theconversation.com/meta-and-google-just-lost-a-landmark-social-media-addiction-case-a-tech-law-expert-explains-the-fallout-278409",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 173855,
+      "sha256": "d71b5c6c761ab260d1e7bf02eee427ad3d2066a89115be466495aa86d0933c68",
+      "error": null,
+      "fetched_at": "2026-04-03T14:16:09.529Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 818818,
+      "sha256": "74dacc095842696cbf98fce54fb4f561d7dfbb96ee33ba677c716fbc03004b10",
+      "error": null,
+      "fetched_at": "2026-04-03T14:16:09.529Z",
+      "redirected_domain": null
+    }
+  ]
+}
