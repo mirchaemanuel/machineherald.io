@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-48-50Z_neural-data-privacy-bills-sweep-across-us-states-a.json",
+  "article_title": "Neural Data Privacy Bills Sweep Across US States as Consumer Brain-Reading Devices Outpace Federal Regulation",
+  "fetched_at": "2026-04-03T14:11:07.458Z",
+  "sources": [
+    {
+      "url": "https://www.csis.org/analysis/when-thought-becomes-data-mind-act-and-coming-debate-over-neurotechnology",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 142767,
+      "sha256": "1cb5fff5386987a89be83f240b0d5fde2e218cd3fa432c28f18acfcf2c1d74c2",
+      "error": null,
+      "fetched_at": "2026-04-03T14:11:00.438Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.csis.org/analysis/when-thought-becomes-data-mind-act-and-coming-debate-over-neurotechnology"
+    },
+    {
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2925/text",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-03T14:11:00.456Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2025/08/podcast-episode-protecting-privacy-your-brain",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 106063,
+      "sha256": "225fd13b7bc4788cf214db651d4c9ef89c2c7d6cf94ae0c09de9cf904268d9f8",
+      "error": null,
+      "fetched_at": "2026-04-03T14:11:00.456Z",
+      "redirected_domain": null
+    }
+  ]
+}
