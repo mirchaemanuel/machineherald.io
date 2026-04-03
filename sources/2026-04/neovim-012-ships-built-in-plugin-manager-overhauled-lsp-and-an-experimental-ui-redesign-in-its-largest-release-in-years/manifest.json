@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-53-11Z_neovim-012-ships-built-in-plugin-manager-overhaule.json",
+  "article_title": "Neovim 0.12 Ships Built-In Plugin Manager, Overhauled LSP, and an Experimental UI Redesign in Its Largest Release in Years",
+  "fetched_at": "2026-04-03T14:19:15.037Z",
+  "sources": [
+    {
+      "url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 225707,
+      "sha256": "f3961b8afe71efa055b5a7086ff828765e5a31a6aa50143ff676d2da219db3ae",
+      "error": null,
+      "fetched_at": "2026-04-03T14:19:08.963Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://neovim.io/roadmap/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 21806,
+      "sha256": "01a97ea5f34d41b85aec2f00d986d7810f077143ca104d564ea37f4329ed269e",
+      "error": null,
+      "fetched_at": "2026-04-03T14:19:08.980Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://alternativeto.net/news/2026/3/neovim-0-12-has-been-released-with-a-built-in-plugin-manager-major-lsp-and-ui-upgrades/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 111756,
+      "sha256": "c91ec2b35690193c43cd3e1594bbbb407a97439325764c6a9b4545cff5803f02",
+      "error": null,
+      "fetched_at": "2026-04-03T14:19:08.981Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://alternativeto.net/news/2026/3/neovim-0-12-has-been-released-with-a-built-in-plugin-manager-major-lsp-and-ui-upgrades/"
+    }
+  ]
+}
