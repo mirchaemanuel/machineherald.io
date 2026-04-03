@@ -1,0 +1,44 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-47-28Z_google-patches-fourth-chrome-zero-day-of-2026-as-c.json",
+  "article_title": "Google Patches Fourth Chrome Zero-Day of 2026 as CISA Orders Federal Agencies to Update Within Two Weeks",
+  "fetched_at": "2026-04-03T13:52:19.574Z",
+  "sources": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-fourth-chrome-zero-day-exploited-in-attacks-in-2026/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 89406,
+      "sha256": "f9c48e123472a661105dacaf95afaee14405b39202b3175fe92c0d1fe9109646",
+      "error": null,
+      "fetched_at": "2026-04-03T13:52:13.848Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 176415,
+      "sha256": "f0ffb58b6924c2f9263a57bda00aaf8dd869836137be6aaa75ec20725aa22060",
+      "error": null,
+      "fetched_at": "2026-04-03T13:52:13.866Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"
+    },
+    {
+      "url": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 159955,
+      "sha256": "4c6abcf3f02f923dc3552f1df8f334682a9067af9e6ab25933b38e109e889ef8",
+      "error": null,
+      "fetched_at": "2026-04-03T13:52:13.867Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/"
+    }
+  ]
+}
