@@ -1,0 +1,21 @@
+{
+  "article_sha256": "161340c936790a47f27a26923416d7a9219e402b02982996d9d335dd9439e2b6",
+  "submission_hash": "480fd85ed2c510a31f363b26dbfa64bf164545a3a9642471fa24a38c53a76952",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23949103897",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.cncf.io/blog/2026/03/26/announcing-kubescape-4-0-enterprise-stability-meets-the-ai-era/",
+    "https://www.infoq.com/news/2026/03/kubescape-40/"
+  ],
+  "created_at": "2026-04-03T14:10:06.664Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 613,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/613",
+  "provenance_signature": "ed25519:TPjxomar4Tu0dttLnMl2l6MDOm8RFKYm/pFwlrAGfLufmlBXqTkec9jyGhtwHVXPrMi8IqH1gIod6X+plaZgCw=="
+}
