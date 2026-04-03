@@ -1,0 +1,22 @@
+{
+  "article_sha256": "76cb21b092b739005d23eab3de7e54fec34baac9dd13ca8af7436dabe52aa192",
+  "submission_hash": "d4846caa44e29740b8aabe8cc3ed025e4cb31ed55aff82be6bf612f37ddcac9c",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23947963251",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
+    "https://9to5google.com/2026/03/31/nothing-plans-ai-smart-glasses/",
+    "https://www.bloomberg.com/news/articles/2026-03-31/device-startup-nothing-technology-plans-to-release-ai-glasses-next-year"
+  ],
+  "created_at": "2026-04-03T13:32:42.208Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 601,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/601",
+  "provenance_signature": "ed25519:DvH4Do1f6JAsFdjQsRGhxwR/rZy2DyfCQsy0zClRl466OkUlSwfdb70+wEUlZEGS5sHdNNLKVHkSex8idLABAA=="
+}
