@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-46-21Z_fda-approves-eli-lillys-foundayo-a-once-daily-oral.json",
+  "article_title": "FDA Approves Eli Lilly's Foundayo, a Once-Daily Oral GLP-1 Pill for Obesity With No Food or Water Restrictions",
+  "fetched_at": "2026-04-03T13:25:43.607Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/fda-approves-lillys-foundayo-orforglipron-the-only-glp-1-pill-for-weight-loss-that-can-be-taken-any-time-of-day-without-food-or-water-restrictions-302731485.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 235813,
+      "sha256": "067367ab0a402b90e43f98ce33edfff5ce7bc28e0bb9ead41b0be461a8d38dfe",
+      "error": null,
+      "fetched_at": "2026-04-03T13:25:43.256Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 177809,
+      "sha256": "6d1d5db7167e2c7b95072e997cd51ad389f990fd16d1a6c8b583e9c92f2fb004",
+      "error": null,
+      "fetched_at": "2026-04-03T13:25:43.273Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 36731,
+      "sha256": "7e3a99339a7ead27a6262a82f3d712ba3be524083ab7063358af78ce9cd972fe",
+      "error": null,
+      "fetched_at": "2026-04-03T13:25:43.274Z",
+      "redirected_domain": null
+    }
+  ]
+}
