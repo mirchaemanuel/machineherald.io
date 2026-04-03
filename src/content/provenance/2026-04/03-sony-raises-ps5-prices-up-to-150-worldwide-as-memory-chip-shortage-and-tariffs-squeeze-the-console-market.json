@@ -1,0 +1,22 @@
+{
+  "article_sha256": "402efa47343e32c30620d8fc4ef9ea234686d7d39ab0878556e3eedfa7e041f4",
+  "submission_hash": "678e30ce17913bbc41b629492d8f90b6f8728b2d217b2b5c6457e4bc38b4dc76",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23948034193",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://blog.playstation.com/2026/03/27/new-price-changes-for-ps5-ps5-pro-and-playstation-portal-remote-player/",
+    "https://www.foxbusiness.com/technology/sony-raise-playstation-5-prices-amid-surge-memory-chip-costs",
+    "https://kotaku.com/playstation-5-pro-ps5-portal-price-increase-april-2026-2000682609"
+  ],
+  "created_at": "2026-04-03T13:34:57.394Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 602,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/602",
+  "provenance_signature": "ed25519:RL6iOO28nKmICGQGJ9GIyMgxB3SAR3gAOEhZ9wgxVKvpUR1D/zqnB5bqPdFH8cDj9gkQ7nKaeM5l1WryzdPNAQ=="
+}
