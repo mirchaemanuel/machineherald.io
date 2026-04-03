@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-48-27Z_tesla-begins-cybercab-mass-production-at-giga-texa.json",
+  "article_title": "Tesla Begins Cybercab Mass Production at Giga Texas as Safety Record and Regulatory Path Remain Uncertain",
+  "fetched_at": "2026-04-03T14:06:39.725Z",
+  "sources": [
+    {
+      "url": "https://electrek.co/2026/02/17/tesla-rolls-first-steering-wheel-less-cybercab-unit-off-the-line-before-solving-autonomy/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 156635,
+      "sha256": "189ebb58c94885c2fb874519bb0f1ef53ff68c12aa9b45b33c2fb0dffcc6c92b",
+      "error": null,
+      "fetched_at": "2026-04-03T14:06:38.408Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://electrek.co/2026/03/31/tesla-expands-unsupervised-robotaxi-service-area-still-only-handful-vehicles/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 155020,
+      "sha256": "117e46aeab0e8a7f8d4532dc5ce565ac8313682ea5c114ac71f42aa24c6db86a",
+      "error": null,
+      "fetched_at": "2026-04-03T14:06:38.426Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cbsnews.com/news/tesla-robotaxi-austin-14-crashes-nhtsa/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 624167,
+      "sha256": "dd9c10b17b8fda8ef9d60314e95092f6e345ed9deb2c0684e1ec954275d69a80",
+      "error": null,
+      "fetched_at": "2026-04-03T14:06:38.426Z",
+      "redirected_domain": null
+    }
+  ]
+}
