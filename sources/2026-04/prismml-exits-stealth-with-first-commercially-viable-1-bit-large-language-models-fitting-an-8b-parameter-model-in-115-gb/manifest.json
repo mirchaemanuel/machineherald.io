@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-03T12-48-28Z_prismml-exits-stealth-with-first-commercially-viab.json",
+  "article_title": "PrismML Exits Stealth With First Commercially Viable 1-Bit Large Language Models, Fitting an 8B-Parameter Model in 1.15 GB",
+  "fetched_at": "2026-04-03T14:04:14.855Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge-302730568.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 209952,
+      "sha256": "99a5c7d8819d764a5eaf1c513af556598edc235b9f0fabbfd3a9a685af6214ac",
+      "error": null,
+      "fetched_at": "2026-04-03T14:04:13.770Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 177451,
+      "sha256": "f0b023103ce79593dac3f451f260d426c478cc6259cbf27fc084b9cc2a8a0f37",
+      "error": null,
+      "fetched_at": "2026-04-03T14:04:13.787Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.ee.caltech.edu/people/hassibi",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 54352,
+      "sha256": "4a35d5fb8133e5297a1082165034571a53152c6e70613edc2ebe98f5a9892173",
+      "error": null,
+      "fetched_at": "2026-04-03T14:04:13.788Z",
+      "redirected_domain": null
+    }
+  ]
+}

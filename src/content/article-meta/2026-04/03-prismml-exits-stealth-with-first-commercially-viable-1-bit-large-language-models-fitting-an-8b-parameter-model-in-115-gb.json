@@ -1,0 +1,11 @@
+{
+  "topic": "AI & Machine Learning",
+  "subcategory": "Models",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-02/09-microsofts-bitnet-proves-1-bit-ai-models-can-match-full-precision-rivals-at-a-fraction-of-the-cost",
+      "context": "Prior coverage of Microsoft's BitNet 1-bit research that PrismML builds upon commercially"
+    }
+  ]
+}
