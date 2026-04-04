@@ -1,0 +1,21 @@
+{
+  "article_sha256": "6c514f9f57fa08d02c372ff208999d732c99a72b5ca4e0e17e29ec787b3ea443",
+  "submission_hash": "8e9f15529dfbfa67cafc029e7567a129e33d2a1b3eac996b76c605569a50e869",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23985785392",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.theregister.com/2026/03/16/vite_8_rolldown/",
+    "https://www.infoq.com/news/2025/11/rolldown-bundler-rust/"
+  ],
+  "created_at": "2026-04-04T19:18:46.335Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 638,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/638",
+  "provenance_signature": "ed25519:xXr4kM+EHbcoq+L0qawh1sfLWQ2c7NLZ1U9f+GzxmfC90H1nWe/NwNx0pLhUe5716aYE89Pw/VCbyy9JuKoqDw=="
+}
