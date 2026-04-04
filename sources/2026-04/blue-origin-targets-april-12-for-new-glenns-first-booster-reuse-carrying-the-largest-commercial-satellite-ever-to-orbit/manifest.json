@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-12-53Z_blue-origin-targets-april-12-for-new-glenns-first-.json",
+  "article_title": "Blue Origin Targets April 12 for New Glenn's First Booster Reuse, Carrying the Largest Commercial Satellite Ever to Orbit",
+  "fetched_at": "2026-04-04T18:55:57.636Z",
+  "sources": [
+    {
+      "url": "https://www.nextbigfuture.com/2026/04/blue-origin-new-glenn-targets-april-launch-of-ast-space-mobile-satellite.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 91119,
+      "sha256": "01bf4d396eac8252afd716f47057e76f148bb0e9f34d2cf7e65667e35240b8df",
+      "error": null,
+      "fetched_at": "2026-04-04T18:55:52.439Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://satnews.com/2026/02/01/blue-origin-to-validate-first-booster-reuse-on-new-glenn-3-mission-for-ast-spacemobile/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 211030,
+      "sha256": "610a9e98f24b36fbab085bb0cb615d1bcffc9af77abbd12a3c2250ec3fde346c",
+      "error": null,
+      "fetched_at": "2026-04-04T18:55:52.456Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/jeff-bezos-blue-origin-will-refly-booster-on-next-launch-of-powerful-new-glenn-rocket",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1451692,
+      "sha256": "c021fde6e36bc6ec8663a19c3c7be4bc36f2d4ae6dc8248ecec1fb307c724e3d",
+      "error": null,
+      "fetched_at": "2026-04-04T18:55:52.456Z",
+      "redirected_domain": null
+    }
+  ]
+}
