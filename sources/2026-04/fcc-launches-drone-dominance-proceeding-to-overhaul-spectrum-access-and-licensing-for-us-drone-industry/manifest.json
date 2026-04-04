@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-14-47Z_fcc-launches-drone-dominance-proceeding-to-overhau.json",
+  "article_title": "FCC Launches 'Drone Dominance' Proceeding to Overhaul Spectrum Access and Licensing for U.S. Drone Industry",
+  "fetched_at": "2026-04-04T19:06:03.409Z",
+  "sources": [
+    {
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-314A1.pdf",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "application/pdf",
+      "content_length": 449026,
+      "sha256": "3770af63733cffb2ecb6f68abaf99909f471ac0a0b0d6208af3201d8557939ae",
+      "error": null,
+      "fetched_at": "2026-04-04T19:06:01.068Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-add-certain-uas-and-uas-components-0",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 50282,
+      "sha256": "b6120966f40880c62e902ec0ddff626ae4d2a578453f7ebb8a40234ac2609695",
+      "error": null,
+      "fetched_at": "2026-04-04T19:06:01.088Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/fcc-drone-ban-what-the-new-covered-list-means-for-dji-and-pilots/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 53892,
+      "sha256": "818fd8dd83e3525a3bdb42b56ab3b4cc55856550cda626741b31601369b4f98e",
+      "error": null,
+      "fetched_at": "2026-04-04T19:06:01.089Z",
+      "redirected_domain": null
+    }
+  ]
+}
