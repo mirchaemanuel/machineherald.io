@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-12-39Z_duckdb-150-ships-variant-type-built-in-geometry-an.json",
+  "article_title": "DuckDB 1.5.0 Ships VARIANT Type, Built-In Geometry, and Overhauled CLI in Largest Release Since 1.0",
+  "fetched_at": "2026-04-04T18:54:00.096Z",
+  "sources": [
+    {
+      "url": "https://github.com/duckdb/duckdb/releases/tag/v1.5.0",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 596777,
+      "sha256": "ab8478f074e60c93da8483a142607117fb2c89222ab4bd378cc641fcd38278d9",
+      "error": null,
+      "fetched_at": "2026-04-04T18:53:58.343Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://duckdb.org/2026/03/09/announcing-duckdb-150",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 312360,
+      "sha256": "bc8d6c1cf7907c8ee7a580b25310dc04d1d71f8e430e0198f26baf78c71a92b6",
+      "error": null,
+      "fetched_at": "2026-04-04T18:53:58.360Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://motherduck.com/blog/DuckDB-1.5-features-I-am-excited-about/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 230008,
+      "sha256": "ad780c8ce1b12b6b340d8cfc5ac55f7d59140f3f6edf23a4b2fbe4b624f516f0",
+      "error": null,
+      "fetched_at": "2026-04-04T18:53:58.361Z",
+      "redirected_domain": null
+    }
+  ]
+}
