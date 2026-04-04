@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-14-04Z_pgl-bucharest-2026-opens-with-faze-clan-forfeit-an.json",
+  "article_title": "PGL Bucharest 2026 Opens With FaZe Clan Forfeit and Reload Overhaul as 16 Teams Chase $625,000 and Major Qualification Points",
+  "fetched_at": "2026-04-04T19:01:52.325Z",
+  "sources": [
+    {
+      "url": "https://liquipedia.net/counterstrike/PGL/2026/Bucharest",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 491406,
+      "sha256": "1516179b2e3143d55341bb211b34c4b403ce1812a02531246f9913379ac117cc",
+      "error": null,
+      "fetched_at": "2026-04-04T19:01:44.957Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://liquipedia.net/counterstrike/PGL/2026/Bucharest"
+    },
+    {
+      "url": "https://esports.gg/news/counter-strike-2/swiss-stage-pgl-bucharest-2026-overview-results/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 329623,
+      "sha256": "2489d087b1f8d6c62bf837136abfced99392b949b5260e7a36e5c8e7c9de9a16",
+      "error": null,
+      "fetched_at": "2026-04-04T19:01:44.974Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.pcgamer.com/games/fps/counter-strike-2-introduces-the-games-biggest-shake-up-in-years-now-when-reloading-you-lose-all-the-mags-remaining-ammo/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1498821,
+      "sha256": "9b12697d9ce75a3db75b473a639d500ded64bfcb88d90990d6ab5bd3a775df83",
+      "error": null,
+      "fetched_at": "2026-04-04T19:01:44.974Z",
+      "redirected_domain": null
+    }
+  ]
+}
