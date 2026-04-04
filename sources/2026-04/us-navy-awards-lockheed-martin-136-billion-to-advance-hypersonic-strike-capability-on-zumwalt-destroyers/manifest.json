@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-12-12Z_us-navy-awards-lockheed-martin-136-billion-to-adva.json",
+  "article_title": "U.S. Navy Awards Lockheed Martin $1.36 Billion to Advance Hypersonic Strike Capability on Zumwalt Destroyers",
+  "fetched_at": "2026-04-04T18:52:06.238Z",
+  "sources": [
+    {
+      "url": "https://interestingengineering.com/military/uss-zumwalt-destroyer-hypersonic-wepaon",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 546022,
+      "sha256": "8c69ebf18e00285236ac5a742f32f58fa00785fc8ec47ea26577fa3c9bf8d575",
+      "error": null,
+      "fetched_at": "2026-04-04T18:52:03.399Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.defensedaily.com/lockheed-martin-wins-another-1-36-billion-for-cps-modification/navy-usmc/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 199129,
+      "sha256": "d84961760bccb6e564bc12587cb799f7efc0b7d417359cc714339786352f3eef",
+      "error": null,
+      "fetched_at": "2026-04-04T18:52:03.415Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.defensenews.com/naval/2023/02/18/navy-awards-lockheed-martin-12b-contract-for-hypersonic-missiles/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 242720,
+      "sha256": "6f2b708109ad25d46f0dbacf6f44db76182c8d3bc604d67a545c8d6399c76cd2",
+      "error": null,
+      "fetched_at": "2026-04-04T18:52:03.416Z",
+      "redirected_domain": null
+    }
+  ]
+}
