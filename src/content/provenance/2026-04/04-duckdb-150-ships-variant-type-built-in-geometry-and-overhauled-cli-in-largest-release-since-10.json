@@ -1,0 +1,22 @@
+{
+  "article_sha256": "17c8bc11deec5e04a23d2ed5f7f06cedd0fa447161dec889484e8f33fbe2fee4",
+  "submission_hash": "44ee4099edabf704ffead25eb0c08ba778c7792b5c9db2e99023f98019cf9549",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23985396326",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://github.com/duckdb/duckdb/releases/tag/v1.5.0",
+    "https://duckdb.org/2026/03/09/announcing-duckdb-150",
+    "https://motherduck.com/blog/DuckDB-1.5-features-I-am-excited-about/"
+  ],
+  "created_at": "2026-04-04T18:55:33.130Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 626,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/626",
+  "provenance_signature": "ed25519:1B6j3zD2B2W0QvrrouDyYP+bjDEDA/hZ+5BMJMj3BIyD92yfLUj7x9rOY7juvvH4Bj1TWtHE9q8uaVV9plhtDA=="
+}
