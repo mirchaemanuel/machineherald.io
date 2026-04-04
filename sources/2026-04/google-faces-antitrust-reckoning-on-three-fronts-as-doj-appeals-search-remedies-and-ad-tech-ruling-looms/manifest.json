@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-14-04Z_google-faces-antitrust-reckoning-on-three-fronts-a.json",
+  "article_title": "Google Faces Antitrust Reckoning on Three Fronts as DOJ Appeals Search Remedies and Ad Tech Ruling Looms",
+  "fetched_at": "2026-04-04T18:59:44.302Z",
+  "sources": [
+    {
+      "url": "https://fortune.com/2025/09/02/google-antitrust-remedy-ruling-exclusive-search-distribution-deals-chrome/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 509685,
+      "sha256": "1da2ecc26fb8e7abe97900032a016febdd4c02496c82c1f32a2586badf97a51d",
+      "error": null,
+      "fetched_at": "2026-04-04T18:59:43.081Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2025/09/05/google-slapped-by-eu-with-3point45-billion-antitrust-fine.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 747268,
+      "sha256": "80c2341327aff9131ec666afaf7f52849567188c0838502316836881f5f82f00",
+      "error": null,
+      "fetched_at": "2026-04-04T18:59:43.097Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/09/06/eu-fines-google-3-5b-over-adtech-abuse/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 222881,
+      "sha256": "28a8454481fb788330d89aa8527b618f44dfbdef10248863f30958dad97c4e4d",
+      "error": null,
+      "fetched_at": "2026-04-04T18:59:43.098Z",
+      "redirected_domain": null
+    }
+  ]
+}
