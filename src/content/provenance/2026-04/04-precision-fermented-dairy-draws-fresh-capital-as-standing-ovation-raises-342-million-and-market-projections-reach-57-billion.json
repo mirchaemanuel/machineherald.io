@@ -1,0 +1,22 @@
+{
+  "article_sha256": "b30ad6086891abec43ab04b1acdafb7b3240bc35ab8f1ce9a8060ea938221819",
+  "submission_hash": "e51de876455a8f91030530f9cabce1a78cdc80cb9bcc396bf1c29b602395c339",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23985760119",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.globenewswire.com/news-release/2026/03/31/3265178/0/en/Standing-Ovation-raises-34-2-million-to-scale-up-its-breakthrough-technology-for-producing-dairy-proteins-through-precision-fermentation-offering-a-sovereign-and-sustainable-respon.html",
+    "https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1692819/abstract",
+    "https://www.prnewswire.com/news-releases/precision-fermentation-market-to-reach-usd-57-1-billion-by-2032--driven-by-sustainable-protein-innovation-and-biotech-advancements-reports-markntel-advisors-302717916.html"
+  ],
+  "created_at": "2026-04-04T19:17:10.909Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 637,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/637",
+  "provenance_signature": "ed25519:mO3Oa+RboPdmd2643vwHzDpPnLXAZgKSCPi7LidATxJl5tUK+6kTWn6587V6RpMFXQeQC5x2/FvAHNPbIJYKBA=="
+}
