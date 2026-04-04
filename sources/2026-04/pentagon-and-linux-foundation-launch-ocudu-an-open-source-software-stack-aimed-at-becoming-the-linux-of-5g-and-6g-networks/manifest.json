@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-12-11Z_pentagon-and-linux-foundation-launch-ocudu-an-open.json",
+  "article_title": "Pentagon and Linux Foundation Launch OCUDU, an Open-Source Software Stack Aimed at Becoming the Linux of 5G and 6G Networks",
+  "fetched_at": "2026-04-04T18:50:06.539Z",
+  "sources": [
+    {
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-announces-ocudu-ecosystem-foundation-to-accelerate-open-source-ai-ran-innovation",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 99584,
+      "sha256": "a22211e0e3609a50d8c85500fffebeffc35ec25c32156ffa17e7dae19aa54630",
+      "error": null,
+      "fetched_at": "2026-04-04T18:50:05.246Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 78499,
+      "sha256": "5fb03abe1c7f3c4d28daca586134018ad7a05449d894d65cce693f78363b83a8",
+      "error": null,
+      "fetched_at": "2026-04-04T18:50:05.264Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/01/ahead-mwc-barcelona-nvidia-bets-ai-native-platforms-will-carry-telecom-6g/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 118960,
+      "sha256": "f33f7a9af995a51aeec58ea925362f514e1ed3bf9dfd20c28c71ad32b1be7007",
+      "error": null,
+      "fetched_at": "2026-04-04T18:50:05.264Z",
+      "redirected_domain": null
+    }
+  ]
+}
