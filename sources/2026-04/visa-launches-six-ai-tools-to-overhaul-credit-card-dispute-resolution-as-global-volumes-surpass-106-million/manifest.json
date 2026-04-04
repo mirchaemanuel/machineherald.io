@@ -1,0 +1,31 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-15-08Z_visa-launches-six-ai-tools-to-overhaul-credit-card.json",
+  "article_title": "Visa Launches Six AI Tools to Overhaul Credit Card Dispute Resolution as Global Volumes Surpass 106 Million",
+  "fetched_at": "2026-04-04T19:11:37.829Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/01/visa-ai-tools-dispute-management.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 769399,
+      "sha256": "5af14a97871a77579b4c7cb591435cce759093a13706519e245660243eeb6b90",
+      "error": null,
+      "fetched_at": "2026-04-04T19:11:30.794Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260401900827/en/Visa-Unveils-New-Services-to-Modernize-Dispute-Resolution-Process",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 401483,
+      "sha256": "e38f13f1b53d4284538dbe4b0195a773e13ee7fd9693b01f409d281bd077d4cb",
+      "error": null,
+      "fetched_at": "2026-04-04T19:11:30.812Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20260401900827/en/Visa-Unveils-New-Services-to-Modernize-Dispute-Resolution-Process"
+    }
+  ]
+}
