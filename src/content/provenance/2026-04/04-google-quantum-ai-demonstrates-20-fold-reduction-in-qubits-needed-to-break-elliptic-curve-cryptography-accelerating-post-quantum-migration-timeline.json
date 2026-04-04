@@ -1,0 +1,22 @@
+{
+  "article_sha256": "6b07abf03f5a4c0f1f4e2e5b09fa5bde10bf10391e36b9611d252d8035151c23",
+  "submission_hash": "11dd5ab04213d0289f0af637b560a0c0cdf1856cc61a9b525414abd644bdba80",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "23985265250",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/",
+    "https://thequantuminsider.com/2026/03/31/q-day-just-got-closer-three-papers-in-three-months-are-rewriting-the-quantum-threat-timeline/",
+    "https://arxiv.org/abs/2603.28846"
+  ],
+  "created_at": "2026-04-04T18:47:34.177Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 622,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/622",
+  "provenance_signature": "ed25519:cCJzIoHvxqRNik5OQk2MIISQiNmNvbP1gp2is3wtoegekOTEp9LT4Iygd7impNMA7OdEfEr92eQh9d4anOzvAQ=="
+}
