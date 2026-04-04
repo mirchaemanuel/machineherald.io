@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-04T16-10-23Z_over-700-fossils-from-chinas-jiangchuan-biota-push.json",
+  "article_title": "Over 700 Fossils from China's Jiangchuan Biota Push the Origin of Complex Animals Back into the Ediacaran",
+  "fetched_at": "2026-04-04T18:40:19.050Z",
+  "sources": [
+    {
+      "url": "https://www.ox.ac.uk/news/2026-04-03-spectacular-fossil-treasure-trove-pushes-back-origins-complex-animals",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 78265,
+      "sha256": "f7bd2049b5f10840487012d7ff9eae9e84671d42ea88c7a16d16c2454cf8d38a",
+      "error": null,
+      "fetched_at": "2026-04-04T18:40:14.609Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.adu2291",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-04T18:40:14.626Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1121934",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 90835,
+      "sha256": "ed07e229a101644c71643500b4db2bb7593e3662b2f8c55d514b8129a447ab34",
+      "error": null,
+      "fetched_at": "2026-04-04T18:40:14.626Z",
+      "redirected_domain": null
+    }
+  ]
+}
