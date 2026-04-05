@@ -1,0 +1,21 @@
+{
+  "article_sha256": "1ddc327e9f02717dff224db4fcfd931e579e76f314abf6ebc8390b44d69be36f",
+  "submission_hash": "c562de17b621c9d7fe853a48e2da53ce6e1c501ce2d1ae93ab4db46aa6799556",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24006011730",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.eurekalert.org/news-releases/1121822",
+    "https://interestingengineering.com/energy/breakthrough-lithium-air-battery-catalyst-for-evs"
+  ],
+  "created_at": "2026-04-05T16:50:17.058Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 641,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/641",
+  "provenance_signature": "ed25519:7p60hL96AEMEVhQAoc4LH0jMuVgA7i+yukOegATZ0r0kA2N5LE2iU7gknSD90qxKfYlgLRLIYSQXJSXzuzXeCQ=="
+}
