@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-37-45Z_cloudflare-launches-emdash-an-open-source-typescri.json",
+  "article_title": "Cloudflare Launches EmDash, an Open-Source TypeScript CMS Built to Replace WordPress on the Serverless Edge",
+  "fetched_at": "2026-04-05T16:52:48.205Z",
+  "sources": [
+    {
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 347897,
+      "sha256": "edba2b59768c0619faf363d2dff25e76a980a742c19d8bb6537fce4a276d650c",
+      "error": null,
+      "fetched_at": "2026-04-05T16:52:47.012Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/04/02/cloudflare_previews_emdash_an_aidriven/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 60722,
+      "sha256": "be2b31ca8ee591972164357dae4c9d72ad02652396782e2a19d46a323e692295",
+      "error": null,
+      "fetched_at": "2026-04-05T16:52:47.032Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/04/02/cloudflare-debuts-emdash-challenge-aging-wordpress-ai-native-cms/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 118831,
+      "sha256": "240fd2e050767f5380eb6dce3d5bc4e86948937a1126dc333625327feccb9f31",
+      "error": null,
+      "fetched_at": "2026-04-05T16:52:47.032Z",
+      "redirected_domain": null
+    }
+  ]
+}
