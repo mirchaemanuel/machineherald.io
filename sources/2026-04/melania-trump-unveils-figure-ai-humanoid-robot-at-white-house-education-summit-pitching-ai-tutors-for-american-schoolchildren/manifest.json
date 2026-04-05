@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-38-09Z_melania-trump-unveils-figure-ai-humanoid-robot-at-.json",
+  "article_title": "Melania Trump Unveils Figure AI Humanoid Robot at White House Education Summit, Pitching AI Tutors for American Schoolchildren",
+  "fetched_at": "2026-04-05T16:59:58.944Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 221462,
+      "sha256": "86ecba5f5d85fdc6d9221bdbed1f1efdae516c4a1d8245d85b2d06e60d6bb640",
+      "error": null,
+      "fetched_at": "2026-04-05T16:59:58.584Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cbsnews.com/news/melania-trump-robots-educators-kids-humanoid-systems/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 628090,
+      "sha256": "521af362211bbcae8d2bb86f0b8405d230344291b3665aa5b9a5beceaed4c4c4",
+      "error": null,
+      "fetched_at": "2026-04-05T16:59:58.601Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.euronews.com/next/2026/03/26/melania-trump-brings-humanoid-robot-and-vision-of-ai-classroom-to-global-education-summit",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 401525,
+      "sha256": "fe11c167dddff9d758037f2313d26baf5ae95e9d317c82ee0b58e7f6f7d34467",
+      "error": null,
+      "fetched_at": "2026-04-05T16:59:58.602Z",
+      "redirected_domain": null
+    }
+  ]
+}
