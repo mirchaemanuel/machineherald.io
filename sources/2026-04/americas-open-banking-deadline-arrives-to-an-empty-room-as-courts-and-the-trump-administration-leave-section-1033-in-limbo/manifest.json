@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-38-48Z_americas-open-banking-deadline-arrives-to-an-empty.json",
+  "article_title": "America's Open Banking Deadline Arrives to an Empty Room as Courts and the Trump Administration Leave Section 1033 in Limbo",
+  "fetched_at": "2026-04-05T17:02:50.595Z",
+  "sources": [
+    {
+      "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-finalizes-personal-financial-data-rights-rule-to-boost-competition-protect-privacy-and-give-families-more-choice-in-financial-services/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 163821,
+      "sha256": "55a1900fee361a1e1ceae5b255288661d56d833e085ab0e6ac98102a773d35db",
+      "error": null,
+      "fetched_at": "2026-04-05T17:02:49.994Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.consumerfinance.gov/rules-policy/rules-under-development/personal-financial-data-rights-reconsideration/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 159632,
+      "sha256": "639e2db0a9885aad3cf51b1642108366e983a4724afd0e1b33983485eae9e213",
+      "error": null,
+      "fetched_at": "2026-04-05T17:02:50.011Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.moodys.com/web/en/us/insights/regulatory-news/cfpb-finalizes-open-banking-rule--compliance-begins-april-2026.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 42614,
+      "sha256": "946b9da9b5abf3123ee77a1b48ac0f38a71d24afe90efd4ea3b0575181bdc90b",
+      "error": null,
+      "fetched_at": "2026-04-05T17:02:50.012Z",
+      "redirected_domain": null
+    }
+  ]
+}
