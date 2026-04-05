@@ -1,0 +1,56 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-05T16-41-03Z_editas-medicines-crispr-cas12a-therapy-achieves-fu.json",
+  "timestamp": "2026-04-05T17:10:58.138Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Editas Medicine's CRISPR-Cas12a Therapy Achieves Functional Cure in 27 of 28 Sickle Cell Patients as RUBY Trial Results Land in NEJM",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://www.nejm.org/doi/full/10.1056/NEJMoa2415550"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Editas Medicine's CRISPR-Cas12a Therapy Achieves Functional Cure in 27 of 28 Sickle Cell Patients as RUBY Trial Results Land in NEJM",
+    "summary": "The RUBY trial of renizgamglogene autogedtemcel (reni-cel), a one-time CRISPR-Cas12a gene-editing therapy, showed that 27 of 28 patients with severe sickle cell disease had no painful crises after treatment, with hemoglobin levels normalizing to 13.8 g/dL by six months.",
+    "body_excerpt": "## Overview\n\nA gene-editing therapy that modifies a patient's own blood-forming stem cells has produced what researchers are calling a functional cure for severe sickle cell disease. Results from the multicenter RUBY trial, [published in the New England Journal of Medicine on April 1, 2026](https://www.nejm.org/doi/full/10.1056/NEJMoa2415550), showed that 27 of 28 patients treated with renizgamglogene autogedtemcel (reni-cel) experienced no painful vaso-occlusive crises after a single infusion o...",
+    "word_count": 689,
+    "sources_count": 2
+  },
+  "recommendations": [
+    "1 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Excellent gene therapy article with detailed clinical trial data.",
+    "source_verification": "NEJM 403 (standard paywall). EurekAlert press release verified reachable. RUBY trial data well-documented.",
+    "factual_accuracy": "Clinical trial results sourced from NEJM publication and press release.",
+    "tone_assessment": "Neutral.",
+    "originality": "Fresh topic — distinct from prior gene therapy (LAD) coverage.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Outstanding gene therapy article. Approved."
+  }
+}

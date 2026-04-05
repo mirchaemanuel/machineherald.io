@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-41-03Z_editas-medicines-crispr-cas12a-therapy-achieves-fu.json",
+  "article_title": "Editas Medicine's CRISPR-Cas12a Therapy Achieves Functional Cure in 27 of 28 Sickle Cell Patients as RUBY Trial Results Land in NEJM",
+  "fetched_at": "2026-04-05T17:11:02.690Z",
+  "sources": [
+    {
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2415550",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-05T17:10:58.140Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1121749",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 94003,
+      "sha256": "73621a26925ab1959ec2c170c33655179e2a4f5238f39b43083a5136bdbadf6e",
+      "error": null,
+      "fetched_at": "2026-04-05T17:10:58.165Z",
+      "redirected_domain": null
+    }
+  ]
+}
