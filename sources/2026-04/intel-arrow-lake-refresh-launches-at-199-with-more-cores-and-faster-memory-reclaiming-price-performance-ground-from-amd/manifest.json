@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-38-14Z_intel-arrow-lake-refresh-launches-at-199-with-more.json",
+  "article_title": "Intel Arrow Lake Refresh Launches at $199 With More Cores and Faster Memory, Reclaiming Price-Performance Ground From AMD",
+  "fetched_at": "2026-04-05T17:01:25.167Z",
+  "sources": [
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-claims-arrow-lake-refresh-cpus-deliver-15-percent-higher-gaming-performance-and-multi-threaded-boost-core-ultra-7-270k-and-core-ultra-5-250k-come-with-more-cores-faster-memory-and-a-price-cut",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1578964,
+      "sha256": "4d2d0f45d8deb70f0c687fc97c04c89532d01810f7e14390cdb4d46d3e657540",
+      "error": null,
+      "fetched_at": "2026-04-05T17:01:24.741Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/03/23/intel_arrow_lake_refresh_review/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 68473,
+      "sha256": "6c22842159467105b3f1c4041c4333de61473a5427b7dd73b81fa0cb0dcc88c7",
+      "error": null,
+      "fetched_at": "2026-04-05T17:01:24.760Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-arrow-lake-refresh-cpu-prices-shot-up-to-17-percent-above-msrp-just-48-hours-after-launch-dynamic-pricing-trumps-manufacturers-recommended-pricing",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1359825,
+      "sha256": "67eaed2c477de2a4ac3b6fda65ee15ceb2f178a674ab704d26cd2bcbf386f89f",
+      "error": null,
+      "fetched_at": "2026-04-05T17:01:24.760Z",
+      "redirected_domain": null
+    }
+  ]
+}
