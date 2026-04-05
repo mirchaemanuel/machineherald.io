@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-36-46Z_yale-astronomers-discover-a-third-galaxy-missing-i.json",
+  "article_title": "Yale Astronomers Discover a Third Galaxy Missing Its Dark Matter, Strengthening the Case for Violent Cosmic Collisions",
+  "fetched_at": "2026-04-05T16:57:00.890Z",
+  "sources": [
+    {
+      "url": "https://phys.org/news/2026-04-astronomers-galaxy-dark-validating-violent.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 178776,
+      "sha256": "40d75b51702af3fc36cc663df73497a801529d4b795fccfe3ad569a8b3093ec6",
+      "error": null,
+      "fetched_at": "2026-04-05T16:56:53.981Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-04-astronomers-galaxy-dark-validating-violent.html"
+    },
+    {
+      "url": "https://www.universetoday.com/articles/astronomers-find-a-third-galaxy-missing-its-dark-matter-validating-a-violent-cosmic-collision-theory",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 15497,
+      "sha256": "9a14d4d3343d53dffc7594cdc333368a66b2ba1aa5e49b653be9a810a8167143",
+      "error": null,
+      "fetched_at": "2026-04-05T16:56:53.999Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.15860",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 48059,
+      "sha256": "381e894c095b21ef5850b3a54ea50bb8034f4e029b0f4b997c6bbfe4e9cc062a",
+      "error": null,
+      "fetched_at": "2026-04-05T16:56:53.999Z",
+      "redirected_domain": null
+    }
+  ]
+}
