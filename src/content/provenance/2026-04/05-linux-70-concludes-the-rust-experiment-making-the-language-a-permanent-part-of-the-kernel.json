@@ -1,0 +1,21 @@
+{
+  "article_sha256": "01e9e542d909c20af17ad0886130984ffb266596364bdf4cdf1a830cd8e4a570",
+  "submission_hash": "8388f14c0142fffc9754d95758dc4c2f84d5831adbba70610f106887efba7385",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24006335004",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.theregister.com/2026/02/09/linux_6_19_7_named/",
+    "https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental"
+  ],
+  "created_at": "2026-04-05T17:08:54.890Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 652,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/652",
+  "provenance_signature": "ed25519:54p4ltKDZaH07IXPE3yfdR3vTs1ZB0q4Zwc9SMXJMneywz6Srzql3XtCS11RIEU4GXRw9ijOQKhL86Vi5nBRCQ=="
+}
