@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-39-27Z_linux-70-concludes-the-rust-experiment-making-the-.json",
+  "article_title": "Linux 7.0 Concludes the Rust Experiment, Making the Language a Permanent Part of the Kernel",
+  "fetched_at": "2026-04-05T17:07:48.602Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/02/09/linux_6_19_7_named/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 65328,
+      "sha256": "4e8316f46b19df729528aa209c064a23d298014f321ad0db770eb5e52eeffc9c",
+      "error": null,
+      "fetched_at": "2026-04-05T17:07:47.546Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://linux.slashdot.org/story/25/12/13/0347245/rust-in-linuxs-kernel-is-no-longer-experimental",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 239705,
+      "sha256": "bcde81a70c2f1a72c2c44843dd7f466a3900bccf2f6809ac05a38856ff62ba4b",
+      "error": null,
+      "fetched_at": "2026-04-05T17:07:47.563Z",
+      "redirected_domain": null
+    }
+  ]
+}
