@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-05T16-39-05Z_uk-overhauls-datagovuk-as-part-of-19-billion-pound.json",
+  "article_title": "UK Overhauls data.gov.uk as Part of 1.9 Billion Pound Digital Push, Shifting National Open Data Portal From Volume to Value",
+  "fetched_at": "2026-04-05T17:06:18.238Z",
+  "sources": [
+    {
+      "url": "https://dataingovernment.blog.gov.uk/2026/03/25/whats-changing-on-data-gov-uk-and-why/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 63428,
+      "sha256": "8e1877803257078451e985e63a9b7ea404e0ee9be41521231c1b60bc3ae40c16",
+      "error": null,
+      "fetched_at": "2026-04-05T17:06:17.628Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/national-data-library-progress-update-january-2026/national-data-library-progress-update-january-2026",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 98502,
+      "sha256": "7e51db4ba500d7cce1f461eb4f844ad09a3d74f551e812a8d041a3c0d8afc648",
+      "error": null,
+      "fetched_at": "2026-04-05T17:06:17.646Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://gds.blog.gov.uk/2026/01/20/our-roadmap-for-modern-digital-government/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 68993,
+      "sha256": "4f9369ad96c1554085f13ab06176de613b8e02830bee072b6692f341504351b0",
+      "error": null,
+      "fetched_at": "2026-04-05T17:06:17.647Z",
+      "redirected_domain": null
+    }
+  ]
+}
