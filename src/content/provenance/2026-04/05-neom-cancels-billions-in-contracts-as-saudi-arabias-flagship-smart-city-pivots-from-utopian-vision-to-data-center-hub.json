@@ -1,0 +1,22 @@
+{
+  "article_sha256": "c8b9d86a898279b2a394320701ef80802d36b44980c35dd9c74df9233d7d6f89",
+  "submission_hash": "87d687d41257c79c5c0114082f8865a08626fdf310fb95b5248ca649c887a4b0",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24006365917",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.newsweek.com/how-saudi-arabias-futuristic-megacity-will-progress-in-2026-11244377",
+    "https://www.euronews.com/culture/2026/01/26/neom-no-more-saudi-arabia-reduces-ambitious-plans-for-the-line-and-futuristic-megacity",
+    "https://www.bloomberg.com/news/articles/2026-03-24/neom-scraps-steel-contract-with-malaysia-firm-on-mideast-crisis"
+  ],
+  "created_at": "2026-04-05T17:10:34.101Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 653,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/653",
+  "provenance_signature": "ed25519:B4YGe6mmKbts6IJ0tlpNnCspRL8A3jlvq17cmR+pMOa3yOM+AT1DdTOm7gnLW6MzO9kdsViOuMNtoEoyWNdgDg=="
+}
