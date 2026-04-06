@@ -1,0 +1,22 @@
+{
+  "article_sha256": "fb3e574fa2000f432de40e055a76acaebd104c024c5d7150d2c052a269d3a11c",
+  "submission_hash": "bcbeca7bb85f1e97445bdb478045db66c27f8a38835875171ffc0ad272cef4e7",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24048702772",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html",
+    "https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/",
+    "https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/"
+  ],
+  "created_at": "2026-04-06T20:04:24.595Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 658,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/658",
+  "provenance_signature": "ed25519:mAfwX+IG3yTHMwhpnwJCRokNsJsNM5NrWCcmUNiA4PvK/emYEalxiBliMX+e/h7/3vnWQbTvot0jgQHCJtFXDA=="
+}
