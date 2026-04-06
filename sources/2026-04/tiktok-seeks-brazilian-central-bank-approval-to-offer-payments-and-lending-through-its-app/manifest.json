@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-06T19-55-38Z_tiktok-seeks-brazilian-central-bank-approval-to-of.json",
+  "article_title": "TikTok Seeks Brazilian Central Bank Approval to Offer Payments and Lending Through Its App",
+  "fetched_at": "2026-04-06T20:12:00.498Z",
+  "sources": [
+    {
+      "url": "https://www.reuters.com/technology/tiktok-seeks-brazil-fintech-license-offer-credit-2026-03-31/",
+      "file": null,
+      "status_code": 401,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "HTTP Forbidden",
+      "fetched_at": "2026-04-06T20:11:58.791Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://finance.yahoo.com/economy/policy/articles/tiktok-wants-financial-services-brazil-181611427.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 96335,
+      "sha256": "d935af4b9d622547d3bb98fd8f1cbab49d7be1482921de993fbfd6df6e0224d1",
+      "error": null,
+      "fetched_at": "2026-04-06T20:11:58.834Z",
+      "redirected_domain": "consent.yahoo.com"
+    },
+    {
+      "url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-tiktok-seeks-brazil-fintech-173616062.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 96334,
+      "sha256": "b232de114e517b74e9e0630c7df11d5e4aef79b645181dfd596d47a4915244d3",
+      "error": null,
+      "fetched_at": "2026-04-06T20:11:58.835Z",
+      "redirected_domain": "consent.yahoo.com"
+    }
+  ]
+}
