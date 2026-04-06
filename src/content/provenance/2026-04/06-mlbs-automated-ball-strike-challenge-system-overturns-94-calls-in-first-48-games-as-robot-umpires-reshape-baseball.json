@@ -1,0 +1,22 @@
+{
+  "article_sha256": "237aa7389c7a631bbb72daa975d81703129444955fb2d151286d52ab99403dec",
+  "submission_hash": "07f10c3727f3826ce417acb972cbe8d649386e8a41aac3c8e49135ce425a22d0",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24049364439",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.cbsnews.com/news/mlb-robot-umpire-debut-yankees-giants-season-opener/",
+    "https://www.cbsnews.com/news/mlb-robot-umpires-2026-season-challenge-system/",
+    "https://www.pbs.org/newshour/nation/5-things-to-know-about-robot-umpires-coming-to-mlb"
+  ],
+  "created_at": "2026-04-06T20:20:21.918Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 667,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/667",
+  "provenance_signature": "ed25519:KwVmoS2e3pI4LWIDL+zcWo31r2iXyLl0v1xKC5F6qtDryUkE5XlqZ/jZUVqJJ0KB9I55gLjYByZpCxizWuBXAA=="
+}
