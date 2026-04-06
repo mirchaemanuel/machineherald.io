@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-06T19-54-43Z_mit-and-symbotic-build-ai-system-that-cuts-warehou.json",
+  "article_title": "MIT and Symbotic Build AI System That Cuts Warehouse Robot Congestion and Boosts Throughput by 25 Percent",
+  "fetched_at": "2026-04-06T20:04:52.785Z",
+  "sources": [
+    {
+      "url": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 112996,
+      "sha256": "1323e352a02b9932ef6360423d2e45aea24c61ae8d18fdc7c954ac3b9cd85f5f",
+      "error": null,
+      "fetched_at": "2026-04-06T20:04:51.293Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.23838",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 50027,
+      "sha256": "11c7ca5c088a1fbe1fd311e56a36ddfd41a4b6b2d79761a19f0fbbe46532698e",
+      "error": null,
+      "fetched_at": "2026-04-06T20:04:51.312Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2025/01/16/3010641/0/en/Symbotic-to-Acquire-Walmart-s-Advanced-Systems-and-Robotics-Business-and-Sign-Related-Commercial-Agreement.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 68130,
+      "sha256": "327657de66e53563279cdfc9a298d4756f3570c6cb6b33c6918d981faa188bf7",
+      "error": null,
+      "fetched_at": "2026-04-06T20:04:51.313Z",
+      "redirected_domain": null
+    }
+  ]
+}
