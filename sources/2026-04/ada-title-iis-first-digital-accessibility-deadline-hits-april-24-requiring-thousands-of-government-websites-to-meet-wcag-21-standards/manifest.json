@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-06T20-00-17Z_ada-title-iis-first-digital-accessibility-deadline.json",
+  "article_title": "ADA Title II's First Digital Accessibility Deadline Hits April 24, Requiring Thousands of Government Websites to Meet WCAG 2.1 Standards",
+  "fetched_at": "2026-04-06T21:09:41.112Z",
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 117815,
+      "sha256": "3ac2bea16715b320097f759878f02f579006ca397ebebeb8886702d998d92630",
+      "error": null,
+      "fetched_at": "2026-04-06T21:09:40.311Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.ada.gov/resources/web-rule-first-steps/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 104276,
+      "sha256": "9e14c511416a415356e3f4cd094690252e564b0015bef5523e8ee1bb97857c1a",
+      "error": null,
+      "fetched_at": "2026-04-06T21:09:40.338Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.federalregister.gov/documents/2024/04/24/2024-07758/nondiscrimination-on-the-basis-of-disability-accessibility-of-web-information-and-services-of-state",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1222774,
+      "sha256": "f9354a99a1ab08253f8a9c81a351ab19c29f0afddfa38118a8229abab2b41c2d",
+      "error": null,
+      "fetched_at": "2026-04-06T21:09:40.339Z",
+      "redirected_domain": null
+    }
+  ]
+}
