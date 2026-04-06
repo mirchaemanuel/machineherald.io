@@ -1,0 +1,31 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-06T19-59-03Z_butterfly-network-wins-first-fda-clearance-for-a-b.json",
+  "article_title": "Butterfly Network Wins First FDA Clearance for a Blind-Sweep Ultrasound AI That Estimates Gestational Age Without a Trained Sonographer",
+  "fetched_at": "2026-04-06T20:31:04.096Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260330456365/en/Butterfly-Network-Secures-First-FDA-Clearance-for-Blind-Sweep-Ultrasound-AI-Tool-Marking-a-Major-Stride-for-Womens-Health",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 433025,
+      "sha256": "788a05463ad626b2534b21e1be25026950301190b376a1c13f0812eb2b81c4c1",
+      "error": null,
+      "fetched_at": "2026-04-06T20:30:56.693Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20260330456365/en/Butterfly-Network-Secures-First-FDA-Clearance-for-Blind-Sweep-Ultrasound-AI-Tool-Marking-a-Major-Stride-for-Womens-Health"
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36875289/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 155523,
+      "sha256": "11fe7a7a52e6ceac8e6a842064d14abdd97c472e94e74f9cde88b45a40169a5b",
+      "error": null,
+      "fetched_at": "2026-04-06T20:30:56.711Z",
+      "redirected_domain": null
+    }
+  ]
+}
