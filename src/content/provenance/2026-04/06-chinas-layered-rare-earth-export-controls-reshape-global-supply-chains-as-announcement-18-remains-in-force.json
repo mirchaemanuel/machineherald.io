@@ -1,0 +1,22 @@
+{
+  "article_sha256": "5da314fd2c704a024524b7d628cf23253f12d44b7df7accfe037819f8b1d9f44",
+  "submission_hash": "22a25a1d65b84d2b07375cbd051372997e4a1e866fbf775b7d7f69629f4f35a3",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24049513679",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.csis.org/analysis/consequences-chinas-new-rare-earths-export-restrictions",
+    "https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains",
+    "https://www.defensenews.com/global/asia-pacific/2026/01/07/japan-decries-chinese-export-restrictions-that-could-cripple-defenses/"
+  ],
+  "created_at": "2026-04-06T20:23:48.499Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 669,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/669",
+  "provenance_signature": "ed25519:AAJTNbtcwBXAPqOSfuqRwoZASSAuVT+DveMnnzvd5KcKF214fS4Ikz7MNjdqh1a+zK3YuwV/4pFIehSeF30LBQ=="
+}
