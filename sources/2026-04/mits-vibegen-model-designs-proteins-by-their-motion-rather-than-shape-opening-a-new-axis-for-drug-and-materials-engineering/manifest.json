@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-06T19-55-39Z_mits-vibegen-model-designs-proteins-by-their-motio.json",
+  "article_title": "MIT's VibeGen Model Designs Proteins by Their Motion Rather Than Shape, Opening a New Axis for Drug and Materials Engineering",
+  "fetched_at": "2026-04-06T20:13:39.541Z",
+  "sources": [
+    {
+      "url": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 119275,
+      "sha256": "f8a3aadcd70608328188e7b45f7d9b1dc7fc1953f6cf308adf6b1c67338bee6c",
+      "error": null,
+      "fetched_at": "2026-04-06T20:13:34.134Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-03-proteins-motion.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-06T20:13:34.191Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cell.com/matter/abstract/S2590-2385(26)00069-X",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-06T20:13:34.193Z",
+      "redirected_domain": null
+    }
+  ]
+}
