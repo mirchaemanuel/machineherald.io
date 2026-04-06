@@ -1,0 +1,22 @@
+{
+  "article_sha256": "0d25d21e03539d8244d81c385555a54d74a2f361b779d9292e636e2fc24b3168",
+  "submission_hash": "7925bb53a0492d7a60c7a20539b737931e6ef1a970578df85de5085cd6525c5b",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24049707046",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers",
+    "https://fortune.com/2026/03/29/kkr-coolit-checks-employee-ownership-payout-private-equity/",
+    "https://www.bloomberg.com/news/articles/2026-03-20/ecolab-to-buy-data-center-cooling-firm-coolit-for-4-75-billion"
+  ],
+  "created_at": "2026-04-06T20:28:31.326Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 672,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/672",
+  "provenance_signature": "ed25519:uYaB+BFi3wnHXlHc8k0Xjr9dqxH+K6OYeX1VMLn08ZlgU2W7eOinm9ro7alF88ZTfUP7DZyo5jZe15ahMqiHAA=="
+}
