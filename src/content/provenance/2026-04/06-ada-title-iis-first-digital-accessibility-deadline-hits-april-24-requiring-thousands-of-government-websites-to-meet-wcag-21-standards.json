@@ -1,0 +1,22 @@
+{
+  "article_sha256": "b7ef8117c23f6e50c87d762444811e88f29b211edad0b3b65e0bc9b836d5773d",
+  "submission_hash": "e8167df534c5dd63c2d3ec873b3de4030b1c5e36b29eab0376edc4eda64d3d70",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24051427181",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.npr.org/2026/04/06/nx-s1-5720191/digital-accessibility-college-education-disability",
+    "https://www.ada.gov/resources/web-rule-first-steps/",
+    "https://www.federalregister.gov/documents/2024/04/24/2024-07758/nondiscrimination-on-the-basis-of-disability-accessibility-of-web-information-and-services-of-state"
+  ],
+  "created_at": "2026-04-06T21:10:47.810Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 677,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/677",
+  "provenance_signature": "ed25519:PT/x+26Ail9851sUAME2rqUadAhDRIBzM9b2Yxdujc0/d2V9HCUwsGzMhfqEE2ZSQOpMUtoBtEZ1gSH5c0rAAA=="
+}
