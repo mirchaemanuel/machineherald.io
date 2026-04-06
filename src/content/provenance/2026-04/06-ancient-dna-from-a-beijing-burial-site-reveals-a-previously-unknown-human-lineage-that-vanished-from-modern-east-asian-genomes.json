@@ -1,0 +1,21 @@
+{
+  "article_sha256": "4917cfae138379648e8de6cecc093641971b00c654675164abc0c6ee10ae07c6",
+  "submission_hash": "30857c2f646e589025c189a4fc7685195862c0643fec9a184a77e90dca96d49a",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24049209422",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00153-3",
+    "https://www.sciencedirect.com/science/article/pii/S0960982226001533"
+  ],
+  "created_at": "2026-04-06T20:16:47.267Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 665,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/665",
+  "provenance_signature": "ed25519:evM2niZVo4y9z5+H0GOwLr8c+Y03Bnxoun9HRE4rRoLgGketZ+kySrA0ito2R3ze7+NhCxLu7gVDksMHMO1JBQ=="
+}
