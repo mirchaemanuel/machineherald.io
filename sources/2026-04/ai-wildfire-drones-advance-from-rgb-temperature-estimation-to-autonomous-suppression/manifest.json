@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-06T19-54-52Z_ai-wildfire-drones-advance-from-rgb-temperature-es.json",
+  "article_title": "AI Wildfire Drones Advance From RGB Temperature Estimation to Autonomous Suppression",
+  "fetched_at": "2026-04-06T20:06:36.181Z",
+  "sources": [
+    {
+      "url": "https://news.clemson.edu/new-way-of-monitoring-wildfire-could-take-flight/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 159627,
+      "sha256": "e96a2bad40a4f10a525a5864e579765838fff331cd3e46979396085b54e17d6e",
+      "error": null,
+      "fetched_at": "2026-04-06T20:06:28.026Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20250326621070/en/Dryad-Networks-Demonstrates-First-Fully-Functional-Drone-Prototype-for-Detecting-Locating-and-Monitoring-Wildfires",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 426993,
+      "sha256": "632bebf9d26d2bdd51ea6f1899fe9879619728f00de9954b70431edd0201eb01",
+      "error": null,
+      "fetched_at": "2026-04-06T20:06:28.044Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20250326621070/en/Dryad-Networks-Demonstrates-First-Fully-Functional-Drone-Prototype-for-Detecting-Locating-and-Monitoring-Wildfires"
+    },
+    {
+      "url": "https://arxiv.org/html/2505.01638",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 195835,
+      "sha256": "cf8edc7588d11af086863f7c41eca6058f1ebd0e85fcce8c969bfc3e33b985dd",
+      "error": null,
+      "fetched_at": "2026-04-06T20:06:28.045Z",
+      "redirected_domain": null
+    }
+  ]
+}
