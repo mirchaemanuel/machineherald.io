@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-06T19-59-33Z_wasmer-launches-edgejs-a-webassembly-sandboxed-nod.json",
+  "article_title": "Wasmer Launches Edge.js, a WebAssembly-Sandboxed Node.js Runtime Targeting AI Agent Workloads",
+  "fetched_at": "2026-04-06T21:08:15.169Z",
+  "sources": [
+    {
+      "url": "https://wasmer.io/posts/edgejs-safe-nodejs-using-wasm-sandbox",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 322553,
+      "sha256": "1f5c2c5473ebc930da60feb6c710da190081e095cca2106cef80fff1c8974856",
+      "error": null,
+      "fetched_at": "2026-04-06T21:08:14.018Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoworld.com/article/4147290/edge-js-launched-to-run-node-js-for-ai.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230253,
+      "sha256": "3b50b601cfcb6a2540bc71ca340422d37cfbbb897c9b31b84c101c53354b795e",
+      "error": null,
+      "fetched_at": "2026-04-06T21:08:14.041Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.heise.de/en/news/JavaScript-runtime-developed-with-AI-Edge-js-for-secure-Node-js-applications-11215908.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 211113,
+      "sha256": "02221efd79490b0979c7fc6f2a75193338b4d9afabd1631881e8c086653259ad",
+      "error": null,
+      "fetched_at": "2026-04-06T21:08:14.042Z",
+      "redirected_domain": null
+    }
+  ]
+}
