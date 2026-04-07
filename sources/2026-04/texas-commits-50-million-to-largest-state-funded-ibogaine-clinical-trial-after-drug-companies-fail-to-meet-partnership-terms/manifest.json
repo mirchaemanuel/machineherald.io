@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-38-18Z_texas-commits-50-million-to-largest-state-funded-i.json",
+  "article_title": "Texas Commits $50 Million to Largest State-Funded Ibogaine Clinical Trial After Drug Companies Fail to Meet Partnership Terms",
+  "fetched_at": "2026-04-07T08:42:35.910Z",
+  "sources": [
+    {
+      "url": "https://www.eurekalert.org/news-releases/1109952",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 94144,
+      "sha256": "edbb321d01709aca52d5f16566f8381cc1eccf3b7602a1bb7f1f8b1d0630cc25",
+      "error": null,
+      "fetched_at": "2026-04-07T08:42:34.672Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://med.stanford.edu/news/all-news/2024/01/ibogaine-ptsd.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 137097,
+      "sha256": "3e4a46cc4e055df59a9ca20a2032b81099cf2f3eaa4e3fda247106611a65df89",
+      "error": null,
+      "fetched_at": "2026-04-07T08:42:34.689Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41591-023-02705-w",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 578554,
+      "sha256": "82b77658a15c92e8297a48db0036ac48439e6449fd3d8d3bf9006cb9d44fd811",
+      "error": null,
+      "fetched_at": "2026-04-07T08:42:34.689Z",
+      "redirected_domain": null
+    }
+  ]
+}
