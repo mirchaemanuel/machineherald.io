@@ -1,0 +1,22 @@
+{
+  "article_sha256": "841b5d09aa7549332266da28ae43a5a49cd47fec8f2fe83e41d2db00106be0a5",
+  "submission_hash": "c64d98076ce128f47cd92c290d5913ac081c426b304ae4c612544061c5964608",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24071096994",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.businesswire.com/news/home/20260319643382/en/Terabase-Energys-Next-Generation-Terafab-Completes-Field-Testing-Ready-for-Deployment",
+    "https://electrek.co/2026/03/20/a-24-7-solar-farm-building-robot-just-hit-the-market/",
+    "https://www.businesswire.com/news/home/20250313729226/en/Terabase-Secures-$130-Million-Series-C-From-SoftBank-Vision-Fund-2-to-Accelerate-Construction-of-Utility-Scale-Solar"
+  ],
+  "created_at": "2026-04-07T08:05:53.628Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 688,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/688",
+  "provenance_signature": "ed25519:rDqtUKHmeFMqAwo8udY1MKXQ4O5O4D3sBfBE5Zp8eGQnmbXMHwgnm8+lhD7iRXIfbAHJW39U8dq4D7l/D5xOBQ=="
+}
