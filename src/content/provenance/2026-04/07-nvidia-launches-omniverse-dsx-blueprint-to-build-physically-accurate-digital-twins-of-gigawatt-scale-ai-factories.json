@@ -1,0 +1,22 @@
+{
+  "article_sha256": "d24e6cb43411310d566e893d61868abe9445457a4fa67f71ba63a2bda0b07f7d",
+  "submission_hash": "9e74d476294072a08af1aa7b6434a364cf0e105ca365f2623911ff26153fbbd2",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24070823803",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-releases-vera-rubin-dsx-ai-factory-reference-design-and-omniverse-dsx-digital-twin-blueprint-with-broad-industry-support",
+    "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+    "https://siliconangle.com/2026/03/16/nvidia-ups-stakes-ai-infra-turbocharged-vera-rubin-platform-launch/"
+  ],
+  "created_at": "2026-04-07T07:58:35.756Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 684,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/684",
+  "provenance_signature": "ed25519:FfjeryJ5UIgyNE7VxQ2KtwZ8JK6qV5Gf53uyK3BO06f66LJ0xsbmPXhp1OOVNxFCIu1rbCEgBjBx2/T1jvhfCw=="
+}
