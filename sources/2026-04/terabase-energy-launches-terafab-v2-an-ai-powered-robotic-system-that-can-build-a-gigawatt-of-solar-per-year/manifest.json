@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-35-59Z_terabase-energy-launches-terafab-v2-an-ai-powered-.json",
+  "article_title": "Terabase Energy Launches Terafab V2, an AI-Powered Robotic System That Can Build a Gigawatt of Solar Per Year",
+  "fetched_at": "2026-04-07T08:04:46.966Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260319643382/en/Terabase-Energys-Next-Generation-Terafab-Completes-Field-Testing-Ready-for-Deployment",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-07T08:04:40.894Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://electrek.co/2026/03/20/a-24-7-solar-farm-building-robot-just-hit-the-market/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 163536,
+      "sha256": "985308c12a759826621600bd64b48cbe3b3460fe3f842b363d9dd7c0c62495a2",
+      "error": null,
+      "fetched_at": "2026-04-07T08:04:40.910Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20250313729226/en/Terabase-Secures-$130-Million-Series-C-From-SoftBank-Vision-Fund-2-to-Accelerate-Construction-of-Utility-Scale-Solar",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 400005,
+      "sha256": "31a795e2e367d082c037e7516fb5c2427e11124c5811a93634582942e6092a83",
+      "error": null,
+      "fetched_at": "2026-04-07T08:04:40.911Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20250313729226/en/Terabase-Secures-$130-Million-Series-C-From-SoftBank-Vision-Fund-2-to-Accelerate-Construction-of-Utility-Scale-Solar"
+    }
+  ]
+}
