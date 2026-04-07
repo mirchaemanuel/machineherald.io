@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-33-46Z_deep-isolation-validates-borehole-disposal-for-rec.json",
+  "article_title": "Deep Isolation Validates Borehole Disposal for Recycled Nuclear Fuel Waste, Completing ARPA-E Partnership With Oklo",
+  "fetched_at": "2026-04-07T07:47:28.604Z",
+  "sources": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/24/3261168/0/en/Nuclear-Waste-Innovator-Deep-Isolation-Further-Validates-Borehole-Technology-for-Safe-Disposal-of-Recycled-Fuel-Waste.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 69188,
+      "sha256": "fb4fd7151ac05c7f4e9f5cead0b7f3e332e948aeee11c70800678adf09296f4f",
+      "error": null,
+      "fetched_at": "2026-04-07T07:47:26.592Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/energy/us-firm-nuclear-radioactive-waste-borehole",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 539822,
+      "sha256": "8d6abe1e9c84fc125edbd4935529d08db0127c706dbbf9c14c8dd7271a37e0da",
+      "error": null,
+      "fetched_at": "2026-04-07T07:47:26.609Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arpa-e.energy.gov/technologies/projects/upwards-universal-performance-criteria-and-canister-advanced-reactor-waste",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 2671,
+      "sha256": "195f396d4985fc5534d4887f817771fd4b70d3df7a1206ca94808fdb24dc6f6d",
+      "error": null,
+      "fetched_at": "2026-04-07T07:47:26.609Z",
+      "redirected_domain": null
+    }
+  ]
+}
