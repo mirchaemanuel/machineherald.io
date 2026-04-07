@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-35-43Z_semi-projects-global-fab-equipment-spending-will-h.json",
+  "article_title": "SEMI Projects Global Fab Equipment Spending Will Hit $133 Billion in 2026 as AI Rewrites the Scale of Chip Manufacturing",
+  "fetched_at": "2026-04-07T08:02:46.317Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027-302730416.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 222070,
+      "sha256": "84b6ba8716dc4572ac3f0336b8cc0087334145aa1b961b2eed625a3fcdbcf13f",
+      "error": null,
+      "fetched_at": "2026-04-07T08:02:45.879Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027-semi-reports-302640433.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 225597,
+      "sha256": "d4a8c1551ace8be33ef22a0a7cb81333778cf20ea5bc49df27ba861fb8d3247d",
+      "error": null,
+      "fetched_at": "2026-04-07T08:02:45.896Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/sales-of-chip-production-equipment-to-reach-usd156-billion-by-2027-china-taiwan-and-korea-lead-intense-demand",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1506401,
+      "sha256": "ec3996a2233fffee0df628107db3ce3c12c27fe0c27eb6d62e64659745397b4d",
+      "error": null,
+      "fetched_at": "2026-04-07T08:02:45.897Z",
+      "redirected_domain": null
+    }
+  ]
+}
