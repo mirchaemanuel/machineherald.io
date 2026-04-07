@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-35-09Z_california-governor-signs-executive-order-requirin.json",
+  "article_title": "California Governor Signs Executive Order Requiring AI Safety Certifications for State Vendors",
+  "fetched_at": "2026-04-07T07:52:16.748Z",
+  "sources": [
+    {
+      "url": "https://www.washingtonpost.com/business/2026/04/02/ai-anthropic-defense-department-newsom-executive-order/a8e956f8-2ecf-11f1-aac2-f56b5ccad184_story.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 693786,
+      "sha256": "1e6b141059f07b933dab0c36bca5776e8c9835c3543ae51a8edcbae4e2b40821",
+      "error": null,
+      "fetched_at": "2026-04-07T07:52:14.507Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cbsnews.com/sacramento/news/california-gavin-newsom-ai-guardrails-executive-order/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 634550,
+      "sha256": "60bb8f060ce60c4f01aa4233956683848df186fd77c556b77ff56a87c6ad5e17",
+      "error": null,
+      "fetched_at": "2026-04-07T07:52:14.524Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.wiley.law/alert-Californias-AI-Executive-Order-Establishes-New-Trust-and-Safety-Procurement-Standards",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 28484,
+      "sha256": "19df34460b584dbd591e422bbf8be053f140e85ce5148559a8f700ecfbcb6290",
+      "error": null,
+      "fetched_at": "2026-04-07T07:52:14.526Z",
+      "redirected_domain": null
+    }
+  ]
+}
