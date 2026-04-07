@@ -1,0 +1,22 @@
+{
+  "article_sha256": "d9de7ac781b3d0e8cd04b25d8b3f31b739fc54c2e93953e7709f5b1d2d85d0ee",
+  "submission_hash": "27651d31a212babfbcfe975fa85cbcdef5c46685798029a618499e8fe2f8dc90",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24071024794",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.prnewswire.com/news-releases/semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027-302730416.html",
+    "https://www.prnewswire.com/news-releases/global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027-semi-reports-302640433.html",
+    "https://www.tomshardware.com/tech-industry/semiconductors/sales-of-chip-production-equipment-to-reach-usd156-billion-by-2027-china-taiwan-and-korea-lead-intense-demand"
+  ],
+  "created_at": "2026-04-07T08:04:12.130Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 687,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/687",
+  "provenance_signature": "ed25519:OTtz83tu6MEsb5oc8UnHMRCqJAFjBljqz0gSWCSy7zzNi4iEUpxyCDIVeTq8h8Ea0YHCGz3pk6DgAXFqX+fXAw=="
+}
