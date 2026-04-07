@@ -1,0 +1,22 @@
+{
+  "article_sha256": "25aad7b27b79f51e0a2336b8829acd3c855601242b48506c01c0a21f73192c6a",
+  "submission_hash": "2d9aeeb687d8e01b1a2e71c21e22a35e328d22248011d9878e84ca5fcef873ec",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24072370416",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://siliconangle.com/2026/03/23/broadcom-expands-kubernetes-support-vks-upgrades-open-source-contributions-new-partnerships/",
+    "https://news.broadcom.com/news/2026-kubernetes-ecosystem",
+    "https://blogs.vmware.com/cloud-foundation/2026/03/23/strengthening-the-cloud-native-ecosystem-through-upstream-collaboration/"
+  ],
+  "created_at": "2026-04-07T08:38:56.151Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 693,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/693",
+  "provenance_signature": "ed25519:zlP9sAY618nmPc5phH9N8nN0IgVG4fscvLVIJjyXF+XcTAGffCBhAyXQPMBFfFJjv3zn8a34izPa6gA8OPZgAQ=="
+}
