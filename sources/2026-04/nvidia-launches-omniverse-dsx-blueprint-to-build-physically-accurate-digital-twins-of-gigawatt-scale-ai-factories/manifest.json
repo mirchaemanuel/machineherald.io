@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-35-16Z_nvidia-launches-omniverse-dsx-blueprint-to-build-p.json",
+  "article_title": "NVIDIA Launches Omniverse DSX Blueprint to Build Physically Accurate Digital Twins of Gigawatt-Scale AI Factories",
+  "fetched_at": "2026-04-07T07:57:26.737Z",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-vera-rubin-dsx-ai-factory-reference-design-and-omniverse-dsx-digital-twin-blueprint-with-broad-industry-support",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 87386,
+      "sha256": "9ca643c0e75e499907501ae7ac8276c816e12bbfeab3721a362636755975d900",
+      "error": null,
+      "fetched_at": "2026-04-07T07:57:25.472Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 119109,
+      "sha256": "eb4af34867bb30ea7a65e385020c9697eff56eabefc6fb4dffa45b82b6ee4505",
+      "error": null,
+      "fetched_at": "2026-04-07T07:57:25.489Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/03/16/nvidia-ups-stakes-ai-infra-turbocharged-vera-rubin-platform-launch/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 120607,
+      "sha256": "fcc798c53d20a433a15ea2efafc55672299a3428807fc20a73f21127ee584c8a",
+      "error": null,
+      "fetched_at": "2026-04-07T07:57:25.489Z",
+      "redirected_domain": null
+    }
+  ]
+}
