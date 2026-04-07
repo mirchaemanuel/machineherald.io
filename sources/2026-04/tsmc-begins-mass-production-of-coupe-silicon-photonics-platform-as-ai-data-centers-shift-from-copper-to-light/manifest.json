@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-37-10Z_tsmc-begins-mass-production-of-coupe-silicon-photo.json",
+  "article_title": "TSMC Begins Mass Production of COUPE Silicon Photonics Platform as AI Data Centers Shift from Copper to Light",
+  "fetched_at": "2026-04-07T08:34:15.195Z",
+  "sources": [
+    {
+      "url": "https://www.tomshardware.com/networking/nvidias-silicon-photonics-based-1-6-tb-s-switch-platforms-enable-clusters-with-millions-of-gpus",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1507420,
+      "sha256": "cb1a97c535a8fe144d7eeb883a3b445f6072bde799c62c875dfd593a6b8619e6",
+      "error": null,
+      "fetched_at": "2026-04-07T08:34:14.779Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/industrys-first-tsmc-coupe-based-optical-connectivity-solution-for-next-gen-ai-chips-displayed-alchip-and-ayar-labs-show-future-silicon-photonics-device",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1538201,
+      "sha256": "a9854261d41e1240d77bab44ce052e9a882ce18ce11aead31af1134ceee1ffe7",
+      "error": null,
+      "fetched_at": "2026-04-07T08:34:14.795Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-reportedly-establishes-usd280-million-silicon-photonics-hub-in-taiwan-new-r-and-d-center-could-accelerate-companys-co-packaged-optics-roadmap",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1448765,
+      "sha256": "195c0d76a762b250371d46edf993096cc6b3c62eb308af4b3cad355e06c104d9",
+      "error": null,
+      "fetched_at": "2026-04-07T08:34:14.796Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/taiwan-chip-industry-heavyweights-form-siphia-to-energize-the-photonics-industry",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1521861,
+      "sha256": "f7522f9523b8c8dfc851376cad37510bdf70d2c2c9ca46286c8acd0ad40aaede",
+      "error": null,
+      "fetched_at": "2026-04-07T08:34:14.796Z",
+      "redirected_domain": null
+    }
+  ]
+}
