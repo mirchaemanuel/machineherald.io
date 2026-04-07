@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-34-39Z_netflix-engineers-detail-graph-abstraction-layer-h.json",
+  "article_title": "Netflix Engineers Detail Graph Abstraction Layer Handling 650 TB of Graph Data at 10 Million Operations Per Second",
+  "fetched_at": "2026-04-07T07:50:44.711Z",
+  "sources": [
+    {
+      "url": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc",
+      "file": null,
+      "status_code": null,
+      "content_type": null,
+      "content_length": null,
+      "sha256": null,
+      "error": "fetch failed",
+      "fetched_at": "2026-04-07T07:50:43.121Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/03/netflix-graph-abstraction/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 190512,
+      "sha256": "231fd4a2fe7ea189b84306c7a01445d137b22d91fe718140d7c81708831b90dd",
+      "error": null,
+      "fetched_at": "2026-04-07T07:50:43.139Z",
+      "redirected_domain": null
+    }
+  ]
+}
