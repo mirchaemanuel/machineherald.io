@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-07T07-35-25Z_arpa-h-awards-144-million-to-seven-teams-racing-to.json",
+  "article_title": "ARPA-H Awards $144 Million to Seven Teams Racing to Prove FDA-Approved Drugs Can Extend Human Healthspan",
+  "fetched_at": "2026-04-07T07:59:13.774Z",
+  "sources": [
+    {
+      "url": "https://arpa-h.gov/news-and-events/research-teams-add-more-healthy-years-americans-lives-they-age",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 40338,
+      "sha256": "ab32fd4ba5dd8843624d5a1c0c867324d60786bb7aebb4de9662e8d7bf1c269f",
+      "error": null,
+      "fetched_at": "2026-04-07T07:59:00.188Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.brown.edu/news/2026-02-24/aging-research-arpa",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 64243,
+      "sha256": "892554f54f62a978fa5692ea69a7d4a8914c3543931cc46f70b86c37ec00829b",
+      "error": null,
+      "fetched_at": "2026-04-07T07:59:00.205Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fiercebiotech.com/biotech/arpa-h-designates-144m-anti-aging-medical-research",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 2009599,
+      "sha256": "2aace900bb0e7217a9c02bcf893aaca4b2c3c2a3995502f663d98fa5080bd248",
+      "error": null,
+      "fetched_at": "2026-04-07T07:59:00.205Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.fiercebiotech.com/biotech/arpa-h-designates-144m-anti-aging-medical-research"
+    }
+  ]
+}
