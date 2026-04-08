@@ -1,0 +1,22 @@
+{
+  "article_sha256": "a341148d51fd67c4b5575c99ae625711acdd114174ef3cbc0fa68a67871a8006",
+  "submission_hash": "650a93351d6c0877d2e2d80b7215b1950e9cdab9d5d062fa162b142719a47d9e",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24130832892",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.tomshardware.com/tech-industry/semiconductors/intel-reportedly-in-talks-with-google-and-amazon-over-advanced-packaging",
+    "https://www.theregister.com/2026/03/05/intel_advanced_packaging_wins/",
+    "https://newsroom.intel.com/intel-foundry/intel-foundry-gathers-customers-partners-outlines-priorities"
+  ],
+  "created_at": "2026-04-08T10:32:21.881Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 708,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/708",
+  "provenance_signature": "ed25519:/Eq+i2hvz/uLSKyl8VtOd32CkU4EzQCLBq7hn4bfq7OXU/UCiX9TuUE8A6+zQaJuwDxpFEbNMiFdm6ctsPyMCA=="
+}
