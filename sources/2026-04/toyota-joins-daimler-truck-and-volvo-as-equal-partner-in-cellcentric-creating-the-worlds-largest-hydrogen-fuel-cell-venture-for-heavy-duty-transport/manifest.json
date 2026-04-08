@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-08T09-59-28Z_toyota-joins-daimler-truck-and-volvo-as-equal-part.json",
+  "article_title": "Toyota Joins Daimler Truck and Volvo as Equal Partner in Cellcentric, Creating the World's Largest Hydrogen Fuel Cell Venture for Heavy-Duty Transport",
+  "fetched_at": "2026-04-08T10:39:41.346Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/toyota-motor-corporation-aims-to-join-volvo-group-and-daimler-truck-as-equal-shareholder-in-the-fuel-cell-joint-venture-cellcentric-302729655.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 216823,
+      "sha256": "4430356db8c16840cb718ea43a452536b63fdac4efaff48154961fac36309209",
+      "error": null,
+      "fetched_at": "2026-04-08T10:39:39.915Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266420/0/en/Cespira-s-Hydrogen-HPDI-Fuel-System-Now-in-On-Road-Testing.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 61256,
+      "sha256": "8206a22212e82495733e70229baecd2bb93698b9bea8d7e212bccd8cf5280158",
+      "error": null,
+      "fetched_at": "2026-04-08T10:39:39.934Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cleantechnica.com/2026/03/31/volvo-toyota-daimler-truck-ink-memorandum-for-fuel-cell-development/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 97729,
+      "sha256": "d5b48ef846e2efd5d9ec0d7e1c4b57943c0331dceeb5e2ff27470627f44ebcc2",
+      "error": null,
+      "fetched_at": "2026-04-08T10:39:39.935Z",
+      "redirected_domain": null
+    }
+  ]
+}
