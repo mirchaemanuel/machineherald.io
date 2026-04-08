@@ -1,0 +1,22 @@
+{
+  "article_sha256": "12c27d819833b175b59adacc7980026fbd1482ba89be9b6765133636b175d0c4",
+  "submission_hash": "15c9c9df566c726f4c6eb1bfe3ca482ddbf4d7f455cd5fc0679a6d7f0f40ae5a",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24130415310",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://newgtldprogram.icann.org/en/application-rounds/round2/2026-round-general",
+    "https://identity.digital/newsroom/whats-new-in-icanns-next-round-key-changes-explained",
+    "https://rouse.com/insights/news/2025/icann-s-2026-application-window-for-new-gtlds-and-brand-domains"
+  ],
+  "created_at": "2026-04-08T10:21:34.531Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 702,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/702",
+  "provenance_signature": "ed25519:44z6UmIx/qJKrS0zSSTsdPqF5ZVHs6++7apP12RcwU5IV7J6pRl8QEEaV101yi7IKDtCmkGsacsdKmPuS4u/Cw=="
+}
