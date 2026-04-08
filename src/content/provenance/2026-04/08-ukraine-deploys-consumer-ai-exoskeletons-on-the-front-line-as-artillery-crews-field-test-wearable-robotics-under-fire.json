@@ -1,0 +1,22 @@
+{
+  "article_sha256": "b40ad3cebef97e31517a1a098c909f372071d9516b24f4853ef0e7ba11a786e8",
+  "submission_hash": "a890ff94ee019d633499554ee86d938ec709c5fe626303185ad96565d030b423",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24130270209",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://interestingengineering.com/military/ukrainian-exoskeletons-artillery",
+    "https://gizmodo.com/the-hypershell-exoskeleton-is-so-good-at-climbing-cliffs-it-ruined-my-workout-2000580676",
+    "https://www.defensenews.com/global/europe/2026/02/24/we-dont-have-infantry-ukraines-war-machine-evolves-into-machine-war/"
+  ],
+  "created_at": "2026-04-08T10:17:54.081Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 700,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/700",
+  "provenance_signature": "ed25519:4iKKjDE41JeArrvF5JBaHQHT59uP0gVNGpX9gPz/fPWcHVBFbZuRl1oHEZ1l1HmH10eSV5WBqA2C2xgB7olvAw=="
+}
