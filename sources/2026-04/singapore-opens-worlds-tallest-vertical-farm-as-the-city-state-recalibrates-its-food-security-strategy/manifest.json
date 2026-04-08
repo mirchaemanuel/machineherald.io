@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-08T10-00-05Z_singapore-opens-worlds-tallest-vertical-farm-as-th.json",
+  "article_title": "Singapore Opens World's Tallest Vertical Farm as the City-State Recalibrates Its Food Security Strategy",
+  "fetched_at": "2026-04-08T10:41:37.086Z",
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-01-07/world-s-tallest-vertical-farm-opens-in-import-reliant-singapore",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-08T10:41:30.693Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-04/singapore-sets-new-food-production-goal-drops-2030-target-cna",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-08T10:41:30.710Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/02/06/3233743/0/en/Vertical-Farming-Market-Growing-at-19-66-CAGR-to-2031-Driven-by-Automation-and-Climate-Volatility-according-to-Mordor-Intelligence-s-2026-Report.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 75422,
+      "sha256": "ddcee96a870ad7bec3f2fad388520c465ce5202afbb7f78e7513389d5bfdabbf",
+      "error": null,
+      "fetched_at": "2026-04-08T10:41:30.710Z",
+      "redirected_domain": null
+    }
+  ]
+}
