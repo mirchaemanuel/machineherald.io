@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-08T09-57-54Z_study-finds-63-percent-of-veterinary-ai-vendors-di.json",
+  "article_title": "Study Finds 63 Percent of Veterinary AI Vendors Disclose No Validation Data as Industry Transparency Push Gains Momentum",
+  "fetched_at": "2026-04-08T10:29:09.219Z",
+  "sources": [
+    {
+      "url": "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1761038/full",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 669848,
+      "sha256": "ff022323b163d49dc8ff2bf56dddb57e12703a824e8afb16417080dc0ffd1a3c",
+      "error": null,
+      "fetched_at": "2026-04-08T10:29:08.687Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/vetology-expands-public-ai-validation-dashboard-to-11-metrics-per-classifier-commits-to-ongoing-model-retraining-302730913.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 208470,
+      "sha256": "0eb45d3c99332452d8d7b32e6e1a10ece73ee55956e14f5c9613350771ce5388",
+      "error": null,
+      "fetched_at": "2026-04-08T10:29:08.705Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40107235/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 127483,
+      "sha256": "a0def492d6ba01f18c259439bc81f42a971258c1c0201b1dc52ce601719f8719",
+      "error": null,
+      "fetched_at": "2026-04-08T10:29:08.706Z",
+      "redirected_domain": null
+    }
+  ]
+}
