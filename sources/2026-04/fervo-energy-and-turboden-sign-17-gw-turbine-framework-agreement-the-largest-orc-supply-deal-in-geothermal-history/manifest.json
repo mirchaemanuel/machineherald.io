@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-08T10-01-23Z_fervo-energy-and-turboden-sign-17-gw-turbine-frame.json",
+  "article_title": "Fervo Energy and Turboden Sign 1.7 GW Turbine Framework Agreement, the Largest ORC Supply Deal in Geothermal History",
+  "fetched_at": "2026-04-08T10:43:23.037Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260407661902/en/Fervo-Energy-and-Turboden-Announce-New-1.7-GW-Turbine-Supply-Framework-Agreement",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-08T10:43:18.551Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.energy.gov/articles/energy-department-announces-1715-million-expand-us-geothermal-energy",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 110570,
+      "sha256": "26407e57dcdf7a82f4352383bef742ef1ae33ad04df46ca10f3a55c461e94b64",
+      "error": null,
+      "fetched_at": "2026-04-08T10:43:18.569Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.mit.edu/2026/next-gen-geothermal-energy-promise-progress-challenges-0313",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 114993,
+      "sha256": "08405889092125d59b21b7a2d4368a6b148f3ae72992c9bb3af3ed56ecb09362",
+      "error": null,
+      "fetched_at": "2026-04-08T10:43:18.569Z",
+      "redirected_domain": null
+    }
+  ]
+}
