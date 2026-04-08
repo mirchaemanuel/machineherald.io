@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-08T09-57-34Z_restoring-a-single-brain-clock-reverses-aging-biom.json",
+  "article_title": "Restoring a Single Brain Clock Reverses Aging Biomarkers and Extends Lifespan in Mice, Cell Study Finds",
+  "fetched_at": "2026-04-08T10:25:44.189Z",
+  "sources": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41785851/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 187997,
+      "sha256": "78be40fd67d57487a9d11dc09e9611957fbe939d76967fdb466c8a45ca9e5bcf",
+      "error": null,
+      "fetched_at": "2026-04-08T10:25:39.459Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cell.com/cell/abstract/S0092-8674(26)00103-0",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-08T10:25:39.479Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/d41573-026-00057-x",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 229775,
+      "sha256": "fc8be981f1eaca1d04107a11762e0689fc5b3091df165d960ef5e3293e06c360",
+      "error": null,
+      "fetched_at": "2026-04-08T10:25:39.480Z",
+      "redirected_domain": null
+    }
+  ]
+}
