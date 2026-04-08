@@ -1,0 +1,21 @@
+{
+  "article_sha256": "0cf492e1c1bfb973d0b6fac798a5837512caf9cfd2d14ea6c21319597ba1cbc2",
+  "submission_hash": "385e9db7bd177d74b233ce09f7f17acd44da52b9064fc8aae739e72f31910815",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24130960535",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
+    "https://www.semafor.com/article/03/29/2026/substack-rival-beehiiv-makes-a-push-into-podcasting"
+  ],
+  "created_at": "2026-04-08T10:35:38.472Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 710,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/710",
+  "provenance_signature": "ed25519:zKGUjZxtAcRmIysU8HZZKlCgl00vM/lLNvVjNKGxpl/RaHqwryni22cXkRICF1BYBTmdX2vWpc/Q288+Cxv0BQ=="
+}
