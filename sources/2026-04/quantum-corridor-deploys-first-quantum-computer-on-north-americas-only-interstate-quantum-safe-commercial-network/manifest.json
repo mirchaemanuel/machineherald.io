@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-08T09-58-30Z_quantum-corridor-deploys-first-quantum-computer-on.json",
+  "article_title": "Quantum Corridor Deploys First Quantum Computer on North America's Only Interstate Quantum-Safe Commercial Network",
+  "fetched_at": "2026-04-08T10:32:51.256Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/qci-quantum-optimization-machine-placed-on-quantum-corridor-network-302727709.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 218068,
+      "sha256": "058f313f39c99cc6c05ed960381b7126d083a00a28f59a155e70bba9962d96b4",
+      "error": null,
+      "fetched_at": "2026-04-08T10:32:50.952Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/03/30/qci-deploys-dirac-3-on-quantum-corridor/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 247169,
+      "sha256": "68920c200c2e283d3789bdb668c2d276cbe142ca2f098247e7d085b7094cdd10",
+      "error": null,
+      "fetched_at": "2026-04-08T10:32:50.970Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thequantuminsider.com/2025/12/09/quantum-corridor-toshiba-demonstrate-cross-state-quantum-key-distribution-over-live-commercial-metro-fiber-network/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 254092,
+      "sha256": "f2f37f6fc47b59dc51a7010d04de48938cebd03e9ebd3fab19c03a7f16c8ba59",
+      "error": null,
+      "fetched_at": "2026-04-08T10:32:50.971Z",
+      "redirected_domain": null
+    }
+  ]
+}
