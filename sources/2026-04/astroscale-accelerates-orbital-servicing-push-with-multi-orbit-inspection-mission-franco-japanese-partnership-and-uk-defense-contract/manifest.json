@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-14-11Z_astroscale-accelerates-orbital-servicing-push-with.json",
+  "article_title": "Astroscale Accelerates Orbital Servicing Push With Multi-Orbit Inspection Mission, Franco-Japanese Partnership, and UK Defense Contract",
+  "fetched_at": "2026-04-09T14:55:32.849Z",
+  "sources": [
+    {
+      "url": "https://interestingengineering.com/space/world-first-multi-orbit-satellite-inspection",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 535766,
+      "sha256": "5546eaaf88adc604437fded2aa8eba66d4d81f7f93d086b284a736bf8d4e843c",
+      "error": null,
+      "fetched_at": "2026-04-09T14:55:27.601Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/exotrail-and-astroscale-france-join-forces-to-build-deorbiting-capability-for-leo/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 252543,
+      "sha256": "c2f966bde2964c3608f51a2c66e24723883a78fb6313bf7a606ff060a2bb9e4a",
+      "error": null,
+      "fetched_at": "2026-04-09T14:55:27.619Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/",
+      "file": null,
+      "status_code": 429,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Too Many Requests",
+      "fetched_at": "2026-04-09T14:55:27.620Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/astroscale-u-s-to-refuel-two-space-force-spacecraft-on-2026-mission/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 255660,
+      "sha256": "26b619647925007af44904302f1daf232d7cbf9a3872b8e75982ae33c7604cd1",
+      "error": null,
+      "fetched_at": "2026-04-09T14:55:27.620Z",
+      "redirected_domain": null
+    }
+  ]
+}
