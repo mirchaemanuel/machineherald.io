@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-13-55Z_faa-finalizes-special-conditions-for-zeroavias-600.json",
+  "article_title": "FAA Finalizes Special Conditions for ZeroAvia's 600 kW Electric Engine, Charting a Certification Path for Hydrogen-Electric Aviation",
+  "fetched_at": "2026-04-09T14:53:34.336Z",
+  "sources": [
+    {
+      "url": "https://www.ainonline.com/aviation-news/futureflight/2026-03-20/faa-finalizes-special-conditions-zeroavias-electric-engine",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 161881,
+      "sha256": "a2724d7043e751abdb895d812ffddb8a709923d0fb4c171dccb74d7700492b73",
+      "error": null,
+      "fetched_at": "2026-04-09T14:53:33.114Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://chargedevs.com/newswire/faa-finalizes-special-conditions-for-zeroavias-600-kw-electric-aircraft-engine/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 241410,
+      "sha256": "49bb279cc3f825dd269133e972fde94577b7a805dceb40fd672665234b115bd0",
+      "error": null,
+      "fetched_at": "2026-04-09T14:53:33.134Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://avweb.com/aviation-news/faa-clears-step-zeroavia-electric-engine/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 141698,
+      "sha256": "96c5de108337eeacf0cbe157460d986e59a7ca195247b666e87cfa6c2f25be79",
+      "error": null,
+      "fetched_at": "2026-04-09T14:53:33.134Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.flyingmag.com/zeroavia-electric-engine-faa-certification/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 211440,
+      "sha256": "280240edba8ddf4aca22174f4799f0c59bc28aecc6fb855475cfe09b27086204",
+      "error": null,
+      "fetched_at": "2026-04-09T14:53:33.135Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.compositesworld.com/news/zeroavia-cuts-down-workforce-delays-za600-h2-powertrain-certification",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 343877,
+      "sha256": "faa7263e23d416434cf5c02125097bcdca8b452447a0026981c758e6c7b53dc3",
+      "error": null,
+      "fetched_at": "2026-04-09T14:53:33.135Z",
+      "redirected_domain": null
+    }
+  ]
+}
