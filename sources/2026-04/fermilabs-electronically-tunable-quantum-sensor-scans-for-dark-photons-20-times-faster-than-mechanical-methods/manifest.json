@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-10-30Z_fermilabs-electronically-tunable-quantum-sensor-sc.json",
+  "article_title": "Fermilab's Electronically Tunable Quantum Sensor Scans for Dark Photons 20 Times Faster Than Mechanical Methods",
+  "fetched_at": "2026-04-09T14:17:16.969Z",
+  "sources": [
+    {
+      "url": "https://news.fnal.gov/2026/04/new-electronically-tunable-quantum-detector-speeds-up-search-for-dark-matter/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 95790,
+      "sha256": "ef0e12e7aa20ba488925f9585a66b1f9a0038734a0db7ac00606fb5a9f465de0",
+      "error": null,
+      "fetched_at": "2026-04-09T14:17:15.804Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thequantuminsider.com/2026/04/07/electronically-tunable-quantum-detector-dark-matter/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 253045,
+      "sha256": "3bad75b601650440da6daf82dbfcf0851934ce00ea7f5ea153e11b89fd443967",
+      "error": null,
+      "fetched_at": "2026-04-09T14:17:15.828Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://quantumzeitgeist.com/fermilab-quantum-sensor-fermilabs-speeds/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 140418,
+      "sha256": "5c1606d9dadce07a43f69833c71453d29f95dc5da42f3091b5ac6170fe2c12c8",
+      "error": null,
+      "fetched_at": "2026-04-09T14:17:15.828Z",
+      "redirected_domain": null
+    }
+  ]
+}
