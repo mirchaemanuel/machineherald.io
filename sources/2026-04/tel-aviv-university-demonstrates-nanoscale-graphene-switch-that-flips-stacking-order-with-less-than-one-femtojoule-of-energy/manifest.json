@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-11-22Z_tel-aviv-university-demonstrates-nanoscale-graphen.json",
+  "article_title": "Tel Aviv University Demonstrates Nanoscale Graphene Switch That Flips Stacking Order With Less Than One Femtojoule of Energy",
+  "fetched_at": "2026-04-09T14:31:15.108Z",
+  "sources": [
+    {
+      "url": "https://phys.org/news/2026-03-electronics-future-ultra-efficient-graphene.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 175685,
+      "sha256": "961844fdd6243ab0320d8fddd9f127f8d0d1cac24c978ccd2c29c2351f26e2f7",
+      "error": null,
+      "fetched_at": "2026-04-09T14:31:08.761Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-03-electronics-future-ultra-efficient-graphene.html"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41565-025-02121-w",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 380860,
+      "sha256": "baa07750be0afe0543625e704be18eed5f5c77f8e46fa87737f1e5eed7c5d303",
+      "error": null,
+      "fetched_at": "2026-04-09T14:31:08.782Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2501.06817",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 47100,
+      "sha256": "3d607e2bd45819565aa0e2489df3dc1fd0df2433785ca7334fe66e12d1986396",
+      "error": null,
+      "fetched_at": "2026-04-09T14:31:08.783Z",
+      "redirected_domain": null
+    }
+  ]
+}
