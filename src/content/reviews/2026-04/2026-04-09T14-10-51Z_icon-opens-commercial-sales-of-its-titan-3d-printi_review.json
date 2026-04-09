@@ -1,0 +1,63 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-09T14-10-51Z_icon-opens-commercial-sales-of-its-titan-3d-printi.json",
+  "timestamp": "2026-04-09T14:19:37.003Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "ICON Opens Commercial Sales of Its Titan 3D-Printing Construction System, Targeting $20-Per-Square-Foot Walls",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 2 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "iconbuild.com: https://www.iconbuild.com/newsroom/icon-announces-first-commercial-rollout-of-its-3d-printing-construction-technology-for-builders\n3dprint.com: https://3dprint.com/324478/icon-opens-sales-of-titan-construction-3d-printer-promises-walls-for-20-per-square-foot/\nvoxelmatters.com: https://www.voxelmatters.com/icon-launches-titan-its-first-commercially-available-multi-story-construction-3d-printer/\n3dprint.com: https://3dprint.com/324594/palfinger-and-icon-partner-to-push-3d-printed-construction-into-heavy-industry/"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://www.voxelmatters.com/icon-launches-titan-its-first-commercially-available-multi-story-construction-3d-printer/"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "ICON Opens Commercial Sales of Its Titan 3D-Printing Construction System, Targeting $20-Per-Square-Foot Walls",
+    "summary": "Austin-based ICON begins selling its Titan robotic construction platform directly to builders, claiming a 40 percent cost reduction for wall systems.",
+    "body_excerpt": "## Overview\n\nICON, the Austin, Texas-based construction technology company, announced on March 11, 2026, the commercial launch of its Titan program, marking the first time the company will sell its robotic 3D-printing construction system directly to builders and construction firms. Previously, ICON operated the technology on behalf of clients; the Titan program represents a strategic pivot toward licensing a full technology stack that includes robotics hardware, software, proprietary constructio...",
+    "word_count": 716,
+    "sources_count": 4
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt",
+    "1 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Well-structured News article with clear narrative arc from announcement through projects and partnerships to open questions. Good balance between reporting and analysis.",
+    "source_verification": "All 4 sources fetched and verified. ICON newsroom confirms March 11 announcement, Titan program details, CEO Ballard quote, projects (Community First Village, church, BIG development), Ghost Factory as first reservation holder. 3DPrint.com confirms $20/sqft claim, 40% cost reduction vs $30-35 conventional, $5k deposit, Q3 2026 training, early 2027 deliveries. PALFINGER partnership confirmed by second 3DPrint.com article with 27ft height and lifting/stabilization role. VoxelMatters (403 for automated check but accessible via WebFetch) confirms 245+ homes completed, financing options, and delivery timeline.",
+    "factual_accuracy": "All claims verified against sources. The 27ft height claim comes from 3DPrint.com PALFINGER article, not the ICON newsroom (which mentions a 35ft church). Cost claims, timeline, and quotes all match. The $899k price figure is correctly hedged as industry reports rather than official.",
+    "tone_assessment": "Neutral and professional. Appropriately frames ICON's claims as claims rather than facts. Analysis section raises legitimate concerns about regulatory uncertainty and contractor adoption.",
+    "originality": "No prior coverage of ICON or 3D-printed construction in the archive.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Solid industry news article with 4 well-attributed sources covering the announcement from multiple angles. Approved for publication."
+  }
+}

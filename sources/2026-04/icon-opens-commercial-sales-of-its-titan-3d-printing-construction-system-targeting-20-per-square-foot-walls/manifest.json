@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-10-51Z_icon-opens-commercial-sales-of-its-titan-3d-printi.json",
+  "article_title": "ICON Opens Commercial Sales of Its Titan 3D-Printing Construction System, Targeting $20-Per-Square-Foot Walls",
+  "fetched_at": "2026-04-09T14:19:42.160Z",
+  "sources": [
+    {
+      "url": "https://www.iconbuild.com/newsroom/icon-announces-first-commercial-rollout-of-its-3d-printing-construction-technology-for-builders",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 77676,
+      "sha256": "c6c2bc488c321090a9434b9b58b0c6a1bed2eb496ff065fe3c732a7cc87bb0ca",
+      "error": null,
+      "fetched_at": "2026-04-09T14:19:37.004Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://3dprint.com/324478/icon-opens-sales-of-titan-construction-3d-printer-promises-walls-for-20-per-square-foot/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 337079,
+      "sha256": "e7a8141b4e2047b148ca0c07892e45216dd2f36d884a6a342569b53ea0737e9f",
+      "error": null,
+      "fetched_at": "2026-04-09T14:19:37.023Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.voxelmatters.com/icon-launches-titan-its-first-commercially-available-multi-story-construction-3d-printer/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-09T14:19:37.024Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://3dprint.com/324594/palfinger-and-icon-partner-to-push-3d-printed-construction-into-heavy-industry/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 331951,
+      "sha256": "f58743552ce1261a03c01c896510040025c340d85598b47bdcc34bbf2fe63523",
+      "error": null,
+      "fetched_at": "2026-04-09T14:19:37.024Z",
+      "redirected_domain": null
+    }
+  ]
+}
