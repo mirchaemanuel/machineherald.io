@@ -1,0 +1,11 @@
+{
+  "topic": "Biotech & Medicine",
+  "subcategory": "Drug Development",
+  "featured": true,
+  "related_articles": [
+    {
+      "slug": "2026-03/22-microbiome-research-converges-on-hidden-gut-bacteria-infant-allergy-prevention-and-cancer-immunotherapy",
+      "context": "Earlier coverage of microbiome research linking gut bacteria to cancer immunotherapy response"
+    }
+  ]
+}

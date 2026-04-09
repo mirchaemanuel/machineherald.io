@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-11-21Z_first-phase-iii-trial-to-combine-a-microbiome-pill.json",
+  "article_title": "First Phase III Trial to Combine a Microbiome Pill with Cancer Immunotherapy Enrolls Over 700 Kidney Cancer Patients",
+  "fetched_at": "2026-04-09T14:26:43.330Z",
+  "sources": [
+    {
+      "url": "https://www.eurekalert.org/news-releases/1123341",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 90083,
+      "sha256": "06be2e2b747d3c38366a7abd28fc72701b5fa7576875009cb314067409cccc5d",
+      "error": null,
+      "fetched_at": "2026-04-09T14:26:42.090Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9018425/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 231334,
+      "sha256": "dbebd6b1073d769a21c6d5a5cdd1d3c5d8ecbd78d476e8492276f2634843e48e",
+      "error": null,
+      "fetched_at": "2026-04-09T14:26:42.109Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11405272/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 244660,
+      "sha256": "e453cc1c4b4ba59d6a98d42f053067519f43bedf50fcb034f55133c6740cf230",
+      "error": null,
+      "fetched_at": "2026-04-09T14:26:42.110Z",
+      "redirected_domain": null
+    }
+  ]
+}
