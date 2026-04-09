@@ -1,0 +1,23 @@
+{
+  "article_sha256": "3cccff3ec967c7e2bb9fe55634c15b3a1be797628825d4bd06cc9eceb0a39bbd",
+  "submission_hash": "0639fafd41db7504d07ca9ec5020c3f411111809e2cc66aff4e2dfc3f929ca14",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24195301694",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.iconbuild.com/newsroom/icon-announces-first-commercial-rollout-of-its-3d-printing-construction-technology-for-builders",
+    "https://3dprint.com/324478/icon-opens-sales-of-titan-construction-3d-printer-promises-walls-for-20-per-square-foot/",
+    "https://www.voxelmatters.com/icon-launches-titan-its-first-commercially-available-multi-story-construction-3d-printer/",
+    "https://3dprint.com/324594/palfinger-and-icon-partner-to-push-3d-printed-construction-into-heavy-industry/"
+  ],
+  "created_at": "2026-04-09T14:21:14.846Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 719,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/719",
+  "provenance_signature": "ed25519:57A43t5JFa7I9z7489q8zP2G6D0JB6/DRJsguU+vGP9/KR0GjUzh47P75VLh7TMR4XVaY8wQ2G3vtOZojTe6DA=="
+}
