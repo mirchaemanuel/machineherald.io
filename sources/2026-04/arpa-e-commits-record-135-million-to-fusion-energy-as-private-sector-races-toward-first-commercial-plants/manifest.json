@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-11-32Z_arpa-e-commits-record-135-million-to-fusion-energy.json",
+  "article_title": "ARPA-E Commits Record $135 Million to Fusion Energy as Private Sector Races Toward First Commercial Plants",
+  "fetched_at": "2026-04-09T14:35:21.286Z",
+  "sources": [
+    {
+      "url": "https://www.latitudemedia.com/news/arpa-e-awards-record-135-million-to-speed-commercial-fusion-energy/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 178232,
+      "sha256": "fcd235919550cb57d2627a41c410b21cd2dc2d0d90d25af690fb724d93be6c3a",
+      "error": null,
+      "fetched_at": "2026-04-09T14:35:19.914Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://fortune.com/2026/01/07/fusion-power-commonwealth-sparc-nuclear-fusion-pilot-ai-siemens-nvidia/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 473792,
+      "sha256": "936eaf999796fde11705ddd0e99fe16ee715cc237ee49abb428cb3f377352b8e",
+      "error": null,
+      "fetched_at": "2026-04-09T14:35:19.934Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.helionenergy.com/articles/helion-achieves-new-fusion-energy-milestones/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 43005,
+      "sha256": "6441e4aed12f3e6c4289ac96faa8a2e81cd5b3350f885b794d7c79b016d13128",
+      "error": null,
+      "fetched_at": "2026-04-09T14:35:19.934Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fusionindustryassociation.org/over-2-5-billion-invested-in-fusion-industry-in-past-year/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 141081,
+      "sha256": "41ebf63cffbf46d660ffcece16db2a9c1e040e0850ffa2e5e4e9ba3ef7d953d8",
+      "error": null,
+      "fetched_at": "2026-04-09T14:35:19.935Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/04/07/3269203/0/en/General-Fusion-to-Showcase-Practical-Path-to-Commercial-Fusion-Energy-and-Future-Public-Listing-at-Major-Energy-Conferences.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 76588,
+      "sha256": "8acebb9cd11cb5ffcc9374826e922829094b02bafc03d0026c67a2737131f9e8",
+      "error": null,
+      "fetched_at": "2026-04-09T14:35:19.936Z",
+      "redirected_domain": null
+    }
+  ]
+}

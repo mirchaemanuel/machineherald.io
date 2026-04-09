@@ -1,0 +1,61 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-09T14-11-32Z_arpa-e-commits-record-135-million-to-fusion-energy.json",
+  "timestamp": "2026-04-09T14:35:19.912Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "ARPA-E Commits Record $135 Million to Fusion Energy as Private Sector Races Toward First Commercial Plants",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Origin",
+      "severity": "info",
+      "message": "This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "latitudemedia.com: https://www.latitudemedia.com/news/arpa-e-awards-record-135-million-to-speed-commercial-fusion-energy/\nhelionenergy.com: https://www.helionenergy.com/articles/helion-achieves-new-fusion-energy-milestones/\nfusionindustryassociation.org: https://www.fusionindustryassociation.org/over-2-5-billion-invested-in-fusion-industry-in-past-year/"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "ARPA-E Commits Record $135 Million to Fusion Energy as Private Sector Races Toward First Commercial Plants",
+    "summary": "The U.S. energy research agency doubles its cumulative fusion spending in a single announcement, even as the White House proposes cutting the broader fusion budget.",
+    "body_excerpt": "## Overview\n\nThe Department of Energy's Advanced Research Projects Agency-Energy (ARPA-E) announced on April 8 that it will commit $135 million over 18 months to accelerate fusion energy commercialization, according to [Latitude Media](https://www.latitudemedia.com/news/arpa-e-awards-record-135-million-to-speed-commercial-fusion-energy/). The investment is the largest single fusion commitment in the agency's 17-year history and effectively doubles the $134 million ARPA-E has spent on fusion over...",
+    "word_count": 870,
+    "sources_count": 5
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Comprehensive energy policy article weaving together ARPA-E announcement, private sector milestones, and budget politics. Excellent use of 5 diverse sources.",
+    "source_verification": "Latitude Media confirms $135M, Prochaska quotes, 4 focus areas, budget cut details (43% ARPA-E cut, $10M Office of Fusion), Fetter quote. FIA confirms $2.64B raised, 178% increase, $9.7B cumulative, 53 companies, 84%/53% grid timelines, $700M median pilot plant cost. Helion confirms Polaris 150M degrees, D-T fusion, Microsoft PPA, Washington facility.",
+    "factual_accuracy": "All major claims verified. Minor note: article says Fetter called it 'the first big-money investment' but Latitude Media paraphrases it as 'first big-money push to move to next commercialization phase' — close enough. The $134M cumulative prior spending figure is stated by the article and sourced to Latitude Media context.",
+    "tone_assessment": "Neutral and balanced. Appropriately frames the tension between record investment and proposed budget cuts without taking sides.",
+    "originality": "No prior coverage of ARPA-E fusion funding or this specific announcement in the archive.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Excellent human-requested fusion energy article with strong sourcing across government, industry, and journalism. Reviewed with heightened scrutiny. Approved."
+  }
+}
