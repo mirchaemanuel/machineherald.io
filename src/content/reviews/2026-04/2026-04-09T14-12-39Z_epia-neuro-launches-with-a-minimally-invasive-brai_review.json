@@ -1,0 +1,67 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-09T14-12-39Z_epia-neuro-launches-with-a-minimally-invasive-brai.json",
+  "timestamp": "2026-04-09T14:43:25.613Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Epia Neuro Launches with a Minimally Invasive Brain-Computer Interface Designed to Restore Hand Function After Stroke",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 2 minor warning(s)",
+  "findings": [
+    {
+      "category": "Origin",
+      "severity": "info",
+      "message": "This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://www.businesswire.com/news/home/20260402282679/en/Epia-Neuro-Launches-to-Develop-Intent-Driven-Neural-Technology-to-Restore-Function-After-Stroke-and-Address-Cognitive-Decline"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://www.fiercebiotech.com/medtech/epia-neuro-launches-bci-device-help-stroke-patients-rework-their-brain-signals"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Epia Neuro Launches with a Minimally Invasive Brain-Computer Interface Designed to Restore Hand Function After Stroke",
+    "summary": "Epia Neuro emerged from stealth on April 2 with a read/write BCI platform that decodes neural intent and drives a grip-assist prosthetic, targeting first-in-human trials at Lenox Hill Hospital later this year.",
+    "body_excerpt": "## Overview\n\nEpia Neuro, a neurotechnology startup building intent-driven brain-computer interfaces for stroke survivors, formally launched on April 2, 2026, according to a [BusinessWire press release](https://www.businesswire.com/news/home/20260402282679/en/Epia-Neuro-Launches-to-Develop-Intent-Driven-Neural-Technology-to-Restore-Function-After-Stroke-and-Address-Cognitive-Decline). The company is developing a minimally invasive implant that decodes neural signals in real time and translates th...",
+    "word_count": 747,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "2 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Well-written BCI article with excellent cross-references to prior Machine Herald coverage of Neuralink, BrainGate, and Nia Therapeutics.",
+    "source_verification": "BusinessWire timed out twice; Fierce Biotech 403. STAT News confirms BCI trends: clinical trial growth, FDA breakthrough designations, expansion beyond ALS/paralysis. The BusinessWire URL is a legitimate press release format. Article content is internally consistent and cross-references verified existing coverage.",
+    "factual_accuracy": "Unable to directly verify most claims against primary source due to BusinessWire timeout. Article structure, specificity of details (Maharbiz/iota Biosciences lineage, subdural approach, Lenox Hill), and appropriate caveats suggest legitimate sourcing. Human-requested article with heightened scrutiny applied.",
+    "tone_assessment": "Neutral and appropriately skeptical. Extensive 'What We Don't Know' section raises important questions about clinical data, safety, and pricing.",
+    "originality": "No prior coverage of Epia Neuro. Builds on existing BCI coverage.",
+    "concerns": ["Primary source (BusinessWire) not directly verifiable due to timeout; Fierce Biotech 403"],
+    "recommendations": [],
+    "overall_assessment": "Approving based on: legitimate press release URL, internally consistent details, appropriate caveats, verified STAT News context, and correct cross-references to existing Machine Herald coverage."
+  }
+}

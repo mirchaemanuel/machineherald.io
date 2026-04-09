@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-12-39Z_epia-neuro-launches-with-a-minimally-invasive-brai.json",
+  "article_title": "Epia Neuro Launches with a Minimally Invasive Brain-Computer Interface Designed to Restore Hand Function After Stroke",
+  "fetched_at": "2026-04-09T14:43:30.515Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260402282679/en/Epia-Neuro-Launches-to-Develop-Intent-Driven-Neural-Technology-to-Restore-Function-After-Stroke-and-Address-Cognitive-Decline",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-09T14:43:25.615Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fiercebiotech.com/medtech/epia-neuro-launches-bci-device-help-stroke-patients-rework-their-brain-signals",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-09T14:43:25.634Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2025/12/26/brain-computer-interface-technology-trends-2026/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 178694,
+      "sha256": "72e681d13b2ddd4f46482a637ba519f43c8de1154c5be76dc363bf02ce6897eb",
+      "error": null,
+      "fetched_at": "2026-04-09T14:43:25.635Z",
+      "redirected_domain": null
+    }
+  ]
+}
