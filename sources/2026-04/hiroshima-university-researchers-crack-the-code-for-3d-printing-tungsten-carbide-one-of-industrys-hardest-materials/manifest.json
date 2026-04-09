@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-11-03Z_hiroshima-university-researchers-crack-the-code-fo.json",
+  "article_title": "Hiroshima University Researchers Crack the Code for 3D Printing Tungsten Carbide, One of Industry's Hardest Materials",
+  "fetched_at": "2026-04-09T14:22:18.899Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260313002642.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51378,
+      "sha256": "4188bfcd54ce95cbad71732efe9fc23f2357007b948a8246a2f3771bc6679d39",
+      "error": null,
+      "fetched_at": "2026-04-09T14:22:16.568Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/3d-printing/3d-printing-with-one-of-the-worlds-hardest-tungsten-based-materials-is-now-possible-materials-incredible-hardness-made-it-difficult-to-additively-manufacture",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1508101,
+      "sha256": "8890783539237250ad7f7707f06aec0291af0c0a411f564adecf0a93e908725d",
+      "error": null,
+      "fetched_at": "2026-04-09T14:22:16.587Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/innovation/laser-3d-printing-tungsten-carbide",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 543937,
+      "sha256": "b0a8020ab9b9b7f1966530d319e194a3cb82e09dc837d8984765c60b2d8eafb8",
+      "error": null,
+      "fetched_at": "2026-04-09T14:22:16.587Z",
+      "redirected_domain": null
+    }
+  ]
+}
