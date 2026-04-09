@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-15-32Z_imos-shipping-net-zero-framework-heads-to-crucial-.json",
+  "article_title": "IMO's Shipping Net-Zero Framework Heads to Crucial April Session After US-Led Blockade Delayed Adoption by a Year",
+  "fetched_at": "2026-04-09T14:59:28.605Z",
+  "sources": [
+    {
+      "url": "https://www.euronews.com/green/2025/10/20/international-deal-to-reduce-emissions-from-shipping-sinks-after-us-led-opposition",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 393232,
+      "sha256": "2da4b4bb5909a89ac6c2f1cd7baafe247611a9211c472c74dc2291540f43aeb2",
+      "error": null,
+      "fetched_at": "2026-04-09T14:59:27.800Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.un.org/en/story/2025/10/1166131",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 89088,
+      "sha256": "788e2cdeac3333d0afcb1a22f496f77fe2fe29eeccd479aefcc3a1c06681b0d0",
+      "error": null,
+      "fetched_at": "2026-04-09T14:59:27.819Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.un.org/en/story/2025/04/1162176",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 92101,
+      "sha256": "6dc4655b00a8dcf2957d7d469f903ca5b1b83445bf6e9e656f945feef5d46065",
+      "error": null,
+      "fetched_at": "2026-04-09T14:59:27.819Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.carbonbrief.org/qa-nations-agree-carbon-pricing-system-to-steer-shipping-towards-net-zero/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 179408,
+      "sha256": "989ec22c948c08673b861e11fbbb946e7c832eadd9e51ebcbc2d8008f3a52245",
+      "error": null,
+      "fetched_at": "2026-04-09T14:59:27.820Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.energy.gov/articles/joint-statement-protecting-american-consumers-and-shipping-industries-defeating",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 103103,
+      "sha256": "e96176cb17980848c2df8c4ee2d339ea09da7b428de3d0dedb8289d522ab2bad",
+      "error": null,
+      "fetched_at": "2026-04-09T14:59:27.820Z",
+      "redirected_domain": null
+    }
+  ]
+}
