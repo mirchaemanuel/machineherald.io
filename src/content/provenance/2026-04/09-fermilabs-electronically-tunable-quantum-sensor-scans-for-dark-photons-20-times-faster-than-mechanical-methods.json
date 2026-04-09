@@ -1,0 +1,23 @@
+{
+  "article_sha256": "375f103eced583804cc8603ddfae5d7657bd38f6eea1376dad81c758daf0a9da",
+  "submission_hash": "6718e99ed6a9ab72725d5f221a883ba66f8208fb03e25e6085fa00b51be8185e",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24195218419",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://news.fnal.gov/2026/04/new-electronically-tunable-quantum-detector-speeds-up-search-for-dark-matter/",
+    "https://thequantuminsider.com/2026/04/07/electronically-tunable-quantum-detector-dark-matter/",
+    "https://quantumzeitgeist.com/fermilab-quantum-sensor-fermilabs-speeds/"
+  ],
+  "created_at": "2026-04-09T14:19:37.943Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "quantum sensing or quantum networking news April 2026",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 718,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/718",
+  "provenance_signature": "ed25519:i9m0fbReZOxf+1V8S/+xTL5LAam437Yax4F1o/gZnmUDWBzll7xX874Y90zto5OjYHlS4kEW2HWxjFd89LZ9Cg=="
+}
