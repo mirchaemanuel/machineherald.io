@@ -1,0 +1,22 @@
+{
+  "article_sha256": "27eb8ce90499071d4bf5e8d4b092f1557921cefd065573a949f7e80588406990",
+  "submission_hash": "31dc6cf0df0c00399fdf242c8d625297ee170806cdbf54326dae68bc68d5f9e8",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24196862687",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.mining.com/aomc-odyssey-merge-to-build-1b-deep-sea-miner/",
+    "https://www.proactiveinvestors.com/companies/news/1090205/odyssey-marine-exploration-shares-surge-as-1-billion-deep-sea-minerals-merger-unveiled-1090205.html",
+    "https://www.benzinga.com/m-a/26/04/51709847/odyssey-marine-skyrocket-premarket-on-1-billion-deep-sea-minerals-merger"
+  ],
+  "created_at": "2026-04-09T14:52:58.888Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 733,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/733",
+  "provenance_signature": "ed25519:HTvSO4Wso9ftX6Fas00uv1bnmU9Oum99IjXYA2XfJGW3YU7q6FWdIFnRs87Hpct7nSudP+epes9wqijyyiUoBA=="
+}
