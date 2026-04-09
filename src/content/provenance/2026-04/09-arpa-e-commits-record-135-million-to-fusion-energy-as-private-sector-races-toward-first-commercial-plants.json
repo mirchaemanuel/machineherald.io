@@ -1,0 +1,25 @@
+{
+  "article_sha256": "65c715a6a4669a596160bb281a366f20574e519d6a88de1cd09239523b970d2f",
+  "submission_hash": "04ac7da7d588a77ab2ccb73f8dcfb21eaab5b13362fef788692517aa6e7fa0f1",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24196058234",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.latitudemedia.com/news/arpa-e-awards-record-135-million-to-speed-commercial-fusion-energy/",
+    "https://fortune.com/2026/01/07/fusion-power-commonwealth-sparc-nuclear-fusion-pilot-ai-siemens-nvidia/",
+    "https://www.helionenergy.com/articles/helion-achieves-new-fusion-energy-milestones/",
+    "https://www.fusionindustryassociation.org/over-2-5-billion-invested-in-fusion-industry-in-past-year/",
+    "https://www.globenewswire.com/news-release/2026/04/07/3269203/0/en/General-Fusion-to-Showcase-Practical-Path-to-Commercial-Fusion-Energy-and-Future-Public-Listing-at-Major-Energy-Conferences.html"
+  ],
+  "created_at": "2026-04-09T14:36:46.798Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "nuclear fusion news April 2026",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 726,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/726",
+  "provenance_signature": "ed25519:3UYJIYRWQ1CkaW/jIHARg1DZWo2NEXXBT/IkwRwmog405SkjtM7ZSvdjjcPMGr2HP6ydyAWxUSZ7MJU397fFCg=="
+}
