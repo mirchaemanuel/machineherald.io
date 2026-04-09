@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-12-08Z_iceberg-summit-2026-draws-all-major-cloud-vendors-.json",
+  "article_title": "Iceberg Summit 2026 Draws All Major Cloud Vendors as V3 Adoption Accelerates Across the Data Lakehouse Ecosystem",
+  "fetched_at": "2026-04-09T14:37:21.041Z",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2026/04/08/snowflake-expands-open-data-strategy-iceberg-v3-support-governance-portability-plan/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 125011,
+      "sha256": "c6b38c552148dfba1651e31189cfc5a108f430442c0051a2ebf58d01ad629c00",
+      "error": null,
+      "fetched_at": "2026-04-09T14:37:19.875Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/technology/articles/dremio-deepens-apache-iceberg-leadership-160500000.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 96341,
+      "sha256": "5d1d58fcb31bedb340c9983ef96d189be0d45969ff81fb7ca3f2c43df0d5d6bb",
+      "error": null,
+      "fetched_at": "2026-04-09T14:37:19.895Z",
+      "redirected_domain": "consent.yahoo.com"
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/data-analytics/improved-interoperability-for-your-apache-iceberg-lakehouse",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 287555,
+      "sha256": "d2f2e7de7013ceae567f9809e3552d6f035267dfe6db0fb06b2246ce4ce9d5e5",
+      "error": null,
+      "fetched_at": "2026-04-09T14:37:19.895Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://docs.snowflake.com/en/release-notes/2026/other/2026-03-04-iceberg-v3-support-preview",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 579293,
+      "sha256": "caeffa1dcd2ef6c4cc7bc0ba0c879a9c0cf8105e4ac3c4a1584f97147583fca1",
+      "error": null,
+      "fetched_at": "2026-04-09T14:37:19.896Z",
+      "redirected_domain": null
+    }
+  ]
+}
