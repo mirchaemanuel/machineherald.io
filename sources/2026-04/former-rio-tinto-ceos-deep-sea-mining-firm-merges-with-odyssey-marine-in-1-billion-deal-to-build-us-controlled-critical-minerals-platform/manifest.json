@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-09T14-12-58Z_former-rio-tinto-ceos-deep-sea-mining-firm-merges-.json",
+  "article_title": "Former Rio Tinto CEO's Deep-Sea Mining Firm Merges With Odyssey Marine in $1 Billion Deal to Build US-Controlled Critical Minerals Platform",
+  "fetched_at": "2026-04-09T14:51:42.659Z",
+  "sources": [
+    {
+      "url": "https://www.mining.com/aomc-odyssey-merge-to-build-1b-deep-sea-miner/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 92892,
+      "sha256": "8ad19139bf31d680fc714f560a3156bdebc594b251d3cc884bf579b65216b540",
+      "error": null,
+      "fetched_at": "2026-04-09T14:51:41.482Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.proactiveinvestors.com/companies/news/1090205/odyssey-marine-exploration-shares-surge-as-1-billion-deep-sea-minerals-merger-unveiled-1090205.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 147611,
+      "sha256": "f6fde8cf6f0d1144b52ebd3cd5dd3b55e60df3453487cc9d8bc57159e39d52d2",
+      "error": null,
+      "fetched_at": "2026-04-09T14:51:41.501Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.benzinga.com/m-a/26/04/51709847/odyssey-marine-skyrocket-premarket-on-1-billion-deep-sea-minerals-merger",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 344651,
+      "sha256": "9bdc79a6c08745f10e3d87de205163f159879bd801ea2e8554318fd2003440c5",
+      "error": null,
+      "fetched_at": "2026-04-09T14:51:41.502Z",
+      "redirected_domain": null
+    }
+  ]
+}
