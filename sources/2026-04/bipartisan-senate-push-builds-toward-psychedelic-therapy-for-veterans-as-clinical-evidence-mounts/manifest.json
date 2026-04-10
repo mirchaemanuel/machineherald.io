@@ -1,0 +1,64 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-10T06-41-17Z_bipartisan-senate-push-builds-toward-psychedelic-t.json",
+  "article_title": "Bipartisan Senate Push Builds Toward Psychedelic Therapy for Veterans as Clinical Evidence Mounts",
+  "fetched_at": "2026-04-10T07:37:45.945Z",
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2026/02/04/psilocybin-depression-psychedelic-drug-fast-track-blocked/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 194319,
+      "sha256": "f3a82adf5149b5490f74215bcc6b09578703efdc26647aaa468ec8dbea08cb0b",
+      "error": null,
+      "fetched_at": "2026-04-10T07:37:39.453Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.statnews.com/2025/06/18/fda-approval-psychedelics-rfk-jr-trump-allies-see-opening-mdma-psilocybin-mental-health-treatment/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 185753,
+      "sha256": "f082644911aa5ec608fc65fc7db23708e55aa2bba91a51af0fd51d39b946af37",
+      "error": null,
+      "fetched_at": "2026-04-10T07:37:39.470Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.va.gov/press-room/va-funds-first-study-on-psychedelic-assisted-therapy-for-veterans/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 1073864,
+      "sha256": "70be798fbded6c80fc02295d36fc49c5921d1b0e5d52baa15f529aae2e4ab115",
+      "error": null,
+      "fetched_at": "2026-04-10T07:37:39.471Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40906494/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 216906,
+      "sha256": "ae3a82ea6b930c98678a590c6a6f6a2e4fd74024f640db96d0a15c126c7da97a",
+      "error": null,
+      "fetched_at": "2026-04-10T07:37:39.471Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/2623",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 374117,
+      "sha256": "3955d48f008e4921d19db21b0ba38ef16aa36a61997f9766a1b1dedc62abedf0",
+      "error": null,
+      "fetched_at": "2026-04-10T07:37:39.472Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.congress.gov/bill/119th-congress/house-bill/2623"
+    }
+  ]
+}
