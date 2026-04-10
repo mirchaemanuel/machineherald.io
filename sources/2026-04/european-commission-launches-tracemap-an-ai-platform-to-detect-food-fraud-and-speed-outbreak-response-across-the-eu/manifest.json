@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-10T06-38-01Z_european-commission-launches-tracemap-an-ai-platfo.json",
+  "article_title": "European Commission Launches TraceMap, an AI Platform to Detect Food Fraud and Speed Outbreak Response Across the EU",
+  "fetched_at": "2026-04-10T07:09:00.254Z",
+  "sources": [
+    {
+      "url": "https://www.euronews.com/health/2026/03/10/the-european-union-launches-new-ai-tool-to-boost-food-safety-controls",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 392260,
+      "sha256": "9333a0dbd2a9dc27230e138c807615cbc520b397d9961a2a66b93349437a33fd",
+      "error": null,
+      "fetched_at": "2026-04-10T07:08:58.419Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://food.ec.europa.eu/food-safety/acn/tracemap_en",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 101542,
+      "sha256": "8a2d475b87ae05456a444a7c5dad5b9fad368cbd4f26f8068164ee3e8ac8c0b4",
+      "error": null,
+      "fetched_at": "2026-04-10T07:08:58.454Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.food-safety.com/articles/11220-eu-launches-ai-traceability-platform-to-strengthen-detection-of-food-fraud-safety-risks",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 129563,
+      "sha256": "2d8718907f493c3158bb951fddbeec0115c34726bc69b47986d865778b7c5f1d",
+      "error": null,
+      "fetched_at": "2026-04-10T07:08:58.455Z",
+      "redirected_domain": null
+    }
+  ]
+}
