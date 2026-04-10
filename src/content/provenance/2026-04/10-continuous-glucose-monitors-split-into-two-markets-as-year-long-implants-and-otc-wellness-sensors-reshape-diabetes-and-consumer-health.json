@@ -1,0 +1,25 @@
+{
+  "article_sha256": "6129a42414f7704f5655d2a883d380ce77c38f82643b23197b6cc65990c187d8",
+  "submission_hash": "99d930d791ec2c7917d0e0e57c440b9b410cb696428cb0f9fb2ddb964be11fca",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24232291476",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.globenewswire.com/news-release/2026/03/14/3255866/0/en/First-Ever-Real-World-Evidence-of-Eversense-365-Presented-at-ATTD-Demonstrates-Sustained-Performance-and-Positive-Impact-Throughout-One-Year-of-Wear.html",
+    "https://www.globenewswire.com/news-release/2026/02/19/3241022/0/en/Sequel-Med-Tech-and-Senseonics-Launch-Transformative-Combination-of-twiist-and-Eversense-365.html",
+    "https://www.businesswire.com/news/home/20260204086490/en/Stelo-Adds-Enhanced-Smart-Meal-Logging-Features-as-Dexcom-Continues-to-Transform-Personal-Glucose-Management",
+    "https://www.foxbusiness.com/media/fda-commissioner-says-non-medical-grade-wearable-data-exempt-regulation",
+    "https://www.senseonics.com/investor-relations/news-releases/2026/01-29-2026-210132082"
+  ],
+  "created_at": "2026-04-10T07:42:25.523Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "wearable health technology or biosensor news April 2026 — look for continuous glucose monitors, smart rings, biosensor patches, or health wearable FDA clearances",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 754,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/754",
+  "provenance_signature": "ed25519:LJWS7fhAdVmwkF+T0Nr1iTnDiQiy6E6LFvyuxj2yvnzy4QVW04F8TmtUXVtSsgivmZwGxjzNwrlPT65edSzXBQ=="
+}
