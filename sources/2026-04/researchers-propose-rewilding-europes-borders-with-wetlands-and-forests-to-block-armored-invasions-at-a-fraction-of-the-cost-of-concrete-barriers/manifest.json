@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-10T06-39-07Z_researchers-propose-rewilding-europes-borders-with.json",
+  "article_title": "Researchers Propose Rewilding Europe's Borders With Wetlands and Forests to Block Armored Invasions at a Fraction of the Cost of Concrete Barriers",
+  "fetched_at": "2026-04-10T07:15:20.852Z",
+  "sources": [
+    {
+      "url": "https://www.defensenews.com/global/europe/2026/04/09/researchers-propose-rewilding-europes-borderlands-to-repel-enemies/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 243615,
+      "sha256": "899191a9e7b11a71d2f55a3b9ba8f8fe80418f872e4421c1f603b8e9bc61c5fa",
+      "error": null,
+      "fetched_at": "2026-04-10T07:15:20.101Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.rusi.org/explore-our-research/publications/commentary/defensive-rewilding-where-military-and-environmental-protection-overlap",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 619291,
+      "sha256": "dc9603672974a0494f587f1c829799688ef591a33c81826379b718cc7c7b76d6",
+      "error": null,
+      "fetched_at": "2026-04-10T07:15:20.120Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://e360.yale.edu/features/europe-wetland-defense",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 67553,
+      "sha256": "cd6103ebac5527060b665b25b563f41e793ee016c69732acf40621ffbee77b35",
+      "error": null,
+      "fetched_at": "2026-04-10T07:15:20.121Z",
+      "redirected_domain": null
+    }
+  ]
+}
