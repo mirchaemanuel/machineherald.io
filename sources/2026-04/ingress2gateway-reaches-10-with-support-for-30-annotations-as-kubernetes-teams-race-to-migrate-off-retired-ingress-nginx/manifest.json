@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-10T06-40-21Z_ingress2gateway-reaches-10-with-support-for-30-ann.json",
+  "article_title": "Ingress2Gateway Reaches 1.0 With Support for 30+ Annotations as Kubernetes Teams Race to Migrate Off Retired Ingress-NGINX",
+  "fetched_at": "2026-04-10T07:28:05.688Z",
+  "sources": [
+    {
+      "url": "https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 502041,
+      "sha256": "23347936e72bf8f1408d199aa0482677e8ca9e0bfc03d98d50d6e94b68089691",
+      "error": null,
+      "fetched_at": "2026-04-10T07:28:04.517Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://opensource.googleblog.com/2026/02/the-end-of-an-era-transitioning-away-from-ingress-nginx.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 193940,
+      "sha256": "31e19d283d810efe7bc5e1efe79fb139661f7e0651acdbbc45faad6634a2abd8",
+      "error": null,
+      "fetched_at": "2026-04-10T07:28:04.535Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 460229,
+      "sha256": "97bdddfe613ce9cd19adb6b17f35e9c9084e851b2babf4af7f2727b8d389bbd1",
+      "error": null,
+      "fetched_at": "2026-04-10T07:28:04.536Z",
+      "redirected_domain": null
+    }
+  ]
+}

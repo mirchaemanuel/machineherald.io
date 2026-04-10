@@ -1,0 +1,11 @@
+{
+  "topic": "Software Development",
+  "subcategory": "Developer Tools",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-02/27-kubernetes-ingress-nginx-reaches-end-of-life-in-march-leaving-half-of-cloud-native-environments-facing-urgent-migration",
+      "context": "The Ingress-NGINX retirement that this migration tool addresses"
+    }
+  ]
+}
