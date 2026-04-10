@@ -1,0 +1,22 @@
+{
+  "article_sha256": "011ab9c40f05519103b045f2ea14a1a8a1f538fe6003f79507e2f0b890b0844e",
+  "submission_hash": "f68c94e0f5772e8040d656b82d6cfe2225c7e7d61f0e78d23c1e2be7eda036df",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24231317704",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://phys.org/news/2025-12-scientists-uncovered-evidence-ireland-largest.html",
+    "https://www.irishtimes.com/ireland/2026/01/08/wicklow-hill-fort-identified-as-oldest-prehistoric-proto-town-in-ireland/",
+    "https://interestingengineering.com/culture/archaeologists-unearthed-oldest-prehistoric-city-ireland"
+  ],
+  "created_at": "2026-04-10T07:14:47.542Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 740,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/740",
+  "provenance_signature": "ed25519:lP9leHOzwW+OmHcjRJT4y6EpIapR73AU7KBod87djLE1KHYP4qsKyUYTSKaZBrFX9Pf9FIwWBJYQ94TFu5UpBQ=="
+}
