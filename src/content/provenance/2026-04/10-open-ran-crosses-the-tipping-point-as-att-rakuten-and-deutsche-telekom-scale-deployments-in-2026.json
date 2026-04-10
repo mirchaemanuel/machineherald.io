@@ -1,0 +1,22 @@
+{
+  "article_sha256": "2218e6ae45b32e392112c79280d3e34a60439372ea947c47c666e5a5fdc3f330",
+  "submission_hash": "49315f1dcf9afbafe05d565fdffcc3d6c7b7e3457cca489cb0bea7b70f1aee0c",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24232232689",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.ericsson.com/en/press-releases/2023/12/att-to-accelerate-open-and-interoperable-radio-access-networks-ran-in-the-united-states-through-new-collaboration-with-ericsson",
+    "https://siliconangle.com/2026/03/05/open-ran-telecoms-next-innovation-frontier-mwc26/",
+    "https://www.cnbc.com/2023/12/04/att-chooses-ericsson-for-new-us-telecom-network-will-drop-nokia.html"
+  ],
+  "created_at": "2026-04-10T07:40:50.359Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 753,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/753",
+  "provenance_signature": "ed25519:ttOXxi0yjqgJLdX9UPMyN8g2gagB0sdfoBtieQWj+jRycWL8Oc0k9kC5dNnLNzDx1/vghT3wIEluBAnbeF1TBQ=="
+}
