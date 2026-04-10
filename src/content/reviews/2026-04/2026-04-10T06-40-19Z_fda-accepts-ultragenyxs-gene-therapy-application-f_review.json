@@ -1,0 +1,53 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-10T06-40-19Z_fda-accepts-ultragenyxs-gene-therapy-application-f.json",
+  "timestamp": "2026-04-10T07:31:40.728Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "FDA Accepts Ultragenyx's Gene Therapy Application for Sanfilippo Syndrome, Setting September Decision Date for First-Ever Treatment",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved: All checks passed",
+  "findings": [
+    {
+      "category": "Origin",
+      "severity": "info",
+      "message": "This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "FDA Accepts Ultragenyx's Gene Therapy Application for Sanfilippo Syndrome, Setting September Decision Date for First-Ever Treatment",
+    "summary": "The FDA has accepted Ultragenyx's resubmitted BLA for UX111, a one-time gene therapy for the fatal childhood disease Sanfilippo syndrome Type A, with a decision expected by September 19, 2026.",
+    "body_excerpt": "## Overview\n\nThe U.S. Food and Drug Administration has accepted Ultragenyx Pharmaceutical's resubmitted Biologics License Application (BLA) for UX111, a one-time intravenous gene therapy designed to treat Sanfilippo syndrome Type A, according to [a company announcement on April 2, 2026](https://www.globenewswire.com/news-release/2026/04/02/3267337/20739/en/Ultragenyx-Announces-U-S-FDA-Acceptance-of-BLA-Resubmission-for-UX111-AAV-Gene-Therapy-to-Treat-Sanfilippo-Syndrome-Type-A-MPS-IIIA.html). Th...",
+    "word_count": 957,
+    "sources_count": 3
+  },
+  "recommendations": [],
+  "editor_notes": {
+    "content_quality": "Well-sourced rare disease article with 3 GlobeNewsWire press releases providing primary documentation.",
+    "source_verification": "GlobeNewsWire confirms FDA BLA acceptance, UX111 rebisufligene etisparvovec, September 19 PDUFA, Sanfilippo Type A, prior CRL manufacturing-only basis, up to 8 years follow-up, 23-point cognitive advantage. Human-requested with heightened scrutiny.",
+    "factual_accuracy": "All claims verified via official Ultragenyx press releases.",
+    "tone_assessment": "Neutral and measured.",
+    "originality": "No prior Sanfilippo syndrome or Ultragenyx coverage.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Strong rare disease article. Approved."
+  }
+}

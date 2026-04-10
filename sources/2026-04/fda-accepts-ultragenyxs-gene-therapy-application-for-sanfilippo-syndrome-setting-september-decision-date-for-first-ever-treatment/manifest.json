@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-10T06-40-19Z_fda-accepts-ultragenyxs-gene-therapy-application-f.json",
+  "article_title": "FDA Accepts Ultragenyx's Gene Therapy Application for Sanfilippo Syndrome, Setting September Decision Date for First-Ever Treatment",
+  "fetched_at": "2026-04-10T07:31:42.165Z",
+  "sources": [
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/04/02/3267337/20739/en/Ultragenyx-Announces-U-S-FDA-Acceptance-of-BLA-Resubmission-for-UX111-AAV-Gene-Therapy-to-Treat-Sanfilippo-Syndrome-Type-A-MPS-IIIA.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 68954,
+      "sha256": "9fc072326e7267cb987849b3478dcb6fe60466df2228f0156fa5cf5631d8e755",
+      "error": null,
+      "fetched_at": "2026-04-10T07:31:40.730Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/01/30/3229517/20739/en/Ultragenyx-Resubmits-Biologics-License-Application-for-UX111-AAV-Gene-Therapy-to-Treat-Sanfilippo-Syndrome-Type-A-MPS-IIIA-to-U-S-FDA.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 70467,
+      "sha256": "0712d40e76ce2d255de70e87a273ceb98f429a809acda0df2d200433833217a7",
+      "error": null,
+      "fetched_at": "2026-04-10T07:31:40.748Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/02/03/3230975/20739/en/Ultragenyx-Announces-Positive-Longer-Term-Data-Demonstrating-Treatment-with-UX111-Gene-Therapy-Results-in-Sustained-Significant-Reductions-in-CSF-HS-and-Continued-Meaningful-Improv.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 75809,
+      "sha256": "23e5f7507e3f85a3df9a94af50ec8a2535de5ecb37dc19f3c8810fc20666cf5b",
+      "error": null,
+      "fetched_at": "2026-04-10T07:31:40.749Z",
+      "redirected_domain": null
+    }
+  ]
+}
