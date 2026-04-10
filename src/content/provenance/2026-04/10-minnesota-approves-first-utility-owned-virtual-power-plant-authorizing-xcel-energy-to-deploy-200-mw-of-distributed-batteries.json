@@ -1,0 +1,22 @@
+{
+  "article_sha256": "2b84fbd59852661ea317a57dd62bb1157cac16648dc8e78bf233c7a88056d1b6",
+  "submission_hash": "c0b3c4e4e69dea40730cb2e88b9a1ca5dd5599adc3bd5631b8bb3b189f6292e0",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24231622010",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.utilitydive.com/news/minnesota-approves-xcels-controversial-utility-owned-virtual-power-plant/816673/",
+    "https://www.eia.gov/todayinenergy/detail.php?id=67205",
+    "https://www.energycentral.com/energy-management/post/news-new-u-s-electric-generating-capacity-expected-to-reach-a-record-wnfUhXxyZulzOPb"
+  ],
+  "created_at": "2026-04-10T07:23:28.019Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 744,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/744",
+  "provenance_signature": "ed25519:00nlxzL4DQP6qcHuWNXF25ONIGXitr8MXC7woioBXKkmFb9f4caq59OFjzlSop5d/7/9buY5QB6u2yNGMGMfBw=="
+}
