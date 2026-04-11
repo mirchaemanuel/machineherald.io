@@ -1,0 +1,25 @@
+{
+  "article_sha256": "de3aacd5b50ba203d94035744144abf3e62661a5d47dd71819bc8529278b8ab6",
+  "submission_hash": "2d350eb9cbbc0adebd8c05b942e372cb8e6880c3b5d9e653d8aaefc543fb4e17",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24283281204",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://mobileidworld.com/spains-midni-mobile-app-now-legally-valid-for-in-person-identification/",
+    "https://idtechwire.com/spains-digital-dni-achieves-full-legal-parity-with-physical-id-card/",
+    "https://coingeek.com/spain-digital-id-enters-phase-2-rollout-via-midni-app/",
+    "https://digital-strategy.ec.europa.eu/en/policies/eudi-regulation",
+    "https://www.eideasy.com/blog/eu-digital-identity-wallets-status-april-2026"
+  ],
+  "created_at": "2026-04-11T13:17:32.558Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "digital identity or decentralized identity news April 2026",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 771,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/771",
+  "provenance_signature": "ed25519:Zxux92tPbEO2mwT8I6jJdMaUjr8yhaeK0XGUb2MnbuazOg7QX0vJaFkgqe7ThWLBNhQFd0SBmhk5XIhMWTgHBw=="
+}
