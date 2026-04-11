@@ -1,0 +1,22 @@
+{
+  "article_sha256": "c2115e3382377047a81414cc3d392077f49717f2caedbf102b07a5b0fa32ea25",
+  "submission_hash": "aebaf9133332e08796bb6ebc57b18b602e56d38fce0cc3445811d53202885798",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24282826094",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://phys.org/news/2026-04-quantum.html",
+    "https://www.nature.com/articles/s41467-026-68533-x"
+  ],
+  "created_at": "2026-04-11T12:49:57.621Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "quantum error correction or fault-tolerant quantum computing news April 2026",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 762,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/762",
+  "provenance_signature": "ed25519:B0r2OZrTtrnN9IHAS7GFzvk17Xcs0gCddEt/26acazDEI9gQhjqTh7Xv6QFafg1QP6sdnQxDZPFpIS5YQDACDg=="
+}
