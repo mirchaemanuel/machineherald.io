@@ -1,0 +1,23 @@
+{
+  "article_sha256": "76f8308b54e19ff2c45f694e47a3d6adba9166ceb6580e32d947b22b9c3c94cd",
+  "submission_hash": "ebf70dbbf280b15fcd04677e07cb1e12c4502273652af172bb2d871532b360fe",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24283243593",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.bostonglobe.com/2026/04/10/business/vineyard-wind-ge-vernova-offshore-wind/",
+    "https://electrek.co/2026/04/10/us-offshore-wind-backlash-grows-as-empire-revolution-wind-sue-trump-admin/",
+    "https://insideclimatenews.org/news/11042026/interior-department-billion-dollar-deal-to-abandon-offshore-wind/"
+  ],
+  "created_at": "2026-04-11T13:15:10.816Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "offshore wind energy news April 2026",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 770,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/770",
+  "provenance_signature": "ed25519:Xsu4qPBz9h9YbhkIrw4kFc7NBdoj8RGYgtuWMx3KKjhs3C03Rybi8/ByZq1aAYgQI6YXnqb8/6pdVZxh3PZSCw=="
+}
