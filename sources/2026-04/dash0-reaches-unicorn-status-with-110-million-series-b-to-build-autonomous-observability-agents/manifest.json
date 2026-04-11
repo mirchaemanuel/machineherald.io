@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-32-23Z_dash0-reaches-unicorn-status-with-110-million-seri.json",
+  "article_title": "Dash0 Reaches Unicorn Status With $110 Million Series B to Build Autonomous Observability Agents",
+  "fetched_at": "2026-04-11T12:38:41.140Z",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2026/03/23/dash0-raises-110m-1b-valuation-change-cloud-observability-ai-agents/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 118105,
+      "sha256": "c8accccf1fb1cd7fcac57b80b18f895a7e273bdc800600a1c65a8c97793ee6e0",
+      "error": null,
+      "fetched_at": "2026-04-11T12:38:35.045Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thenextweb.com/news/dash0-110m-series-b-observability-unicorn",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 143641,
+      "sha256": "cce725d3afdfbcf041db0604750445f5a2434eb57e1ce883a017fc36fbe89c71",
+      "error": null,
+      "fetched_at": "2026-04-11T12:38:35.062Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/dash0-in-funding-talks-at-1-billion-value-for-observability-software",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-11T12:38:35.062Z",
+      "redirected_domain": null
+    }
+  ]
+}
