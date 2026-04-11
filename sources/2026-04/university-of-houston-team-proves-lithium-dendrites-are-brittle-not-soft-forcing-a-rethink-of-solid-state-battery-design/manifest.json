@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-32-21Z_university-of-houston-team-proves-lithium-dendrite.json",
+  "article_title": "University of Houston Team Proves Lithium Dendrites Are Brittle, Not Soft, Forcing a Rethink of Solid-State Battery Design",
+  "fetched_at": "2026-04-11T12:34:33.139Z",
+  "sources": [
+    {
+      "url": "https://www.eurekalert.org/news-releases/1123325",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 98070,
+      "sha256": "58453f814e41417e9a849bfcc13f9c2b2379dd88cf6ee265ee5fbd7f774863bd",
+      "error": null,
+      "fetched_at": "2026-04-11T12:34:23.367Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/energy/lithium-dendrites-brittle-solid-state-batteries",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 528320,
+      "sha256": "487acf6ef27fbae991257f5f5e8a544db3ebd521bc33bbabea939a1575a00b41",
+      "error": null,
+      "fetched_at": "2026-04-11T12:34:23.384Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.adu9988",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-11T12:34:23.384Z",
+      "redirected_domain": null
+    }
+  ]
+}

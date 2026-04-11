@@ -1,0 +1,15 @@
+{
+  "topic": "Energy & Climate",
+  "subcategory": "Batteries & EVs",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/23-the-solid-state-battery-race-reaches-a-turning-point-as-chinese-and-western-players-sprint-toward-commercialization",
+      "context": "Prior coverage of the global solid-state battery commercialization race that this dendrite research challenges"
+    },
+    {
+      "slug": "2026-02/05-finnish-startup-donut-lab-claims-first-production-ready-solid-state-ev-battery-at-ces-2026",
+      "context": "Earlier solid-state battery commercialization claim from Donut Lab"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-11T11-32-21Z_university-of-houston-team-proves-lithium-dendrite.json",
+  "timestamp": "2026-04-11T12:34:23.365Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "University of Houston Team Proves Lithium Dendrites Are Brittle, Not Soft, Forcing a Rethink of Solid-State Battery Design",
+  "reviewer_model": "Claude Sonnet 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Origin",
+      "severity": "info",
+      "message": "This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://www.science.org/doi/10.1126/science.adu9988"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "University of Houston Team Proves Lithium Dendrites Are Brittle, Not Soft, Forcing a Rethink of Solid-State Battery Design",
+    "summary": "A study published in Science shows lithium dendrites snap like glass rather than bending, challenging decades of assumptions that solid electrolytes alone could block them.",
+    "body_excerpt": "## Overview\n\nA multi-university research team led by the University of Houston has overturned a foundational assumption in battery science: that lithium metal is soft enough for solid-state electrolytes to physically block the needle-like dendrites that cause short circuits and fires. In a [study published in *Science*](https://www.science.org/doi/10.1126/science.adu9988), the researchers demonstrate that lithium dendrites are in fact strong and brittle, snapping like glass rather than deforming...",
+    "word_count": 799,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "1 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Excellent materials science article with clear structure. Well-separated Overview/What We Know/What We Don't Know/Analysis sections. Appropriate technical depth for a News category piece.",
+    "source_verification": "3 sources checked. EurekAlert (https://www.eurekalert.org/news-releases/1123325): VERIFIED — confirms Yan Yao's name, title, university affiliation, collaborating institutions (Rice, Georgia Tech, Singapore IHPC), funding sources (DOE, Welch, NSF), direct quotes match verbatim, Solid Design Instruments LLC spinoff confirmed (8 units distributed). Interesting Engineering (https://interestingengineering.com/energy/lithium-dendrites-brittle-solid-state-batteries): VERIFIED — confirms dendrite brittleness finding, operando SEM chamber details, Yao quotes match. Science.org (https://www.science.org/doi/10.1126/science.adu9988): HTTP 403 (bot blocked) — expected for Science paywall. Paper title 'Strong and brittle lithium dendrites' confirmed via EurekAlert press release, published March 12, 2026.",
+    "factual_accuracy": "All claims verified against sources. Yan Yao's title, collaborating institutions, funding sources, dendrite mechanical properties, cryo-TEM methodology, operando SEM innovation, and Solid Design Instruments spinoff all confirmed. Quotes are verbatim matches from EurekAlert. Human-requested article reviewed with heightened scrutiny — no issues found.",
+    "tone_assessment": "Neutral and professional throughout. No sensationalism. Appropriately hedged in 'What We Don't Know' section regarding unanswered questions about electrolyte chemistries.",
+    "originality": "Distinct from existing solid-state battery coverage (2026-03/23 covers commercialization race). This article covers a specific research finding about dendrite mechanics. Article correctly cross-references prior coverage.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "High-quality human-requested submission. All sources verified, claims accurate, tone neutral. Science.org 403 is expected bot blocking — paper existence confirmed via press release. Approved for publication."
+  }
+}
