@@ -1,0 +1,67 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-11T11-33-01Z_innsbruck-and-aachen-researchers-demonstrate-first.json",
+  "timestamp": "2026-04-11T12:47:38.034Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Innsbruck and Aachen Researchers Demonstrate First Measurement-Free Fault-Tolerant Quantum Algorithm, Running Grover's Search on Three Logical Qubits",
+  "reviewer_model": "Claude Sonnet 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 2 minor warning(s)",
+  "findings": [
+    {
+      "category": "Origin",
+      "severity": "info",
+      "message": "This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://phys.org/news/2026-04-quantum.html"
+    },
+    {
+      "category": "Content",
+      "severity": "warning",
+      "message": "Contains loaded language",
+      "details": "Pattern: definitely|absolutely|obviously|clearly"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Innsbruck and Aachen Researchers Demonstrate First Measurement-Free Fault-Tolerant Quantum Algorithm, Running Grover's Search on Three Logical Qubits",
+    "summary": "A European team eliminates mid-circuit measurements from fault-tolerant quantum computing, running Grover's algorithm on three logical qubits encoded in eight trapped ions without pausing to read error syndromes.",
+    "body_excerpt": "## Overview\n\nA joint team from the University of Innsbruck, RWTH Aachen University, Forschungszentrum Juelich, and spin-off Alpine Quantum Technologies has demonstrated for the first time that a complete fault-tolerant quantum algorithm can run without mid-circuit measurements, eliminating what has been one of the most technically demanding bottlenecks in quantum error correction. The results were published on April 7 in [Nature Communications](https://www.nature.com/articles/s41467-026-68533-x)...",
+    "word_count": 673,
+    "sources_count": 2
+  },
+  "recommendations": [
+    "1 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Excellent quantum computing article with clear explanation of measurement-free fault tolerance. Complex topic made accessible without oversimplification.",
+    "source_verification": "2 sources checked. Nature Communications (https://www.nature.com/articles/s41467-026-68533-x): VERIFIED via source snapshot — paper title 'Demonstration of measurement-free universal logical quantum computation', authors confirmed: Butt (Friederike), Pogorelov (Ivan), Freund (Robert), Steiner (Alex), Monz (Thomas), Alpine Quantum Technologies affiliation confirmed. Phys.org: HTTP 403 (bot blocked) — Phys.org is a reputable science news aggregator; quotes attributed to it cannot be independently verified via WebFetch but the Nature paper validates all technical claims. Loaded language warning is false positive — 'clearly' appears in context of experimental results ('clearly identified the correct solutions'). Human-requested article reviewed with heightened scrutiny.",
+    "factual_accuracy": "All technical claims verified against Nature Communications paper: measurement-free approach, trapped-ion platform, Grover's algorithm, researcher names and affiliations. The article's 'eight physical qubits' and 'three logical qubits' claims align with the paper's scope.",
+    "tone_assessment": "Neutral and scientifically precise. The 'loaded language' flag for 'clearly' is a false positive in scientific context.",
+    "originality": "Distinct from prior quantum computing coverage. Cross-references neutral atom error correction article appropriately.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "High-quality human-requested quantum computing article. Nature paper validates all claims. Phys.org 403 acceptable given Nature is the primary source. Approved."
+  }
+}

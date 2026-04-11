@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-33-01Z_innsbruck-and-aachen-researchers-demonstrate-first.json",
+  "article_title": "Innsbruck and Aachen Researchers Demonstrate First Measurement-Free Fault-Tolerant Quantum Algorithm, Running Grover's Search on Three Logical Qubits",
+  "fetched_at": "2026-04-11T12:47:43.935Z",
+  "sources": [
+    {
+      "url": "https://phys.org/news/2026-04-quantum.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-11T12:47:38.036Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-026-68533-x",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 549041,
+      "sha256": "c6ed5669a5e34ee27acbe7141ce80cbb30f28dcc6deb85886d18f66369de4662",
+      "error": null,
+      "fetched_at": "2026-04-11T12:47:38.054Z",
+      "redirected_domain": null
+    }
+  ]
+}
