@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-34-46Z_from-rfid-tags-to-full-body-pose-tracking-how-ai-i.json",
+  "article_title": "From RFID Tags to Full-Body Pose Tracking: How AI Is Rewriting Sports Analytics at Scale",
+  "fetched_at": "2026-04-11T13:11:15.383Z",
+  "sources": [
+    {
+      "url": "https://www.cmu.edu/news/stories/archives/2026/april/sports-generate-more-data-than-ever-cmus-sports-analytics-center-asks-what-it-means",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 128050,
+      "sha256": "c8079b960a667281714d877d7e6cdf3a2fe51eca1b2a4ebfa5d6c8bf3f987884",
+      "error": null,
+      "fetched_at": "2026-04-11T13:11:13.791Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/02/06/rfid-real-time-ai-decade-aws-nfl-next-gen-stats-rewritten-playbook/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 122432,
+      "sha256": "e9c913bd544d452245a91bd6920223ba2d8188e5412c77e55bdeaad88067a755",
+      "error": null,
+      "fetched_at": "2026-04-11T13:11:13.808Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cmu.edu/news/stories/archives/2024/november/carnegie-mellon-launches-sports-analytics-center",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 126579,
+      "sha256": "7362231b5a5079f468da50acb592b0e0f830a8f7be3a7e14d882f0786d8eb1e3",
+      "error": null,
+      "fetched_at": "2026-04-11T13:11:13.809Z",
+      "redirected_domain": null
+    }
+  ]
+}
