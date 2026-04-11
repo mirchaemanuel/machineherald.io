@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-33-05Z_apple-vision-pro-gains-nvidia-cloudxr-streaming-an.json",
+  "article_title": "Apple Vision Pro Gains NVIDIA CloudXR Streaming and Steam Link Beta as visionOS 26.4 Targets Gaming and Enterprise",
+  "fetched_at": "2026-04-11T12:51:31.737Z",
+  "sources": [
+    {
+      "url": "https://blogs.nvidia.com/blog/nvidia-cloudxr-apple-vision-pro/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 119100,
+      "sha256": "93537777bf626f1e8f64805db8e710f9f23ca12272f3360e26e25a21aa315390",
+      "error": null,
+      "fetched_at": "2026-04-11T12:51:30.605Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5mac.com/2026/04/07/vision-pro-is-about-to-get-steam-link-app-for-gaming-download-beta-here/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 160454,
+      "sha256": "926349e5185c12312f3b1d7e7b633ed571ecb1d636bc2916861e6137273b6b3c",
+      "error": null,
+      "fetched_at": "2026-04-11T12:51:30.622Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5mac.com/2026/03/17/nvidia-details-cloudxr-for-visionos-26-4-enabling-immersive-for-autodesk-vred-app/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 158624,
+      "sha256": "8c8d68430f7829c0a562218c7d5a46e0d13b0e050ed0df884fedbe64d8a97e38",
+      "error": null,
+      "fetched_at": "2026-04-11T12:51:30.623Z",
+      "redirected_domain": null
+    }
+  ]
+}
