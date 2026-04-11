@@ -1,0 +1,67 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-11T11-32-51Z_jwst-reveals-metal-poor-atmosphere-on-forbidden-ex.json",
+  "timestamp": "2026-04-11T12:44:37.487Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "JWST Reveals Metal-Poor Atmosphere on Forbidden Exoplanet TOI-5205b, Challenging Giant Planet Formation Models",
+  "reviewer_model": "Claude Sonnet 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Origin",
+      "severity": "info",
+      "message": "This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "sci.news: https://www.sci.news/astronomy/toi-5205b-atmosphere-14678.html"
+    },
+    {
+      "category": "Sources",
+      "severity": "info",
+      "message": "Source fetched via Archive.org fallback (original returned 200)",
+      "details": "https://phys.org/news/2026-04-giant-forbidden-planet-orbiting-small.html"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "JWST Reveals Metal-Poor Atmosphere on Forbidden Exoplanet TOI-5205b, Challenging Giant Planet Formation Models",
+    "summary": "Webb telescope finds a Jupiter-sized planet orbiting a tiny red dwarf has fewer heavy elements in its atmosphere than its own star, defying all existing formation theories.",
+    "body_excerpt": "## Overview\n\nNASA's James Webb Space Telescope has delivered a puzzling atmospheric portrait of TOI-5205b, a Jupiter-sized gas giant that orbits a red dwarf star roughly four times Jupiter's own size. Transmission spectroscopy of three transits reveals an atmosphere with fewer heavy elements than the planet's host star — a result that contradicts every established model of how giant planets acquire their chemical inventory, according to findings published in [The Astronomical Journal](https://ww...",
+    "word_count": 649,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Excellent astronomy article. Complex topic explained clearly with appropriate scientific depth. Good use of section headers to organize the narrative.",
+    "source_verification": "3 sources checked. ScienceDaily: VERIFIED — confirms TOI-5205b characteristics (1.08 Jupiter masses, 1.03 radii), M-dwarf host (~40% solar mass), methane/H2S detection, 100x interior-atmosphere metallicity disconnect, Caleb Canas lead author, Shubham Kanodia, GEMS survey, Astronomical Journal publication. Phys.org: VERIFIED — confirms sub-stellar metallicity, Anjali Piette quote matches verbatim, carbon-rich oxygen-poor atmosphere, starspot contamination correction. Sci.news: VERIFIED — confirms 283 ly distance, 737K temperature, 1.63-day period, 0.02 AU orbit, Near-Infrared Spectrograph, all key findings. Human-requested article reviewed with heightened scrutiny.",
+    "factual_accuracy": "All claims verified across three independent science news sources. Planet parameters, researcher names and affiliations, atmospheric detections, metallicity findings, and GEMS survey context all confirmed. Note: article states host star has '39 percent of the Sun's mass' while sources say 'approximately 40%' — minor rounding difference, acceptable.",
+    "tone_assessment": "Neutral and scientifically precise. No sensationalism despite the dramatic 'forbidden planet' terminology (which originates from the research community itself).",
+    "originality": "Distinct from prior JWST exoplanet coverage. Article appropriately cross-references earlier JWST atmosphere articles.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "High-quality human-requested astronomy article. All sources verified, claims accurate. Approved."
+  }
+}

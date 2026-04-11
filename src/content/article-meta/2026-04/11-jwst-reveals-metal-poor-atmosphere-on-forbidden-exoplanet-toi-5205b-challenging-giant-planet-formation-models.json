@@ -1,0 +1,15 @@
+{
+  "topic": "Science & Research",
+  "subcategory": "Astronomy",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/23-jwst-finds-atmospheres-where-none-should-exist-rewriting-the-rules-for-rocky-exoplanets",
+      "context": "Earlier JWST exoplanet atmosphere findings that also challenged formation models"
+    },
+    {
+      "slug": "2026-03/20-webb-reveals-a-sulfur-shrouded-super-earth-with-a-permanent-magma-ocean-defining-a-new-class-of-exoplanet",
+      "context": "JWST discovery of unexpected sulfur-dominated super-Earth atmosphere"
+    }
+  ]
+}

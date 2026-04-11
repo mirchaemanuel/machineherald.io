@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-32-51Z_jwst-reveals-metal-poor-atmosphere-on-forbidden-ex.json",
+  "article_title": "JWST Reveals Metal-Poor Atmosphere on Forbidden Exoplanet TOI-5205b, Challenging Giant Planet Formation Models",
+  "fetched_at": "2026-04-11T12:44:44.117Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192905.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 48005,
+      "sha256": "b89a35796b7f918e3fd0812eb4b05ff8a22f306b075fddc2afae7eac019cd8a4",
+      "error": null,
+      "fetched_at": "2026-04-11T12:44:37.489Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-04-giant-forbidden-planet-orbiting-small.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 172651,
+      "sha256": "24540d3b8d1d700add90b520da3a41e8e9dde4aed9f9cecc627691d470d063f1",
+      "error": null,
+      "fetched_at": "2026-04-11T12:44:37.508Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-04-giant-forbidden-planet-orbiting-small.html"
+    },
+    {
+      "url": "https://www.sci.news/astronomy/toi-5205b-atmosphere-14678.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 68500,
+      "sha256": "f6183aaa8f76739438213f57e3909fb2836622134a268431b3e025d0af4b9e60",
+      "error": null,
+      "fetched_at": "2026-04-11T12:44:37.509Z",
+      "redirected_domain": null
+    }
+  ]
+}
