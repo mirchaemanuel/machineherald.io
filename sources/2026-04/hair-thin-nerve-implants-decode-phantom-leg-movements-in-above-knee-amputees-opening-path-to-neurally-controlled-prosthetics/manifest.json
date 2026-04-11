@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-34-29Z_hair-thin-nerve-implants-decode-phantom-leg-moveme.json",
+  "article_title": "Hair-Thin Nerve Implants Decode Phantom Leg Movements in Above-Knee Amputees, Opening Path to Neurally Controlled Prosthetics",
+  "fetched_at": "2026-04-11T13:04:16.393Z",
+  "sources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12996621/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 276054,
+      "sha256": "6fa7c508466cf6f5319f7c147fa69a92bb6927fae48e475bf26556f8b1c6d86c",
+      "error": null,
+      "fetched_at": "2026-04-11T13:04:12.255Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-026-69297-0",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 495469,
+      "sha256": "04a41a06c87ab42c755ffeb17adcb48f50140d9aa6f96d6856a8427465cf3ff9",
+      "error": null,
+      "fetched_at": "2026-04-11T13:04:12.272Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1119860",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 102032,
+      "sha256": "e2f8d3e3d6f6e0b8a4c623291192b73f6717d183435887e2bdc14220a7d2eb49",
+      "error": null,
+      "fetched_at": "2026-04-11T13:04:12.273Z",
+      "redirected_domain": null
+    }
+  ]
+}
