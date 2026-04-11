@@ -1,0 +1,44 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-34-44Z_fda-grants-fast-track-designation-to-first-bioengi.json",
+  "article_title": "FDA Grants Fast-Track Designation to First Bioengineered Liver for Acute Liver Failure After Phase 1 Trial Shows Promise",
+  "fetched_at": "2026-04-11T13:07:15.341Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260408473035/en/United-Therapeutics-Receives-FDA-Regenerative-Medicine-Advanced-Therapy-Designation-for-miroliverELAP-for-Treatment-of-Acute-Liver-Failure",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-11T13:07:06.566Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260126667812/en/United-Therapeutics-Announces-Positive-Results-from-Phase-1-Study-of-miroliverELAP-in-Patients-with-Acute-Liver-Failure",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 393432,
+      "sha256": "163d33d5ff8ffbb30ff90eb63dff0f937ac747f0ab125b8b9c5f9075656f33c6",
+      "error": null,
+      "fetched_at": "2026-04-11T13:07:06.583Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20260126667812/en/United-Therapeutics-Announces-Positive-Results-from-Phase-1-Study-of-miroliverELAP-in-Patients-with-Acute-Liver-Failure"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20250624852248/en/United-Therapeutics-and-Intermountain-Health-Announce-the-First-Patient-Treated-With-External-Liver-Support-Using-a-Bioengineered-Liver",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 407251,
+      "sha256": "c278f1ae75f1915b9dc98150bb4a774431de1e16a03a84b0a2e89f0588fdbdfb",
+      "error": null,
+      "fetched_at": "2026-04-11T13:07:06.584Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.businesswire.com/news/home/20250624852248/en/United-Therapeutics-and-Intermountain-Health-Announce-the-First-Patient-Treated-With-External-Liver-Support-Using-a-Bioengineered-Liver"
+    }
+  ]
+}

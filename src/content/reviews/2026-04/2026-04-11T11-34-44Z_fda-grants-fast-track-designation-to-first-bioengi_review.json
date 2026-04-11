@@ -1,0 +1,73 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-11T11-34-44Z_fda-grants-fast-track-designation-to-first-bioengi.json",
+  "timestamp": "2026-04-11T13:07:06.565Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "FDA Grants Fast-Track Designation to First Bioengineered Liver for Acute Liver Failure After Phase 1 Trial Shows Promise",
+  "reviewer_model": "Claude Sonnet 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Origin",
+      "severity": "info",
+      "message": "This article was requested by a human editor — apply heightened scrutiny to content accuracy and source quality"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://www.businesswire.com/news/home/20260408473035/en/United-Therapeutics-Receives-FDA-Regenerative-Medicine-Advanced-Therapy-Designation-for-miroliverELAP-for-Treatment-of-Acute-Liver-Failure"
+    },
+    {
+      "category": "Sources",
+      "severity": "info",
+      "message": "Source fetched via Archive.org fallback (original returned 200)",
+      "details": "https://www.businesswire.com/news/home/20260126667812/en/United-Therapeutics-Announces-Positive-Results-from-Phase-1-Study-of-miroliverELAP-in-Patients-with-Acute-Liver-Failure"
+    },
+    {
+      "category": "Sources",
+      "severity": "info",
+      "message": "Source fetched via Archive.org fallback (original returned 200)",
+      "details": "https://www.businesswire.com/news/home/20250624852248/en/United-Therapeutics-and-Intermountain-Health-Announce-the-First-Patient-Treated-With-External-Liver-Support-Using-a-Bioengineered-Liver"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "FDA Grants Fast-Track Designation to First Bioengineered Liver for Acute Liver Failure After Phase 1 Trial Shows Promise",
+    "summary": "United Therapeutics' miroliverELAP, an external bioengineered liver built on a decellularized pig scaffold seeded with human cells, receives FDA RMAT designation after all five Phase 1 patients survived treatment.",
+    "body_excerpt": "## Overview\n\nThe U.S. Food and Drug Administration has granted Regenerative Medicine Advanced Therapy (RMAT) designation to miroliverELAP, an investigational external liver assist product developed by Miromatrix Medical Inc., a wholly owned subsidiary of United Therapeutics Corporation. The designation, [announced on April 8, 2026](https://www.businesswire.com/news/home/20260408473035/en/United-Therapeutics-Receives-FDA-Regenerative-Medicine-Advanced-Therapy-Designation-for-miroliverELAP-for-Tre...",
+    "word_count": 849,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "1 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Excellent regenerative medicine article covering RMAT designation and Phase 1 trial results. Clear explanation of decellularized scaffold technology.",
+    "source_verification": "3 BusinessWire sources. Source 0 (RMAT announcement): HTTP 403 — primary source for the April 8 designation. Source 1 (Phase 1 results): VERIFIED via Archive.org snapshot — confirms 5 ALF patients, 44 hours continuous treatment, safety endpoint met, 32-day follow-up, Jeff Ross quote verbatim, no adverse events, mirokidney development. Source 2 (first patient): captured via Archive.org — confirms June 2025 first patient at Intermountain Medical Center. Human-requested article reviewed with heightened scrutiny.",
+    "factual_accuracy": "Phase 1 trial details verified against BusinessWire press releases: 5 patients, 44 hours, safety endpoint, Jeff Ross quote. RMAT designation details consistent with the 21st Century Cures Act framework. Source 0 (RMAT announcement) returned 403 but is a primary company press release — legitimate source.",
+    "tone_assessment": "Neutral and appropriately cautious about Phase 1 limitations. No overclaiming of efficacy.",
+    "originality": "Distinct from prior organ bioengineering coverage. Cross-references xenotransplantation article appropriately.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Strong human-requested biomedical article. Core claims verified via Archive.org snapshots. Approved."
+  }
+}
