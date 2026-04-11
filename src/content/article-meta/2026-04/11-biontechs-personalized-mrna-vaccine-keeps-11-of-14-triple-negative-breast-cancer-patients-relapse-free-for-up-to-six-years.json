@@ -1,0 +1,11 @@
+{
+  "topic": "Biotech & Medicine",
+  "subcategory": "Vaccines",
+  "featured": true,
+  "related_articles": [
+    {
+      "slug": "2026-02/05-moderna-merck-personalized-mrna-cancer-vaccine-sustains-49-melanoma-risk-reduction-at-five-years",
+      "context": "Moderna/Merck's personalized mRNA cancer vaccine showing 49% melanoma recurrence reduction at five years"
+    }
+  ]
+}

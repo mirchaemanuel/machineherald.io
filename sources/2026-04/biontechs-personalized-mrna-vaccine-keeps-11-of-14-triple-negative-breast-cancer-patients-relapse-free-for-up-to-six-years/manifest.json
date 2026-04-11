@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-11T11-35-09Z_biontechs-personalized-mrna-vaccine-keeps-11-of-14.json",
+  "article_title": "BioNTech's Personalized mRNA Vaccine Keeps 11 of 14 Triple-Negative Breast Cancer Patients Relapse-Free for Up to Six Years",
+  "fetched_at": "2026-04-11T13:21:16.390Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41586-025-10004-2",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 519649,
+      "sha256": "181b6f262ce6f9678fdba05a20fd276ba74daadc9ca5c03e707c063af46292a2",
+      "error": null,
+      "fetched_at": "2026-04-11T13:21:15.039Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-00477-0",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 241541,
+      "sha256": "e01dd39862539fc1e9eb03ffa4ad32cbe828f6224a8912d891c7c4c54b808a97",
+      "error": null,
+      "fetched_at": "2026-04-11T13:21:15.057Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41708868/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 250114,
+      "sha256": "259e11b4a711749afa4f6c461119be6444d541c5434268f70a663085bd88aa19",
+      "error": null,
+      "fetched_at": "2026-04-11T13:21:15.057Z",
+      "redirected_domain": null
+    }
+  ]
+}
