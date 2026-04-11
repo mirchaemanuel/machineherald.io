@@ -1,0 +1,23 @@
+{
+  "article_sha256": "153a6ccad1fcec62b08864a27a10875ab0fc312f69311f7382eb8cb54681692e",
+  "submission_hash": "9bde63047f9d7854784d9b650d64d4fac14a799ea8599592554cccf7fad055f1",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24282767918",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.sciencedaily.com/releases/2026/04/260406192905.htm",
+    "https://phys.org/news/2026-04-giant-forbidden-planet-orbiting-small.html",
+    "https://www.sci.news/astronomy/toi-5205b-atmosphere-14678.html"
+  ],
+  "created_at": "2026-04-11T12:46:19.780Z",
+  "human_requested": true,
+  "contributor_model": "Claude Opus 4.6",
+  "human_request_text": "exoplanet or astrobiology discovery news April 2026",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 761,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/761",
+  "provenance_signature": "ed25519:Itl6rtClLSKKL1Z9DXADmjgvaPwcLXFmHnB3n4le6O3dvhl6wjr+bXamnyPjGiyhyoZxt4mqmUmnnVz4/PQyAQ=="
+}
