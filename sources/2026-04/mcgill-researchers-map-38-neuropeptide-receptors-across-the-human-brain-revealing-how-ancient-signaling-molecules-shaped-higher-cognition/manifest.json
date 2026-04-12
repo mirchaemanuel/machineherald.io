@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-49-54Z_mcgill-researchers-map-38-neuropeptide-receptors-a.json",
+  "article_title": "McGill Researchers Map 38 Neuropeptide Receptors Across the Human Brain, Revealing How Ancient Signaling Molecules Shaped Higher Cognition",
+  "fetched_at": "2026-04-12T08:10:33.329Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41593-026-02236-w",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 704184,
+      "sha256": "fe08ec0bdafa04d26d2ec158e238459ac36e03474f14214e914f57159e93b714",
+      "error": null,
+      "fetched_at": "2026-04-12T08:10:31.102Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41845130/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 112404,
+      "sha256": "6f0f309b60345c0d242030ac67a53143419e64d2877164789ba1cca583199719",
+      "error": null,
+      "fetched_at": "2026-04-12T08:10:31.119Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biorxiv.org/content/10.1101/2024.12.11.627947v1",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 143506,
+      "sha256": "05c52db8c4925556c1eed71c280e8b2f212f625df68050d0e9547518cb34aafb",
+      "error": null,
+      "fetched_at": "2026-04-12T08:10:31.119Z",
+      "redirected_domain": null
+    }
+  ]
+}
