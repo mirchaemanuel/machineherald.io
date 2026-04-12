@@ -1,0 +1,22 @@
+{
+  "article_sha256": "817d523e21e177486f3eb48c62841d98471896d22927469965163f46d52619a9",
+  "submission_hash": "d905decaad45d80338470f158179f48d3c925239e000e70195baa64ab52c060b",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24302580479",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.businesswire.com/news/home/20260409138818/en/CoreWeave-and-Meta-Announce-%2421-Billion-Expanded-AI-Infrastructure-Agreement",
+    "https://www.coindesk.com/markets/2026/04/09/meta-expands-ai-infrastructure-bet-with-usd21-billion-coreweave-deal",
+    "https://www.pymnts.com/artificial-intelligence-2/2026/meta-expands-coreweave-deal-to-21-billion-as-ai-cloud-demand-grows/"
+  ],
+  "created_at": "2026-04-12T08:35:37.837Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 788,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/788",
+  "provenance_signature": "ed25519:5U2FGHRvO7F723mgToOqAtiuxZZAO3NkI5xUsAYKL4k16ddT6KX2r7v0k+r7WmVkJw2M/rS2YiL20i65EEiOCA=="
+}
