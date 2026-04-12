@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-51-18Z_intel-foundry-demonstrates-worlds-thinnest-gan-chi.json",
+  "article_title": "Intel Foundry Demonstrates World's Thinnest GaN Chiplet at 19 Micrometers, Merging Power and Logic on a Single Die",
+  "fetched_at": "2026-04-12T08:38:02.343Z",
+  "sources": [
+    {
+      "url": "https://hothardware.com/news/intel-touts-breakthrough-with-worlds-thinnest-ai-gan-chiplet",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 291678,
+      "sha256": "eb801714e3e5bd09d996c7f220021398e8b7042fd89a31682b4ce028d84cee6d",
+      "error": null,
+      "fetched_at": "2026-04-12T08:38:01.805Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://community.intel.com/t5/Blogs/Intel-Foundry/Systems-Foundry-for-the-AI-Era/Intel-Foundry-Achieves-Breakthrough-with-World-s-Thinnest-GaN/post/1743389",
+      "file": "source-1.html",
+      "status_code": 202,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 2038,
+      "sha256": "0ce72045a6d96587f1c667fc9d9dd9eec358fb1417a97329e4c950c9da3b07cd",
+      "error": null,
+      "fetched_at": "2026-04-12T08:38:01.821Z",
+      "redirected_domain": null
+    }
+  ]
+}
