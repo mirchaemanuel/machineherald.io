@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-48-38Z_penn-state-team-reveals-iron-telluride-is-a-superc.json",
+  "article_title": "Penn State Team Reveals Iron Telluride Is a Superconductor After Decades of Misidentification as an Ordinary Magnetic Metal",
+  "fetched_at": "2026-04-12T07:57:14.582Z",
+  "sources": [
+    {
+      "url": "https://www.psu.edu/news/eberly-college-science/story/superconductivity-switched-material-once-thought-only-magnetic",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 142337,
+      "sha256": "48e37ad8d86ecf965c86edffd3aaf404c75fb03a3003735d796e4892b0deff90",
+      "error": null,
+      "fetched_at": "2026-04-12T07:57:07.482Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-04-superconductivity-material-thought-magnetic.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 179991,
+      "sha256": "a45eb3901636d2aea0e9ae194c85953c4552ee0c4ae07e4bade404827cf33ad0",
+      "error": null,
+      "fetched_at": "2026-04-12T07:57:07.498Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-04-superconductivity-material-thought-magnetic.html"
+    },
+    {
+      "url": "https://physicsworld.com/a/stoichiometric-iron-telluride-is-a-superconductor-magnetic-mystery-is-solved/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109511,
+      "sha256": "a0b44a10693a718737027eeccecba088506c8d24692c2cbb067e3ae0f51b8f51",
+      "error": null,
+      "fetched_at": "2026-04-12T07:57:07.499Z",
+      "redirected_domain": null
+    }
+  ]
+}
