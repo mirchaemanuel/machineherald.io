@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-49-09Z_zai-open-sources-glm-51-a-744-billion-parameter-mo.json",
+  "article_title": "Z.ai Open-Sources GLM-5.1, a 744-Billion-Parameter Model That Tops SWE-Bench Pro Ahead of GPT-5.4 and Claude Opus 4.6",
+  "fetched_at": "2026-04-12T07:59:58.103Z",
+  "sources": [
+    {
+      "url": "https://the-decoder.com/zhipu-ais-glm-5-1-can-rethink-its-own-coding-strategy-across-hundreds-of-iterations/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 125795,
+      "sha256": "933daefdcb0a1621ddc14a2da2c18f02470f0bfe318697314eccecad6169c48c",
+      "error": null,
+      "fetched_at": "2026-04-12T07:59:57.295Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://the-decoder.com/chinese-ai-lab-zhipu-releases-glm-5-under-mit-license-claims-parity-with-top-western-models/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 126722,
+      "sha256": "f1da9922cd01414e606d28c8a9e3a62d08c474b70078ddc0d145c33df525b193",
+      "error": null,
+      "fetched_at": "2026-04-12T07:59:57.311Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4-6-and-gpt-5-4-on-swe-bench-pro",
+      "file": null,
+      "status_code": 404,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Not Found",
+      "fetched_at": "2026-04-12T07:59:57.311Z",
+      "redirected_domain": null
+    }
+  ]
+}
