@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-49-29Z_volkswagen-and-uber-begin-testing-autonomous-id-bu.json",
+  "article_title": "Volkswagen and Uber Begin Testing Autonomous ID. Buzz Fleet in Los Angeles, Targeting Commercial Robotaxi Service by Year-End",
+  "fetched_at": "2026-04-12T08:05:26.131Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 228054,
+      "sha256": "9bf14d4b6bf4b6db05d71e6375852bd4ea879c8fff3a8d34b62c1cd290cec72b",
+      "error": null,
+      "fetched_at": "2026-04-12T08:05:25.217Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.engadget.com/transportation/evs/uber-begins-testing-its-volkswagen-id-buzz-robotaxi-fleet-in-la-120000762.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 414766,
+      "sha256": "463d32cf5c4769a77aaefb5b6d889471edf312b643bdb71c637309c7efd51a0b",
+      "error": null,
+      "fetched_at": "2026-04-12T08:05:25.236Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thenextweb.com/news/volkswagen-moia-uber-los-angeles-id-buzz-robotaxi",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 135433,
+      "sha256": "81ee5f1dd9dbaa5001333c43f2ae65fb81fdd050f109fee5b98f8aa4dc06ca39",
+      "error": null,
+      "fetched_at": "2026-04-12T08:05:25.236Z",
+      "redirected_domain": null
+    }
+  ]
+}
