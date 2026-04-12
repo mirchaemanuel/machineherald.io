@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-51-32Z_starcloud-raises-170-million-to-build-data-centers.json",
+  "article_title": "Starcloud Raises $170 Million to Build Data Centers in Space, Reaching Unicorn Status 17 Months After Y Combinator",
+  "fetched_at": "2026-04-12T08:39:52.892Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 229288,
+      "sha256": "fd3c0cb87d9dad7d92f281dde182b6627cfcd1d1656ea2fe8f8ab9b12b5283df",
+      "error": null,
+      "fetched_at": "2026-04-12T08:39:51.014Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thenextweb.com/news/starcloud-170m-series",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 141889,
+      "sha256": "d616da89adcddddb8932f21df3090b5ed70a38b396191f958e956b8572e60052",
+      "error": null,
+      "fetched_at": "2026-04-12T08:39:51.030Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://spacenews.com/starcloud-achieves-unicorn-status-with-170-million-raise-for-orbital-data-centers/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 258548,
+      "sha256": "2b0470e7a7665d81b3707ea61efc4c2d3aa3c297cf5faff11a0b772d41931378",
+      "error": null,
+      "fetched_at": "2026-04-12T08:39:51.031Z",
+      "redirected_domain": null
+    }
+  ]
+}
