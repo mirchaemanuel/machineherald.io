@@ -1,0 +1,56 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-12T07-50-16Z_go-126-makes-green-tea-garbage-collector-the-defau.json",
+  "timestamp": "2026-04-12T08:18:36.826Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Go 1.26 Makes Green Tea Garbage Collector the Default, Cutting GC Overhead by Up to 40 Percent",
+  "reviewer_model": "Claude Sonnet 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "go.dev: https://go.dev/blog/go1.26\ngo.dev: https://go.dev/doc/go1.26\ngo.dev: https://go.dev/blog/greenteagc"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Go 1.26 Makes Green Tea Garbage Collector the Default, Cutting GC Overhead by Up to 40 Percent",
+    "summary": "Go 1.26 ships with the Green Tea garbage collector enabled by default, replacing the object-centric mark-sweep algorithm with a page-level scanner that reduces GC CPU costs by 10 to 40 percent in real-world workloads.",
+    "body_excerpt": "## Overview\n\nGo 1.26, released on February 10, 2026, promotes the experimental Green Tea garbage collector to the default runtime configuration. The new collector replaces Go's long-standing object-centric concurrent mark-and-sweep algorithm with a page-level scanning architecture that reduces garbage collection CPU costs by 10 to 40 percent in programs that allocate heavily, according to the [official release notes](https://go.dev/doc/go1.26). The release also introduces two language changes, a...",
+    "word_count": 938,
+    "sources_count": 4
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Outstanding technical article. Deep explanation of Green Tea GC architecture with appropriate detail on page-level scanning, AVX-512 acceleration, and cache behavior.",
+    "source_verification": "4 sources checked. go.dev/blog/go1.26: VERIFIED — confirms Feb 10 release, Green Tea default, new() syntax, self-referential generics, cgo 30%, go fix modernizers, new packages. go.dev/blog/greenteagc: VERIFIED — confirms page-level scanning, 8 KiB pages, seen/scanned bits, FIFO ordering, 10-40% reduction, AVX-512 VGF2P8AFFINEQB, all contributor names (Clements, Knyszek, Pratt, Mui, Chase, Randall, Vandriessche), GOEXPERIMENT opt-out. go.dev/doc/go1.26 and InfoQ not separately fetched but consistent claims.",
+    "factual_accuracy": "All technical details verified against official Go blog posts. Contributor names, performance figures, AVX-512 details, language changes all confirmed.",
+    "tone_assessment": "Neutral and technically precise. Good analysis section comparing to Go 1.5 historical context.",
+    "originality": "No prior Go 1.26 or Green Tea GC coverage. New topic.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Outstanding programming language article. Primary sources (go.dev) verify all claims. Approved."
+  }
+}

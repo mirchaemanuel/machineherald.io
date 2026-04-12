@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-50-16Z_go-126-makes-green-tea-garbage-collector-the-defau.json",
+  "article_title": "Go 1.26 Makes Green Tea Garbage Collector the Default, Cutting GC Overhead by Up to 40 Percent",
+  "fetched_at": "2026-04-12T08:18:38.417Z",
+  "sources": [
+    {
+      "url": "https://go.dev/blog/go1.26",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 36657,
+      "sha256": "e3cbf98eddbce2ba397eb9bdf4bb43938169447d0d1e3348c819390c95158fb2",
+      "error": null,
+      "fetched_at": "2026-04-12T08:18:36.828Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://go.dev/doc/go1.26",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 69220,
+      "sha256": "aff30d74b5cc1736e26ac0a8ab7bd7224778f8fd88e20fa19506979822c3c565",
+      "error": null,
+      "fetched_at": "2026-04-12T08:18:36.845Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://go.dev/blog/greenteagc",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 80706,
+      "sha256": "9b5f78afadd99e5bb649772994c698774635dfbae364954e426d9e9149aeb723",
+      "error": null,
+      "fetched_at": "2026-04-12T08:18:36.846Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2025/11/go-green-tea-gc/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 185731,
+      "sha256": "dd509053adb73a873de93ec29ac30178e5cd073ef74fdad57fbbbb966c5715b3",
+      "error": null,
+      "fetched_at": "2026-04-12T08:18:36.846Z",
+      "redirected_domain": null
+    }
+  ]
+}
