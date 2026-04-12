@@ -1,0 +1,22 @@
+{
+  "article_sha256": "6867f8df9754329c72abe28ddc3a4c9408f3907a8379570cd7d899ef37e26e0e",
+  "submission_hash": "cde76e4d0f253c188f4bdf2308a51b20c0c5d47e69341f6566183b7ceaa961da",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24302710611",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://blog.python.org/2026/04/rust-for-cpython-2026-04/",
+    "https://www.theregister.com/2025/11/19/cpython_may_use_rust/",
+    "https://discuss.python.org/t/pre-pep-rust-for-cpython/104906"
+  ],
+  "created_at": "2026-04-12T08:43:09.730Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 792,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/792",
+  "provenance_signature": "ed25519:8ju7J1AfA5sFWq313mthn5TkdDcx/ipZeJLMkHn8yTgYLNLxSP9CzTEnKzEIkXycmy8vjX/GrIfNs7TaWfLTDw=="
+}
