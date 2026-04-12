@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-50-15Z_shine-technologies-secures-263-million-doe-loan-to.json",
+  "article_title": "SHINE Technologies Secures $263 Million DOE Loan to Complete World's Largest Fusion-Powered Medical Isotope Facility",
+  "fetched_at": "2026-04-12T08:21:36.332Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/shine-receives-conditional-commitment-for-263-million-doe-loan-to-scale-domestic-medical-isotope-manufacturing-using-fusion-technology-302737635.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 234084,
+      "sha256": "f310351fce4fda75ce5daab7f11a88303189da2e0c624561014d46184f6e19e8",
+      "error": null,
+      "fetched_at": "2026-04-12T08:21:35.543Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.energy.gov/nnsa/articles/nnsa-transitions-american-made-molybdenum-99-effort-doe-office-energy-dominance",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109481,
+      "sha256": "332457ec826c5043a61967f13a5a71efff77e7aaa236458aa2250c8703e56fb9",
+      "error": null,
+      "fetched_at": "2026-04-12T08:21:35.560Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eenews.net/articles/doe-announces-263m-loan-for-fusion-powered-medical-isotope-manufacturing/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 83683,
+      "sha256": "be8558cc118b66dec2716a2ebd373b17a3e733cf1f20ab368b8e0b6a0924fd55",
+      "error": null,
+      "fetched_at": "2026-04-12T08:21:35.561Z",
+      "redirected_domain": null
+    }
+  ]
+}
