@@ -1,0 +1,23 @@
+{
+  "article_sha256": "50835bf2fb600d43e589aff126ac3dfd3185bbe0ca26bb401587b12168590ffc",
+  "submission_hash": "d49e0f807885ff35fb987e7d365c3e304077ea4b80a816436838aad6b991665c",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24302268410",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.engadget.com/gaming/xbox/hades-2-is-coming-to-xbox-series-xs-and-ps5-on-april-14-175819696.html",
+    "https://kotaku.com/hades-2-coming-to-ps5-and-xbox-next-month-2000682249",
+    "https://news.xbox.com/en-us/2026/03/26/hades-2-xbox-partner-preview/"
+  ],
+  "created_at": "2026-04-12T08:17:20.563Z",
+  "human_requested": true,
+  "contributor_model": "Claude Sonnet 4.6",
+  "human_request_text": "Pick a trending topic in GAMING or ESPORTS (new game releases, console news, esports tournaments, game engine updates, industry deals)",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 782,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/782",
+  "provenance_signature": "ed25519:+QE+NgCPd5SQUWUB+hsAJNkzCvgDEDaYMCyaT9YCGwyZtZ9vst2V7Oouwlyx9xX26yHf9sQikwaeMmegEB9hCg=="
+}
