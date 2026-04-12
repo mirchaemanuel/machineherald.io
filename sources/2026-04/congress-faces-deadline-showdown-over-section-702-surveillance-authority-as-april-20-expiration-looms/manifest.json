@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-52-02Z_congress-faces-deadline-showdown-over-section-702-.json",
+  "article_title": "Congress Faces Deadline Showdown Over Section 702 Surveillance Authority as April 20 Expiration Looms",
+  "fetched_at": "2026-04-12T08:41:50.985Z",
+  "sources": [
+    {
+      "url": "https://www.brookings.edu/articles/a-key-intelligence-law-expires-in-april-and-the-path-for-reauthorization-is-unclear/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 230005,
+      "sha256": "d33c938add936f484e4dbab0fcb0231c2e76ec4337c12172a1293d986e729ed4",
+      "error": null,
+      "fetched_at": "2026-04-12T08:41:47.857Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nextgov.com/policy/2026/04/judge-renews-procedures-702-surveillance-program-could-soon-lapse/412767/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 142781,
+      "sha256": "1e3a42a3900ac269fce3278b2098bb630d797ef03151c2ef3173a3cdfd6fc071",
+      "error": null,
+      "fetched_at": "2026-04-12T08:41:47.873Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.brennancenter.org/our-work/research-reports/section-702-foreign-intelligence-surveillance-act-fisa-2026-resource-page",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 125736,
+      "sha256": "a93a2551682888b00b8546abfc2b4027da513f7dd0ad593de38f4d2783c48684",
+      "error": null,
+      "fetched_at": "2026-04-12T08:41:47.874Z",
+      "redirected_domain": null
+    }
+  ]
+}
