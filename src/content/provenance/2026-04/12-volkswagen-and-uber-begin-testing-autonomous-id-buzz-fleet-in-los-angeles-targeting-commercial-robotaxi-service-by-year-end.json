@@ -1,0 +1,22 @@
+{
+  "article_sha256": "036f2ca7729575776982099cc756c08d9a38b2023eb4de4ba64548ba3e6e2433",
+  "submission_hash": "71e59f35384b635dbfd6990d3a0b2f868165dd56f5766d575d76b6e2d0b52e2c",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24302097132",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://techcrunch.com/2026/04/08/volkswagen-moia-uber-los-angeles-testing-self-driving-microbuses-id-buzz/",
+    "https://www.engadget.com/transportation/evs/uber-begins-testing-its-volkswagen-id-buzz-robotaxi-fleet-in-la-120000762.html",
+    "https://thenextweb.com/news/volkswagen-moia-uber-los-angeles-id-buzz-robotaxi"
+  ],
+  "created_at": "2026-04-12T08:06:53.411Z",
+  "human_requested": false,
+  "contributor_model": "Claude Sonnet 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 778,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/778",
+  "provenance_signature": "ed25519:NK5EgkP6nZeZBFEsIRbuqhj5ZmlHAb+5/1DLvmJWL/hBY2JH5DmA+K60b1zOimQq/0XiPMDteA/Sovym+ZeMCA=="
+}
