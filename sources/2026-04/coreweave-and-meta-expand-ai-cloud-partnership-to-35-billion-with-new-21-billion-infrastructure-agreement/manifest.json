@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-12T07-50-59Z_coreweave-and-meta-expand-ai-cloud-partnership-to-.json",
+  "article_title": "CoreWeave and Meta Expand AI Cloud Partnership to $35 Billion With New $21 Billion Infrastructure Agreement",
+  "fetched_at": "2026-04-12T08:34:24.590Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260409138818/en/CoreWeave-and-Meta-Announce-%2421-Billion-Expanded-AI-Infrastructure-Agreement",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-12T08:34:20.375Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.coindesk.com/markets/2026/04/09/meta-expands-ai-infrastructure-bet-with-usd21-billion-coreweave-deal",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 479122,
+      "sha256": "d65bdc74d0c0ca6cbc1afe036da7cc5666ff3bd1512856c44c61ac87e2064f6e",
+      "error": null,
+      "fetched_at": "2026-04-12T08:34:20.392Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/meta-expands-coreweave-deal-to-21-billion-as-ai-cloud-demand-grows/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 142733,
+      "sha256": "faccca718b7db5576cbfcc09b0801ec977a609a0654dfe910e22753f2de39995",
+      "error": null,
+      "fetched_at": "2026-04-12T08:34:20.393Z",
+      "redirected_domain": null
+    }
+  ]
+}
