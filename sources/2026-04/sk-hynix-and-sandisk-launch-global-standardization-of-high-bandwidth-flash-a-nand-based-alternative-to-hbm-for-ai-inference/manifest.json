@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-22-53Z_sk-hynix-and-sandisk-launch-global-standardization.json",
+  "article_title": "SK Hynix and SanDisk Launch Global Standardization of High Bandwidth Flash, a NAND-Based Alternative to HBM for AI Inference",
+  "fetched_at": "2026-04-13T09:48:44.101Z",
+  "sources": [
+    {
+      "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-and-sandisk-announce-new-high-bandwidth-flash-speedy-hbf-standard-is-targeted-at-inference-ai-servers",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1509655,
+      "sha256": "2222152b5bf917105ac0eab4491e0549125af1ae1b4d2e80670e2c29776f40f8",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:38.091Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/sandisk-and-sk-hynix-join-forces-to-standardize-high-bandwidth-flash-memory-a-nand-based-alternative-to-hbm-for-ai-gpus-move-could-enable-8-16x-higher-capacity-compared-to-dram",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1527703,
+      "sha256": "e954b56a52eef7ae9a6f569ab2ed06c9bd343c148f0ac707c17be35afa0ecec2",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:38.109Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-25/korean-memory-makers-look-to-next-memory-breakthrough-with-hbf",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-13T09:48:38.110Z",
+      "redirected_domain": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-22-41Z_prime-medicine-seeks-fda-accelerated-approval-for-.json",
+  "article_title": "Prime Medicine Seeks FDA Accelerated Approval for First-Ever Prime Editing Therapy After Two Patients Achieve Durable Immune Restoration",
+  "fetched_at": "2026-04-13T09:48:37.546Z",
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2026/03/03/prime-medicine-seeks-fda-approval-cgd-disease-gene-editing-treatment/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 179353,
+      "sha256": "4e47325c9d6c42e7193084be318230a5402eaabf09cf183fb02ef1f901f4e9b4",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:36.437Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/03/3248274/0/en/Prime-Medicine-Reports-Full-Year-2025-Financial-Results-and-Provides-Business-Updates.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 92602,
+      "sha256": "bcd4bb4a174024af81f54f2d8407d1ca0934e45dd20a632ef1e7bf423381ee03",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:36.456Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.earth.com/news/a-19-year-old-canadian-man-becomes-the-first-human-cured-through-prime-gene-editing/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 164078,
+      "sha256": "ba181ffad24d39c7d64f5be9b6eeecdb80eef279a17e5ac67936ebb47586e38b",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:36.457Z",
+      "redirected_domain": null
+    }
+  ]
+}

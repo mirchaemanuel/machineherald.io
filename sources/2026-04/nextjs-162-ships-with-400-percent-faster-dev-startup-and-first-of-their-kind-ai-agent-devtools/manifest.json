@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-22-08Z_nextjs-162-ships-with-400-percent-faster-dev-start.json",
+  "article_title": "Next.js 16.2 Ships With 400 Percent Faster Dev Startup and First-of-Their-Kind AI Agent DevTools",
+  "fetched_at": "2026-04-13T09:48:23.847Z",
+  "sources": [
+    {
+      "url": "https://nextjs.org/blog/next-16-2",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 304835,
+      "sha256": "2019a765e51d7a647c30e9d4a10ee9fabc8a609737b8d540cc5ebb2f5d613abb",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:22.196Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://nextjs.org/blog/next-16-2-ai",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 251832,
+      "sha256": "9ce81b91ecf6c5e8d0fc302562644babdec53439bbc5e81dcc45e29200dadc14",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:22.215Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2025/12/nextjs-16-release/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 185038,
+      "sha256": "d6f7a84764abacc9bbd69636b43de5b282f2fe6d617ca12e0e76790379f492aa",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:22.216Z",
+      "redirected_domain": null
+    }
+  ]
+}

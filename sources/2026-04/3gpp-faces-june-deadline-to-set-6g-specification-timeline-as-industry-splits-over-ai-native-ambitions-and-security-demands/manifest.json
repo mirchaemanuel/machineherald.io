@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-24-29Z_3gpp-faces-june-deadline-to-set-6g-specification-t.json",
+  "article_title": "3GPP Faces June Deadline to Set 6G Specification Timeline as Industry Splits Over AI-Native Ambitions and Security Demands",
+  "fetched_at": "2026-04-13T09:48:54.650Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/03/02/qualcomm_nvidia_ai_native_6g/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 68175,
+      "sha256": "2d3cf4fff5c7eb7a15d48e7bf9acc45ff53512cc4503635bb452aa7aa5787075",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:54.320Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/03/03/telecoms_coalition_6g/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 82495,
+      "sha256": "09655f9dd990f16390d6c1ae8739f1c4042be1f3bd0cb6a68330586160246641",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:54.339Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/worldwide-telecom-capex-to-decline-in-2026-according-to-delloro-group-302732157.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 209319,
+      "sha256": "e0a268049f2469ccd5f2d115c6359a13076b5236630fbfcf87b363269e3eb1da",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:54.339Z",
+      "redirected_domain": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-23-16Z_us-treasury-proposes-stablecoin-aml-rules-under-ge.json",
+  "article_title": "US Treasury Proposes Stablecoin AML Rules Under GENIUS Act as Bessent Pushes Congress on CLARITY Act",
+  "fetched_at": "2026-04-13T09:48:51.758Z",
+  "sources": [
+    {
+      "url": "https://home.treasury.gov/news/press-releases/sb0435",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 115776,
+      "sha256": "3c47d6679bff329cf819987623dd2bd858415110bdb3bd4c5786380cf0e641f2",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:44.588Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thehill.com/policy/technology/5823712-treasury-secretary-urges-crypto-bill/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-13T09:48:44.605Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.coindesk.com/policy/2026/04/08/u-s-treasury-to-propose-demands-that-stablecoin-firms-be-set-to-police-bad-transactions",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 487718,
+      "sha256": "5ae45fc2705a17c1ebdaef538bb0071dfa0fc7a6d104344ebc8002abd496dada",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:44.606Z",
+      "redirected_domain": null
+    }
+  ]
+}

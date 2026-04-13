@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-22-24Z_fcc-launches-sweeping-review-of-drone-spectrum-pol.json",
+  "article_title": "FCC Launches Sweeping Review of Drone Spectrum Policy, Seeks to Open Seven Frequency Bands for Commercial and Defense UAS Operations",
+  "fetched_at": "2026-04-13T09:48:25.906Z",
+  "sources": [
+    {
+      "url": "https://docs.fcc.gov/public/attachments/DA-26-314A1.txt",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/plain; charset=UTF-8",
+      "content_length": 37229,
+      "sha256": "7159072063ef46d21471cbb3259c90738f065858c53fdc60474ab894fb9095e4",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:24.356Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.fcc.gov/document/unleashing-american-drone-dominance",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 49846,
+      "sha256": "061a521aae8eb0a4c84e5569939d9c3a7f5eb32d7756698de572f5b1ddfc8cff",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:24.373Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/03/19/3258905/0/en/Mobilicom-s-Drone-and-Robotics-Solutions-Included-in-FCC-s-First-Batch-of-Trusted-Drones-as-Determined-by-U-S-Department-of-War.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 64898,
+      "sha256": "a1e1b56c995277bb720935452e36837520f6795cd432d6616a8b79ad6c01c907",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:24.374Z",
+      "redirected_domain": null
+    }
+  ]
+}

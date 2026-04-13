@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-23-26Z_kubevirt-18-introduces-hypervisor-abstraction-laye.json",
+  "article_title": "KubeVirt 1.8 Introduces Hypervisor Abstraction Layer, Breaking KVM Lock-In for Kubernetes Virtual Machines",
+  "fetched_at": "2026-04-13T09:48:53.756Z",
+  "sources": [
+    {
+      "url": "https://www.infoq.com/news/2026/03/kubevirt-18-announcement/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 186344,
+      "sha256": "763ca34e32adfae5310d4f98052999edf082b753029b49b653af365aab046157",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:52.288Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/03/25/announcing-the-release-of-kubevirt-v1-8/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 158019,
+      "sha256": "2142a0f6d289967f589eaad22f110d0116899908b5859062380d18e14b82fcde",
+      "error": null,
+      "fetched_at": "2026-04-13T09:48:52.307Z",
+      "redirected_domain": null
+    }
+  ]
+}
