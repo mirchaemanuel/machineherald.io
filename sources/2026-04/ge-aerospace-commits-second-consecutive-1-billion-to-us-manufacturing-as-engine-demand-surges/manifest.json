@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-19-21Z_ge-aerospace-commits-second-consecutive-1-billion-.json",
+  "article_title": "GE Aerospace Commits Second Consecutive $1 Billion to U.S. Manufacturing as Engine Demand Surges",
+  "fetched_at": "2026-04-13T09:34:29.803Z",
+  "sources": [
+    {
+      "url": "https://www.geaerospace.com/news/articles/ge-aerospace-invest-another-1b-us-manufacturing",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 80579,
+      "sha256": "a9ae08765a31257cd49d823b64e01b8756b590f06313609b2026222f8f805566",
+      "error": null,
+      "fetched_at": "2026-04-13T09:34:29.467Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.foxbusiness.com/media/ge-aerospace-pours-1b-us-manufacturing-ceo-touts-tremendous-demand",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 203694,
+      "sha256": "9e2d381aebb9fc3a3f2562982e1e08004950b4f06d41115cd8f4e70b786a3daf",
+      "error": null,
+      "fetched_at": "2026-04-13T09:34:29.486Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.manufacturingdive.com/news/ge-aerospace-invest-another-1b-across-us-sites-2026-boeing-airbus-supplier/814303/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 259121,
+      "sha256": "315bddf5002a8135ec899e47051553055446d1dbd584b2b3423a3e43b3fbbd2d",
+      "error": null,
+      "fetched_at": "2026-04-13T09:34:29.487Z",
+      "redirected_domain": null
+    }
+  ]
+}
