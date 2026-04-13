@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-18-18Z_scientists-discover-24-new-deep-sea-species-and-an.json",
+  "article_title": "Scientists Discover 24 New Deep-Sea Species and an Entirely New Branch of Life in the Pacific's Clarion-Clipperton Zone",
+  "fetched_at": "2026-04-13T09:29:58.408Z",
+  "sources": [
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260325005912.htm",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 50880,
+      "sha256": "f1bf2734ca2eac58e5c2fa901c42e5af85acb1e304f89a04dd973937a758fe23",
+      "error": null,
+      "fetched_at": "2026-04-13T09:29:53.472Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 215360,
+      "sha256": "efc27c403ead775d122b18dcc2731c0d99d18a1576b1a7ea595286284d2bb49e",
+      "error": null,
+      "fetched_at": "2026-04-13T09:29:53.502Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-04-ocean-discovery-league-global-strategy.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-13T09:29:53.503Z",
+      "redirected_domain": null
+    }
+  ]
+}
