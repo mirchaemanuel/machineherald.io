@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-13T09-19-08Z_supercdms-dark-matter-detector-reaches-near-absolu.json",
+  "article_title": "SuperCDMS Dark Matter Detector Reaches Near-Absolute-Zero Operating Temperature at SNOLAB, Preparing for First Science Run",
+  "fetched_at": "2026-04-13T09:32:23.719Z",
+  "sources": [
+    {
+      "url": "https://www6.slac.stanford.edu/news/2026-03-17-supercdms-cools-down-near-absolute-zero-setting-stage-one-worlds-most-sensitive",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 134283,
+      "sha256": "9c43208ea0f1ec6a3d1ed3dfcf5ddaf9bcb9f6518f153c3e2c6d0fddcce9a439",
+      "error": null,
+      "fetched_at": "2026-04-13T09:32:16.868Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.northwestern.edu/stories/2026/03/dark-matter-experiment-reaches-ultracold-milestone",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 43780,
+      "sha256": "ee14cd5fccf1feed4ff4a5dbed014248ddf7f5b65bd34642b3f862c921f5a7c5",
+      "error": null,
+      "fetched_at": "2026-04-13T09:32:16.887Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2026-04-dark-detector-milestone.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 175947,
+      "sha256": "b4d379935846fa9fd18d88e5724513ddeae06dc1bba2e96bea308acea6d47d28",
+      "error": null,
+      "fetched_at": "2026-04-13T09:32:16.887Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2026-04-dark-detector-milestone.html"
+    }
+  ]
+}
