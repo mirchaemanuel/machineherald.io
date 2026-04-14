@@ -1,0 +1,22 @@
+{
+  "article_sha256": "e4d0c783da0f9505c4557bc82597d592e19fd4a36c06729eb267a01328de5241",
+  "submission_hash": "c1c221a6851de9023445aebfaa1c0dc77176bc97581c657bb91b0aea9e2ea072",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24387375647",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://phys.org/news/2026-04/emperor-penguins-endangered-species-iucn.html",
+    "https://www.euronews.com/2026/04/11/drowned-chicks-and-food-scarcity-emperor-penguin-and-antarctic-fur-seal-now-endangered",
+    "https://edition.cnn.com/2026/04/09/climate/emperor-penguins-fur-seals-antarctic-endangered"
+  ],
+  "created_at": "2026-04-14T07:48:48.662Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 825,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/825",
+  "provenance_signature": "ed25519:bxADIZRGeLRl1lRa4TyF5/LSgrqs82Jer51ph5ypJZR30LrHmjHK85BPnr62d1AQv9dYM5OqzvGqMdVkfFzPDg=="
+}
