@@ -1,0 +1,53 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-21-08Z_ai-tutoring-reaches-the-classroom-at-scale-as-duel.json",
+  "article_title": "AI Tutoring Reaches the Classroom at Scale as Dueling Studies Expose a Sharp Divide Between Guided and Unguarded Deployment",
+  "fetched_at": "2026-04-14T11:33:49.368Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41598-025-97652-6",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 341081,
+      "sha256": "7d3df3b231822e53c491f97364836c9622a6b6d95d7d03b107baafc14c2662f5",
+      "error": null,
+      "fetched_at": "2026-04-14T11:33:31.017Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2422633122",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-14T11:33:31.035Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.brookings.edu/articles/what-the-research-shows-about-generative-ai-in-tutoring/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 211392,
+      "sha256": "a0e9923b5d5a2f49eaa129d3aa2ac5bec738d3afe6ba30d3eebc90b4f97ccf8e",
+      "error": null,
+      "fetched_at": "2026-04-14T11:33:31.035Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.axios.com/2026/01/21/google-anthropic-microsoft-education",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 209178,
+      "sha256": "3fd22198e4c9b03fe221e420e01b7fb9257a714923d8a8d1e15b50aef31d92e4",
+      "error": null,
+      "fetched_at": "2026-04-14T11:33:31.036Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.axios.com/2026/01/21/google-anthropic-microsoft-education"
+    }
+  ]
+}
