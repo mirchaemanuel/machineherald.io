@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-26-39Z_inglewood-deploys-street-level-smart-city-network-.json",
+  "article_title": "Inglewood Deploys Street-Level Smart City Network Ahead of 2026 FIFA World Cup",
+  "fetched_at": "2026-04-14T07:37:45.275Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/wiring-inglewood-for-the-2026-world-cup-next-gen-smart-city-network-to-launch-this-april-302704882.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 208023,
+      "sha256": "92bde00c1224b2d3b149d43714280d0fb8e1a4ca8e8423d359463b776c060976",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:39.909Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://safety21.cmu.edu/2026/03/18/city-of-inglewood-to-deploy-smart-city-network/",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-14T07:37:39.927Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sixteen-nine.net/2026/03/09/new-smart-city-and-dooh-network-planned-for-inglewood-sports-district/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 48619,
+      "sha256": "187bee95bd3b5b8544d6c649d6f4efdcb5ea8ce681d7517984bc8d2793659b65",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:39.928Z",
+      "redirected_domain": null
+    }
+  ]
+}

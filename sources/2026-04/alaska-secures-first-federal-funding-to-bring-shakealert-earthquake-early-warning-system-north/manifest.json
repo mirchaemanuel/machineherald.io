@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-25-31Z_alaska-secures-first-federal-funding-to-bring-shak.json",
+  "article_title": "Alaska Secures First Federal Funding to Bring ShakeAlert Earthquake Early Warning System North",
+  "fetched_at": "2026-04-14T07:37:17.488Z",
+  "sources": [
+    {
+      "url": "https://alaskapublic.org/news/alaska-desk/2026-03-30/federal-funds-boost-effort-to-build-an-earthquake-early-warning-system-for-alaska",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 177236,
+      "sha256": "1c51d5b73e869ce055839a5399d5c72ffdaa6a53642fd765d994ababbcb3acbd",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:15.678Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.gi.alaska.edu/news/new-funding-advances-earthquake-early-warning-alaska",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 62785,
+      "sha256": "2ffaeb43944d256763cabc507087b942236bb591a7604caa3339dca659cebc0a",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:15.698Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.alaskasnewssource.com/2026/03/26/earthquake-early-warning-system-coming-alaska/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 177251,
+      "sha256": "ac0a8dbe09cf0367a5322b44f7bcf7ac5d03e9dc2bef1209f49869c53a41808b",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:15.699Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://earlywarninglabs.com/resources/shakealert-funding-expansion-2026/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 106783,
+      "sha256": "e9abed009bb310b559646b193d5cde104049076df867f792f5f09b4d54dbc0b9",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:15.699Z",
+      "redirected_domain": null
+    }
+  ]
+}

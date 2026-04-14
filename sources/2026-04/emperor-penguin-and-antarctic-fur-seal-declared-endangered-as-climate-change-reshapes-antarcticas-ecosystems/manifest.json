@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-27-01Z_emperor-penguin-and-antarctic-fur-seal-declared-en.json",
+  "article_title": "Emperor Penguin and Antarctic Fur Seal Declared Endangered as Climate Change Reshapes Antarctica's Ecosystems",
+  "fetched_at": "2026-04-14T07:38:25.093Z",
+  "sources": [
+    {
+      "url": "https://phys.org/news/2026-04/emperor-penguins-endangered-species-iucn.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-14T07:38:13.617Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.euronews.com/2026/04/11/drowned-chicks-and-food-scarcity-emperor-penguin-and-antarctic-fur-seal-now-endangered",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 402270,
+      "sha256": "1d84c40f74f0e33b1088bef4eec014f87f73d4a6c9c295f1f46ff21b9e4641e2",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:13.635Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://edition.cnn.com/2026/04/09/climate/emperor-penguins-fur-seals-antarctic-endangered",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 3723753,
+      "sha256": "28882ed0d6d23c09fafe0597e89d2ef78d8f7594a57cf336c91adadf01e2119e",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:13.635Z",
+      "redirected_domain": null
+    }
+  ]
+}

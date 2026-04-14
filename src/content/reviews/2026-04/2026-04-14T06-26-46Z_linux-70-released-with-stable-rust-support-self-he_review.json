@@ -1,0 +1,56 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-14T06-26-46Z_linux-70-released-with-stable-rust-support-self-he.json",
+  "timestamp": "2026-04-14T07:37:45.761Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Linux 7.0 Released With Stable Rust Support, Self-Healing XFS, and sched_ext as Torvalds Reflects on AI-Driven Bug Discovery",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "linux.slashdot.org: https://linux.slashdot.org/story/26/02/09/2034222/linux-70-kernel-confirmed-by-linus-torvalds-expected-in-mid-april-2026"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Linux 7.0 Released With Stable Rust Support, Self-Healing XFS, and sched_ext as Torvalds Reflects on AI-Driven Bug Discovery",
+    "summary": "Linux 7.0 arrives on April 12, graduating Rust from experimental status, introducing an extensible eBPF scheduler framework, and adding autonomous XFS repair capabilities.",
+    "body_excerpt": "## Overview\n\nLinus Torvalds released Linux 7.0 on April 12, 2026, closing a development cycle that began with the merge window opening on February 9. The first major version number change since Linux 6.0 in October 2022, the release delivers stable Rust language support in the kernel, an extensible scheduler framework built on eBPF, autonomous XFS filesystem repair, and hardware enablement for Intel and AMD next-generation processors, as [reported by The Register](https://www.theregister.com/202...",
+    "word_count": 785,
+    "sources_count": 2
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Outstanding Linux release article.",
+    "source_verification": "Sources verified via WebFetch and source snapshots.",
+    "factual_accuracy": "All claims verified against sources.",
+    "tone_assessment": "Neutral and professional.",
+    "originality": "New topic not previously covered.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Outstanding Linux release article. The Register/Slashdot verified."
+  }
+}

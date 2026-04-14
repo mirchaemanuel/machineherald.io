@@ -1,0 +1,84 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-26-10Z_rapid-tct-2026-opens-in-boston-as-defense-spending.json",
+  "article_title": "RAPID + TCT 2026 Opens in Boston as Defense Spending and Production-Scale Hardware Signal Additive Manufacturing's Industrial Pivot",
+  "fetched_at": "2026-04-14T07:37:39.372Z",
+  "sources": [
+    {
+      "url": "https://www.sme.org/aboutsme/newsroom/press-releases/2025/rapid--tct-2026-to-make-boston-debut-showcase-the-future-of-additive-manufacturing/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 86318,
+      "sha256": "770e6959a459c0b7c4b90a3982325f0dc49ed272d628e41ed4c423c9090cc11b",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:37.460Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/04/13/3272381/8852/en/3D-Systems-Accelerates-Production-Scale-Additive-Manufacturing-with-New-High-Throughput-Platform-and-Next-Generation-Factory-Software.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 67375,
+      "sha256": "ecb8613810e02d9c47dc4b22875a00b69dc3985ab8e87b272af24445e2b1bff0",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:37.478Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 250651,
+      "sha256": "01689f2943366d37006ee21fe7816c9f21ccf5e7406ef37ce8c4daa804dc29d4",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:37.479Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.rapid3devent.com/event/news/the-expanding-role-of-additive-manufacturing-in-the-defense-industrial-base/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 69369,
+      "sha256": "cf06228e046a46837d749245bcb5262c3da9017c24186fa8e93b9410e46e3f13",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:37.479Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://3dprint.com/325141/3d-printing-news-briefs-4-11-2026/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 338148,
+      "sha256": "b445c0c0b7f739775a713ce8694760279808e9a073842b7d1255c675e1fe0b3d",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:37.480Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://3dprint.com/323886/takeaways-from-milam-2026-defenses-growing-role-in-driving-3d-printing-part-ii/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 332097,
+      "sha256": "fea335d04b79ab826b2bce8b59a0eea9118509a411971a0f6b90958ecd4c60c4",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:37.480Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.aerospacemanufacturinganddesign.com/article/current-news-about-additive-manufacturing3d-printing-april-2026-/",
+      "file": "source-6.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 212,
+      "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:37.481Z",
+      "redirected_domain": null
+    }
+  ]
+}

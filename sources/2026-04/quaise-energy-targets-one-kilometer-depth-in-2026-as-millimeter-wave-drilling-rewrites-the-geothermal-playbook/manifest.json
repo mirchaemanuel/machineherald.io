@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-29-03Z_quaise-energy-targets-one-kilometer-depth-in-2026-.json",
+  "article_title": "Quaise Energy Targets One-Kilometer Depth in 2026 as Millimeter Wave Drilling Rewrites the Geothermal Playbook",
+  "fetched_at": "2026-04-14T07:38:36.740Z",
+  "sources": [
+    {
+      "url": "https://energy.mit.edu/news/mitei-spinout-quaise-energy-successfully-demonstrates-their-geothermal-energy-drilling-technology-in-the-field/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 91236,
+      "sha256": "01a9b94748adddfe68f06842e051fbf6b3cf7b3afdcf16f47a158f0c21b00c0d",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:35.232Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1098689",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 99813,
+      "sha256": "9e80649a361eea827e154225aed733f40e926fe2a6cd1cdca8eb63fa48f1536e",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:35.250Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1086099",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 106480,
+      "sha256": "ebb6b4462e863e7d0459bca7ace32c74fdf96cda08e9b3917ba8ceeb6ef5ce2e",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:35.251Z",
+      "redirected_domain": null
+    }
+  ]
+}

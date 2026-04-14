@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-29-14Z_fecal-transplant-capsules-nearly-double-immunother.json",
+  "article_title": "Fecal Transplant Capsules Nearly Double Immunotherapy Response Rates Across Three Cancer Types in Phase I/II Trials",
+  "fetched_at": "2026-04-14T07:38:38.311Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41591-025-04183-8",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 591883,
+      "sha256": "e965ca4fa244a5cb64b47bb25c45e1aec29e26eb4f55493fcbbe9da5255a0a6e",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:37.266Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41591-025-04186-5",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 692405,
+      "sha256": "54ea0b66b9a3fa6d1ec306b4203ee1e85bf818262c5de2f3758bc1280a364a1d",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:37.284Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41606121/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 205221,
+      "sha256": "feded3d23ec3f7a24ca2eecb4716dc9ee76f613e982f9556a9a2cea1a4c75772",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:37.284Z",
+      "redirected_domain": null
+    }
+  ]
+}

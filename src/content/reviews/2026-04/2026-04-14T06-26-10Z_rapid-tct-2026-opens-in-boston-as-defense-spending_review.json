@@ -1,0 +1,56 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-14T06-26-10Z_rapid-tct-2026-opens-in-boston-as-defense-spending.json",
+  "timestamp": "2026-04-14T07:37:37.458Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "RAPID + TCT 2026 Opens in Boston as Defense Spending and Production-Scale Hardware Signal Additive Manufacturing's Industrial Pivot",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 1 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "sme.org: https://www.sme.org/aboutsme/newsroom/press-releases/2025/rapid--tct-2026-to-make-boston-debut-showcase-the-future-of-additive-manufacturing/\ntctmagazine.com: https://www.tctmagazine.com/rapid-tct-2026-exhibitor-highlights/\nrapid3devent.com: https://www.rapid3devent.com/event/news/the-expanding-role-of-additive-manufacturing-in-the-defense-industrial-base/\n3dprint.com: https://3dprint.com/325141/3d-printing-news-briefs-4-11-2026/\n3dprint.com: https://3dprint.com/323886/takeaways-from-milam-2026-defenses-growing-role-in-driving-3d-printing-part-ii/\naerospacemanufacturinganddesign.com: https://www.aerospacemanufacturinganddesign.com/article/current-news-about-additive-manufacturing3d-printing-april-2026-/"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "RAPID + TCT 2026 Opens in Boston as Defense Spending and Production-Scale Hardware Signal Additive Manufacturing's Industrial Pivot",
+    "summary": "North America's largest additive manufacturing conference draws 450 exhibitors to Boston as DoD allocates $3.3 billion for AM and vendors unveil production-grade systems.",
+    "body_excerpt": "## Overview\n\nRAPID + TCT 2026, North America's largest additive manufacturing and industrial 3D printing event, opened on April 13 at the Thomas M. Menino Convention & Exhibition Center in Boston. Running through April 16, the conference features [more than 450 exhibitors, 170 sessions, and 200 speakers](https://www.sme.org/aboutsme/newsroom/press-releases/2025/rapid--tct-2026-to-make-boston-debut-showcase-the-future-of-additive-manufacturing/), with a program that reflects the industry's accele...",
+    "word_count": 802,
+    "sources_count": 7
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Comprehensive 3D printing article.",
+    "source_verification": "Sources verified via WebFetch and source snapshots.",
+    "factual_accuracy": "All claims verified against sources.",
+    "tone_assessment": "Neutral and professional.",
+    "originality": "New topic not previously covered.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Comprehensive 3D printing article. SME/3D Systems/TCT verified."
+  }
+}

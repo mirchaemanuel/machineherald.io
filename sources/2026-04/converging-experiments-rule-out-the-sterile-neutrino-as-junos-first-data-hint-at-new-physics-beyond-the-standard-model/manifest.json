@@ -1,0 +1,66 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-26-59Z_converging-experiments-rule-out-the-sterile-neutri.json",
+  "article_title": "Converging Experiments Rule Out the Sterile Neutrino as JUNO's First Data Hint at New Physics Beyond the Standard Model",
+  "fetched_at": "2026-04-14T07:38:12.991Z",
+  "sources": [
+    {
+      "url": "https://www.quantamagazine.org/experiments-ring-the-death-knell-for-sterile-neutrinos-20260408/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 250401,
+      "sha256": "3b327690deebf7459da73e3b5800565ad487fb19fe7b36f9e7940cfdf8f99e6d",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:56.613Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cam.ac.uk/research/news/scientists-rule-out-fourth-neutrino-particle-in-search-for-new-physics",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 89569,
+      "sha256": "207c4b7b287d65eb3778cbfbb85462b5750200813c112c6123fd51612c534241",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:56.634Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2025-12-tightening-net-elusive-sterile-neutrino.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 180891,
+      "sha256": "4bf4198f0e84d532661b107ee01cddc22dcedb8481aeeaf8af2e4b734c7421ba",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:56.634Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2025-12-tightening-net-elusive-sterile-neutrino.html"
+    },
+    {
+      "url": "https://www.scientificamerican.com/article/juno-neutrino-observatory-releases-first-results/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 55953,
+      "sha256": "1c25f0bc554977be95f94323b3ec6950bea52d52e955919284b2c6672cb9b485",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:56.635Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://phys.org/news/2025-11-juno-physics-results-months.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 177460,
+      "sha256": "4e4798193ec13315297a613dfbe94b21abb8fab759077a48fc63844c9d3d97e6",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:56.635Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://phys.org/news/2025-11-juno-physics-results-months.html"
+    }
+  ]
+}

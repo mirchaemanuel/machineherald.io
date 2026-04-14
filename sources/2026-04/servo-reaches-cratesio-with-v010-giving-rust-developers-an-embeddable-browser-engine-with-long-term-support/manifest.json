@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-28-53Z_servo-reaches-cratesio-with-v010-giving-rust-devel.json",
+  "article_title": "Servo Reaches crates.io With v0.1.0, Giving Rust Developers an Embeddable Browser Engine With Long-Term Support",
+  "fetched_at": "2026-04-14T07:38:34.702Z",
+  "sources": [
+    {
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 11970,
+      "sha256": "6b865f36283c95d795d28cb5a673701511b9223bd89fa357383b9a27cbdff23a",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:32.736Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://github.com/servo/servo/releases",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 907600,
+      "sha256": "14f27af4074b313fabb7e07d134a7a47ebcb4d5dc016243d8d07070fff00ecbf",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:32.754Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.linuxfoundation.org/press/press-release/open-source-web-engine-servo-to-be-hosted-at-linux-foundation",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 88438,
+      "sha256": "1eb2094f62a6e33086e434ee8bd1dddfb2c32f18e91ce916450c6f223375faf0",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:32.755Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2025/11/18/servo_002_arrives/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 72286,
+      "sha256": "d3941e461b8b669ce5eb87793e9561de56e74266d9dd102c94af861b17c8d483",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:32.755Z",
+      "redirected_domain": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-28-26Z_vertical-aerospace-completes-first-piloted-thrustb.json",
+  "article_title": "Vertical Aerospace Completes First Piloted Thrustborne Transition, Becoming Third Western eVTOL Developer to Demonstrate the Maneuver",
+  "fetched_at": "2026-04-14T07:38:30.656Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260406472471/en/Vertical-Aerospace-Achieves-Historic-Piloted-Thrustborne-Transition",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-14T07:38:25.703Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://aviationweek.com/aerospace/advanced-air-mobility/vertical-aerospace-completes-first-piloted-one-way-transition",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 162302,
+      "sha256": "7fa5db41cd44a56d667202973f4c57c7912216d96db0f775e67c358fb511526b",
+      "error": null,
+      "fetched_at": "2026-04-14T07:38:25.721Z",
+      "redirected_domain": null
+    }
+  ]
+}

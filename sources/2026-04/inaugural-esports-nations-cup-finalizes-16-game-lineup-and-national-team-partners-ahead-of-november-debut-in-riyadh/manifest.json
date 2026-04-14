@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-26-07Z_inaugural-esports-nations-cup-finalizes-16-game-li.json",
+  "article_title": "Inaugural Esports Nations Cup Finalizes 16-Game Lineup and National Team Partners Ahead of November Debut in Riyadh",
+  "fetched_at": "2026-04-14T07:37:36.968Z",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/news-releases/over-100-000-qualifier-participants-across-100-nations-and-territories-to-compete-in-16-titles-for-a-place-at-the-inaugural-esports-nations-cup-2026--302739878.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 214443,
+      "sha256": "8a17f44670cdb1be52892c280cc1f7819110c527e1a54748fce381476c7e168b",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:36.712Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/esports-nations-cup-2026-awards-official-partner-status-across-100-nations-to-build-the-future-of-nation-based-esports-302724959.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 226827,
+      "sha256": "69ac6c431be6812f31c763e2f800367bcbf71f70825744b0bebf96e2e480429f",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:36.731Z",
+      "redirected_domain": null
+    }
+  ]
+}

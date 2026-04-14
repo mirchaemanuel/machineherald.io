@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-30-15Z_credo-acquires-dustphotonics-for-750-million-bring.json",
+  "article_title": "Credo Acquires DustPhotonics for $750 Million, Bringing Silicon Photonics In-House as AI Data Center Optical Demand Surges",
+  "fetched_at": "2026-04-14T07:39:06.728Z",
+  "sources": [
+    {
+      "url": "https://www.businesswire.com/news/home/20260413933103/en/Credo-Agrees-to-Acquire-DustPhotonics-Accelerating-Expansion-into-Silicon-Photonics-and-Next-Generation-Optical-Connectivity",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-14T07:39:02.081Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/dustphotonics-expands-silicon-photonics-portfolio-with-2xfr4-products-for-ai-and-hyperscale-data-centers-302416820.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 203660,
+      "sha256": "e140fa1d388df0605379ab30bb585f6a0ea50d3dfcfc665e24de2240b2dfe9ae",
+      "error": null,
+      "fetched_at": "2026-04-14T07:39:02.126Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.calcalistech.com/ctechnews/article/hy00g2rkh11l",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 99528,
+      "sha256": "3ea2629475e6f8b7d5db8ff6b637c30fdc1c7b32b996337b06afdebfcf4e3acf",
+      "error": null,
+      "fetched_at": "2026-04-14T07:39:02.127Z",
+      "redirected_domain": null
+    }
+  ]
+}

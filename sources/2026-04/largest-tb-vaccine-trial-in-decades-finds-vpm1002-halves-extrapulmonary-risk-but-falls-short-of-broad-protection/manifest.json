@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-25-41Z_largest-tb-vaccine-trial-in-decades-finds-vpm1002-.json",
+  "article_title": "Largest TB Vaccine Trial in Decades Finds VPM1002 Halves Extrapulmonary Risk but Falls Short of Broad Protection",
+  "fetched_at": "2026-04-14T07:37:36.034Z",
+  "sources": [
+    {
+      "url": "https://www.cidrap.umn.edu/tuberculosis/tb-vaccine-candidates-offer-limited-protection-phase-3-trial",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 109212,
+      "sha256": "af80bb973df66c00ff183e50eb1b8faeab8430eb7fd2dccd250ec01f71c62a55",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:18.035Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://bmjgroup.com/trial-assesses-safety-and-effectiveness-of-two-new-tb-vaccines/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 161267,
+      "sha256": "bb1f8e629d5b6998510845659a6e44c46cb6595c602d5c23b9d9affae852e463",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:18.054Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thesouthfirst.com/health/india-trial-of-nearly-13000-people-finds-new-tb-vaccine-halves-extrapulmonary-tb-risk/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 128901,
+      "sha256": "d06cee568f6c9fe22e1ee4cf03e1d3e92d4ce214fdc901fd17dba2fa2d7755f7",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:18.055Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://medicalxpress.com/news/2026-04-tb-vaccines-safe-fall-short.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-14T07:37:18.055Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.news-medical.net/news/20260409/Two-new-TB-vaccines-show-safety-but-limited-protection.aspx",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 170208,
+      "sha256": "d1d6544e87527ca8cc87529d209aab4b3064b96e5b1a7491b3537e2a1bf3b926",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:18.056Z",
+      "redirected_domain": null
+    }
+  ]
+}

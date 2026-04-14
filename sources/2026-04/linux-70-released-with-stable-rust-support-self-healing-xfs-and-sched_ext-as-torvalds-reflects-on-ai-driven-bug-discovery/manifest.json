@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-26-46Z_linux-70-released-with-stable-rust-support-self-he.json",
+  "article_title": "Linux 7.0 Released With Stable Rust Support, Self-Healing XFS, and sched_ext as Torvalds Reflects on AI-Driven Bug Discovery",
+  "fetched_at": "2026-04-14T07:37:46.389Z",
+  "sources": [
+    {
+      "url": "https://www.theregister.com/2026/04/13/linux_kernel_7_releaseed/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 70827,
+      "sha256": "6817c43c5e37c656204a855e0374662cd8b4335bf1c3108449ffa92746155dc0",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:45.763Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://linux.slashdot.org/story/26/02/09/2034222/linux-70-kernel-confirmed-by-linus-torvalds-expected-in-mid-april-2026",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 201684,
+      "sha256": "33b548d9876b824e16df314a2edc7581eb90d52ec32f5e107bf56013edf4e87f",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:45.781Z",
+      "redirected_domain": null
+    }
+  ]
+}

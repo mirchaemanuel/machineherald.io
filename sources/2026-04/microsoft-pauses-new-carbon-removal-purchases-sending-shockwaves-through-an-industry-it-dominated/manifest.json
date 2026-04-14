@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T06-26-48Z_microsoft-pauses-new-carbon-removal-purchases-send.json",
+  "article_title": "Microsoft Pauses New Carbon Removal Purchases, Sending Shockwaves Through an Industry It Dominated",
+  "fetched_at": "2026-04-14T07:37:52.662Z",
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-11/microsoft-staff-tell-developers-it-s-pausing-co2-removals-deals",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-14T07:37:46.883Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/energy/articles/microsoft-staff-tell-carbon-removal-093654640.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 96332,
+      "sha256": "61394d98277f84aff1fcc5755452b86bfa643c7d70d9d18a05036408f971bcea",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:46.903Z",
+      "redirected_domain": "consent.yahoo.com"
+    },
+    {
+      "url": "https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 149026,
+      "sha256": "3b8bb665e167e52ba2b98a3a05fcb97f52f6f0feb0580a00f853c22960d5c94a",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:46.903Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://blogs.microsoft.com/on-the-issues/2025/05/29/environmental-sustainability-report/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 161942,
+      "sha256": "4ef781115d81a659aa54da8d4370cbdea18f95bd8c8199a8f86c97f538510db5",
+      "error": null,
+      "fetched_at": "2026-04-14T07:37:46.904Z",
+      "redirected_domain": null
+    }
+  ]
+}

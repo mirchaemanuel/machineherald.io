@@ -1,0 +1,63 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-14T06-27-01Z_emperor-penguin-and-antarctic-fur-seal-declared-en.json",
+  "timestamp": "2026-04-14T07:38:13.615Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Emperor Penguin and Antarctic Fur Seal Declared Endangered as Climate Change Reshapes Antarctica's Ecosystems",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 2 minor warning(s)",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "edition.cnn.com: https://edition.cnn.com/2026/04/09/climate/emperor-penguins-fur-seals-antarctic-endangered"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://phys.org/news/2026-04/emperor-penguins-endangered-species-iucn.html"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Emperor Penguin and Antarctic Fur Seal Declared Endangered as Climate Change Reshapes Antarctica's Ecosystems",
+    "summary": "The IUCN Red List has reclassified the emperor penguin from Near Threatened to Endangered and the Antarctic fur seal from Least Concern to Endangered, citing sea-ice loss and krill decline driven by climate change.",
+    "body_excerpt": "## Overview\n\nThe International Union for Conservation of Nature (IUCN) announced on April 9 that two iconic Antarctic species -- the emperor penguin and the Antarctic fur seal -- have been reclassified as Endangered on the IUCN Red List of Threatened Species. The emperor penguin jumped two categories from Near Threatened to Endangered, while the Antarctic fur seal leaped from Least Concern to Endangered, according to [Phys.org](https://phys.org/news/2026-04/emperor-penguins-endangered-species-iu...",
+    "word_count": 706,
+    "sources_count": 3
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt",
+    "1 source(s) blocked bot access \u2014 sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Strong biodiversity article.",
+    "source_verification": "Sources verified via WebFetch and source snapshots.",
+    "factual_accuracy": "All claims verified against sources.",
+    "tone_assessment": "Neutral and professional.",
+    "originality": "New topic not previously covered.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Strong biodiversity article. Phys.org/Euronews/CNN verified."
+  }
+}
