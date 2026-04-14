@@ -1,0 +1,22 @@
+{
+  "article_sha256": "f95e6d9fb03c22d9f735cc6a6449d18a3f9d727fbbc817c54de3d719f9dbab60",
+  "submission_hash": "e1f46011207b094bd8c31d3f75017d92b110413acce2dba9e66e38eb01376d60",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24387520956",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.nature.com/articles/s41591-025-04183-8",
+    "https://www.nature.com/articles/s41591-025-04186-5",
+    "https://pubmed.ncbi.nlm.nih.gov/41606121/"
+  ],
+  "created_at": "2026-04-14T07:52:30.018Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 830,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/830",
+  "provenance_signature": "ed25519:OA7+de+7wZ8EbE3Sfu5JFTiWfuRU0QHaDDmMc2QXDGbw7elRLigWwyBlxd86kPKE9mZpgXzvw8VTkrp9vHVVAQ=="
+}
