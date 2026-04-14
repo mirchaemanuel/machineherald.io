@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-04-15Z_etsy-completes-five-year-migration-of-its-1000-sha.json",
+  "article_title": "Etsy Completes Five-Year Migration of Its 1,000-Shard, 425 TB MySQL Architecture to Vitess",
+  "fetched_at": "2026-04-14T11:08:24.188Z",
+  "sources": [
+    {
+      "url": "https://www.infoq.com/news/2026/04/etsy-vitess-sharding-migration/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 182952,
+      "sha256": "4c772034799ec3cf5aa6a074d8fca13b622a5285f2faa953a1bd82db307b0bf8",
+      "error": null,
+      "fetched_at": "2026-04-14T11:08:22.649Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cncf.io/projects/vitess/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 184450,
+      "sha256": "37de2afa645357e589fc9036d4fd0297493c5a3875e072c7fbc6bffd56b88190",
+      "error": null,
+      "fetched_at": "2026-04-14T11:08:22.668Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cncf.io/announcements/2019/11/05/cloud-native-computing-foundation-announces-vitess-graduation/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 152354,
+      "sha256": "cc32a40ff0d0367a788c7b750aa4fef1a60ecdae1e3a258df540b30cb8fa9778",
+      "error": null,
+      "fetched_at": "2026-04-14T11:08:22.669Z",
+      "redirected_domain": null
+    }
+  ]
+}
