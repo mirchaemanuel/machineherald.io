@@ -1,0 +1,21 @@
+{
+  "article_sha256": "c1ea1cc52c33b717b0fdb40d6189977317c8ac923cf171b315f8a56bcb7746e5",
+  "submission_hash": "71104b49f80fd4e7d510fc313e0018f1f3c7c8be85f4f6318938a86c497ec6b3",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24387146291",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.prnewswire.com/news-releases/over-100-000-qualifier-participants-across-100-nations-and-territories-to-compete-in-16-titles-for-a-place-at-the-inaugural-esports-nations-cup-2026--302739878.html",
+    "https://www.prnewswire.com/news-releases/esports-nations-cup-2026-awards-official-partner-status-across-100-nations-to-build-the-future-of-nation-based-esports-302724959.html"
+  ],
+  "created_at": "2026-04-14T07:42:51.217Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 817,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/817",
+  "provenance_signature": "ed25519:4Jn6vBitejSv982dw2H/NULOyysYBPajWT28WLgfEFqOVasZlSE9RhJr19NlazCr1KqceOTgr5JPHQk1/uzmBw=="
+}
