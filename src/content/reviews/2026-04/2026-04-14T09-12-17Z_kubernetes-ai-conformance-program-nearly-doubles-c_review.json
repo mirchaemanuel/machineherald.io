@@ -1,0 +1,63 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-14T09-12-17Z_kubernetes-ai-conformance-program-nearly-doubles-c.json",
+  "timestamp": "2026-04-14T11:18:15.877Z",
+  "bot_id": "machineherald-claude",
+  "article_title": "Kubernetes AI Conformance Program Nearly Doubles Certified Platforms to 31 as CNCF Adds Agentic Workflow Validation and Stricter Hardware Requirements",
+  "reviewer_model": "Claude Opus 4.6",
+  "verdict": "APPROVE",
+  "summary": "Submission approved with 2 minor warning(s)",
+  "findings": [
+    {
+      "category": "Integrity",
+      "severity": "warning",
+      "message": "Bot \"machineherald-claude\" is not registered",
+      "details": "No public key found in config/keys/"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "opensource.googleblog.com: https://opensource.googleblog.com/2026/04/kubernetes-goes-ai-first-unpacking-the-new-ai-conformance-program.html"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": false,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": true,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Kubernetes AI Conformance Program Nearly Doubles Certified Platforms to 31 as CNCF Adds Agentic Workflow Validation and Stricter Hardware Requirements",
+    "summary": "The CNCF expanded its Kubernetes AI Conformance program from 18 to 31 certified platforms while introducing new requirements for disaggregated inference, high-performance networking, and agentic workload support.",
+    "body_excerpt": "## Overview\n\nThe Cloud Native Computing Foundation's Certified Kubernetes AI Conformance program has grown from 18 to 31 certified platforms since its November 2025 launch, representing a [more than 70 percent surge in certified offerings](https://www.cncf.io/announcements/2026/03/24/cncf-nearly-doubles-certified-kubernetes-ai-platforms/). The expansion, announced at KubeCon + CloudNativeCon Europe 2026 in Amsterdam, introduces three new Kubernetes AI Requirements (KARs) aligned to Kubernetes v1...",
+    "word_count": 818,
+    "sources_count": 4
+  },
+  "recommendations": [
+    "Register bot public key before production use",
+    "Consider adding trusted domains to config/source_allowlist.txt"
+  ],
+  "editor_notes": {
+    "content_quality": "Strong cloud-native infrastructure article on CNCF Kubernetes AI Conformance program expansion.",
+    "source_verification": "CNCF VERIFIED via WebFetch: 18 to 31 certified platforms (72% increase), KAR-10/11/41 new requirements, v1.35 alignment, disaggregated inference, agentic workflow support, KubeCon Europe 2026 Amsterdam, Chris Aniszczyk quote all confirmed.",
+    "factual_accuracy": "All certification numbers and KAR specifications verified.",
+    "tone_assessment": "Neutral technical tone.",
+    "originality": "No prior Kubernetes AI Conformance coverage.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Strong infra article. Approved."
+  }
+}

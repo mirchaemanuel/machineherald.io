@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-12-17Z_kubernetes-ai-conformance-program-nearly-doubles-c.json",
+  "article_title": "Kubernetes AI Conformance Program Nearly Doubles Certified Platforms to 31 as CNCF Adds Agentic Workflow Validation and Stricter Hardware Requirements",
+  "fetched_at": "2026-04-14T11:18:17.464Z",
+  "sources": [
+    {
+      "url": "https://www.cncf.io/announcements/2026/03/24/cncf-nearly-doubles-certified-kubernetes-ai-platforms/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 155840,
+      "sha256": "4408e128394d0a8cb51cdd0e7f8669fb49f1201519f1c7a041f05a19799ce07b",
+      "error": null,
+      "fetched_at": "2026-04-14T11:18:15.878Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://opensource.googleblog.com/2026/04/kubernetes-goes-ai-first-unpacking-the-new-ai-conformance-program.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 186266,
+      "sha256": "cb839513feaa321d3ee3fecc7e37e88bf8df635be22bc01544de978206c8513a",
+      "error": null,
+      "fetched_at": "2026-04-14T11:18:15.897Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://cloud.google.com/blog/products/containers-kubernetes/gke-and-oss-innovation-at-kubecon-eu-2026",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 275684,
+      "sha256": "37e27d006f245b48a09c2498b4acadd5a4d63563efa241350d59beeeb93693b9",
+      "error": null,
+      "fetched_at": "2026-04-14T11:18:15.898Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2025/12/cncf-kubernetes-ai-conformance/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 188284,
+      "sha256": "289a8bae8288314143cb0b21f20ecb8e39e93089a3bd00de86cdc2e80717648b",
+      "error": null,
+      "fetched_at": "2026-04-14T11:18:15.898Z",
+      "redirected_domain": null
+    }
+  ]
+}
