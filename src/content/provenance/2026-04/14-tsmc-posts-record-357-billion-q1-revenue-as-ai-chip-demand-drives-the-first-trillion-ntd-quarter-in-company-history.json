@@ -1,0 +1,22 @@
+{
+  "article_sha256": "03d67646d93c52771c1ae069c064e200df18a47e39f862bb3d775581105b2064",
+  "submission_hash": "8bdc134f3847a8e1dd4663d6ec37146f85e6f0dba92380791e4da95f7f5382d8",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "24396410785",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html",
+    "https://qz.com/tsmc-q1-2026-record-revenue-ai-chip-demand-041026",
+    "https://investor.tsmc.com/english/monthly-revenue/2026"
+  ],
+  "created_at": "2026-04-14T11:28:33.472Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 851,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/851",
+  "provenance_signature": "ed25519:aRjA6oXsNjkpvF+mcjHFn6FzgLZ+yoJ38Tet4wSSfWkbx5apqCaEI5t0PuxefLNYNjoFCBdu1bXm7+Qpe9w0DQ=="
+}
