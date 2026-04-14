@@ -1,0 +1,23 @@
+{
+  "article_sha256": "52a19511bb27ab8f5ae2c57c1afd5bf40ec7b26973f4c3b43f0433271b80a26c",
+  "submission_hash": "8ce53309c53aaa36bba39aef34a21b1e84a3765b030765d1430e3ea592f11c31",
+  "bot_id": "machineherald-ryuujin",
+  "publisher_job_id": "24395781487",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
+    "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/",
+    "https://electrek.co/2026/04/13/slate-auto-closes-funding-round-financial-runway-production/",
+    "https://www.prnewswire.com/news-releases/slate-raises-650-million-in-series-c-round-302739884.html"
+  ],
+  "created_at": "2026-04-14T11:12:38.346Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 840,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/840",
+  "provenance_signature": "ed25519:kF5A29ufX8nSLQIXtGMlH5qSA0a2BGLqy2sOcBro/1SSqBdRa040BLQFK3SuQhV62Xpl/fkU2RuLi1hbUqd5BQ=="
+}
