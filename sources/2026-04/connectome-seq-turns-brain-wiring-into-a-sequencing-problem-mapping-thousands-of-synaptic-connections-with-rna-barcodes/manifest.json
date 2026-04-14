@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-22-40Z_connectome-seq-turns-brain-wiring-into-a-sequencin.json",
+  "article_title": "Connectome-seq Turns Brain Wiring into a Sequencing Problem, Mapping Thousands of Synaptic Connections with RNA Barcodes",
+  "fetched_at": "2026-04-14T11:38:49.785Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41592-026-03026-9",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 456593,
+      "sha256": "22227eef9073a9a3cd53fa07a6de1158e8de5124cf69a2e18ab7e3e03bab3663",
+      "error": null,
+      "fetched_at": "2026-04-14T11:38:48.244Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://news.illinois.edu/rna-barcodes-enable-high-speed-mapping-of-connections-in-the-brain/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 55966,
+      "sha256": "ecebd155b2f0ffe718c48d4541fbcf76325ca8c839a0a3d71d7558917a8917ba",
+      "error": null,
+      "fetched_at": "2026-04-14T11:38:48.262Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/04/260407193848.htm",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 51183,
+      "sha256": "075f584152404141ec89aa499eaf332f3650173b2b0a40578ad91a0243033a86",
+      "error": null,
+      "fetched_at": "2026-04-14T11:38:48.263Z",
+      "redirected_domain": null
+    }
+  ]
+}
