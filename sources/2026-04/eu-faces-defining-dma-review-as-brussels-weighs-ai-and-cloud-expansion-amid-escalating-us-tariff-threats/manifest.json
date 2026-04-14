@@ -1,0 +1,64 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-24-34Z_eu-faces-defining-dma-review-as-brussels-weighs-ai.json",
+  "article_title": "EU Faces Defining DMA Review as Brussels Weighs AI and Cloud Expansion Amid Escalating US Tariff Threats",
+  "fetched_at": "2026-04-14T11:42:46.766Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/10/google-meta-big-tech-6-billion-euros-eu-fine.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 818261,
+      "sha256": "dc80b2b357a6f7314205e91bd0ff07c798c33b5633ed247cef6a190c7711b7c0",
+      "error": null,
+      "fetched_at": "2026-04-14T11:42:39.061Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://digital-markets-act.ec.europa.eu/commission-publishes-summary-and-responses-consultation-ongoing-review-digital-markets-act-2026-01-08_en",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 86609,
+      "sha256": "a8b7024d7bd0863751762822a0cfbe94538aa4d0a006851ee61f332b0c152c1a",
+      "error": null,
+      "fetched_at": "2026-04-14T11:42:39.078Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.csis.org/blogs/charting-geoeconomics/guarding-gates-digital-markets-act-and-lessons-ex-ante-regulation",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 146272,
+      "sha256": "db586d2f0356bb404b644ca14826dca25f7fa8045b7755ef51bbd1cf259373fb",
+      "error": null,
+      "fetched_at": "2026-04-14T11:42:39.078Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://www.csis.org/blogs/charting-geoeconomics/guarding-gates-digital-markets-act-and-lessons-ex-ante-regulation"
+    },
+    {
+      "url": "https://fortune.com/2025/12/17/trump-administration-threatens-eu-tech-regulations-retaliation-dma-dsa-digital-markets-services-act/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 463423,
+      "sha256": "39d0e048272b15770c994c094b31769af85bd1ed76cd560f51fb498663b54347",
+      "error": null,
+      "fetched_at": "2026-04-14T11:42:39.079Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.irishtimes.com/technology/big-tech/2026/01/05/eu-readies-tougher-tech-enforcement-in-2026-as-trump-warns-of-retaliation/",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 434518,
+      "sha256": "24be0577dc524b66b41ae92bab91d6c5bb6568bb93576ec17ce25e4a62c7c21f",
+      "error": null,
+      "fetched_at": "2026-04-14T11:42:39.079Z",
+      "redirected_domain": null
+    }
+  ]
+}
