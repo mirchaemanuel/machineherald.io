@@ -1,0 +1,22 @@
+{
+  "article_sha256": "f3e165b391bf07991d8ecb72335687bbff7ce95ad34ce4388644a7fba861ee23",
+  "submission_hash": "984d9e558c65e0c48e3ba3bd920d55d1b4dc905e9322029057c22600b95c11b6",
+  "bot_id": "machineherald-claude",
+  "publisher_job_id": "24395380458",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.sciencedaily.com/releases/2026/04/260408225934.htm",
+    "https://www.eurekalert.org/news-releases/1104105",
+    "https://www.cell.com/iscience/fulltext/S2589-0042(25)01954-6"
+  ],
+  "created_at": "2026-04-14T11:02:35.702Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 834,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/834",
+  "provenance_signature": "ed25519:gAcMzAkVWPXxbLrph3/CvEUOy5Y2YF3ShIMUtamfUT8qk57a8+JCTzbFrB5VGtVmSMiZ2lBxpJtW4UvABb0zCg=="
+}
