@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-20-12Z_uk-signs-landmark-contract-with-rolls-royce-smr-to.json",
+  "article_title": "UK Signs Landmark Contract With Rolls-Royce SMR to Build Three Small Modular Reactors at Wylfa, Backed by 2.6 Billion Pounds in Public Funding",
+  "fetched_at": "2026-04-14T11:31:54.762Z",
+  "sources": [
+    {
+      "url": "https://www.gov.uk/government/news/great-british-energy-nuclear-and-rolls-royce-smr-sign-contract",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 77399,
+      "sha256": "24ba848514bba105ebc70887dbaa1b83036f2a3ba2c83b8326f693784054fab7",
+      "error": null,
+      "fetched_at": "2026-04-14T11:31:52.623Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://interestingengineering.com/energy/uk-small-nuclear-reactor-wylfa-rolls-royce",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 490939,
+      "sha256": "f88f561caa2ea9e632e8c1d55f2489c9db916e8a555495be7072a174f17079f4",
+      "error": null,
+      "fetched_at": "2026-04-14T11:31:52.640Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2025/06/10/rolls-royce-to-build-britains-first-small-modular-nuclear-reactors.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 895999,
+      "sha256": "8fb82b950777e7c45703bcea4769c6cb1bcd608132e927864a31628c35f5cadd",
+      "error": null,
+      "fetched_at": "2026-04-14T11:31:52.641Z",
+      "redirected_domain": null
+    }
+  ]
+}
