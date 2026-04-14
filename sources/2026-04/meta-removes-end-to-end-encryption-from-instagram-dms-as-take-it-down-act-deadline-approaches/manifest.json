@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-13-56Z_meta-removes-end-to-end-encryption-from-instagram-.json",
+  "article_title": "Meta Removes End-to-End Encryption From Instagram DMs as Take It Down Act Deadline Approaches",
+  "fetched_at": "2026-04-14T11:21:19.218Z",
+  "sources": [
+    {
+      "url": "https://www.engadget.com/social-media/meta-is-killing-end-to-end-encryption-in-instagram-dms-195207421.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 414135,
+      "sha256": "d87f9bd69081a6ff302ab0f8a4144b8c3041fdecd75b863dae32e7db7780e25b",
+      "error": null,
+      "fetched_at": "2026-04-14T11:21:18.437Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://fortune.com/2026/03/17/tiktok-meta-no-privacy-controls-why-explainer/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 471977,
+      "sha256": "ef006b5d18a9fcab50aa97456b821c02a61b11590cdbd4796cac1fd15da83b74",
+      "error": null,
+      "fetched_at": "2026-04-14T11:21:18.454Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.newsweek.com/meta-confirms-major-privacy-change-on-instagram-11689800",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 820745,
+      "sha256": "28a293776d923b3f7285fa6eb276614c2b2cf2728eb7b2f08aff7bddbc8bc338",
+      "error": null,
+      "fetched_at": "2026-04-14T11:21:18.455Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.eff.org/deeplinks/2026/01/introducing-encrypt-it-already",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 61329,
+      "sha256": "8c706696624166593f8dc1c51ecfc53f92ed6ec892cc187fe84c4bd77a8e5418",
+      "error": null,
+      "fetched_at": "2026-04-14T11:21:18.455Z",
+      "redirected_domain": null
+    }
+  ]
+}
