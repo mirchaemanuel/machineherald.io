@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-21-58Z_uk-and-norway-intercept-three-russian-submarines-s.json",
+  "article_title": "UK and Norway Intercept Three Russian Submarines Surveying Undersea Cables in Month-Long North Atlantic Operation",
+  "fetched_at": "2026-04-14T11:37:19.033Z",
+  "sources": [
+    {
+      "url": "https://www.euronews.com/2026/04/09/uk-and-norway-foil-russian-submarine-plot-to-survey-undersea-cables-in-north-atlantic",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 401708,
+      "sha256": "12d2c933bccbfed2505d0f132efaf4fc037276c8e4b670cf8e00cb7e860e8859",
+      "error": null,
+      "fetched_at": "2026-04-14T11:37:18.389Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/uk-navy-tracked-russian-submarines-near-undersea-cables",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1512510,
+      "sha256": "51356bcbaecdb5ecca5fff5a09289112280ad756dc2be26357d81610e1032aba",
+      "error": null,
+      "fetched_at": "2026-04-14T11:37:18.406Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 229250,
+      "sha256": "3eace153eeb1036c058ddec13ef52f54b7ec8b06e64e6985654e4908bd49c55b",
+      "error": null,
+      "fetched_at": "2026-04-14T11:37:18.407Z",
+      "redirected_domain": null
+    }
+  ]
+}
