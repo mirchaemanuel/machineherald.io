@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-21-16Z_berkeleys-innovative-genomics-institute-uses-crisp.json",
+  "article_title": "Berkeley's Innovative Genomics Institute Uses CRISPR to Boost Sorghum Photosynthesis Gene Expression More Than 30-Fold",
+  "fetched_at": "2026-04-14T11:35:34.265Z",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41587-026-03060-0",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 225226,
+      "sha256": "289b21b38249a920e5472b998b7b8c2e84e0c33a4564660265e4c75e5e177e35",
+      "error": null,
+      "fetched_at": "2026-04-14T11:35:32.923Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nature.com/articles/s41587-026-03046-y",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_length": 569284,
+      "sha256": "87b54ed8dacf1557b7f0c60bb8093e8050ae26d3951abfa66a700d28efb1dc48",
+      "error": null,
+      "fetched_at": "2026-04-14T11:35:32.940Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://vcresearch.berkeley.edu/news/chan-zuckerberg-initiative-puts-11-million-carbon-capture-research",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 85966,
+      "sha256": "2f14099177ec5e3329e413547b94f402b0765e62a4395b7a882f0304de0dda0b",
+      "error": null,
+      "fetched_at": "2026-04-14T11:35:32.941Z",
+      "redirected_domain": null
+    }
+  ]
+}
