@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-02-03Z_china-flies-worlds-first-megawatt-class-hydrogen-t.json",
+  "article_title": "China Flies World's First Megawatt-Class Hydrogen Turboprop Engine on a 7.5-Tonne Unmanned Cargo Aircraft",
+  "fetched_at": "2026-04-14T11:06:35.011Z",
+  "sources": [
+    {
+      "url": "https://interestingengineering.com/transportation/china-megawatt-hydrogen-turboprop-flight",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 530660,
+      "sha256": "96a64f766017c8ff812e3423b8190a300b3bd2ff8d2bfc2c44040801ce88b86b",
+      "error": null,
+      "fetched_at": "2026-04-14T11:06:34.353Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scmp.com/news/china/science/article/3349086/chinas-push-hydrogen-powered-planes-takes-step-forward-amid-iran-energy-crisis",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 663935,
+      "sha256": "8c1cf859d9d7f2f99ab1fd7fdf4b56da19d4ac4bdcbebcccae9a53c1410c24d4",
+      "error": null,
+      "fetched_at": "2026-04-14T11:06:34.371Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://tech.slashdot.org/story/26/04/06/2242242/china-flies-worlds-first-megawatt-class-hydrogen-turboprop-engine",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 201151,
+      "sha256": "91e64b57da8333b627236ef866e45a65d52162cf04e0637aa2189e8265c9c31e",
+      "error": null,
+      "fetched_at": "2026-04-14T11:06:34.371Z",
+      "redirected_domain": null
+    }
+  ]
+}
