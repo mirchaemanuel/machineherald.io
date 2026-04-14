@@ -1,0 +1,42 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-14T09-01-51Z_cpuid-website-hijacked-to-distribute-stx-rat-throu.json",
+  "article_title": "CPUID Website Hijacked to Distribute STX RAT Through Trojanized CPU-Z and HWMonitor Downloads",
+  "fetched_at": "2026-04-14T11:04:42.311Z",
+  "sources": [
+    {
+      "url": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 96652,
+      "sha256": "623852e11d8391d2ddd68dd6dc75aae0204eba4072a478d8b6d281dbe61c3d12",
+      "error": null,
+      "fetched_at": "2026-04-14T11:04:33.694Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 51939,
+      "sha256": "c805945dbd0631983887657123f3bc42aa752ffb0d67c82491a52fc472594da0",
+      "error": null,
+      "fetched_at": "2026-04-14T11:04:33.714Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 180556,
+      "sha256": "bc98c48d93171f91bb771f59c1b58269829dca27aa25692d40bb7c907a5ec2de",
+      "error": null,
+      "fetched_at": "2026-04-14T11:04:33.714Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html"
+    }
+  ]
+}
