@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-15T14-06-13Z_amazon-to-buy-globalstar-for-1157-billion-in-satel.json",
+  "article_title": "Amazon to Buy Globalstar for $11.57 Billion in Satellite Push That Pulls Apple Into Its Orbit",
+  "fetched_at": "2026-04-15T15:27:38.526Z",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 825267,
+      "sha256": "bf187e9b385f44de88f52187f3d6aadc4c583c9dd5c7574b1fb069c892b9770a",
+      "error": null,
+      "fetched_at": "2026-04-15T15:27:37.340Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 223345,
+      "sha256": "ab406c6aee7a1fe1216a1b0e7a0956f10101c78868761f450d529268972c4b16",
+      "error": null,
+      "fetched_at": "2026-04-15T15:27:37.360Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nbcnews.com/business/corporations/amazon-globalstar-elon-musk-starlink-rcna331698",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 263477,
+      "sha256": "5f3ea890ddcdeef26ba71329842a5937c1ce20af3ba2844961a3c52d0ffcce26",
+      "error": null,
+      "fetched_at": "2026-04-15T15:27:37.361Z",
+      "redirected_domain": null
+    }
+  ]
+}
