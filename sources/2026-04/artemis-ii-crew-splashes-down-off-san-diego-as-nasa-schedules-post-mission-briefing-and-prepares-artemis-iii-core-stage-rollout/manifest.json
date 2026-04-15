@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-15T14-08-41Z_artemis-ii-crew-splashes-down-off-san-diego-as-nas.json",
+  "article_title": "Artemis II Crew Splashes Down Off San Diego as NASA Schedules Post-Mission Briefing and Prepares Artemis III Core Stage Rollout",
+  "fetched_at": "2026-04-15T15:29:17.690Z",
+  "sources": [
+    {
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 292739,
+      "sha256": "9d6c6cbf9c09e12717bff7b702dd43b436cdfb657e550768b8aaef6b4842b0cc",
+      "error": null,
+      "fetched_at": "2026-04-15T15:29:17.283Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-rollout-event-for-artemis-iii-moon-rocket-stage/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 263862,
+      "sha256": "a5417776b98c43c64d9d56b84f291b49f46d5469b86eb97b58cd4180993e5839",
+      "error": null,
+      "fetched_at": "2026-04-15T15:29:17.302Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1551300,
+      "sha256": "09ca47edb57d2eb41ed72e1d5fbd2b0937ce193fbf779355bb2ce2acae9674b4",
+      "error": null,
+      "fetched_at": "2026-04-15T15:29:17.303Z",
+      "redirected_domain": null
+    }
+  ]
+}
