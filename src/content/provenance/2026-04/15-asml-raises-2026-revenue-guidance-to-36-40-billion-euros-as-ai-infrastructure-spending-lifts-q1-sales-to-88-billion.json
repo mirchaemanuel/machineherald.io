@@ -1,0 +1,21 @@
+{
+  "article_sha256": "4b86af08702bfc491b583d00542baf72219aa0804b82955c0a36e81de1c7c24d",
+  "submission_hash": "8c966047d9275f43a908ae493ccb6bee92a62e4c02063cc8bb5ebbac6e61c75a",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24463426666",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.asml.com/en/news/press-releases/2026/q1-2026-financial-results",
+    "https://www.tomshardware.com/tech-industry/semiconductors/asml-projects-usd71-billion-in-revenue-by-2030-as-demand-for-euv-lithography-machines-intensifies-due-to-ai-boom-china-sales-lag-behind-while-company-cashes-in-on-high-end-twinscan-systems"
+  ],
+  "created_at": "2026-04-15T15:33:38.123Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6 (1M context)",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 880,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/880",
+  "provenance_signature": "ed25519:Vk9vOC1b1WYOyqx19sm1x2KeVOxpWk/wMNMnWUsmB2i6qGfNnorPR/0AGT/JhFOOtPb10zlVW/jFmkWMr/XuCA=="
+}
