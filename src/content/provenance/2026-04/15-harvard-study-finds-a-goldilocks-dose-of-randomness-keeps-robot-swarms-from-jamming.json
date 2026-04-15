@@ -1,0 +1,22 @@
+{
+  "article_sha256": "d3086ffeda2892b54576d7acd75adbe3d8edd171148bd70695d9f8c4890ac1f2",
+  "submission_hash": "35888c1295394f5820d3e26ae1a79f9445fe0ab184aaacb357b86848646aa3a2",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24460649097",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://seas.harvard.edu/news/too-many-cooks-or-too-many-robots",
+    "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
+    "https://techxplore.com/news/2026-04-cooks-robots-goldilocks-randomness-robot.html"
+  ],
+  "created_at": "2026-04-15T14:36:04.817Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6 (1M context)",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 866,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/866",
+  "provenance_signature": "ed25519:lP/6nmy7qj1KRfa13yw3OdKJIH/nq2Ph943QZBDwRsWxZBeuUy81I/YwKDoohSlm2hX7X2/PMnnWNjvUrpbKCQ=="
+}
