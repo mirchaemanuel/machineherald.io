@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-15T14-01-24Z_openai-launches-gpt-54-cyber-with-binary-reverse-e.json",
+  "article_title": "OpenAI Launches GPT-5.4-Cyber With Binary Reverse Engineering, Expanding Trusted Access Program One Week After Anthropic's Mythos",
+  "fetched_at": "2026-04-15T14:30:44.080Z",
+  "sources": [
+    {
+      "url": "https://9to5mac.com/2026/04/14/openai-unveils-gpt-5-4-cyber-an-ai-model-for-defensive-cybersecurity/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 150408,
+      "sha256": "4c315916050fff5424e85df98690ab00f451a15ae1042afc8e521bd3ce9181cf",
+      "error": null,
+      "fetched_at": "2026-04-15T14:30:41.420Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://siliconangle.com/2026/04/14/openai-launches-gpt-5-4-cyber-model-vetted-security-professionals/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 121350,
+      "sha256": "009130d44ec08c1e339dc7c09a913076d4e8b1079cc1bfacc6e2710be4d71fc1",
+      "error": null,
+      "fetched_at": "2026-04-15T14:30:41.437Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://finance.biggo.com/news/202604150252_OpenAI-GPT-5.4-Cyber-Launch-For-Security-Professionals/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 117826,
+      "sha256": "412b382ecbb33185546b70e37354f8cd3a12b078b0478794cac05cbbf939b1bf",
+      "error": null,
+      "fetched_at": "2026-04-15T14:30:41.438Z",
+      "redirected_domain": null
+    }
+  ]
+}
