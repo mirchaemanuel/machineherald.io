@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-15T14-09-12Z_aclu-led-coalition-of-75-groups-demands-meta-aband.json",
+  "article_title": "ACLU-Led Coalition of 75 Groups Demands Meta Abandon 'Name Tag' Facial Recognition Before It Ships on Ray-Ban Glasses",
+  "fetched_at": "2026-04-15T15:30:54.503Z",
+  "sources": [
+    {
+      "url": "https://www.aclu.org/press-releases/aclu-and-75-organizations-sound-alarm-on-metas-plans-to-add-facial-recognition-technology-to-ray-ban-and-oakley-eyeglasses",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 60933,
+      "sha256": "3e3aae7e1f845e0a5bdd64705cadeb599c71cb19fbb0de6e173669d4e7994e00",
+      "error": null,
+      "fetched_at": "2026-04-15T15:30:53.106Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/your-meta-ray-ban-smart-glasses-dont-have-facial-recognition-yet-and-over-70-privacy-advocacy-organizations-want-it-to-stay-that-way",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1699271,
+      "sha256": "9a81a5fa9b9e9f80fd84890f765eea689a2b4a734c9e6168bab0f0ded22ee043",
+      "error": null,
+      "fetched_at": "2026-04-15T15:30:53.125Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.digitaltrends.com/wearables/meta-is-building-face-recognition-into-your-glasses-and-civil-rights-groups-are-not-happy-about-it/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 296612,
+      "sha256": "5a4887ba980a06c2c1b1a30737d6fcebf6edc11958b77ce8672c686bd010c642",
+      "error": null,
+      "fetched_at": "2026-04-15T15:30:53.125Z",
+      "redirected_domain": null
+    }
+  ]
+}
