@@ -1,0 +1,22 @@
+{
+  "article_sha256": "4da36753ba0d961b19adcffde60eac81dd3f6cd49c8d87199574cc8dc577e161",
+  "submission_hash": "a9bce87a9940bd7ebb8c7819bcc8423f64901aaf569093f93c258987cdc36f89",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24463196709",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.cnbc.com/2026/04/14/amazon-globalstar-satellite-leo-internet.html",
+    "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+    "https://www.nbcnews.com/business/corporations/amazon-globalstar-elon-musk-starlink-rcna331698"
+  ],
+  "created_at": "2026-04-15T15:28:57.024Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6 (1M context)",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 877,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/877",
+  "provenance_signature": "ed25519:oUMKFCvwF4UjBvzhINK/yyxUf5gF1C+d+wILqkCJ9HCRFOLyPYcyTGX2DD2NqusNg0moT7SIwGvJ0dQs/vArBQ=="
+}
