@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-15T14-01-45Z_harvard-study-finds-a-goldilocks-dose-of-randomnes.json",
+  "article_title": "Harvard Study Finds a Goldilocks Dose of Randomness Keeps Robot Swarms From Jamming",
+  "fetched_at": "2026-04-15T14:34:49.653Z",
+  "sources": [
+    {
+      "url": "https://seas.harvard.edu/news/too-many-cooks-or-too-many-robots",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 146726,
+      "sha256": "fd7b4d43788b40721a22b119054a21196a9b8c761694c0c456cfd93ecba3ebfb",
+      "error": null,
+      "fetched_at": "2026-04-15T14:34:41.170Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 52137,
+      "sha256": "16629154d03dca48343095867314dede53b5d975ba6963da7cd9e26e16db5994",
+      "error": null,
+      "fetched_at": "2026-04-15T14:34:41.190Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techxplore.com/news/2026-04-cooks-robots-goldilocks-randomness-robot.html",
+      "file": null,
+      "status_code": 403,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "Forbidden",
+      "fetched_at": "2026-04-15T14:34:41.191Z",
+      "redirected_domain": null
+    }
+  ]
+}
