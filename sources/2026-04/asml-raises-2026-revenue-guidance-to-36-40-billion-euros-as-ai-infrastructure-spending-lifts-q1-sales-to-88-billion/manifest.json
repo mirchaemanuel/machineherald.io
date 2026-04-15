@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-15T14-10-18Z_asml-raises-2026-revenue-guidance-to-36-40-billion.json",
+  "article_title": "ASML Raises 2026 Revenue Guidance to 36-40 Billion Euros as AI Infrastructure Spending Lifts Q1 Sales to 8.8 Billion",
+  "fetched_at": "2026-04-15T15:32:26.754Z",
+  "sources": [
+    {
+      "url": "https://www.asml.com/en/news/press-releases/2026/q1-2026-financial-results",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 253532,
+      "sha256": "f85da45718a7b586beeb618f139ae2c72c82621dfc52143e7ffd324960886d56",
+      "error": null,
+      "fetched_at": "2026-04-15T15:32:23.219Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-projects-usd71-billion-in-revenue-by-2030-as-demand-for-euv-lithography-machines-intensifies-due-to-ai-boom-china-sales-lag-behind-while-company-cashes-in-on-high-end-twinscan-systems",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1459258,
+      "sha256": "5748b5594216a35c78c7077736cb1c07460e18808f202c2955a562f85f6fd023",
+      "error": null,
+      "fetched_at": "2026-04-15T15:32:23.241Z",
+      "redirected_domain": null
+    }
+  ]
+}
