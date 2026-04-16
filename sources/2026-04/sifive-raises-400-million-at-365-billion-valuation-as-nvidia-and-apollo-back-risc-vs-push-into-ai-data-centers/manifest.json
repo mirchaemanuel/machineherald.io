@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-16T13-08-53Z_sifive-raises-400-million-at-365-billion-valuation.json",
+  "article_title": "SiFive Raises $400 Million at $3.65 Billion Valuation as Nvidia and Apollo Back RISC-V's Push Into AI Data Centers",
+  "fetched_at": "2026-04-16T14:52:11.069Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 224296,
+      "sha256": "5c75665d25a1272fe4ee770df3927de7f3ed852fddb0ed19555626432995e485",
+      "error": null,
+      "fetched_at": "2026-04-16T14:52:09.702Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://evertiq.com/news/2026-04-13-sifive-raises-400m-to-accelerate-risc-v-data-center-solutions",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 24562,
+      "sha256": "df34814b43f71124d9072171240062302da032bb652e77ad83561ffb825a5cb3",
+      "error": null,
+      "fetched_at": "2026-04-16T14:52:09.730Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/technology/articles/sifive-raises-400m-expand-risc-081304651.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 96331,
+      "sha256": "5cd4d00e3c7800e2fbbd9bad759aba1894e9c51ca93e3bdc8fd58d58dd4292eb",
+      "error": null,
+      "fetched_at": "2026-04-16T14:52:09.730Z",
+      "redirected_domain": "consent.yahoo.com"
+    },
+    {
+      "url": "https://www.jonpeddie.com/news/q126-risc-v-market-update-from-jon-peddie-research/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 117439,
+      "sha256": "ab7cfb20a7e16684bca3b5f5b2558194f2114a71900ad6e08456390c7ece233d",
+      "error": null,
+      "fetched_at": "2026-04-16T14:52:09.731Z",
+      "redirected_domain": null
+    }
+  ]
+}
