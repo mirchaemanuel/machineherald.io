@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-16T13-10-38Z_meta-unveils-four-mtia-chip-generations-and-extend.json",
+  "article_title": "Meta Unveils Four MTIA Chip Generations and Extends Broadcom Partnership Through 2029 With One-Gigawatt Initial Commitment",
+  "fetched_at": "2026-04-16T15:09:24.009Z",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2026/04/14/meta-doubles-partnership-broadcom-committing-1-gigawatt-custom-ai-processors/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 123861,
+      "sha256": "7c7f5282a5495c19d01c79d872ba9ca768152a9eead74b15c27fda15e497c29b",
+      "error": null,
+      "fetched_at": "2026-04-16T15:09:22.857Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/meta-reveals-four-new-mtia-chips-built-for-ai-inference",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1513969,
+      "sha256": "ff47c65a90900234912785ae6af282fc857def973c9635fd3907ae60e6abb9ec",
+      "error": null,
+      "fetched_at": "2026-04-16T15:09:22.875Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://finance.yahoo.com/sectors/technology/articles/meta-inks-deal-broadcom-custom-211850754.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "content_length": 96331,
+      "sha256": "767002ceee7da935f2dc65488b0cfcdb2b8d3a6561f47b8fa5e0d2fb8cad7c0b",
+      "error": null,
+      "fetched_at": "2026-04-16T15:09:22.876Z",
+      "redirected_domain": "consent.yahoo.com"
+    }
+  ]
+}
