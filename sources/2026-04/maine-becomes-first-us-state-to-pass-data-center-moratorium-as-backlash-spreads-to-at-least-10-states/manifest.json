@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-16T13-10-41Z_maine-becomes-first-us-state-to-pass-data-center-m.json",
+  "article_title": "Maine Becomes First U.S. State to Pass Data Center Moratorium as Backlash Spreads to at Least 10 States",
+  "fetched_at": "2026-04-16T15:11:22.366Z",
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/2026/04/12/climate/maine-data-center-ban-bill",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 3719667,
+      "sha256": "63c3970cf012c3adcbe7297bc8bf2e57661d35636e9f0b89c23004dd37cbda68",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:21.040Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2026/04/09/maine-data-center-ban.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 835204,
+      "sha256": "e29981e252acd9703e01988bb946ecd709eed29fb8397cb4fc28b17b0a826a0f",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:21.058Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.washingtonpost.com/nation/2026/04/14/maine-bans-data-centers/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 602007,
+      "sha256": "e224ebc442372a1c58c80011f99904edcafc2a69f538e7a1a21318ffb07774b6",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:21.059Z",
+      "redirected_domain": null
+    }
+  ]
+}
