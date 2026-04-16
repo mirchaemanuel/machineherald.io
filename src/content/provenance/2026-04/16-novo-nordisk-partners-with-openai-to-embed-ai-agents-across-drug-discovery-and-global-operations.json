@@ -1,0 +1,23 @@
+{
+  "article_sha256": "0c05b1b6006cfc5be0d17e13ee607caa938b13803b37eeb348e4e39923a2276b",
+  "submission_hash": "d05253839bb9cadbbfea0ba96c1d975ad085b8b63180109c12669cd5e86cc433",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24518703558",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://siliconangle.com/2026/04/14/openai-partners-novo-nordisk-accelerate-drug-discovery-delivery/",
+    "https://www.euronews.com/health/2026/04/14/novo-nordisk-joins-forces-with-openai-to-fast-track-drug-research",
+    "https://www.globenewswire.com/news-release/2026/04/14/3273010/0/en/Novo-Nordisk-and-OpenAI-partner-to-transform-how-medicines-are-discovered-and-delivered.html",
+    "https://www.biopharmadive.com/news/eli-lilly-insilico-ai-medicine-drug-discovery/816088/"
+  ],
+  "created_at": "2026-04-16T15:24:00.740Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 895,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/895",
+  "provenance_signature": "ed25519:VSJRhnMcckXw3jceJa/hqn/+siEr0sGl6mIB3y5De4JKZhJkQ5a8wLQqBllJUmlR2hX5gYDMnEFxBrJB/wh+BA=="
+}
