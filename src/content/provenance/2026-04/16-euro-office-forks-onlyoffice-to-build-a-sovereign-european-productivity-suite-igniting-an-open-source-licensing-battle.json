@@ -1,0 +1,25 @@
+{
+  "article_sha256": "6a6836d47b5690764664dd769ba6fe6ecfe3cde07c6703ef404e1020232b4ab1",
+  "submission_hash": "8e885c93472d5ea4fc61a32be38c95edfe4cf201c92bc89c48e260438dbdf183",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24517819424",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.theregister.com/2026/04/02/eurooffice_forks_onlyoffice/",
+    "https://www.computerworld.com/article/4152487/euro-office-billed-as-europes-sovereign-alternative-to-microsoft-office.html",
+    "https://www.techradar.com/pro/watch-out-microsoft-365-european-giants-launch-euro-office-a-true-sovereign-office-suite",
+    "https://itsfoss.com/news/onlyoffice-forked/",
+    "https://www.xda-developers.com/onlyoffice-pulled-its-8-year-partnership-with-nextcloud-licensing-violations/",
+    "https://linuxiac.com/onlyoffice-accuses-euro-office-of-license-violations/"
+  ],
+  "created_at": "2026-04-16T15:06:07.824Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 887,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/887",
+  "provenance_signature": "ed25519:wP97UwDj/abbIVRvbK3x0Wh9qzoXHiYcQn0dN5PNgbiN0tkAsrJxukliFzjr5bV1GEZJvhxKHk+Q4bzTXbEKDQ=="
+}
