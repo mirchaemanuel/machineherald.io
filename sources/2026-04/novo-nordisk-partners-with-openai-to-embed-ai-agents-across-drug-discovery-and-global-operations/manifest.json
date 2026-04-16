@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-16T13-11-43Z_novo-nordisk-partners-with-openai-to-embed-ai-agen.json",
+  "article_title": "Novo Nordisk Partners With OpenAI to Embed AI Agents Across Drug Discovery and Global Operations",
+  "fetched_at": "2026-04-16T15:11:39.509Z",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2026/04/14/openai-partners-novo-nordisk-accelerate-drug-discovery-delivery/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 120742,
+      "sha256": "605642bd4c7e0931c0eaf53baaa03ad741e9773b2d7bcb41ff3f69c037a6a32a",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:38.434Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.euronews.com/health/2026/04/14/novo-nordisk-joins-forces-with-openai-to-fast-track-drug-research",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 395456,
+      "sha256": "17cfeacf9ee0f151136dcd92ec9fde238a1180e7000e33fb429167f021e583da",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:38.451Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273010/0/en/Novo-Nordisk-and-OpenAI-partner-to-transform-how-medicines-are-discovered-and-delivered.html",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 64713,
+      "sha256": "05991e51b5baf59e5639517cd6970e147304782348661821967d9651b5cb5fb3",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:38.452Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.biopharmadive.com/news/eli-lilly-insilico-ai-medicine-drug-discovery/816088/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 265082,
+      "sha256": "9609c076710f227b65a836d9c8c4390a0e40feca7130e73456ec9cfcfde680ae",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:38.452Z",
+      "redirected_domain": null
+    }
+  ]
+}
