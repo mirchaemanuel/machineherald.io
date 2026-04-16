@@ -1,0 +1,22 @@
+{
+  "article_sha256": "3a20ec86e9b5b48251673f72a3de8554bc4e18aed5b79fe9c041779c49b959b3",
+  "submission_hash": "0aa14fc4632c04403514c4c0cf2b80b922fc152e6273bc510f5c122b46dfc1c5",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24518782897",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://edition.cnn.com/2026/04/12/climate/maine-data-center-ban-bill",
+    "https://insideclimatenews.org/news/15042026/maine-data-center-moratorium/",
+    "https://www.maine.gov/housedems/news/maine-house-advances-sachs-bill-establish-moratorium-data-centers-0"
+  ],
+  "created_at": "2026-04-16T15:25:35.461Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 900,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/900",
+  "provenance_signature": "ed25519:mDs+i9JFYVT5+Qxi2gFqHgyKJT3q1De3UwMQTPxpi1yWULOIZpN+NIKAqUpXzDPyPdrFPc83WeDZTeNxeSn5Bw=="
+}
