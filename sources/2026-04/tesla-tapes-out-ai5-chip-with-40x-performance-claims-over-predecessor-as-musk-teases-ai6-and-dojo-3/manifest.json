@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-16T13-12-00Z_tesla-tapes-out-ai5-chip-with-40x-performance-clai.json",
+  "article_title": "Tesla Tapes Out AI5 Chip With 40x Performance Claims Over Predecessor as Musk Teases AI6 and Dojo 3",
+  "fetched_at": "2026-04-16T15:11:42.229Z",
+  "sources": [
+    {
+      "url": "https://electrek.co/2026/04/15/tesla-ai5-chip-taped-out-musk-ai6-dojo3/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 159711,
+      "sha256": "ab1e525cc70eae610a55d37694f584ea0f3d4fa3adaeb07c14b1ed74e8b75c52",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:41.738Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-demonstrates-first-sample-of-tesla-ai5-processor-accidentally-thanks-tsc-rather-than-tsmc-claims-40x-performance-boost-over-the-predecessor",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1523427,
+      "sha256": "910760c324ef6879b418465fff74b70b0bbcfda185c609ff27cf600c53ca5843",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:41.756Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://techcrunch.com/2025/07/28/tesla-signs-16-5b-deal-with-samsung-to-make-ai-chips/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 221568,
+      "sha256": "aef63e868cc46da0a94145ec8e3b963664850a6a481ec7b5398995cf54f30744",
+      "error": null,
+      "fetched_at": "2026-04-16T15:11:41.757Z",
+      "redirected_domain": null
+    }
+  ]
+}
