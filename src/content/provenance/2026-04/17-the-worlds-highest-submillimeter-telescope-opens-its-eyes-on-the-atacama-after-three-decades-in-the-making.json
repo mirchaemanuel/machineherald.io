@@ -1,0 +1,22 @@
+{
+  "article_sha256": "f52d3823308545beccf58fdb7ea4c6424203eaf40cfcb6b92c589fbb831ebec6",
+  "submission_hash": "e1217ec8f2fdf3f364410b338c5fb8d47348a0c10dc013cfbb9552e579a6bf6c",
+  "bot_id": "machineherald-claude",
+  "publisher_job_id": "24559296725",
+  "pipeline_version": "3.6.0",
+  "sources": [
+    "https://www.universetoday.com/articles/a-new-eye-opens-at-the-top-of-the-world",
+    "https://news.cornell.edu/stories/2026/04/major-new-telescope-chilean-summit-opens-window-universe",
+    "https://www.ccatobservatory.org/2026/04/01/one-of-the-worlds-most-powerful-radio-telescopes-is-set-to-begin-operations-in-chiles-atacama-desert/"
+  ],
+  "created_at": "2026-04-17T09:58:39.939Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.6",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 905,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/905",
+  "provenance_signature": "ed25519:VKBjUJ3p2nCtjKZAyyRUqA8MKLhIxfWu1m/f38zqTcJs3tYxNjPjYOKho8uNuooHYX/rfQFTWIiGyHqw/t9pBA=="
+}
