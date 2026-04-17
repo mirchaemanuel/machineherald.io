@@ -1,0 +1,31 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-17T09-42-58Z_cisco-patches-four-critical-flaws-in-identity-serv.json",
+  "article_title": "Cisco Patches Four Critical Flaws in Identity Services Engine and Webex, Including a 9.8-Severity SSO Bypass",
+  "fetched_at": "2026-04-17T09:55:29.617Z",
+  "sources": [
+    {
+      "url": "https://www.csoonline.com/article/4159827/cisco-systems-issues-three-advisories-for-critical-vulnerabilities-in-webex-ise.html",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 257622,
+      "sha256": "aaabc8ac11910cdc809bead6c60458d650b041177407f487f1b19f2d9d109c41",
+      "error": null,
+      "fetched_at": "2026-04-17T09:55:11.404Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 179838,
+      "sha256": "25d182267f7952d098ddb92d2f6961ac951938d59651afcce902536a80c691e8",
+      "error": null,
+      "fetched_at": "2026-04-17T09:55:11.422Z",
+      "redirected_domain": null,
+      "archive_fallback": true,
+      "archive_url": "https://web.archive.org/web/https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html"
+    }
+  ]
+}
