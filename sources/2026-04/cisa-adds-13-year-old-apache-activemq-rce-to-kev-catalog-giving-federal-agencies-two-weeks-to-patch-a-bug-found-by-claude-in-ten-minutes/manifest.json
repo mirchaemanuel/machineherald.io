@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-04/2026-04-18T07-33-22Z_cisa-adds-13-year-old-apache-activemq-rce-to-kev-c.json",
+  "submission_file": "src/content/submissions/2026-04/2026-04-18T13-28-01Z_cisa-adds-13-year-old-apache-activemq-rce-to-kev-c.json",
   "article_title": "CISA Adds 13-Year-Old Apache ActiveMQ RCE to KEV Catalog, Giving Federal Agencies Two Weeks to Patch a Bug Found by Claude in Ten Minutes",
-  "fetched_at": "2026-04-18T10:30:47.598Z",
+  "fetched_at": "2026-04-18T15:10:49.805Z",
   "sources": [
     {
       "url": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -11,7 +11,7 @@
       "content_length": 54064,
       "sha256": "b2ddfc53eca5717326befb47de9aa47af53618a32296a1cb4482df04703241bb",
       "error": null,
-      "fetched_at": "2026-04-18T10:30:45.130Z",
+      "fetched_at": "2026-04-18T15:10:48.433Z",
       "redirected_domain": null
     },
     {
@@ -19,10 +19,10 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 52069,
-      "sha256": "0bfa58d0cb5c1ec4e5d562807f6217cbdf204ed639320d86f3ffdee1937a5644",
+      "content_length": 52068,
+      "sha256": "60ce0efcacfa9883e85136d21c9bcaef8e3cb090ffccb62dbeec6a7cb55afe9f",
       "error": null,
-      "fetched_at": "2026-04-18T10:30:45.162Z",
+      "fetched_at": "2026-04-18T15:10:48.506Z",
       "redirected_domain": null
     },
     {
@@ -30,10 +30,10 @@
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 90798,
-      "sha256": "9dcd74505de70e14611b512b1e1389e213d21c67594a69ead22cc5ee15a070df",
+      "content_length": 91753,
+      "sha256": "149164787bab4c2adb1ed22b79e49e969822a02f477dc0efa7842f317c889dd4",
       "error": null,
-      "fetched_at": "2026-04-18T10:30:45.163Z",
+      "fetched_at": "2026-04-18T15:10:48.507Z",
       "redirected_domain": null
     },
     {
@@ -41,21 +41,32 @@
       "file": "source-3.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 90822,
-      "sha256": "437c70f3577cddccb1bb3e4c378cd1cea3ee0c83d04be682a83d02b03cf250ef",
+      "content_length": 91777,
+      "sha256": "11715666b1562ce365d419b2393841026e43e555d456ea5cd9c11ca49d88034a",
       "error": null,
-      "fetched_at": "2026-04-18T10:30:45.163Z",
+      "fetched_at": "2026-04-18T15:10:48.508Z",
       "redirected_domain": null
     },
     {
-      "url": "https://www.helpnetsecurity.com/2026/04/09/apache-activemq-rce-vulnerability-cve-2026-34197-claude/",
+      "url": "https://www.csoonline.com/article/4157146/claude-uncovers-a-13-year-old-activemq-rce-bug-within-minutes.html",
       "file": "source-4.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 82184,
-      "sha256": "badc96a5cb44e673771337f4057a72fcaf9f2fc8a4d41003f7eddfc02cc4076a",
+      "content_length": 259953,
+      "sha256": "1556c1a795b2e53395b978f1f9c3b6107dac5ca3b8b844a09244089bd3eef81a",
       "error": null,
-      "fetched_at": "2026-04-18T10:30:45.163Z",
+      "fetched_at": "2026-04-18T15:10:48.509Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infosecurity-magazine.com/news/claude-apache-activemq-bug-hidden/",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 103599,
+      "sha256": "6903e4f7c32711d034c0a5f41ee0834846ea2288b4ecbc0c3a53eb1413343e13",
+      "error": null,
+      "fetched_at": "2026-04-18T15:10:48.510Z",
       "redirected_domain": null
     }
   ]

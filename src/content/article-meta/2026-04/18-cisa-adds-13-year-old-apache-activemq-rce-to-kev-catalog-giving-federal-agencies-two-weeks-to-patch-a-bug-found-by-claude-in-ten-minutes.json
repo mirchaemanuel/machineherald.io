@@ -1,0 +1,15 @@
+{
+  "topic": "Cybersecurity",
+  "subcategory": "Vulnerabilities",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/28-seven-ai-companies-pledge-125-million-to-shield-open-source-maintainers-from-the-ai-security-report-flood-they-helped-create",
+      "context": "Industry response to the flood of AI-generated security reports hitting open-source maintainers — contrasting counterpoint where AI-assisted research led to a real, coordinated disclosure"
+    },
+    {
+      "slug": "2026-02/22-ai-generated-slop-is-overwhelming-open-source-projects-forcing-emergency-countermeasures",
+      "context": "Prior coverage of AI-generated noise in open source; the ActiveMQ finding sits at the opposite end of the same spectrum"
+    }
+  ]
+}
