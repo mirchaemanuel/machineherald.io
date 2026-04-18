@@ -1,0 +1,62 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-18T07-37-32Z_wright-tells-congress-first-5-to-10-new-us-nuclear.json",
+  "article_title": "Wright Tells Congress First 5 to 10 New US Nuclear Reactors Will 'Almost Certainly' Get DOE Loans",
+  "fetched_at": "2026-04-18T12:05:19.040Z",
+  "sources": [
+    {
+      "url": "https://www.foxbusiness.com/energy/energy-secretary-says-doe-loan-office-largely-finance-nuclear-power-plants-reflecting-trump-priorities",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 197766,
+      "sha256": "a08f017868c504d8aa95d0fbd915e144d5af3dfc467db0cc56194a0e6c6a2628",
+      "error": null,
+      "fetched_at": "2026-04-18T12:05:17.541Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.utilitydive.com/news/congress-presses-wright-on-does-coal-restarts-cancelled-project-funding/817690/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 269752,
+      "sha256": "9ec9e5c9bd61d0b2fcd66e610d2112b8a36711eb5ffcbee331d27a756cb88551",
+      "error": null,
+      "fetched_at": "2026-04-18T12:05:17.575Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.utilitydive.com/news/congress-doe-wright-energy-star-permitting-reform/817827/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 276382,
+      "sha256": "1f5199ec1f20d301bdffda7a95e53a32b80214f00ff7c6520310ab3bfbfa45be",
+      "error": null,
+      "fetched_at": "2026-04-18T12:05:17.576Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.energy.gov/articles/fact-sheet-energy-department-delivering-accelerating-deployment-nuclear-power",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 121331,
+      "sha256": "f27bdfbf60738176a1c0ac15591c9c9391ddb50f5311f46f44958e1d084b3aa7",
+      "error": null,
+      "fetched_at": "2026-04-18T12:05:17.576Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/10/nuclear-power-energy-department-chris-wright-loan-westinghouse-ai-data-center.html",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 766910,
+      "sha256": "366e410b729c590cbcd435fc870516fed8a65ece2b86568bb82f825ab7f68df6",
+      "error": null,
+      "fetched_at": "2026-04-18T12:05:17.577Z",
+      "redirected_domain": null
+    }
+  ]
+}
