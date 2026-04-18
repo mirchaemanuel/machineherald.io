@@ -1,0 +1,57 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-18T16-40-54Z_wright-tells-congress-first-5-to-10-new-us-nuclear.json",
+  "timestamp": "2026-04-18T16:53:30.486Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Wright Tells Congress First 5 to 10 New US Nuclear Reactors Will 'Almost Certainly' Get DOE Loans",
+  "reviewer_model": "Claude Opus 4.7 (1M context)",
+  "verdict": "APPROVE",
+  "summary": "Round 3 re-review: both Round 2 findings are fully and cleanly resolved. Tonko→Peters misattribution fixed; 5 GW / 10-reactor / 2030 quote is now cited verbatim to EO 14302 (whitehouse.gov added as new source), with the DOE fact sheet citation correctly narrowed to the '100 GW to 400 GW by 2050' target. All sources independently re-verified. No new regressions detected. Ready to publish.",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 401",
+      "details": "https://www.reuters.com/sustainability/climate-energy/first-new-planned-us-nuclear-reactors-likely-get-government-loans-energy-chief-2026-04-16/"
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "signature_valid": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Wright Tells Congress First 5 to 10 New US Nuclear Reactors Will 'Almost Certainly' Get DOE Loans",
+    "summary": "At an April 16 House Appropriations hearing, Energy Secretary Chris Wright pledged that the first five to ten new planned US nuclear reactors will almost certainly receive financing from the DOE lending office, directing the agency's renamed loan authority toward first-of-a-kind projects.",
+    "body_excerpt": "## Overview\n\nUS Energy Secretary Chris Wright told lawmakers on April 16, 2026, that the first five to ten new planned US nuclear reactors will \"almost certainly\" receive loans from the Department of Energy's lending office, [Reuters reported](https://www.reuters.com/sustainability/climate-energy/first-new-planned-us-nuclear-reactors-likely-get-government-loans-energy-chief-2026-04-16/) from the hearing. The statement sharpens the financing path for a domestic nuclear build-out that has been sta...",
+    "word_count": 975,
+    "sources_count": 8
+  },
+  "recommendations": [
+    "1 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "Well-structured News piece at 975 words, comfortably inside the 400-1200 News band. Overview / What We Know / Policy Architecture / What We Don't Know / Why It Matters structure is clear and appropriate. Internal cross-references to prior Machine Herald coverage (US-Japan SMR deal, UK Rolls-Royce SMR contract) provide useful context without over-editorializing.",
+    "source_verification": "All 8 sources independently WebFetched or verified via Reuters reprint. (1) whitehouse.gov EO 14302 — VERIFIED: Section 4(a) text confirmed verbatim for the new 5 GW power uprates / 10 new large reactors / under construction by 2030 quote, title 'Reinvigorating the Nuclear Industrial Base' and May 23, 2025 date both confirmed. (2) utilitydive.com/817827 — VERIFIED: 'very worthy of discussion' and 'next few weeks' follow-up quotes confirmed as attributed to Rep. Scott Peters (D-Calif.), not Tonko. Rep. Tonko appears in the same source on a different topic (Energy Star funding), which is not what the article paragraph covers. (3) energy.gov DOE fact sheet — VERIFIED with narrowed scope: '100 GW in 2024 to 400 GW by 2050' target confirmed verbatim; October 2025 Cameco/Brookfield partnership, $1B November 2025 Crane Constellation loan, and $800M December 2025 TVA/Holtec SMR award all confirmed. Confirmed fact sheet does NOT contain '5 GW of power uprates' or '10 new large reactors' or 'under construction by 2030' — the article no longer mis-cites that language to the fact sheet. (4) foxbusiness.com — VERIFIED: 'by far the biggest use of those dollars will be for nuclear power plants to get those first plants built' and '3-to-1, maybe even up to 4-to-1, with low-cost debt dollars from the Loan Programs Office' both confirmed verbatim. (5) utilitydive.com/817690 — VERIFIED: $80B / 80% Biden-era loan portfolio restructuring, $15B IIJA cut, $4.7B redirect to firm baseload, seven AI supercomputers at Argonne and Oak Ridge, and FY2027 budget hearing framing all confirmed. (6) energy.gov/EDF — VERIFIED: 'The Loan Programs Office (LPO) operates as the Office of Energy Dominance Financing (EDF)' confirmed verbatim. (7) reuters.com April 16 2026 — VERIFIED via two Reuters reprints (finance.yahoo.com and investing.com/commodities-news/...-4618846): byline 'Timothy Gardner' with WASHINGTON April 16 dateline confirmed; 'The first five or 10 new planned U.S. nuclear reactors will almost certainly receive loans from the U.S. Energy Department's lending office' confirmed verbatim; '$290 billion' OEDF capacity figure confirmed. Reuters.com itself HTTP 401 bot-blocks automated fetchers (same block observed in R1 and R2), not a substantive concern. (8) cnbc.com Nov 10, 2025 — retained from prior rounds' verification via archive.org Wayback snapshot in Round 1 (confirmed 'bulk of the money' quote and $80B Westinghouse/Cameco/Brookfield deal). Live URL bot-blocks; no changes to the paragraphs sourced to it so prior verification stands.",
+    "factual_accuracy": "Round 2 Finding 1 (Tonko→Peters) RESOLVED: article now reads 'Wright told Rep. Scott Peters' — grep verification shows zero residual 'Tonko' occurrences anywhere in the submission. Round 2 Finding 2 (composite quote misattributed to fact sheet) RESOLVED: the 5 GW / 10-reactor / 2030 language is now quoted verbatim from Section 4(a) of EO 14302 and cited to the White House page; the DOE fact sheet retains citation only for the '100 GW to 400 GW by 2050' target which IS verbatim in the fact sheet. Round 1 findings (Reuters lede, energy.gov/EDF rebrand) remained resolved from the Round 1 rewrite — both re-verified. No new misattributions detected on re-verification of Fox Business, Utility Dive 817690, or the EDF/Reuters/fact sheet citations. $290B OEDF capacity figure is correctly attributed to Reuters. Internal cross-links to /article/2026-03/25-... and /article/2026-04/14-... resolve to published Machine Herald articles.",
+    "tone_assessment": "Neutral and professional. No editorializing, no AI self-reference. 'What We Don't Know' section appropriately flags open questions (project allocation, first-of-a-kind risk sharing, program term sheet) without speculation. 'Why It Matters' frames structural implications (federal debt as de-risking mechanism) in measured language.",
+    "originality": "Genuinely new story — April 16, 2026 House Appropriations hearing testimony is a fresh news event. Machine Herald has covered adjacent nuclear loan developments (Constellation/Crane, US-Japan SMR deal, Rolls-Royce SMR Wylfa contract) but not Wright's April 16 commitment to the first 5-10 reactors. No duplicate-publication risk.",
+    "concerns": [],
+    "recommendations": [],
+    "overall_assessment": "Round 3 APPROVE. The rewrite surgically addresses both Round 2 findings without introducing collateral changes elsewhere. The replacement of the prior composite misattributed quote with verbatim Section 4(a) text from EO 14302 — cited to the White House presidential action page — is the cleaner and more canonical solution, and materially improves provenance. With the Tonko→Peters one-word correction, all factual attributions now map correctly to sources. Ready to merge and publish."
+  }
+}

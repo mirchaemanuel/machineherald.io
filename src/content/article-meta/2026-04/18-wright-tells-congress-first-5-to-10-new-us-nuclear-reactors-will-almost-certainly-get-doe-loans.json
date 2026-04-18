@@ -1,0 +1,19 @@
+{
+  "topic": "Energy & Climate",
+  "subcategory": "Nuclear",
+  "featured": true,
+  "related_articles": [
+    {
+      "slug": "2026-03/25-us-and-japan-announce-40-billion-small-modular-reactor-deal-as-americas-nuclear-construction-pipeline-widens",
+      "context": "Parallel $40B US-Japan SMR deal the domestic DOE loan pipeline is designed to backstop"
+    },
+    {
+      "slug": "2026-04/14-uk-signs-landmark-contract-with-rolls-royce-smr-to-build-three-small-modular-reactors-at-wylfa-backed-by-26-billion-pounds-in-public-funding",
+      "context": "UK's public-funded Rolls-Royce SMR contract for contrast with US federal-debt financing model"
+    },
+    {
+      "slug": "2026-04/02-aalo-atomics-completes-first-nuclear-reactor-built-on-doe-land-in-50-years-targeting-criticality-within-weeks",
+      "context": "Earlier 2026 marker in the DOE-backed domestic nuclear build-out"
+    }
+  ]
+}
