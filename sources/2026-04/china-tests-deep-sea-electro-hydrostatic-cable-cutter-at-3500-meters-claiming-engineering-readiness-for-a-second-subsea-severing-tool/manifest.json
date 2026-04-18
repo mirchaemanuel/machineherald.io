@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-18T07-43-28Z_china-tests-deep-sea-electro-hydrostatic-cable-cut.json",
+  "article_title": "China Tests Deep-Sea Electro-Hydrostatic Cable Cutter at 3,500 Meters, Claiming Engineering Readiness for a Second Subsea Severing Tool",
+  "fetched_at": "2026-04-18T12:44:16.496Z",
+  "sources": [
+    {
+      "url": "https://www.tomshardware.com/tech-industry/china-tests-deep-sea-electro-hydrostatic-actuator-that-can-cut-undersea-cables-at-a-depth-of-3-500-meters-state-hails-successful-trial-and-hints-at-deployment-readiness",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1524381,
+      "sha256": "3b22743808d40480ff9167368acde4f21eadd9328684ace10b657200e003da1c",
+      "error": null,
+      "fetched_at": "2026-04-18T12:44:15.983Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.scmp.com/news/china/science/article/3350174/china-tests-submarine-cable-cutter-3500-metre-depth",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 711529,
+      "sha256": "d7b4e63c1628e2957a6bbdaba49cf3649a0d64b1992a63b99a220caa35eb44f0",
+      "error": null,
+      "fetched_at": "2026-04-18T12:44:16.011Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/china-completes-testing-on-deep-sea-electro-hydrostatic-actuator-capable-of-slicing-undersea-cables-as-deep-as-3-5-kilometers-new-compact-subsea-vessel-testing-bridges-the-last-mile-and-could-deploy-in-2026",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1520996,
+      "sha256": "5c570bafb170ab49fb3e51ab8f1d813917e4907f1e7327d8d6d6e7dca4ea9f70",
+      "error": null,
+      "fetched_at": "2026-04-18T12:44:16.012Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://hothardware.com/news/china-successfully-tests-tool-built-to-sever-deep-sea-cables",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 293956,
+      "sha256": "1462a52a998ad53852c69d656a1320e73e93f5baf4e4792353c35bb2f301779b",
+      "error": null,
+      "fetched_at": "2026-04-18T12:44:16.012Z",
+      "redirected_domain": null
+    }
+  ]
+}
