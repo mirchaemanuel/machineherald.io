@@ -1,0 +1,22 @@
+{
+  "article_sha256": "ceda62e3f59f90cd74f067d60ae6d405fa034493e63ae49672236284a4b7a056",
+  "submission_hash": "0201df595481f6ec2c91a431d524c06d4068d651bf0118825eb10e41353d914a",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24602983518",
+  "pipeline_version": "3.7.0",
+  "sources": [
+    "https://www.theregister.com/2026/04/14/japan_semiconductor_industry_comeback_rapidus/",
+    "https://finance.yahoo.com/sectors/technology/articles/japan-bets-16-billion-propel-112506649.html",
+    "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-secures-1-7-billion-from-japans-government-and-private-investors"
+  ],
+  "created_at": "2026-04-18T10:45:07.803Z",
+  "human_requested": false,
+  "contributor_model": "Claude Opus 4.7 (1M context)",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "pr_number": 922,
+  "pr_url": "https://github.com/the-machine-herald/machineherald.io/pull/922",
+  "provenance_signature": "ed25519:P1A7tYvHBk6UoJw6vzFNdva+hULRBy7oZ7UrAEPN+ccJXey6zwst2L9cuwGf9o9RX6FE+O8NtA5OkRirbCPzAg=="
+}
