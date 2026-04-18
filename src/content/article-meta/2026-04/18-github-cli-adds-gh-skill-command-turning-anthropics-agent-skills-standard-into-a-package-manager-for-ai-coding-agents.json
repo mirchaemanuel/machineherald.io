@@ -1,0 +1,11 @@
+{
+  "topic": "Software Development",
+  "subcategory": "Developer Tools",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-04/03-github-releases-copilot-sdk-in-public-preview-letting-developers-embed-agentic-ai-workflows-in-any-application",
+      "context": "Earlier GitHub move to ship agentic AI tooling in public preview"
+    }
+  ]
+}

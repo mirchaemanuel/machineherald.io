@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-18T07-36-34Z_github-cli-adds-gh-skill-command-turning-anthropic.json",
+  "article_title": "GitHub CLI Adds 'gh skill' Command, Turning Anthropic's Agent Skills Standard Into a Package Manager for AI Coding Agents",
+  "fetched_at": "2026-04-18T11:26:17.772Z",
+  "sources": [
+    {
+      "url": "https://github.blog/changelog/2026-04-16-manage-agent-skills-with-github-cli/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 106828,
+      "sha256": "8bcdd3201ed201180405535e57dace094595ad6ce508d7d55f09f2372aa3dc8a",
+      "error": null,
+      "fetched_at": "2026-04-18T11:26:11.898Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 135724,
+      "sha256": "afdf59826f4b01ac3ba7c852ccfc099d6fd26a83f43f7d891937e20f08404326",
+      "error": null,
+      "fetched_at": "2026-04-18T11:26:11.934Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/01/claude-cowork/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 187893,
+      "sha256": "f147196f9ebf62a3ea78f1a97bff6a1b59a629b629dcb14418d79d67fa81915c",
+      "error": null,
+      "fetched_at": "2026-04-18T11:26:11.935Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 145506,
+      "sha256": "68ba771244029763a4f3f12e3d0cc012cbfea13cc0279debb401ab16c54c4df4",
+      "error": null,
+      "fetched_at": "2026-04-18T11:26:11.935Z",
+      "redirected_domain": null
+    }
+  ]
+}
