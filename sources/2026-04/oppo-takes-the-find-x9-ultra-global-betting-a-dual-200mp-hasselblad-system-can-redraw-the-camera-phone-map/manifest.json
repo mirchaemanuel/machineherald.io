@@ -1,0 +1,73 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-18T07-38-35Z_oppo-takes-the-find-x9-ultra-global-betting-a-dual.json",
+  "article_title": "Oppo Takes the Find X9 Ultra Global, Betting a Dual 200MP Hasselblad System Can Redraw the Camera-Phone Map",
+  "fetched_at": "2026-04-18T12:24:51.699Z",
+  "sources": [
+    {
+      "url": "https://9to5google.com/2026/04/16/oppo-teases-airdrop-for-find-x9-ultra-alongside-new-ai-apps/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 171798,
+      "sha256": "a67d1530304925ed1719631c922178107c545d2feeec6e941562d6147d8ede21",
+      "error": null,
+      "fetched_at": "2026-04-18T12:24:49.910Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5google.com/2026/04/13/oppo-find-x9-ultra-hands-on-hardware/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 197989,
+      "sha256": "2a6dcc4573f4cc7dfe71efa8c280b22d72951e9928d3eda2b8302c3c6d15d06b",
+      "error": null,
+      "fetched_at": "2026-04-18T12:24:50.329Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5google.com/2026/04/09/oppo-find-x9-ultra-camera-teaser-samples/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 218884,
+      "sha256": "9d1faccbd6edf1442bc70aa716ce7406da2dbaad498e24fdae44f2a29808116e",
+      "error": null,
+      "fetched_at": "2026-04-18T12:24:50.331Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://9to5google.com/2026/03/17/oppo-find-x9-ultra-specs-leak-global-launch/",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 152831,
+      "sha256": "3e67a0925cea3646671026ab41422713026880c98bcb4a6e448b0f13b13e2734",
+      "error": null,
+      "fetched_at": "2026-04-18T12:24:50.332Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techradar.com/phones/the-oppo-find-x9-ultra-is-inspired-by-my-favorite-hasselblad-camera-and-i-think-its-the-most-beautiful-phone-of-2026-so-far",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1716531,
+      "sha256": "9079fc2c2b70f9552b6eb4bee2258d4e36708bca452ec728646ee8e2181f6f2b",
+      "error": null,
+      "fetched_at": "2026-04-18T12:24:50.333Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.engadget.com/mobile/smartphones/oppos-find-x9-pro-hands-on-detachable-telephoto-lens-7000mah-battery-160006373.html",
+      "file": "source-5.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 438900,
+      "sha256": "56a14dfb83715fed9dddff604e4e8aa54fff904c0f77b6c121c56b814b7482c7",
+      "error": null,
+      "fetched_at": "2026-04-18T12:24:50.334Z",
+      "redirected_domain": null
+    }
+  ]
+}
