@@ -1,7 +1,7 @@
 {
-  "submission_file": "src/content/submissions/2026-04/2026-04-18T07-37-32Z_wright-tells-congress-first-5-to-10-new-us-nuclear.json",
+  "submission_file": "src/content/submissions/2026-04/2026-04-18T13-29-47Z_wright-tells-congress-first-5-to-10-new-us-nuclear.json",
   "article_title": "Wright Tells Congress First 5 to 10 New US Nuclear Reactors Will 'Almost Certainly' Get DOE Loans",
-  "fetched_at": "2026-04-18T12:05:19.040Z",
+  "fetched_at": "2026-04-18T15:41:55.965Z",
   "sources": [
     {
       "url": "https://www.foxbusiness.com/energy/energy-secretary-says-doe-loan-office-largely-finance-nuclear-power-plants-reflecting-trump-priorities",
@@ -11,7 +11,7 @@
       "content_length": 197766,
       "sha256": "a08f017868c504d8aa95d0fbd915e144d5af3dfc467db0cc56194a0e6c6a2628",
       "error": null,
-      "fetched_at": "2026-04-18T12:05:17.541Z",
+      "fetched_at": "2026-04-18T15:41:54.248Z",
       "redirected_domain": null
     },
     {
@@ -19,10 +19,10 @@
       "file": "source-1.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 269752,
-      "sha256": "9ec9e5c9bd61d0b2fcd66e610d2112b8a36711eb5ffcbee331d27a756cb88551",
+      "content_length": 269816,
+      "sha256": "620e5c2f82705c0871ce103c6010a7a697749bae6dffe573f873c6044fed164a",
       "error": null,
-      "fetched_at": "2026-04-18T12:05:17.575Z",
+      "fetched_at": "2026-04-18T15:41:54.280Z",
       "redirected_domain": null
     },
     {
@@ -30,10 +30,10 @@
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 276382,
-      "sha256": "1f5199ec1f20d301bdffda7a95e53a32b80214f00ff7c6520310ab3bfbfa45be",
+      "content_length": 276446,
+      "sha256": "1ae13da3685e41b07d1d319e89005e489b4936adbb1467e24788866b6ff8e243",
       "error": null,
-      "fetched_at": "2026-04-18T12:05:17.576Z",
+      "fetched_at": "2026-04-18T15:41:54.280Z",
       "redirected_domain": null
     },
     {
@@ -44,18 +44,40 @@
       "content_length": 121331,
       "sha256": "f27bdfbf60738176a1c0ac15591c9c9391ddb50f5311f46f44958e1d084b3aa7",
       "error": null,
-      "fetched_at": "2026-04-18T12:05:17.576Z",
+      "fetched_at": "2026-04-18T15:41:54.281Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.energy.gov/EDF",
+      "file": "source-4.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 147650,
+      "sha256": "353aed912a288e8ce463b81eec8c4bf24638cd66adf8ee38942a526dd9e3b5ea",
+      "error": null,
+      "fetched_at": "2026-04-18T15:41:54.281Z",
       "redirected_domain": null
     },
     {
       "url": "https://www.cnbc.com/2025/11/10/nuclear-power-energy-department-chris-wright-loan-westinghouse-ai-data-center.html",
-      "file": "source-4.html",
+      "file": "source-5.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 766910,
-      "sha256": "366e410b729c590cbcd435fc870516fed8a65ece2b86568bb82f825ab7f68df6",
+      "content_length": 767062,
+      "sha256": "712f792950bb2d09403a1292659aba3cd9cd48f398aa630bdcabb1155d498adb",
       "error": null,
-      "fetched_at": "2026-04-18T12:05:17.577Z",
+      "fetched_at": "2026-04-18T15:41:54.281Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.reuters.com/sustainability/climate-energy/first-new-planned-us-nuclear-reactors-likely-get-government-loans-energy-chief-2026-04-16/",
+      "file": null,
+      "status_code": 401,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": null,
+      "sha256": null,
+      "error": "HTTP Forbidden",
+      "fetched_at": "2026-04-18T15:41:54.282Z",
       "redirected_domain": null
     }
   ]
