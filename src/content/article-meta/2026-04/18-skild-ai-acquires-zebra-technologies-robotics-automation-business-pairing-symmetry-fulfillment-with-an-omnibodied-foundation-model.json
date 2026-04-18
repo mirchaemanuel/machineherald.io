@@ -1,0 +1,15 @@
+{
+  "topic": "Robotics & Automation",
+  "subcategory": "Warehouse Automation",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-04/06-mit-and-symbotic-build-ai-system-that-cuts-warehouse-robot-congestion-and-boosts-throughput-by-25-percent",
+      "context": "Earlier coverage of AI-driven orchestration of warehouse robot fleets"
+    },
+    {
+      "slug": "2026-04/09-upside-robotics-raises-75-million-to-scale-autonomous-robots-that-cut-corn-fertilizer-use-by-70-percent",
+      "context": "Parallel robotics startup funding reflecting continued capital inflow into physical-AI companies"
+    }
+  ]
+}
