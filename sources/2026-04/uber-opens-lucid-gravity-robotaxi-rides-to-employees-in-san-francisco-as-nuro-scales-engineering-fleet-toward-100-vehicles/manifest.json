@@ -1,0 +1,29 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-18T07-34-55Z_uber-opens-lucid-gravity-robotaxi-rides-to-employe.json",
+  "article_title": "Uber Opens Lucid Gravity Robotaxi Rides to Employees in San Francisco as Nuro Scales Engineering Fleet Toward 100 Vehicles",
+  "fetched_at": "2026-04-18T11:02:02.661Z",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 223758,
+      "sha256": "47dd2be2c81539617762d2a871e0c11c0f34eba57003a26f026be2db128ffe55",
+      "error": null,
+      "fetched_at": "2026-04-18T11:02:02.396Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://electrek.co/2026/04/13/uber-begins-early-test-rides-lucid-gravity-robotaxi-nuro-autonomy/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 158312,
+      "sha256": "33aa29e0c3080845801c2edfd6bab027dc6e209869772f838fde5e8ac8211111",
+      "error": null,
+      "fetched_at": "2026-04-18T11:02:02.425Z",
+      "redirected_domain": null
+    }
+  ]
+}

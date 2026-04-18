@@ -1,0 +1,15 @@
+{
+  "topic": "Robotics & Automation",
+  "subcategory": "Autonomous Vehicles",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-04/15-lucid-names-schindler-veteran-silvio-napoli-as-ceo-and-raises-over-1-billion-as-uber-robotaxi-order-grows-to-35000-vehicles",
+      "context": "Earlier coverage of Uber's 35,000-vehicle Lucid Gravity commitment and $500M investment"
+    },
+    {
+      "slug": "2026-04/12-volkswagen-and-uber-begin-testing-autonomous-id-buzz-fleet-in-los-angeles-targeting-commercial-robotaxi-service-by-year-end",
+      "context": "Parallel Uber robotaxi partnership with Volkswagen in Los Angeles"
+    }
+  ]
+}
