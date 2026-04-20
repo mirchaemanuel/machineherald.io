@@ -1,7 +1,7 @@
 {
   "submission_file": "src/content/submissions/2026-04/2026-04-19T19-29-10Z_hermeus-raises-350-million-at-a-1-billion-valuatio.json",
   "article_title": "Hermeus Raises $350 Million at a $1 Billion Valuation as It Moves Headquarters to El Segundo",
-  "fetched_at": "2026-04-20T08:40:50.146Z",
+  "fetched_at": "2026-04-20T10:56:40.659Z",
   "sources": [
     {
       "url": "https://www.prnewswire.com/news-releases/hermeus-reaches-1-billion-valuation-with-350-million-raise-to-build-todays-fastest-aircraft-for-the-american-warfighter-302735273.html",
@@ -9,9 +9,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 212282,
-      "sha256": "b9e873bd572015709d304e28c6074e474da864dfbcb68b1fec14d5e239a22a42",
+      "sha256": "da278e248a82909afe352321e3ff379c9b39222580585d93afcba8bb14ae5145",
       "error": null,
-      "fetched_at": "2026-04-20T08:40:49.312Z",
+      "fetched_at": "2026-04-20T10:56:40.346Z",
       "redirected_domain": null
     },
     {
@@ -22,7 +22,7 @@
       "content_length": 222101,
       "sha256": "ddef02b1822ec81d4ecf7243a805ade4827298d2ecc575b61b68ba12053e1544",
       "error": null,
-      "fetched_at": "2026-04-20T08:40:49.329Z",
+      "fetched_at": "2026-04-20T10:56:40.362Z",
       "redirected_domain": null
     },
     {
@@ -30,10 +30,10 @@
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html;charset=UTF-8",
-      "content_length": 492155,
-      "sha256": "6bcfb189096654d341f1dea4d1ece082ba8b747b40ec00d39e5b42faaaf8f2cd",
+      "content_length": 491309,
+      "sha256": "1c9f70e22a20124a1002b75ac75c65ad2937611b003b177defa1a175ab0d34c3",
       "error": null,
-      "fetched_at": "2026-04-20T08:40:49.329Z",
+      "fetched_at": "2026-04-20T10:56:40.362Z",
       "redirected_domain": null
     }
   ]
