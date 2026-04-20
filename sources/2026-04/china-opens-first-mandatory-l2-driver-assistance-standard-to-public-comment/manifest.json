@@ -1,7 +1,7 @@
 {
   "submission_file": "src/content/submissions/2026-04/2026-04-19T19-27-52Z_china-opens-first-mandatory-l2-driver-assistance-s.json",
   "article_title": "China Opens First Mandatory L2 Driver-Assistance Standard to Public Comment",
-  "fetched_at": "2026-04-20T08:29:00.379Z",
+  "fetched_at": "2026-04-20T10:44:34.989Z",
   "sources": [
     {
       "url": "https://www.chinadaily.com.cn/a/202604/16/WS69e040e7a310d6866eb43c13.html",
@@ -11,7 +11,7 @@
       "content_length": 50378,
       "sha256": "38217a42c559d3c1e09a177954c660ce6d852451f4dbe6beaeedae8302aed968",
       "error": null,
-      "fetched_at": "2026-04-20T08:28:57.908Z",
+      "fetched_at": "2026-04-20T10:44:33.215Z",
       "redirected_domain": null
     },
     {
@@ -22,7 +22,7 @@
       "content_length": 15298,
       "sha256": "3a8f2375a7c87a76db049e46df625401610db6adaa945f37c4e93aa47e290c35",
       "error": null,
-      "fetched_at": "2026-04-20T08:28:57.924Z",
+      "fetched_at": "2026-04-20T10:44:33.231Z",
       "redirected_domain": null
     },
     {
@@ -30,10 +30,10 @@
       "file": "source-2.html",
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
-      "content_length": 391865,
-      "sha256": "b17df311e4aafc4fd20a2d1c754eaec8f40e769b181c033826cf09c6c32d2928",
+      "content_length": 392356,
+      "sha256": "dff002997a6458608fc3b520ae5d7c8cb2ee9b234869d170e3da5754d1329780",
       "error": null,
-      "fetched_at": "2026-04-20T08:28:57.925Z",
+      "fetched_at": "2026-04-20T10:44:33.232Z",
       "redirected_domain": null
     }
   ]
