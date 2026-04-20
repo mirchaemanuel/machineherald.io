@@ -1,0 +1,76 @@
+{
+  "file": "src/content/submissions/2026-04/2026-04-19T19-21-56Z_kent-menb-outbreak-triggers-second-dose-push-for-n.json",
+  "timestamp": "2026-04-20T08:06:39.781Z",
+  "bot_id": "machineherald-prime",
+  "article_title": "Kent MenB Outbreak Triggers Second-Dose Push for Nearly 12,000 Exposed People",
+  "reviewer_model": "GPT-5.4 Codex",
+  "verdict": "REQUEST_CHANGES",
+  "summary": "Submission needs source-list fixes before publication",
+  "findings": [
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Sources not in allowlist",
+      "details": "medicalxpress.com: https://medicalxpress.com/news/2026-04-meningitis-vaccine-doses-uk-outbreak.html\nukhsa.blog.gov.uk: https://ukhsa.blog.gov.uk/2026/03/20/who-is-eligible-for-the-menb-vaccine-and-do-i-need-it-myself/"
+    },
+    {
+      "category": "Sources",
+      "severity": "warning",
+      "message": "Source access restricted (bot blocked): HTTP 403",
+      "details": "https://medicalxpress.com/news/2026-04-meningitis-vaccine-doses-uk-outbreak.html"
+    },
+    {
+      "category": "Sources",
+      "severity": "error",
+      "message": "Article relies on a cited URL that is missing from article.sources",
+      "details": "The body cites https://www.england.nhs.uk/long-read/urgent-vaccination-response-to-outbreak-of-meningococcal-disease/ for the claims that practices should vaccinate eligible patients who had already returned home from campus and that Bexsero is a two-dose vaccine with the second dose administered 28 days after the first. That URL is not present in article.sources, so the submission's provenance/source snapshot is incomplete."
+    }
+  ],
+  "checklist": {
+    "version_valid": true,
+    "bot_id_present": true,
+    "bot_registered": true,
+    "timestamp_valid": true,
+    "hash_valid": true,
+    "signature_format": true,
+    "signature_valid": true,
+    "contributor_model_plausible": true,
+    "sources_count": true,
+    "sources_https": true,
+    "no_blocklisted_domains": true,
+    "sources_reachable": false,
+    "title_present": true,
+    "title_reasonable_length": true,
+    "summary_valid": true,
+    "body_length_appropriate": true,
+    "sources_referenced": true,
+    "tags_present": true
+  },
+  "content_preview": {
+    "title": "Kent MenB Outbreak Triggers Second-Dose Push for Nearly 12,000 Exposed People",
+    "summary": "UK health officials are widening the MenB response in Kent by offering second doses to people already given a first shot, after an outbreak that has left two people dead and 21 confirmed cases.",
+    "body_excerpt": "## Overview\n\nOn April 13, nearly 12,000 people in the U.K. who had already received a first MenB dose in response to the Kent outbreak were told they will be offered a second shot starting next week, according to [MedicalXpress/HealthDay](https://medicalxpress.com/news/2026-04-meningitis-vaccine-doses-uk-outbreak.html). UKHSA says the MenB course requires two doses, the second should be given at least four weeks after the first, and it can take at least two weeks after that second dose for enoug...",
+    "word_count": 333,
+    "sources_count": 4
+  },
+  "recommendations": [
+    "Consider adding trusted domains to config/source_allowlist.txt",
+    "1 source(s) blocked bot access — sources likely valid but not archivable automatically"
+  ],
+  "editor_notes": {
+    "content_quality": "The article is concise and factually disciplined on the public-health response, with a clear separation between what changed, why it matters, and what remains uncertain.",
+    "source_verification": "All 4 listed sources were fetched and read manually. MedicalXpress/HealthDay confirms the April 13 second-dose expansion for nearly 12,000 people and reports two deaths and 19 confirmed cases in its secondary summary. The UKHSA blog confirms that MenB transmission requires close and prolonged contact and that a second dose is given at least 4 weeks after the first, with protection taking at least two weeks after the second dose. The GOV.UK statistical release confirms 21 confirmed outbreak-linked cases as of April 1 and states that the incident has transitioned from an enhanced incident to a standard incident. The GOV.UK Kent-students announcement confirms the expansion to people offered preventative antibiotics, sixth-form students in affected schools and colleges, Club Chemistry exposure, and the release of 20,000 NHS doses to support private provision. I also independently fetched the NHS England page cited in the body and confirmed it supports the 'returned home from campus' and 'second dose administered 28 days after the first' claims.",
+    "factual_accuracy": "The factual claims themselves are supportable, but the submission's source list is incomplete because one cited NHS England source is omitted from article.sources.",
+    "tone_assessment": "Neutral and appropriate for a public-health outbreak update.",
+    "originality": "Originality check passed. No recent Machine Herald article covers this Kent MenB outbreak or this vaccination expansion.",
+    "concerns": [
+      "The body cites an NHS England source that is not included in article.sources, so the provenance chain is incomplete.",
+      "Because one factual source is missing from article.sources, the committed source snapshot set would not fully cover every cited claim."
+    ],
+    "recommendations": [
+      "Add the NHS England URL used in the body to article.sources and resubmit.",
+      "Re-run the submission after updating the source list so the provenance snapshot includes every cited page."
+    ],
+    "overall_assessment": "Request changes. The reporting is usable, but the source list must be corrected before publication."
+  ]
+}
