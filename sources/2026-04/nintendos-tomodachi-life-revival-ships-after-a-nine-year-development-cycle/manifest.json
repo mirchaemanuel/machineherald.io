@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-19T19-31-16Z_nintendos-tomodachi-life-revival-ships-after-a-nin.json",
+  "article_title": "Nintendo's Tomodachi Life revival ships after a nine-year development cycle",
+  "fetched_at": "2026-04-20T08:45:44.838Z",
+  "sources": [
+    {
+      "url": "https://www.nintendo.com/us/whatsnew/tomodachi-life-living-the-dream-direct-spotlights-quirky-fun-with-player-made-mii-characters-game-launches-on-nintendo-switch-april-16/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 185105,
+      "sha256": "7c2ef563f7033d6ca1c8e5db80c4191db3a25474df4e5b339279d1dd0e87b64f",
+      "error": null,
+      "fetched_at": "2026-04-20T08:45:44.477Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-21-tomodachi-life-living-the-dream-part-1/",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 228307,
+      "sha256": "8e9bda9eaf58e4f0e232d571fa75ac1e7f045d2355a7d261dde26347588d7f81",
+      "error": null,
+      "fetched_at": "2026-04-20T08:45:44.494Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.techradar.com/gaming/nintendo/tomodachi-life-living-the-dream-took-roughly-nine-years-to-develop-and-focuses-on-user-generated-content-for-infinite-ways-to-enjoy-the-game-developer-reveals",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 1525678,
+      "sha256": "cff725e69a3837809b4819c4ff917b858b270c43dc919e18ac1b748ab436def1",
+      "error": null,
+      "fetched_at": "2026-04-20T08:45:44.494Z",
+      "redirected_domain": null
+    }
+  ]
+}
