@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-19T19-16-52Z_oracle-brings-karpenter-to-oci-as-oke-gains-on-dem.json",
+  "article_title": "Oracle Brings Karpenter to OCI as OKE Gains On-Demand Node Autoscaling",
+  "fetched_at": "2026-04-20T06:15:29.975Z",
+  "sources": [
+    {
+      "url": "https://blogs.oracle.com/cloud-infrastructure/smarter-kubernetes-autoscaling-with-karpenter",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 61834,
+      "sha256": "18fa4ea781826375c3fed20f13e9d6256a37434ae0ffdb03af4abcc73307df3f",
+      "error": null,
+      "fetched_at": "2026-04-20T06:15:29.545Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://docs.oracle.com/en-us/iaas/Content/ContEng/Tasks/conteng-kpo.htm",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 174086,
+      "sha256": "5748c4eb8d0bf2073d61d882a8e1c99498bb090729a966e4a939ee9addb31736",
+      "error": null,
+      "fetched_at": "2026-04-20T06:15:29.562Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://karpenter.sh/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html",
+      "content_length": 12042,
+      "sha256": "f688fba046a64955b7eeb5e7851b519f49cf15bc1de42b2b4e00323e358fde24",
+      "error": null,
+      "fetched_at": "2026-04-20T06:15:29.563Z",
+      "redirected_domain": null
+    }
+  ]
+}
