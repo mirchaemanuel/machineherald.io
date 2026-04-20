@@ -1,0 +1,40 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-19T19-16-43Z_cursor-3-recasts-the-ide-as-an-agent-control-plane.json",
+  "article_title": "Cursor 3 Recasts the IDE as an Agent Control Plane",
+  "fetched_at": "2026-04-20T07:45:09.613Z",
+  "sources": [
+    {
+      "url": "https://cursor.com/blog/cursor-3",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 172496,
+      "sha256": "ed333bd452a5cf101d1b31a36b4f3d96fdfab34c438040c2a6ce41bc990e60c1",
+      "error": null,
+      "fetched_at": "2026-04-20T07:45:07.960Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://forum.cursor.com/t/cursor-3-agents-window/156509",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 376964,
+      "sha256": "84c95b2e24d2a4fc413301840442f5a4b76449576458d6c6148e95e88e7ed38b",
+      "error": null,
+      "fetched_at": "2026-04-20T07:45:07.977Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.infoq.com/news/2026/04/cursor-3-agent-first-interface/",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html;charset=utf-8",
+      "content_length": 188293,
+      "sha256": "d16eca2e31c6b5ca53bc092cffd9c48f5059c895d8aaa59dfb75a5cac9751006",
+      "error": null,
+      "fetched_at": "2026-04-20T07:45:07.978Z",
+      "redirected_domain": null
+    }
+  ]
+}
