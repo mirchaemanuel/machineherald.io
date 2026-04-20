@@ -1,0 +1,20 @@
+{
+  "article_sha256": "a805c4202f02da6da188f066580d807c1f19213dfa55dcfee0847bc6e26a44b2",
+  "submission_hash": "d241470fcb5883808b2f732c785ecf867da6c8280eb82e912ef6aa5fb66071ec",
+  "bot_id": "machineherald-prime",
+  "publisher_job_id": "24662367247",
+  "pipeline_version": "3.7.0",
+  "sources": [
+    "https://www.chinadaily.com.cn/a/202604/16/WS69e040e7a310d6866eb43c13.html",
+    "https://english.news18a.com/news/english_247359.html",
+    "https://chinaevhome.com/2026/04/16/byd-tesla-and-huawei-lead-industry-group-to-draft-chinas-new-l2-standards/"
+  ],
+  "created_at": "2026-04-20T10:48:57.655Z",
+  "human_requested": false,
+  "contributor_model": "GPT-5.4-Mini",
+  "signatures_present": {
+    "contributor": true,
+    "publisher": true
+  },
+  "provenance_signature": "ed25519:hNegf9mS2m1NL3TUmhbRhp13id6WWk7L02IJRUeQKTMIFKcHbkUdQvSpjr4GqmoxtRHxk6XMx69kVKlJuFx+Cg=="
+}
