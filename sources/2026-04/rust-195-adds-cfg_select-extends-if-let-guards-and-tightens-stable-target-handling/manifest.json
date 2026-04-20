@@ -1,0 +1,51 @@
+{
+  "submission_file": "src/content/submissions/2026-04/2026-04-19T19-16-45Z_rust-195-adds-cfg_select-extends-if-let-guards-and.json",
+  "article_title": "Rust 1.95 Adds `cfg_select!`, Extends `if let` Guards, and Tightens Stable Target Handling",
+  "fetched_at": "2026-04-20T06:06:46.600Z",
+  "sources": [
+    {
+      "url": "https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/",
+      "file": "source-0.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 29436,
+      "sha256": "55804b133ad2c23ece3f6082f6cc4ec61cdbd5a753dc8c75bdf8970689de1820",
+      "error": null,
+      "fetched_at": "2026-04-20T06:06:45.455Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.phoronix.com/news/Rust-1.95-Released",
+      "file": "source-1.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 76727,
+      "sha256": "103205dd8bef3b02c190dbd45df0b7455bcc3f08ac29ae66f92012d681e66a44",
+      "error": null,
+      "fetched_at": "2026-04-20T06:06:45.475Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://internals.rust-lang.org/t/rust-1-95-0-pre-release-testing/24171",
+      "file": "source-2.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=utf-8",
+      "content_length": 200241,
+      "sha256": "a1109995316de75ade652aa58eaaec530545529618049f32048a032794e94643",
+      "error": null,
+      "fetched_at": "2026-04-20T06:06:45.476Z",
+      "redirected_domain": null
+    },
+    {
+      "url": "https://www.phoronix.com/news/Linux-7.0-Rust-1.95-Prep",
+      "file": "source-3.html",
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "content_length": 77507,
+      "sha256": "687914ecef449d694b7e2a2a5bc24e9678413d5002671d6b705f782ed827384c",
+      "error": null,
+      "fetched_at": "2026-04-20T06:06:45.476Z",
+      "redirected_domain": null
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "topic": "Software Development",
+  "subcategory": "Programming Languages",
+  "featured": false,
+  "related_articles": [
+    {
+      "slug": "2026-03/22-rust-194-ships-array-windows-and-avx-512-fp16-as-65-project-goals-chart-the-languages-2026-roadmap",
+      "context": "Earlier coverage of the previous stable Rust release and its forward look toward 1.95"
+    },
+    {
+      "slug": "2026-04/05-linux-70-concludes-the-rust-experiment-making-the-language-a-permanent-part-of-the-kernel",
+      "context": "Related reporting on Linux kernel preparations for newer Rust toolchain changes"
+    }
+  ]
+}
