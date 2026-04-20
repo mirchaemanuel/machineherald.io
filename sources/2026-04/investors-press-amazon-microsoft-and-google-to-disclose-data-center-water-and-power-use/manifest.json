@@ -1,17 +1,17 @@
 {
-  "submission_file": "src/content/submissions/2026-04/2026-04-19T19-29-05Z_investors-press-amazon-microsoft-and-google-to-dis.json",
+  "submission_file": "src/content/submissions/2026-04/2026-04-20T10-14-55Z_investors-press-amazon-microsoft-and-google-to-dis.json",
   "article_title": "Investors Press Amazon, Microsoft, and Google to Disclose Data Center Water and Power Use",
-  "fetched_at": "2026-04-20T08:37:08.523Z",
+  "fetched_at": "2026-04-20T10:53:47.056Z",
   "sources": [
     {
       "url": "https://www.tomshardware.com/tech-industry/investors-push-amazon-microsoft-and-google-to-disclose-data-center-water-and-power-consumption",
       "file": "source-0.html",
       "status_code": 200,
       "content_type": "text/html; charset=utf-8",
-      "content_length": 1533176,
-      "sha256": "d3609f57fe6ac6ad7aa28190afa003e7c14cd19c88d7ea830d4abe239a4dbaec",
+      "content_length": 1539199,
+      "sha256": "ef389093668ed191b328024c1774f81655bb1f72571a7082836fda281b89d1c0",
       "error": null,
-      "fetched_at": "2026-04-20T08:37:07.271Z",
+      "fetched_at": "2026-04-20T10:53:45.953Z",
       "redirected_domain": null
     },
     {
@@ -22,7 +22,7 @@
       "content_length": 1502357,
       "sha256": "ee4590a181a2ea62f6653c6c26dd8fa5338faafd10f770102193ecd519787654",
       "error": null,
-      "fetched_at": "2026-04-20T08:37:07.288Z",
+      "fetched_at": "2026-04-20T10:53:45.969Z",
       "redirected_domain": null
     },
     {
@@ -33,7 +33,7 @@
       "content_length": 551071,
       "sha256": "2a10d6f02c02730b620ed293914abc23683967042e73894cec59cd1606a9a671",
       "error": null,
-      "fetched_at": "2026-04-20T08:37:07.289Z",
+      "fetched_at": "2026-04-20T10:53:45.969Z",
       "redirected_domain": null
     },
     {
@@ -42,9 +42,9 @@
       "status_code": 200,
       "content_type": "text/html",
       "content_length": 469042,
-      "sha256": "b62020d6b5532030eb2e4613c824462fde317341fb3717a61c0fcdf7b011ce43",
+      "sha256": "71ced8dc47bd9c6fbd518d953f5c11a21a735d383a694294dc17c4a11c4946dd",
       "error": null,
-      "fetched_at": "2026-04-20T08:37:07.289Z",
+      "fetched_at": "2026-04-20T10:53:45.969Z",
       "redirected_domain": null
     },
     {
@@ -53,9 +53,9 @@
       "status_code": 200,
       "content_type": "text/html; charset=UTF-8",
       "content_length": 339031,
-      "sha256": "7750f9a66da9772d7991360b6ba1d2690fc54abf4709c9adb71809efb13b9f8e",
+      "sha256": "0fc04885ba9c6aadca8ef1888ad2a73aa81aec39b0b7b07166c9ce16c9df2b5c",
       "error": null,
-      "fetched_at": "2026-04-20T08:37:07.289Z",
+      "fetched_at": "2026-04-20T10:53:45.970Z",
       "redirected_domain": null
     }
   ]
